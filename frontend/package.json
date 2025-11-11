@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
+    "prepare:export": "node ./scripts/copy-export.js",
+    "dev": "npm run prepare:export && vite",
+    "build": "if [ \"$CI\" = \"true\" ]; then vite build; else npm run prepare:export && vite build; fi",
     "lint": "eslint .",
     "preview": "vite preview"
   },

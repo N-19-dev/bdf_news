@@ -1,13 +1,15 @@
 # api_server.py
 # REST API read-only pour exposer la veille depuis veille.db
+
 import os
 import sqlite3
 from pathlib import Path
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List
 
 import yaml
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import RedirectResponse
 
 # ---------- Config / DB helpers ----------
 ROOT = Path(__file__).parent
@@ -19,8 +21,10 @@ DB_PATH = ROOT / CFG["storage"]["sqlite_path"]
 # map key -> title (pour jolis titres de sections)
 CAT_TITLES = {c.get("key"): c.get("title", c.get("key")) for c in CFG.get("categories", [])}
 
+
 def row_factory(cursor, row):
     return {col[0]: row[i] for i, col in enumerate(cursor.description)}
+
 
 def db():
     if not DB_PATH.exists():
@@ -29,28 +33,56 @@ def db():
     conn.row_factory = row_factory
     return conn
 
+
 # ---------- FastAPI ----------
 app = FastAPI(title="Veille Tech API", version="1.0")
 
-# CORS: autorise le front local
+# --------- CORS (origins SANS path) ----------
+FRONT_LOCAL = os.getenv("FRONTEND_ORIGIN", "http://localhost:5173")
+# Si tu sers le front sur GitHub Pages sous /veille, l'origin RESTE le domaine sans path :
+FRONT_GHPAGES = os.getenv("GHPAGES_ORIGIN", "https://n-19-dev.github.io")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # serre plus fin si besoin
-    allow_credentials=True,
-    allow_methods=["*"],
+    allow_origin_regex=".*",   # autorise tous les origins (front local + gh-pages)
+    allow_methods=["GET", "OPTIONS"],
     allow_headers=["*"],
+    allow_credentials=False,   # mettre False si on utilise allow_origin_regex=".*"
 )
 
-# ---------- Endpoints ----------
+# ---------- Accueil & redirections “confort” ----------
+@app.get("/")
+def root():
+    return {"service": "Veille Tech API", "docs": "/docs", "health": "/api/health"}
 
+# Redirs si on tape les routes sans /api (évite les 404)
+@app.get("/weeks")
+def redirect_weeks():
+    return RedirectResponse(url="/api/weeks", status_code=307)
+
+@app.get("/week/latest")
+def redirect_latest():
+    return RedirectResponse(url="/api/week/latest", status_code=307)
+
+@app.get("/week/{week_label}/top3")
+def redirect_top3(week_label: str):
+    return RedirectResponse(url=f"/api/week/{week_label}/top3", status_code=307)
+
+@app.get("/week/{week_label}/sections")
+def redirect_sections(week_label: str):
+    return RedirectResponse(url=f"/api/week/{week_label}/sections", status_code=307)
+
+
+# ---------- Endpoints API ----------
 @app.get("/api/health")
 def health():
     return {"ok": True}
 
+
 @app.get("/api/weeks")
 def list_weeks() -> List[Dict[str, Any]]:
     """
-    Liste des semaines disponibles depuis la table weeks (créée par analyze_llm / write_week_selection).
+    Liste les semaines disponibles depuis la table weeks (créée par analyze_llm / write_week_selection).
     Format: [{week, range}]
     """
     with db() as conn:
@@ -66,6 +98,7 @@ def list_weeks() -> List[Dict[str, Any]]:
                 "FROM weekly_selection ORDER BY week DESC"
             ).fetchall()
     return rows
+
 
 @app.get("/api/week/{week_label}/top3")
 def get_top3(week_label: str) -> List[Dict[str, Any]]:
@@ -83,7 +116,7 @@ def get_top3(week_label: str) -> List[Dict[str, Any]]:
             ORDER BY ws.score DESC, i.published_ts DESC
             LIMIT 3
         """, (week_label,)).fetchall()
-    # format léger
+
     out = []
     for r in rows:
         out.append({
@@ -94,6 +127,7 @@ def get_top3(week_label: str) -> List[Dict[str, Any]]:
             "score": r["score"],
         })
     return out
+
 
 @app.get("/api/week/{week_label}/sections")
 def get_sections(week_label: str) -> Dict[str, Any]:
@@ -129,6 +163,7 @@ def get_sections(week_label: str) -> Dict[str, Any]:
     # tri optionnel: sections les plus fournies d'abord
     sections.sort(key=lambda s: len(s["items"]), reverse=True)
     return {"sections": sections}
+
 
 @app.get("/api/week/latest")
 def get_latest_week():

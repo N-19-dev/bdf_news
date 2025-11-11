@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// IMPORTANT: base = '/veille/' (le nom EXACT du repo)
+// IMPORTANT: ton repo s'appelle "veille" → base '/veille/'
 export default defineConfig({
-  plugins: [react()],
   base: '/veille/',
+  plugins: [react()],
 })
