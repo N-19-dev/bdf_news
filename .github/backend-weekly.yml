@@ -1,0 +1,56 @@
+name: Backend Weekly Export
+
+on:
+  schedule:
+    # Tous les lundis à 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # on va commit/push les fichiers export dans le repo
+
+concurrency:
+  group: "backend-weekly"
+  cancel-in-progress: true
+
+jobs:
+  run-backend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+    env:
+      # Semaine N-1 pour figer la semaine écoulée
+      WEEK_OFFSET: "-1"
+      # Nécessaire pour analyze_llm.py → config.llm.api_key_env
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install -U pip
+          pip install -r requirements.txt
+
+      - name: Run backend pipeline (crawl + analyze + export)
+        run: python main.py
+
+      - name: Commit updated export/
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Ajoute uniquement le dossier export (et éventuellement weeks.json)
+          git add export
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(export): weekly export $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi
