@@ -1,15 +1,16 @@
 // src/App.tsx
 import React from "react";
 import Hero from "./components/Hero";
+import WeekPicker from "./components/WeekPicker";
 import Top3 from "./components/Top3";
 import SectionCard from "./components/SectionCard";
-import WeekPicker from "./components/WeekPicker";
-import { loadWeeksIndex, loadWeekSummary, type WeekMeta } from "./lib/parse";
+import Overview from "./components/Overview";               // ⬅️ ajoute ça
+import { loadWeeksIndex, loadLatestWeek, loadWeekSummary, type WeekMeta } from "./lib/parse";
 
 export default function App() {
   const [weeks, setWeeks] = React.useState<WeekMeta[]>([]);
   const [currentWeek, setCurrentWeek] = React.useState<WeekMeta | null>(null);
-  const [data, setData] = React.useState<{ top3: any[]; sections: any[] } | null>(null);
+  const [data, setData] = React.useState<{ overview: string; top3: any[]; sections: any[] } | null>(null);
   const [loading, setLoading] = React.useState(true);
   const [error, setError] = React.useState<string | null>(null);
 
@@ -17,9 +18,8 @@ export default function App() {
     (async () => {
       try {
         const ws = await loadWeeksIndex();
-        if (!ws?.length) throw new Error("weeks.json vide ou introuvable");
         setWeeks(ws);
-        const latest = ws[0];
+        const latest = ws[0] || (await loadLatestWeek());
         setCurrentWeek(latest);
         setData(await loadWeekSummary(latest));
       } catch (e: any) {
@@ -55,8 +55,8 @@ export default function App() {
         weeks={weeks.map(w => w.week)}
         onWeekChange={onWeekChange}
       />
-
       <main className="max-w-6xl mx-auto px-4 py-8 space-y-8">
+        <Overview content={data.overview} />        {/* ⬅️ ici */}
         <Top3 items={data.top3} />
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {data.sections.map((sec: any) =>

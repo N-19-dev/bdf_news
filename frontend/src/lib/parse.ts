@@ -1,36 +1,36 @@
-// src/lib/parse.ts — STATIQUE (lit /export/*)
+// src/lib/parse.ts
 
-export type WeekMeta = { week: string; range?: string; };
-export type TopItem = { title: string; url: string; source?: string; date?: string; score?: string|number; };
-export type SectionItem = { title: string; url: string; source?: string; score?: string|number; };
+export type WeekMeta = { week: string; range?: string };
+export type TopItem = { title: string; url: string; source?: string; date?: string; score?: string|number };
+export type SectionItem = { title: string; url: string; source?: string; score?: string|number };
 export type SummarySection = { title: string; items: SectionItem[] };
 
+// ---------- helpers de chargement (inchangés si tu es en statique) ----------
 async function loadText(relativePath: string): Promise<string> {
-  const clean = relativePath.startsWith("/") ? relativePath.slice(1) : relativePath;
+  const cleanPath = relativePath.startsWith("/") ? relativePath.slice(1) : relativePath;
   const base = typeof document !== "undefined" ? document.baseURI : "/";
-  const url = new URL(clean, base).toString();
-  const res = await fetch(url, { cache: "no-store" });
-  if (!res.ok) throw new Error(`Impossible de charger ${url} (${res.status})`);
-  return await res.text();
+  const finalUrl = new URL(cleanPath, base).toString();
+  const res = await fetch(finalUrl, { cache: "no-store" });
+  if (!res.ok) throw new Error(`Impossible de charger ${finalUrl} (${res.status})`);
+  return new TextDecoder().decode(await res.arrayBuffer());
 }
 
-export async function loadWeeksIndex(): Promise<WeekMeta[]> {
+export async function loadWeeksIndex() {
   try {
     const txt = await loadText("export/weeks.json");
-    const arr = JSON.parse(txt) as Array<{ week: string; range?: string }>;
+    const arr = JSON.parse(txt) as Array<{ week: string; range?: string; summary_md?: string }>;
     return (arr || []).sort((a, b) => (a.week < b.week ? 1 : -1));
   } catch {
     return [{ week: "latest", range: "" }];
   }
 }
 
-function summaryPath(meta: { week: string }): string {
-  if (meta.week === "latest") return "export/latest/ai_summary.md";
-  return `export/${meta.week}/ai_summary.md`;
+function summaryPath(meta: { week: string; summary_md?: string }): string {
+  if (meta.summary_md) return meta.summary_md.replace(/^export\//, "export/");
+  return meta.week === "latest" ? "export/latest/ai_summary.md" : `export/${meta.week}/ai_summary.md`;
 }
 
-// ---- Parsing Markdown (Top3 + sections) ----
-
+// ---------- PARSING ----------
 function parseTop3(md: string): TopItem[] {
   const out: TopItem[] = [];
   const topHeader = /(^|\n)##\s*🏆?\s*Top\s*3[^\n]*\n([\s\S]*?)(\n##\s|$)/i;
@@ -46,6 +46,13 @@ function parseTop3(md: string): TopItem[] {
   return out;
 }
 
+// 👉 NOUVEAU : extrait le bloc “Aperçu général de la semaine”
+function parseOverview(md: string): string {
+  const rx = /(^|\n)##\s*(?:🟦\s*)?Aperçu général de la semaine\s*\n([\s\S]*?)(\n##\s|$)/i;
+  const m = md.match(rx);
+  return m ? m[2].trim() : "";
+}
+
 function parseSections(md: string): SummarySection[] {
   const sections: SummarySection[] = [];
   const h2Re = /(^|\n)##\s+([^\n]+)\n/gm;
@@ -59,8 +66,8 @@ function parseSections(md: string): SummarySection[] {
   }
   for (const seg of indices) {
     const title = seg.title;
+    if (/aperçu général/i.test(title)) continue; // on évite le bloc overview ici
     const block = md.slice(seg.start, seg.end).trim();
-    if (/aperçu général/i.test(title)) continue;
     const lineRe =
       /^\s*[-–•]\s*\[(.+?)\]\((https?:\/\/[^\s)]+)\)\s*(?:—\s*([^·\n]+))?(?:\s*·\s*([\d-]{8,10}))?(?:\s*·\s*\*\*(\d+)\s*\/\s*100\*\*)?/gim;
     const items: SectionItem[] = [];
@@ -73,15 +80,31 @@ function parseSections(md: string): SummarySection[] {
   return sections;
 }
 
-export async function loadWeekSummary(meta: WeekMeta): Promise<{ top3: TopItem[]; sections: SummarySection[] }> {
+// ---------- API principale ----------
+export async function loadWeekSummary(meta: WeekMeta): Promise<{
+  overview: string;          // <- nouveau
+  top3: TopItem[];
+  sections: SummarySection[];
+}> {
   const md = await loadText(summaryPath(meta));
-  return { top3: parseTop3(md), sections: parseSections(md) };
+  return {
+    overview: parseOverview(md),
+    top3: parseTop3(md),
+    sections: parseSections(md),
+  };
+}
+export async function loadLatestWeek(): Promise<WeekMeta> {
+  const arr = await loadWeeksIndex();
+  // Si weeks.json est vide ou absent, on retombe sur "latest"
+  return arr[0] ?? { week: "latest", range: "" };
 }
 
+// ---------- Utils visuels (inchangés) ----------
 export function getDomain(url?: string): string | null {
-  if (!url) return null; try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return null; }
+  if (!url) return null;
+  try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return null; }
 }
 export function faviconUrl(url?: string, size = 32): string {
-  const dom = getDomain(url); if (!dom) return `https://via.placeholder.com/${size}`;
-  return `https://www.google.com/s2/favicons?domain=${dom}&sz=${size}`;
+  const dom = getDomain(url);
+  return dom ? `https://www.google.com/s2/favicons?domain=${dom}&sz=${size}` : `https://via.placeholder.com/${size}`;
 }
