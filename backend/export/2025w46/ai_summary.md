@@ -1,57 +1,65 @@
-## Aperçu général de la semaine
+## 🏆 Top 3 de la semaine
+
+- **1.** [Du dataset jetable au data product pérenne : comment le data mesh transforme notre rapport à la donnée](https://blog.octo.com/du-dataset-jetable-au-data-product-perenne--comment-le-data-mesh-transforme-notre-rapport-a-la-donnee) — OCTO Talks! · 2025-11-14 · **94/100**
+- **2.** [Microsoft named Leader and Outperformer in the 2025 GigaOm Radar for Semantic Layers &amp; Metric Stores](https://powerbi.microsoft.com/en-us/blog/microsoft-named-leader-and-outperformer-in-the-2025-gigaom-radar-for-semantic-layers-metric-stores/) — Power BI Blog · 2025-11-11 · **94/100**
+- **3.** [Using Jest and LLM assistance to test your real-time chat](https://blog.zenika.com/2025/11/11/llm-assistance/) — Zenika Tech Blog · 2025-11-11 · **94/100**
+
+## 🟦 Aperçu général de la semaine
 
 🟦 Aperçu général de la semaine
 
-Cette semaine, nous avons vu une série d'articles intéressants sur les dernières tendances en matière de data engineering, d'AI et de technologie. Les articles les plus populaires ont traité de la modernisation des analytics avec Dataiku et Snowflake, de l'introduction de partenariats d'accélération de Databricks pour l'IA et de la disponibilité générale des modèles OpenAI sur Databricks.
+Cette semaine, nous avons vu une grande variété d'articles liés à la technologie, notamment en matière de données, d'intelligence artificielle et de sécurité. Voici quelques tendances et points clés qui ressortent :
 
-Les articles les plus pertinents pour les professionnels de la data engineering ont traité de la mise à l'échelle de la gouvernance des données avec Attribute-Based Access Control dans Unity Catalog, de l'utilisation de Dagster pour la gestion des données et de la disponibilité générale des modèles OpenAI sur Databricks.
+* La notion de "data mesh" est de plus en plus discutée, avec des articles qui expliquent comment elle peut transformer notre rapport à la donnée.
+* Les plateformes de data analytics, comme Power BI, sont en concurrence, avec des comparatifs qui mettent en avant leurs forces et leurs faiblesses.
+* L'intelligence artificielle est à la fois un sujet de fascination et de préoccupation, avec des articles qui abordent ses applications, ses limites et ses risques.
+* La sécurité est un sujet important, avec des articles qui mettent en avant les menaces et les solutions pour protéger les données et les systèmes.
 
-## 🏛️ Warehouses & Query Engines
+## 🔢 Bases de données & OLAP
 
-🏛️ Warehouses & Query Engines
+🔢 Bases de données & OLAP
 
-- [Native OpenAI Models Now Generally Available on Databricks](https://www.databricks.com/blog/native-openai-models-now-generally-available-databricks) — Databricks Blog · 2025-11-13 · **64.15016987919807/100**
-- [Compass: AI Data Analysis for Your Warehouse, in Slack](https://dagster.io/blog/compass-now-available) — Dagster Blog · 2025-11-13 · **62.24791884422302/100**
-- [Databricks Achieves Awardability on the DoD’s Tradewinds Solutions Marketplace](https://www.databricks.com/blog/databricks-achieves-awardability-dods-tradewinds-solutions-marketplace) — Databricks Blog · 2025-11-13 · **61.74950149655342/100**
-- [Accelerating Secure, Interoperable Identity Collaboration: The Trade Desk and Databricks Partnership](https://www.databricks.com/blog/accelerating-secure-interoperable-identity-collaboration-trade-desk-and-databricks-partnership) — Databricks Blog · 2025-11-13 · **60.917933747172356/100**
-- [How Yelp modernized its data infrastructure with a streaming lakehouse on AWS
+* **Compass** est présenté comme une solution pour l'analyse de données dans Slack.
+* **Snowflake** veut faire de PostgreSQL un lakehouse ouvert.
 
-## 🔄 Orchestration, ETL & Data Movement
+## 👨‍🔧 Data Prep & Orchestration (ELT/ETL)
 
-_Rien d’important cette semaine._
+👨‍🔧 Data Prep & Orchestration (ELT/ETL)
 
-## 📐 Data Modeling, Governance & Quality
+* **Dagster** partage ses croyances sur les plateformes de données.
+* Il y a des articles sur la croissance sans pilotage et les enjeux de la stratégie de données.
 
-📐 Data Modeling, Governance & Quality
+## 🐍 Python, Polars, DuckDB
 
-- [Explore Data Instantly with Databricks Assistant in Unity Catalog](https://www.databricks.com/blog/explore-data-instantly-databricks-assistant-unity-catalog) — Databricks Blog · 2025-11-13 · **60.777297139167786/100**
-- [How to scale data governance with Attribute-Based Access Control in Unity Catalog](https://www.databricks.com/blog/how-scale-data-governance-attribute-based-access-control-unity-catalog) — Databricks Blog · 2025-11-13 · **58.532224997878075/100**
-- [Building an Agentic Food Label Reader for Greater Transparency](https://www.databricks.com/blog/building-agentic-food-label-reader-greater-transparency) — Databricks Blog · 2025-11-11 · **51.7682150490582/100**
+🐍 Python, Polars, DuckDB
 
-## 🗄️ Data Lakes, Storage & Formats
+* **Python Workflows** est présenté en bêta.
 
-_Rien d’important cette semaine._
+## 📊 Data Viz & BI
 
-## ☁️ Cloud, Infra & Observability
+📊 Data Viz & BI
 
-_Rien d’important cette semaine._
+* **Power BI** s'impose dans le comparatif des plateformes de data analytics.
 
-## 🐍 Python, Analytics & Tools
+## 🔬 IA / ML
 
-_Rien d’important cette semaine._
+🔬 IA / ML
 
-## 🤖 AI for Data Engineering
+* Des articles abordent l'intelligence artificielle, la pression évolutive et le levier d'éducation augmentée.
+* Des solutions pour la sécurité, comme la formation au phishing, sont discutées.
 
-🤖 AI for Data Engineering
+## 🏛️ Cloud (AWS/GCP/Azure/OVH)
 
-- [Modernizing Analytics With Dataiku and Snowflake](http://www.dataiku.com/stories/blog/modernizing-analytics-with-dataiku-and-snowflake) — Dataiku Blog · 2025-11-11 · **64.30188262462616/100**
-- [Introducing Databricks Cross-Industry Partner Accelerators for Agentic AI, GenAI and LLMOps](https://www.databricks.com/blog/introducing-databricks-cross-industry-partner-accelerators-agentic-ai-genai-and-llmops) — Databricks Blog · 2025-11-12 · **63.227967113256454/100**
+🏛️ Cloud (AWS/GCP/Azure/OVH)
 
-## 📰 Tech / Cloud / IA News
+* **AWS Lambda** améliore la gestion des événements avec un mode provisionné pour SQS.
+* **AWS Backup** ajoute un support pour Amazon EKS.
+* Des articles abordent l'IA sur Kubernetes et les intégrations avec Amazon Sidewalk.
 
-📰 Tech / Cloud / IA News
+## 📰 Tendances & Actus Tech (FR)
 
-- [Data Engineering Weekly #245](https://www.dataengineeringweekly.com/p/data-engineering-weekly-245) — Data Engineering Weekly · 2025-11-10 · **71.37995100021362/100**
-- [Unlocking the future of the Automotive Industry (Part 2): Implementing Scalable Geospatial Analytics & AI](https://www.databricks.com/blog/unlocking-future-automotive-industry-part-2-implementing-scalable-geospatial-analytics-ai) — Databricks Blog · 2025-11-11 · **64.59383681416512/100**
-- [I spent 8 hours learning about vector databases](https://vutr.substack.com/p/i-spent-8-hours-learning-about-vector) — VuTrinh · Data Engineering · 2025-11-11 · **62.79399165511131/100**
-- [Accelerating Data and AI with Google Axion C4A VMs on Databricks](https://www.databricks.com/blog/accelerating-data-and-ai-google-axion-c4a-vms-databricks) — Databricks Blog · 2025-11-11 · **62.52611815929413/100**
+📰 Tendances & Actus Tech (FR)
+
+* Des articles discutent de la notion de "data mesh" et de son impact sur la gestion des données.
+* Des comparatifs de plateformes de data analytics mettent en avant les forces et les faiblesses de Power BI.
+* Des articles abordent l'intelligence artificielle, la sécurité et les risques associés.
