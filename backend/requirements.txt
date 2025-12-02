@@ -9,7 +9,8 @@ pyyaml
 readability-lxml
 tqdm
 openai
+sentence-transformers
+scikit-learn
 
 fastapi
 uvicorn[standard]
-PyYAML
