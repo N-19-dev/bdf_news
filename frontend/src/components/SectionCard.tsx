@@ -9,7 +9,6 @@ type Article = {
   source?: string;
   date?: string;
   score?: number | string;
-  description?: string;
 };
 
 export default function SectionCard({

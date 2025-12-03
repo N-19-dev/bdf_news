@@ -21,35 +21,24 @@ from veille_tech import week_bounds  # pour retrouver la semaine courante
 #   Helpers pour le résumé
 # ==========================
 
-def format_date_fr(ts: int) -> str:
-    dt = datetime.fromtimestamp(ts, tz=timezone.utc)
-    months = ["Jan", "Fév", "Mar", "Avr", "Mai", "Juin", "Juil", "Août", "Sep", "Oct", "Nov", "Déc"]
-    return f"{dt.day} {months[dt.month - 1]} {dt.year}"
-
 SUMMARY_SYSTEM_PROMPT = """Tu es un assistant de veille techno (data/analytics/BI/ML) en français.
 Objectif: produire un résumé hebdomadaire clair, actionnable, concis.
 
 Structure (Markdown):
-1) "## Tendances de la semaine"
-   - 1–2 paragraphes ou 5–8 puces max (tendances transversales).
-   - NE PAS lister les articles ici. Fais une synthèse globale.
-
+1) "## Aperçu général de la semaine"
+   - 1–2 paragraphes ou 5–8 puces max (tendances transversales)
 2) Sections par thèmes (mêmes titres que fournis)
-   - Pour chaque article listé dans le contexte ci-dessous (format "### Titre ..."), génère une entrée au format suivant :
-     **Titre de l'article**
-     *Source : Nom Source (Date)*
-     * **Pourquoi c'est important :** Explication concise (1-2 phrases) de l'impact ou de l'intérêt pour un Data Engineer, basée sur le résumé fourni.
-     * [Lien vers l'annonce](url)
-
-   - Trie les articles par score décroissant.
-   - Si une section n'a pas d'articles, écris "_Rien d’important cette semaine._"
-   - Termine CHAQUE section par "**À creuser :**" avec quelques liens si disponibles (format liste simple : - [Titre](url)).
+   - Pour chaque section, COPIE EXACTEMENT les liens fournis dans le contexte
+   - Format OBLIGATOIRE pour chaque lien : - [Titre](url) — Source · Date · **Score/100**
+   - Utilise TOUJOURS le tiret "-" (pas "*" ni "•")
+   - NE MODIFIE PAS les liens, scores ou dates fournis
+   - Tu peux ajouter un court commentaire APRÈS chaque lien si pertinent
+   - Termine CHAQUE section par "**À creuser :**" avec quelques liens si disponibles
 
 Règles:
-- Français pro, concis.
+- Français pro, concis. Pas d'invention : s'appuyer sur le contexte donné.
 - Ne pas mettre la réponse dans un bloc de code.
-- Base-toi sur les résumés fournis pour rédiger le "Pourquoi c'est important".
-- Conserve les liens exacts.
+- CONSERVE le format EXACT des liens du contexte (ne les réécris pas).
 """
 
 
@@ -74,15 +63,11 @@ def build_summary_context(
             reverse=True,
         )[:links_per_section]
         for it in arr_sorted:
-            dt = format_date_fr(it["published_ts"])
+            dt = datetime.fromtimestamp(it["published_ts"], tz=timezone.utc).strftime("%Y-%m-%d")
             sc = it.get("score", "?")
-            summ = it.get("summary", "")
-            lines.append(f"### {it['title']}")
-            lines.append(f"- URL: {it['url']}")
-            lines.append(f"- Source: {it['source']} ({dt})")
-            lines.append(f"- Score: {sc}")
-            lines.append(f"- Résumé: {summ}")
-            lines.append("")
+            lines.append(
+                f"- [{it['title']}]({it['url']}) — {it['source']} · {dt} · **{sc}/100**"
+            )
         lines.append("")
     return "\n".join(lines).strip()
 
@@ -99,15 +84,10 @@ def build_highlights(items: List[Dict[str, Any]], max_items: int = 12) -> str:
     )[:max_items]
     lines = ["# Highlights (toutes catégories)"]
     for it in top:
-        dt = format_date_fr(it["published_ts"])
-        sc = it.get("score", "?")
-        summ = it.get("summary", "")
-        lines.append(f"### {it['title']}")
-        lines.append(f"- URL: {it['url']}")
-        lines.append(f"- Source: {it['source']} ({dt})")
-        lines.append(f"- Score: {sc}")
-        lines.append(f"- Résumé: {summ}")
-        lines.append("")
+        dt = datetime.fromtimestamp(it["published_ts"], tz=timezone.utc).strftime("%Y-%m-%d")
+        lines.append(
+            f"- [{it['title']}]({it['url']}) — {it['source']} · {dt} · score {it.get('score','?')}"
+        )
     return "\n".join(lines)
 
 
@@ -149,12 +129,16 @@ def ensure_all_sections_ordered(
     - 2) chaque titre dans expected_titles (catégories)
     """
     md = _strip_weird_chars(md)
+    # Robustesse : si le LLM a mis des H3 (###) au lieu de H2 (##), on corrige
+    md = re.sub(r"(?m)^###\s+", "## ", md)
     sections = re.split(r"(?m)^\s*##\s+", md)
     heads = re.findall(r"(?m)^\s*##\s+(.+)$", md)
     content_by_title: Dict[str, str] = {}
     if sections:
         for h, body in zip(heads, sections[1:]):
             body = _normalize_creuser_lists(body.strip())
+            # On enlève un éventuel premier titre Hx parasite
+            body = re.sub(r"(?m)^\s*#{1,6}\s+.*$", "", body, count=1).strip()
             
             # Supprimer les lignes qui répètent le titre de la section au début du contenu
             # Par exemple, si le titre est "🏛️ Warehouses & Query Engines"
@@ -170,12 +154,12 @@ def ensure_all_sections_ordered(
                     body = '\n'.join(lines).strip()
             
             content_by_title[h.strip()] = body
-            
-    overview_key = "Tendances de la semaine"
+
+    overview_key = "Aperçu général de la semaine"
     overview_md = content_by_title.get(overview_key, "")
     if not overview_md:
         for k in list(content_by_title.keys()):
-            if "tendance" in k.lower() and "semaine" in k.lower():
+            if "aperçu" in k.lower() and "semaine" in k.lower():
                 overview_md = content_by_title.pop(k, "")
                 break
 
@@ -230,7 +214,7 @@ def generate_weekly_summary_openai(
     section_list = "\n".join(f"- {t}" for t in expected_titles)
 
     user_prompt = f"""Voici une sélection d'articles de la semaine (déjà filtrés et scorés).
-Commence par les **Tendances de la semaine** à partir des *Highlights*, puis détaille par thèmes.
+Commence par un **Aperçu général de la semaine** à partir des *Highlights*, puis détaille par thèmes.
 Ne crée pas plus de {max_sections} sections thématiques.
 
 Tu DOIS utiliser exactement ces titres H2, dans cet ordre, et les conserver même s'il n'y a rien à dire :
@@ -283,7 +267,6 @@ def load_selection_items(selection_path: Path, cfg: Dict[str, Any]) -> List[Dict
                     "category_title": cat_title,
                     "score": float(it.get("score") or 0),
                     "published_ts": int(it.get("published_ts") or 0),
-                    "summary": it.get("summary") or "",
                 }
             )
     return items
@@ -343,7 +326,6 @@ def main(config_path: str = "config.yaml", week_offset: Optional[int] = None):
 
     # Contexte + highlights
     context_md = build_summary_context(items_for_sum, links_per)
-    print(f"[DEBUG] Context MD:\n{context_md}\n[DEBUG] End Context MD")
     highlights_md = build_highlights(items_for_sum, max_items=12)
 
     # Appel LLM
