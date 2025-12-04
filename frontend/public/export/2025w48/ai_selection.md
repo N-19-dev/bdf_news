@@ -5,6 +5,7 @@
 - [Building the Future of AI Agents and Intelligence Apps: Celebrating 4 years of Databricks Seattle R&D](https://www.databricks.com/blog/building-future-ai-agents-and-intelligence-apps-celebrating-4-years-databricks-seattle-rd) — Databricks Blog · 2025-11-24 · **63/100**
 - [Claude Opus 4.5 Is Here](https://www.databricks.com/blog/claude-opus-45-here) — Databricks Blog · 2025-11-24 · **58/100**
 - [🤖 Déployer son agent sur Google Vertex AI Agent Engine](https://blog.zenika.com/2025/11/25/%f0%9f%a4%96-deployer-son-agent-sur-google-vertex-ai-agent-engine/) — Zenika Tech Blog · 2025-11-25 · **54/100**
+- [How AI Tools Accelerated Building and Adopting Cloud-Agnostic SDK Tasks From Months to Weeks](https://engineering.salesforce.com/how-ai-tools-accelerated-building-and-adopting-cloud-agnostic-sdk-tasks-from-months-to-weeks/) — Salesforce Engineering · 2025-11-24 · **54/100**
 - [How SoftBank Scaled an AI Agent-Powered Sales Model, Saving 250K Hours a Year](https://www.dataiku.com/stories/blog/softbank) — Dataiku Blog · 2025-11-25 · **53/100**
 - [🤖 Gemini dans votre terminal avec Gemini CLI](https://blog.zenika.com/2025/11/25/%f0%9f%a4%96-gemini-dans-votre-terminal-avec-gemini-cli/) — Zenika Tech Blog · 2025-11-25 · **50/100**
 

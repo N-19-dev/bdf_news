@@ -31,8 +31,9 @@ from pydantic import BaseModel
 from readability import Document
 from tqdm.asyncio import tqdm
 
-# Import du logger structuré
+# Import du logger structuré et content classifier
 from logger import get_logger, MetricsCollector
+from content_classifier import detect_content_type
 
 # Initialisation du logger
 logger = get_logger("veille_tech", log_file="logs/veille_tech.log", level="INFO")
@@ -107,12 +108,20 @@ def db_conn(path: str):
 def ensure_db(path: str):
     with db_conn(path) as conn:
         conn.executescript(SQL_SCHEMA)
+        # Migration: ajouter content_type si la colonne n'existe pas
+        cursor = conn.execute("PRAGMA table_info(items)")
+        columns = [row[1] for row in cursor.fetchall()]
+        if "content_type" not in columns:
+            logger.info("Migrating database: adding content_type column")
+            conn.execute("ALTER TABLE items ADD COLUMN content_type TEXT DEFAULT 'technical'")
+            # Créer l'index après avoir ajouté la colonne
+            conn.execute("CREATE INDEX IF NOT EXISTS idx_items_content_type ON items(content_type)")
 
 def upsert_item(path: str, item: Dict[str, Any]):
     with db_conn(path) as conn:
         conn.execute("""
-            INSERT OR IGNORE INTO items(id, url, title, summary, content, published_ts, source_name, category_key, created_ts)
-            VALUES (:id, :url, :title, :summary, :content, :published_ts, :source_name, :category_key, :created_ts)
+            INSERT OR IGNORE INTO items(id, url, title, summary, content, published_ts, source_name, category_key, created_ts, content_type)
+            VALUES (:id, :url, :title, :summary, :content, :published_ts, :source_name, :category_key, :created_ts, :content_type)
         """, item)
 
 def query_latest_by_cat(path: str, limit_per_cat: int,
@@ -124,7 +133,7 @@ def query_latest_by_cat(path: str, limit_per_cat: int,
         for c in cats:
             if min_ts is not None and max_ts is not None:
                 rows = conn.execute("""
-                    SELECT url, title, summary, published_ts, source_name
+                    SELECT url, title, summary, published_ts, source_name, content_type
                     FROM items
                     WHERE category_key=? AND published_ts>=? AND published_ts<?
                     ORDER BY published_ts DESC
@@ -132,7 +141,7 @@ def query_latest_by_cat(path: str, limit_per_cat: int,
                 """, (c, min_ts, max_ts, limit_per_cat)).fetchall()
             elif min_ts is not None:
                 rows = conn.execute("""
-                    SELECT url, title, summary, published_ts, source_name
+                    SELECT url, title, summary, published_ts, source_name, content_type
                     FROM items
                     WHERE category_key=? AND published_ts>=?
                     ORDER BY published_ts DESC
@@ -140,14 +149,14 @@ def query_latest_by_cat(path: str, limit_per_cat: int,
                 """, (c, min_ts, limit_per_cat)).fetchall()
             else:
                 rows = conn.execute("""
-                    SELECT url, title, summary, published_ts, source_name
+                    SELECT url, title, summary, published_ts, source_name, content_type
                     FROM items
                     WHERE category_key=?
                     ORDER BY published_ts DESC
                     LIMIT ?
                 """, (c, limit_per_cat)).fetchall()
             result[c] = [
-                dict(url=row[0], title=row[1], summary=row[2], published_ts=row[3], source_name=row[4])
+                dict(url=row[0], title=row[1], summary=row[2], published_ts=row[3], source_name=row[4], content_type=row[5] or 'technical')
                 for row in rows
             ]
         return result
@@ -477,6 +486,9 @@ async def run(config_path: str = "config.yaml"):
                         cat_key = classify(title, (summary or content_text[:300]), cfg.categories)
                         if not cat_key: continue
 
+                        # Détection du type de contenu (technical vs rex)
+                        content_type = detect_content_type(title, summary, content_text, cfg.model_dump())
+
                         item = {
                             "id": hash_id(link, title),
                             "url": link, "title": title,
@@ -485,7 +497,8 @@ async def run(config_path: str = "config.yaml"):
                             "published_ts": published_ts,
                             "source_name": name,
                             "category_key": cat_key,
-                            "created_ts": now_ts
+                            "created_ts": now_ts,
+                            "content_type": content_type
                         }
                         upsert_item(cfg.storage.sqlite_path, item); inserts += 1
                 else:
@@ -535,6 +548,10 @@ async def run(config_path: str = "config.yaml"):
                             continue
                         cat_key = classify(t, text_content[:300], cfg.categories)
                         if not cat_key: continue
+
+                        # Détection du type de contenu (technical vs rex)
+                        content_type = detect_content_type(t, text_content[:300], text_content, cfg.model_dump())
+
                         item = {
                             "id": hash_id(href, t),
                             "url": href, "title": t,
@@ -543,7 +560,8 @@ async def run(config_path: str = "config.yaml"):
                             "published_ts": published_ts,
                             "source_name": name,
                             "category_key": cat_key,
-                            "created_ts": now_ts
+                            "created_ts": now_ts,
+                            "content_type": content_type
                         }
                         upsert_item(cfg.storage.sqlite_path, item); inserts += 1
             return inserts

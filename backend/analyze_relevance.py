@@ -61,7 +61,7 @@ def group_filtered_with_thresholds(
             thr = int(thresholds.get(c, default_threshold))
             rows = conn.execute(
                 """
-                SELECT url, title, summary, published_ts, source_name, final_score
+                SELECT url, title, summary, published_ts, source_name, final_score, content_type
                 FROM items
                 WHERE category_key=? AND published_ts>=? AND published_ts<?
                       AND final_score IS NOT NULL AND final_score >= ?
@@ -69,7 +69,7 @@ def group_filtered_with_thresholds(
                 """,
                 (c, min_ts, max_ts, thr),
             ).fetchall()
-            
+
             # Diversity filter: max 2 items per source
             source_counts = {}
             selected_rows = []
@@ -79,7 +79,7 @@ def group_filtered_with_thresholds(
                     continue
                 source_counts[src] = source_counts.get(src, 0) + 1
                 selected_rows.append(row)
-            
+
             out[c] = [
                 dict(
                     url=row[0],
@@ -88,6 +88,7 @@ def group_filtered_with_thresholds(
                     published_ts=row[3],
                     source_name=row[4],
                     score=row[5],
+                    content_type=row[6] or "technical",
                 )
                 for row in selected_rows
             ]
@@ -106,7 +107,7 @@ def fetch_items_for_top(
     with db_conn(db_path) as conn:
         rows = conn.execute(
             """
-            SELECT title, url, source_name, category_key, final_score, published_ts
+            SELECT title, url, source_name, category_key, final_score, published_ts, content_type
             FROM items
             WHERE published_ts >= ? AND published_ts < ?
               AND final_score IS NOT NULL
@@ -126,7 +127,7 @@ def fetch_items_for_top(
         seen_sources.add(src)
         final_rows.append(r)
 
-    keys = ["title", "url", "source", "category", "score", "published_ts"]
+    keys = ["title", "url", "source", "category", "score", "published_ts", "content_type"]
     return [dict(zip(keys, r)) for r in final_rows]
 
 

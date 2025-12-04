@@ -2,6 +2,130 @@
 
 Toutes les modifications notables de ce projet seront documentées dans ce fichier.
 
+## [Nouvelle fonctionnalité] - 2025-12-03 : Classification par type de contenu
+
+### 🎯 Objectif
+
+Séparer le contenu en deux catégories distinctes :
+- **Articles techniques** : Tutoriels, guides, documentation
+- **REX & All Hands** : Retours d'expérience, post-mortems, études de cas
+
+### ✨ Nouveautés
+
+#### Backend
+
+**Ajouté**
+- **content_classifier.py** : Module de détection de type de contenu
+  - Fonction `detect_content_type()` avec scoring par mots-clés
+  - Support de 20+ mots-clés REX ("postmortem", "lessons learned", etc.)
+  - Scoring : +30 pour titre, +10 par occurrence, +15 pour patterns
+  - Seuil configurable (défaut: 40)
+
+- **Schema database** : Nouvelle colonne `content_type`
+  - Migration automatique pour bases existantes
+  - Index sur `content_type` pour performance
+  - Valeur par défaut : `'technical'`
+
+- **Configuration** : Section `content_types` dans `config.yaml`
+  - Liste de mots-clés REX personnalisable
+  - Paramètres de scoring ajustables
+
+**Modifié**
+- **veille_tech.py** : Intégration de `detect_content_type()`
+  - Classification automatique lors du crawl
+  - Support dans les deux modes (RSS + fallback)
+  - Migration de base automatique
+
+- **analyze_relevance.py** : Export de `content_type`
+  - Ajout dans `group_filtered_with_thresholds()`
+  - Ajout dans `fetch_items_for_top()`
+  - Tous les exports JSON incluent le champ
+
+#### Frontend
+
+**Ajouté**
+- **ContentTypeTabs.tsx** : Composant d'onglets
+  - 3 onglets : Tous / Technical / REX
+  - Compteurs d'articles par type
+  - Design avec pills Tailwind
+
+**Modifié**
+- **App.tsx** : Intégration complète
+  - État `activeContentType` avec filtrage
+  - Calcul des compteurs via `useMemo`
+  - Reset sur changement de semaine
+  - Filtrage combiné (type + catégorie + recherche)
+
+#### Documentation
+
+**Ajouté**
+- **docs/CONTENT_TYPES.md** : Documentation complète
+  - Guide d'utilisation
+  - Explication de l'algorithme
+  - Configuration et personnalisation
+  - Migration et troubleshooting
+  - Cas d'usage
+
+**Modifié**
+- **README.md** : Section "Types de contenu"
+- **CHANGELOG.md** : Ce fichier
+
+### 📊 Statistiques
+
+- **Lignes de code ajoutées** : ~800
+- **Fichiers créés** : 2 (content_classifier.py, ContentTypeTabs.tsx)
+- **Fichiers modifiés** : 5
+- **Tests** : Compatible avec la suite existante
+
+### 🔍 Exemples
+
+**Article détecté comme REX** :
+```
+Titre: "How we scaled our data platform to 100TB/day"
+Contenu: "Our journey, lessons learned, migration story..."
+→ content_type: "rex"
+```
+
+**Article détecté comme Technical** :
+```
+Titre: "Getting started with Apache Airflow"
+Contenu: "This tutorial will teach you..."
+→ content_type: "technical"
+```
+
+### 🎨 Interface
+
+**Avant** :
+```
+[Hero]
+[Overview]
+[Search + Filters]
+[Articles Grid]
+```
+
+**Après** :
+```
+[Hero]
+[Overview]
+[📚 Tous | 🔧 Technical | 📖 REX]  ← NOUVEAU
+[Search + Filters]
+[Articles Grid - Filtrés par onglet]
+```
+
+### ⚡ Performance
+
+- Pas d'impact sur le crawling (1 fonction de plus)
+- Filtrage frontend côté client (rapide)
+- Index SQL sur `content_type` pour queries rapides
+
+### 🔗 Liens
+
+- Documentation : [docs/CONTENT_TYPES.md](docs/CONTENT_TYPES.md)
+- Module : [backend/content_classifier.py](backend/content_classifier.py)
+- Composant : [frontend/src/components/ContentTypeTabs.tsx](frontend/src/components/ContentTypeTabs.tsx)
+
+---
+
 ## [Améliorations 2025-12-03]
 
 ### 📚 Documentation

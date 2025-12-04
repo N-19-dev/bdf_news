@@ -74,17 +74,22 @@ Ce projet automatise la veille technologique en :
 - ✅ Crawling intelligent avec respect robots.txt + rate limiting
 - ✅ Autodécouverte de feeds RSS/Atom
 - ✅ Classification LLM multi-catégories
+- ✅ **Classification par type de contenu** (Technical vs REX/All Hands)
 - ✅ Scoring de pertinence par embeddings sémantiques (sentence-transformers)
 - ✅ Déduplication par hash (URL + titre)
 - ✅ Extraction de contenu (readability + BeautifulSoup)
 - ✅ Stockage SQLite + export JSON/Markdown
 - ✅ Génération de résumés LLM hebdomadaires
+- ✅ Logging structuré avec métriques
 
 ### Frontend
 - ✅ Interface React moderne (Vite + TypeScript)
 - ✅ Design responsive (Tailwind CSS)
+- ✅ **Onglets Technical / REX & All Hands** pour séparer le contenu
 - ✅ Top 3 des articles les plus pertinents
 - ✅ Navigation par semaine
+- ✅ **Recherche floue** avec Fuse.js
+- ✅ **Filtres par catégorie**
 - ✅ Rendu Markdown avec code highlighting
 - ✅ Scores de pertinence visibles
 
@@ -155,6 +160,18 @@ user_agent: "VeilleTechBot/1.0 (+https://github.com/YOUR_USERNAME/veille_tech_cr
 ```
 
 ## 💻 Utilisation
+
+### Types de contenu
+
+Le système distingue **deux types d'articles** :
+
+**🔧 Articles techniques** : Tutoriels, guides, documentation
+- Exemple : "Introduction to dbt", "Building ETL pipelines"
+
+**📖 REX & All Hands** : Retours d'expérience, post-mortems, études de cas
+- Exemple : "How we migrated to Snowflake", "Lessons learned from our data platform"
+
+La classification est **automatique** basée sur des mots-clés. Voir [docs/CONTENT_TYPES.md](docs/CONTENT_TYPES.md) pour plus de détails.
 
 ### Exécution locale
 

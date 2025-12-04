@@ -6,6 +6,7 @@ import SectionCard from "./components/SectionCard";
 import Overview from "./components/Overview";
 import SearchBar from "./components/SearchBar";
 import CategoryFilter from "./components/CategoryFilter";
+import ContentTypeTabs, { type ContentType } from "./components/ContentTypeTabs";
 import { loadWeeksIndex, loadLatestWeek, loadWeekSummary, type WeekMeta } from "./lib/parse";
 import { createSearchIndex, searchArticles, type SearchableArticle } from "./lib/search";
 
@@ -20,6 +21,7 @@ export default function App() {
   const [searchQuery, setSearchQuery] = React.useState("");
   const [selectedCategory, setSelectedCategory] = React.useState<string | null>(null);
   const [searchIndex, setSearchIndex] = React.useState<any>(null);
+  const [activeContentType, setActiveContentType] = React.useState<ContentType>("all");
 
   React.useEffect(() => {
     (async () => {
@@ -58,6 +60,7 @@ export default function App() {
       setLoading(true);
       setSearchQuery("");  // Reset search
       setSelectedCategory(null);  // Reset filter
+      setActiveContentType("all");  // Reset content type
       const w = weeks.find((x) => x.week === weekId);
       if (!w) throw new Error("Semaine inconnue");
       setCurrentWeek(w);
@@ -85,11 +88,23 @@ export default function App() {
     }
   };
 
-  // Filtrer les sections en fonction de la recherche et des filtres
+  // Filtrer les sections en fonction de la recherche, des filtres et du type de contenu
   const filteredSections = React.useMemo(() => {
     if (!data) return [];
 
     let sections = data.sections;
+
+    // Appliquer le filtre de type de contenu (technical vs rex)
+    if (activeContentType !== "all") {
+      sections = sections
+        .map((sec: any) => ({
+          ...sec,
+          items: sec.items?.filter((item: any) =>
+            (item.content_type || "technical") === activeContentType
+          ) || [],
+        }))
+        .filter((sec: any) => sec.items.length > 0);
+    }
 
     // Appliquer le filtre de catégorie
     if (selectedCategory) {
@@ -110,12 +125,33 @@ export default function App() {
     }
 
     return sections;
-  }, [data, selectedCategory, searchQuery, searchIndex]);
+  }, [data, selectedCategory, searchQuery, searchIndex, activeContentType]);
 
   // Extraire les catégories uniques
   const categories = React.useMemo(() => {
     if (!data) return [];
     return data.sections.map((sec: any) => sec.title);
+  }, [data]);
+
+  // Compter les articles par type de contenu
+  const contentTypeCounts = React.useMemo(() => {
+    if (!data) return { technical: 0, rex: 0 };
+
+    let technicalCount = 0;
+    let rexCount = 0;
+
+    data.sections.forEach((sec: any) => {
+      sec.items?.forEach((item: any) => {
+        const contentType = item.content_type || "technical";
+        if (contentType === "rex") {
+          rexCount++;
+        } else {
+          technicalCount++;
+        }
+      });
+    });
+
+    return { technical: technicalCount, rex: rexCount };
   }, [data]);
 
   if (error) return <div className="p-6 text-red-600">{error}</div>;
@@ -131,6 +167,14 @@ export default function App() {
       />
       <main className="max-w-6xl mx-auto px-4 py-8 space-y-8">
         <Overview content={data.overview} />
+
+        {/* Onglets de type de contenu */}
+        <ContentTypeTabs
+          activeTab={activeContentType}
+          onTabChange={setActiveContentType}
+          technicalCount={contentTypeCounts.technical}
+          rexCount={contentTypeCounts.rex}
+        />
 
         {/* Barre de recherche et filtres */}
         <div className="space-y-4">

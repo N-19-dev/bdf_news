@@ -1,0 +1,132 @@
+# config_rex_test.yaml
+# Configuration minimale pour tester les sources REX
+
+storage:
+  sqlite_path: "veille.db"
+
+crawl:
+  lookback_days: 7
+  concurrency: 5
+  per_host_rps: 1.5
+  timeout_sec: 25
+  user_agent: "VeilleTechBot/1.0 (+https://github.com/nathansornet/veille_tech_crawling)"
+  min_text_length: 300
+  path_allow_regex: "(?i)(/blog|/posts?|/post|/articles?|/news|/p/|^/@|/tag/|/t/|/n/|/stories?)"
+  path_deny_regex: "(?i)(forum|community|jobs|careers|events|release[-_ ]?notes|whats[-_ ]?new|changelog|\\bdocs?\\b|/api/|/sdk/|buzz|people|marketing|podcast|social)"
+
+export:
+  out_dir: "export"
+  make_markdown_digest: true
+  max_items_per_cat: 60
+
+notify:
+  slack_webhook_env: "SLACK_WEBHOOK_URL"
+
+monitoring:
+  log_level: "INFO"
+  export_metrics: true
+
+content_types:
+  rex_keywords:
+    - "retour d'expérience"
+    - "rex"
+    - "all hands"
+    - "all-hands"
+    - "postmortem"
+    - "post-mortem"
+    - "incident"
+    - "lessons learned"
+    - "what we learned"
+    - "our journey"
+    - "our experience"
+    - "how we built"
+    - "how we scaled"
+    - "migration story"
+    - "case study"
+    - "in production"
+    - "war stories"
+    - "behind the scenes"
+    - "real world"
+  rex_title_bonus: 30
+  rex_min_score: 40
+
+categories:
+  - key: "data_platform"
+    title: "🏗️ Data Platform & Infrastructure"
+    keywords: ["data platform", "infrastructure", "architecture", "scale", "migration", "performance"]
+
+  - key: "incident_rex"
+    title: "🚨 Incidents & Post-mortems"
+    keywords: ["incident", "postmortem", "outage", "downtime", "recovery", "resilience"]
+
+  - key: "engineering_practice"
+    title: "⚙️ Engineering Practices"
+    keywords: ["engineering", "development", "testing", "deployment", "ci/cd", "devops"]
+
+category_thresholds:
+  data_platform: 45
+  incident_rex: 40
+  engineering_practice: 45
+
+# TEST: Seulement 5 sources REX pour un test rapide
+sources:
+  - name: "Netflix Tech Blog"
+    url: "https://netflixtechblog.com/feed"
+
+  - name: "Uber Engineering Blog"
+    url: "https://www.uber.com/blog/engineering/rss/"
+
+  - name: "Airbnb Engineering"
+    url: "https://medium.com/feed/airbnb-engineering"
+
+  - name: "Stripe Engineering Blog"
+    url: "https://stripe.com/blog/feed.rss"
+
+  - name: "GitHub Engineering"
+    url: "https://github.blog/engineering/feed/"
+
+relevance:
+  weights:
+    semantic: 0.55
+    source: 0.20
+    quality: 0.15
+    tech: 0.10
+  score_threshold: 60
+  profile_text: >
+    data engineering, platform engineering, infrastructure, scalability,
+    migration, incident response, post-mortem, lessons learned, architecture,
+    distributed systems, reliability, performance optimization.
+  source_weights:
+    "Netflix Tech Blog": 0.95
+    "Uber Engineering Blog": 0.90
+    "Airbnb Engineering": 0.90
+    "Stripe Engineering Blog": 0.85
+    "GitHub Engineering": 0.85
+  quality:
+    min_len_good: 1500
+    bonus_good_len: 20
+    bonus_has_code: 10
+  tech:
+    keywords:
+      - "kubernetes"
+      - "microservices"
+      - "distributed systems"
+      - "scalability"
+      - "migration"
+      - "incident"
+      - "architecture"
+    max_points: 20
+
+llm:
+  provider: "openai_compat"
+  base_url: "https://api.groq.com/openai/v1"
+  api_key_env: "GROQ_API_KEY"
+  model: "llama-3.1-8b-instant"
+  temperature: 0.2
+  max_tokens: 1200
+
+summary:
+  enabled: true
+  max_sections: 8
+  links_per_section: 5
+  min_score: 45

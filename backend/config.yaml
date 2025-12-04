@@ -59,6 +59,37 @@ monitoring:
   # - errors: liste des erreurs rencontrées
 
 # ============================================
+#        TYPES DE CONTENU (Technical vs REX)
+# ============================================
+content_types:
+  # Mots-clés pour identifier les REX (Retours d'Expérience) et All Hands
+  rex_keywords:
+    - "retour d'expérience"
+    - "retour d'expérience"
+    - "rex"
+    - "all hands"
+    - "all-hands"
+    - "postmortem"
+    - "post-mortem"
+    - "incident"
+    - "lessons learned"
+    - "what we learned"
+    - "our journey"
+    - "our experience"
+    - "how we built"
+    - "how we scaled"
+    - "migration story"
+    - "case study"
+    - "in production"
+    - "war stories"
+    - "behind the scenes"
+    - "real world"
+
+  # Bonus pour augmenter le score REX
+  rex_title_bonus: 30  # Bonus si mot-clé dans le titre
+  rex_min_score: 40    # Score minimal pour être considéré comme REX
+
+# ============================================
 #               CATEGORIES (Data Engineer)
 # ============================================
 categories:
@@ -99,13 +130,13 @@ categories:
 # ============================================
 # seuils sur final_score (0–100) pour la sélection par catégorie
 category_thresholds:
-  warehouses_engines: 50
-  etl_orchestration: 50
-  data_modeling_governance: 50
-  lake_storage_formats: 50
-  cloud_infra_observability: 55
-  python_analytics: 55
-  ai_data_engineering: 50
+  warehouses_engines: 45
+  etl_orchestration: 45
+  data_modeling_governance: 45
+  lake_storage_formats: 45
+  cloud_infra_observability: 45
+  python_analytics: 45
+  ai_data_engineering: 45
   news: 60
 
 # ============================================
@@ -329,6 +360,130 @@ sources:
   - name: "daily.dev"
     url: "https://daily.dev"
 
+
+  # ============================================
+  #     ENGINEERING BLOGS (REX & ALL HANDS)
+  # ============================================
+  # Ces sources publient régulièrement des retours d'expérience,
+  # post-mortems, et articles "how we built"
+
+  # --- GAFAM & BIG TECH ---
+  - name: "Netflix Tech Blog"
+    url: "https://netflixtechblog.com/feed"
+
+  - name: "Uber Engineering Blog"
+    url: "https://www.uber.com/blog/engineering/rss/"
+
+  - name: "Airbnb Engineering"
+    url: "https://medium.com/feed/airbnb-engineering"
+
+  - name: "LinkedIn Engineering"
+    url: "https://www.linkedin.com/blog/engineering/feed"
+
+  - name: "Meta Engineering"
+    url: "https://engineering.fb.com/feed/"
+
+  - name: "Instagram Engineering"
+    url: "https://instagram-engineering.com/feed"
+
+  - name: "Twitter/X Engineering"
+    url: "https://blog.x.com/engineering/en_us/blog.rss"
+
+  - name: "Pinterest Engineering"
+    url: "https://medium.com/feed/pinterest-engineering"
+
+  - name: "Lyft Engineering"
+    url: "https://eng.lyft.com/feed"
+
+  # --- FINTECH & PAYMENTS ---
+  - name: "Stripe Engineering Blog"
+    url: "https://stripe.com/blog/feed.rss"
+
+  - name: "PayPal Engineering"
+    url: "https://medium.com/feed/paypal-tech"
+
+  - name: "Wise Engineering"
+    url: "https://medium.com/feed/wise-engineering"
+
+  - name: "Revolut Engineering"
+    url: "https://medium.com/feed/revolut"
+
+  # --- DEVELOPER TOOLS & PLATFORMS ---
+  - name: "GitHub Engineering"
+    url: "https://github.blog/engineering/feed/"
+
+  - name: "GitLab Engineering"
+    url: "https://about.gitlab.com/atom.xml"
+
+  - name: "Slack Engineering"
+    url: "https://slack.engineering/feed/"
+
+  - name: "Atlassian Engineering"
+    url: "https://www.atlassian.com/blog/rss/engineering.xml"
+
+  - name: "Dropbox Tech Blog"
+    url: "https://dropbox.tech/feed"
+
+  # --- E-COMMERCE ---
+  - name: "Shopify Engineering"
+    url: "https://shopify.engineering/blog.atom"
+
+  - name: "Etsy Engineering"
+    url: "https://www.etsy.com/codeascraft/rss"
+
+  - name: "Booking.com Tech Blog"
+    url: "https://blog.booking.com/feed/"
+
+  - name: "Walmart Global Tech"
+    url: "https://medium.com/feed/walmartglobaltech"
+
+  # --- SAAS & CLOUD ---
+  - name: "Heroku Engineering"
+    url: "https://blog.heroku.com/engineering/feed"
+
+  - name: "Twilio Engineering"
+    url: "https://www.twilio.com/blog/tag/engineering/feed"
+
+  - name: "Salesforce Engineering"
+    url: "https://engineering.salesforce.com/feed/"
+
+  - name: "Zendesk Engineering"
+    url: "https://zendesk.engineering/feed"
+
+  # --- RIDE-SHARING & DELIVERY ---
+  - name: "DoorDash Engineering"
+    url: "https://doordash.engineering/feed/"
+
+  - name: "Grab Tech Blog"
+    url: "https://engineering.grab.com/feed.xml"
+
+  # --- STREAMING & MEDIA ---
+  - name: "Spotify Engineering"
+    url: "https://engineering.atspotify.com/feed/"
+
+  - name: "SoundCloud Backstage"
+    url: "https://developers.soundcloud.com/blog/feed.xml"
+
+  # --- EUROPEAN TECH ---
+  - name: "Monzo Engineering"
+    url: "https://monzo.com/blog/feed"
+
+  - name: "N26 Engineering"
+    url: "https://medium.com/feed/insiden26"
+
+  - name: "BlaBlaCar Tech"
+    url: "https://medium.com/feed/blablacar-tech"
+
+  # --- ANALYTICS & DATA PLATFORMS ---
+  - name: "Segment Engineering"
+    url: "https://segment.com/blog/feed/"
+
+  - name: "Amplitude Engineering"
+    url: "https://amplitude.engineering/feed"
+
+  - name: "Confluent Blog"
+    url: "https://www.confluent.io/blog/feed/"
+
 # ============================================
 #           CONFIG PERTINENCE (relevance)
 # ============================================
@@ -341,7 +496,7 @@ relevance:
     tech:     0.10
 
   # Score minimal par défaut pour considérer un article "bon"
-  score_threshold: 60
+  score_threshold: 45  # Temporairement abaissé pour inclure les REX
 
   # Profil de veille pour les embeddings
   profile_text: >
@@ -370,6 +525,33 @@ relevance:
     "Zenika Tech Blog": 0.70
     "Dataiku Blog": 0.70
     "daily.dev": 0.30
+
+    # Engineering Blogs (REX & All Hands) - Poids élevés pour la qualité
+    "Netflix Tech Blog": 0.95
+    "Uber Engineering Blog": 0.90
+    "Airbnb Engineering": 0.90
+    "LinkedIn Engineering": 0.85
+    "Meta Engineering": 0.85
+    "Stripe Engineering Blog": 0.85
+    "GitHub Engineering": 0.85
+    "Spotify Engineering": 0.85
+    "Shopify Engineering": 0.80
+    "Dropbox Tech Blog": 0.80
+    "Slack Engineering": 0.80
+    "DoorDash Engineering": 0.80
+    "Lyft Engineering": 0.75
+    "Pinterest Engineering": 0.75
+    "Instagram Engineering": 0.75
+    "Twitter/X Engineering": 0.75
+    "PayPal Engineering": 0.70
+    "GitLab Engineering": 0.70
+    "Etsy Engineering": 0.70
+    "Atlassian Engineering": 0.70
+    "Booking.com Tech Blog": 0.70
+    "Salesforce Engineering": 0.70
+    "Monzo Engineering": 0.70
+    "Segment Engineering": 0.70
+    "Confluent Blog": 0.70
 
   quality:
     min_len_good: 1500        # >1500 caractères => vrai article

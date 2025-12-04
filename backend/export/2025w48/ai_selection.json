@@ -6,7 +6,8 @@
       "summary": "In November 2021, we announced the opening of our Seattle R&D site and our plan to...",
       "published_ts": 1764007500,
       "source_name": "Databricks Blog",
-      "score": 63.39661341905594
+      "score": 63.39661341905594,
+      "content_type": "technical"
     },
     {
       "url": "https://www.databricks.com/blog/claude-opus-45-here",
@@ -14,7 +15,8 @@
       "summary": "Customers process exabytes of data daily on Databricks, and generative AI is already...",
       "published_ts": 1764010829,
       "source_name": "Databricks Blog",
-      "score": 58.1588190048933
+      "score": 58.1588190048933,
+      "content_type": "technical"
     },
     {
       "url": "https://blog.zenika.com/2025/11/25/%f0%9f%a4%96-deployer-son-agent-sur-google-vertex-ai-agent-engine/",
@@ -22,7 +24,17 @@
       "summary": "Simplifiez le déploiement de vos agents IA sur Google Cloud avec Vertex AI Agent Engine à travers le framework Agent Development Kit (ADK) ou avec le SDK Vertex AI pour intégrer des frameworks comme LangChain, LangGraph et CrewAI.",
       "published_ts": 1764069425,
       "source_name": "Zenika Tech Blog",
-      "score": 54.481076151132584
+      "score": 54.481076151132584,
+      "content_type": "technical"
+    },
+    {
+      "url": "https://engineering.salesforce.com/how-ai-tools-accelerated-building-and-adopting-cloud-agnostic-sdk-tasks-from-months-to-weeks/",
+      "title": "How AI Tools Accelerated Building and Adopting Cloud-Agnostic SDK Tasks From Months to Weeks",
+      "summary": "By Claudia Santoro and Sandeep Pal. In our Engineering Energizers Q&A series, we shine a spotlight on the innovative engineering minds at Salesforce. Today, we feature Claudia Santoro, SVP of Software Engineering, whose team developed MultiCloudJ — a cloud-agnostic Java SDK that allows Hyperforce service teams to deploy seamlessly across AWS, GCP, and Alibaba Cloud […] The post How AI Tools Accelerated Building and Adopting Cloud-Agnostic SDK Tasks From Months to Weeks appeared first on Salesforce Engineering Blog .",
+      "published_ts": 1764002858,
+      "source_name": "Salesforce Engineering",
+      "score": 53.72954401373863,
+      "content_type": "technical"
     },
     {
       "url": "https://www.dataiku.com/stories/blog/softbank",
@@ -30,7 +42,8 @@
       "summary": "SoftBank Corp. is transforming sales with AI agents in Dataiku, capturing every conversation as insight, boosting data quality, and delivering various insights while working to reclaim a quarter-million hours a year for selling. 90% of sellers report higher quality and efficiency in data-driven selling 80% of customer conversations now link directly to opportunities ~20 hours saved per seller per month, projected 250,000 hours saved annually at scale",
       "published_ts": 1764079020,
       "source_name": "Dataiku Blog",
-      "score": 52.715611562132835
+      "score": 52.715611562132835,
+      "content_type": "technical"
     },
     {
       "url": "https://blog.zenika.com/2025/11/25/%f0%9f%a4%96-gemini-dans-votre-terminal-avec-gemini-cli/",
@@ -38,7 +51,8 @@
       "summary": "👉 CLI, Kezako? Les Command Line Interface (CLI) sont  des outils en ligne de commande qui permettent d’interagir avec une",
       "published_ts": 1764067532,
       "source_name": "Zenika Tech Blog",
-      "score": 50.1067309230566
+      "score": 50.1067309230566,
+      "content_type": "technical"
     }
   ],
   "cloud_infra_observability": [
@@ -48,7 +62,8 @@
       "summary": "In this post, we show you how Medidata created a unified, scalable, real-time data platform that serves thousands of clinical trials worldwide with AWS services, Apache Iceberg, and a modern lakehouse architecture.",
       "published_ts": 1764205246,
       "source_name": "Redshift / AWS Big Data",
-      "score": 56.13862632215023
+      "score": 56.13862632215023,
+      "content_type": "technical"
     }
   ],
   "data_modeling_governance": [
@@ -58,7 +73,8 @@
       "summary": "The Era of Open GovernanceA year after we open-sourced Unity Catalog (UC), the results...",
       "published_ts": 1764176400,
       "source_name": "Databricks Blog",
-      "score": 63.17786976695061
+      "score": 63.17786976695061,
+      "content_type": "technical"
     },
     {
       "url": "https://blog.dataexpert.io/p/how-to-secure-your-data-a-practical",
@@ -66,7 +82,8 @@
       "summary": "A practical guide for Data Engineers",
       "published_ts": 1764174995,
       "source_name": "DataEngineer.io",
-      "score": 53.416567742824554
+      "score": 53.416567742824554,
+      "content_type": "technical"
     },
     {
       "url": "https://aws.amazon.com/blogs/big-data/introducing-catalog-federation-for-apache-iceberg-tables-in-the-aws-glue-data-catalog/",
@@ -74,7 +91,8 @@
       "summary": "AWS Glue now supports catalog federation for remote Iceberg tables in the Data Catalog. With catalog federation, you can query remote Iceberg tables, stored in Amazon S3 and cataloged in remote Iceberg catalogs, using AWS analytics engines and without moving or duplicating tables. In this post, we discuss how to get started with catalog federation for Iceberg tables in the Data Catalog.",
       "published_ts": 1764194887,
       "source_name": "Redshift / AWS Big Data",
-      "score": 52.58264157176018
+      "score": 52.58264157176018,
+      "content_type": "technical"
     }
   ],
   "etl_orchestration": [
@@ -84,7 +102,8 @@
       "summary": "With Dagster’s dbt integration, run and monitor dbt models as part of a larger, asset-driven pipeline for improved lineage and scheduling.",
       "published_ts": 1764004409,
       "source_name": "Dagster Blog",
-      "score": 62.82555115222931
+      "score": 62.82555115222931,
+      "content_type": "technical"
     },
     {
       "url": "https://dagster.io/blog/decade-of-data",
@@ -92,7 +111,8 @@
       "summary": "Our $14M Series A is just the start. Learn how Dagster is positioned for long-term success in the next decade of data.",
       "published_ts": 1764004409,
       "source_name": "Dagster Blog",
-      "score": 62.4800795763731
+      "score": 62.4800795763731,
+      "content_type": "technical"
     },
     {
       "url": "https://dlthub.com/blog/workspace-video-tutorial",
@@ -100,7 +120,8 @@
       "summary": "dltHub Workspace: A frictionless LLM-native approach designed to help data developers build, run, and analyze complete pipelines.",
       "published_ts": 1764115200,
       "source_name": "dlt Blog",
-      "score": 54.013349279761314
+      "score": 54.013349279761314,
+      "content_type": "technical"
     }
   ],
   "hors_sujet": [
@@ -110,7 +131,8 @@
       "summary": "In the world where your chance of working at a big tech company is measured by how bad your data pipeline is.",
       "published_ts": 1764040522,
       "source_name": "VuTrinh · Data Engineering",
-      "score": 63.497723281383514
+      "score": 63.497723281383514,
+      "content_type": "technical"
     }
   ],
   "lake_storage_formats": [
@@ -120,7 +142,8 @@
       "summary": "In this post, we walk you through the new capabilities in Iceberg V3, explain how deletion vectors and row lineage address these challenges, explore real-world use cases across industries, and provide practical guidance on implementing Iceberg V3 features across AWS analytics, catalog, and storage services.",
       "published_ts": 1764194747,
       "source_name": "Redshift / AWS Big Data",
-      "score": 53.90514732897282
+      "score": 53.90514732897282,
+      "content_type": "technical"
     }
   ],
   "news": [],
@@ -132,7 +155,8 @@
       "summary": "This article shows how I used DuckDB in AWS Lambda in an easy way. I'll explain how my pre-built Lambda layers bypass complex build processes, allowing you to use DuckDB for efficient serverless analytics with ease.",
       "published_ts": 1764154404,
       "source_name": "Zenika Tech Blog",
-      "score": 58.025508746504784
+      "score": 58.025508746504784,
+      "content_type": "technical"
     }
   ],
   "warehouses_engines": [
@@ -142,7 +166,8 @@
       "summary": "In this post, we demonstrate the write performance benefits of using the Amazon EMR 7.12 runtime for Spark and Iceberg compares to open source Spark 3.5.6 with Iceberg 1.10.0 tables on a 3TB merge workload.",
       "published_ts": 1764205388,
       "source_name": "Redshift / AWS Big Data",
-      "score": 54.71528333425522
+      "score": 54.71528333425522,
+      "content_type": "technical"
     },
     {
       "url": "https://aws.amazon.com/blogs/big-data/achieve-2x-faster-data-lake-query-performance-with-apache-iceberg-on-amazon-redshift/",
@@ -150,7 +175,8 @@
       "summary": "In 2025, Amazon Redshift delivered several performance optimizations that improved query performance over twofold for Iceberg workloads on Amazon Redshift Serverless, delivering exceptional performance and cost-effectiveness for your data lake workloads. In this post, we describe some of the optimizations that led to these performance gains.",
       "published_ts": 1764195375,
       "source_name": "Redshift / AWS Big Data",
-      "score": 52.11335602402687
+      "score": 52.11335602402687,
+      "content_type": "technical"
     }
   ]
 }
