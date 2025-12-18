@@ -487,7 +487,7 @@ async def run(config_path: str = "config.yaml"):
                         if not cat_key: continue
 
                         # Détection du type de contenu (technical vs rex)
-                        content_type = detect_content_type(title, summary, content_text, cfg.model_dump())
+                        content_type = detect_content_type(title, summary, content_text, cfg.model_dump(), source_name=name)
 
                         item = {
                             "id": hash_id(link, title),
@@ -550,7 +550,7 @@ async def run(config_path: str = "config.yaml"):
                         if not cat_key: continue
 
                         # Détection du type de contenu (technical vs rex)
-                        content_type = detect_content_type(t, text_content[:300], text_content, cfg.model_dump())
+                        content_type = detect_content_type(t, text_content[:300], text_content, cfg.model_dump(), source_name=name)
 
                         item = {
                             "id": hash_id(href, t),

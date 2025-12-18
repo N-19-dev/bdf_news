@@ -165,7 +165,7 @@ export default function App() {
         weeks={weeks.map(w => w.week)}
         onWeekChange={onWeekChange}
       />
-      <main className="max-w-6xl mx-auto px-4 py-8 space-y-8">
+      <main className="max-w-6xl mx-auto px-4 py-4 sm:py-6 md:py-8 space-y-4 sm:space-y-6 md:space-y-8">
         <Overview content={data.overview} />
 
         {/* Onglets de type de contenu */}
@@ -177,7 +177,7 @@ export default function App() {
         />
 
         {/* Barre de recherche et filtres */}
-        <div className="space-y-4">
+        <div className="space-y-3 sm:space-y-4">
           <SearchBar
             searchQuery={searchQuery}
             onSearchChange={setSearchQuery}
@@ -191,15 +191,15 @@ export default function App() {
 
         {/* Message si aucun résultat */}
         {(searchQuery || selectedCategory) && filteredSections.length === 0 && (
-          <div className="text-center py-12">
-            <p className="text-neutral-500 text-lg">
+          <div className="text-center py-8 sm:py-12">
+            <p className="text-neutral-500 text-base sm:text-lg">
               Aucun article trouvé pour cette recherche ou filtre.
             </p>
           </div>
         )}
 
         <Top3 items={data.top3} />
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
           {filteredSections.map((sec: any) =>
             sec.items?.length ? (
               <SectionCard

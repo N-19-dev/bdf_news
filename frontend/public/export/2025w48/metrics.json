@@ -1,11 +1,11 @@
 {
-  "start_time": "2025-12-03T17:54:50.133624",
+  "start_time": "2025-12-18T18:06:37.721641",
   "feeds_processed": 0,
   "feeds_failed": 0,
-  "articles_crawled": 40,
+  "articles_crawled": 34,
   "articles_filtered": 0,
   "articles_classified": 0,
   "llm_calls": 0,
   "errors": [],
-  "end_time": "2025-12-03T17:55:22.191586"
+  "end_time": "2025-12-18T18:08:06.703657"
 }

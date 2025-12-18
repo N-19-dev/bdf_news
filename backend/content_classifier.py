@@ -8,7 +8,7 @@ Classification des articles en deux types :
 from typing import Dict, Any, List
 
 
-def detect_content_type(title: str, summary: str, content: str, config: Dict[str, Any]) -> str:
+def detect_content_type(title: str, summary: str, content: str, config: Dict[str, Any], source_name: str = "") -> str:
     """
     Détermine si un article est un REX/All Hands ou un article technique standard.
 
@@ -17,11 +17,24 @@ def detect_content_type(title: str, summary: str, content: str, config: Dict[str
         summary: Résumé de l'article
         content: Contenu complet (premiers caractères)
         config: Configuration avec les mots-clés REX
+        source_name: Nom de la source (pour filtrer les sources communautaires)
 
     Returns:
         "rex" ou "technical"
     """
     content_config = config.get("content_types", {})
+
+    # Vérifier que la source est communautaire
+    community_sources = content_config.get("community_sources", [])
+    if source_name and community_sources:
+        if source_name in community_sources:
+            # Source communautaire = toujours "rex" (inclut newsletters, tutoriels, REX)
+            return "rex"
+        else:
+            # Source corporate = toujours "technical"
+            return "technical"
+
+    # Si pas de liste de sources communautaires définie, fallback sur les patterns
     rex_keywords = content_config.get("rex_keywords", [])
     rex_title_bonus = content_config.get("rex_title_bonus", 30)
     rex_min_score = content_config.get("rex_min_score", 40)
@@ -45,23 +58,69 @@ def detect_content_type(title: str, summary: str, content: str, config: Dict[str
         if count > 0:
             rex_score += count * 10  # 10 points par occurrence
 
-    # Patterns supplémentaires pour REX
-    rex_patterns = [
+    # Patterns supplémentaires pour REX (avec scoring différencié)
+    # Patterns forts = mots-clés qui indiquent presque certainement un REX
+    strong_rex_patterns = [
+        "how we",
+        "why we",
         "we migrated",
         "we scaled",
         "we built",
         "we learned",
+        "our experience",
+        "our approach",
+        "our journey",
         "our story",
-        "from the trenches",
-        "in the wild",
-        "production experience",
-        "real-world",
-        "battle-tested",
+        "retour d'expérience",
+        "all hands",
+        "postmortem",
+        "post-mortem",
+        "incident report",
+        "lessons learned",
+        "what we learned",
+        "year in review",
+        "retrospective",
     ]
 
-    for pattern in rex_patterns:
+    # Patterns moyens = indicateurs possibles de REX
+    medium_rex_patterns = [
+        "building",
+        "scaling",
+        "migrating",
+        "moving to",
+        "switching to",
+        "adopting",
+        "implementing at",
+        "journey to",
+        "at scale",
+        "in production",
+        "real-world",
+        "from the trenches",
+        "in the wild",
+        "battle-tested",
+        "looking back",
+        "deep dive into our",
+        "inside",
+        "behind the scenes",
+    ]
+
+    # Score pour patterns forts
+    for pattern in strong_rex_patterns:
         if pattern in full_text:
-            rex_score += 15
+            # Bonus titre important si dans le titre
+            if pattern in title_lower:
+                rex_score += 35  # Fort bonus titre
+            else:
+                rex_score += 20  # Fort bonus texte
+
+    # Score pour patterns moyens
+    for pattern in medium_rex_patterns:
+        if pattern in full_text:
+            # Bonus titre modéré si dans le titre
+            if pattern in title_lower:
+                rex_score += 20  # Moyen bonus titre
+            else:
+                rex_score += 8   # Moyen bonus texte
 
     # Décision finale
     if rex_score >= rex_min_score:

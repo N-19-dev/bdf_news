@@ -2,7 +2,7 @@
 
 export type WeekMeta = { week: string; range?: string };
 export type TopItem = { title: string; url: string; source?: string; date?: string; score?: string|number };
-export type SectionItem = { title: string; url: string; source?: string; score?: string|number };
+export type SectionItem = { title: string; url: string; source?: string; score?: string|number; content_type?: string };
 export type SummarySection = { title: string; items: SectionItem[] };
 
 // ---------- helpers de chargement (inchangés si tu es en statique) ----------
@@ -80,17 +80,73 @@ function parseSections(md: string): SummarySection[] {
   return sections;
 }
 
+// ---------- Chargement des catégories ----------
+let _categoriesCache: Record<string, string> | null = null;
+
+async function loadCategories(): Promise<Record<string, string>> {
+  if (_categoriesCache) return _categoriesCache;
+  try {
+    const txt = await loadText("export/categories.json");
+    _categoriesCache = JSON.parse(txt);
+    return _categoriesCache!;
+  } catch {
+    return {}; // Fallback si le fichier n'existe pas
+  }
+}
+
+// ---------- Chargement de la sélection JSON ----------
+function selectionPath(meta: WeekMeta): string {
+  return meta.week === "latest"
+    ? "export/latest/ai_selection.json"
+    : `export/${meta.week}/ai_selection.json`;
+}
+
+async function loadSelectionJson(meta: WeekMeta): Promise<Record<string, any[]>> {
+  try {
+    const txt = await loadText(selectionPath(meta));
+    return JSON.parse(txt);
+  } catch {
+    return {}; // Fallback si le fichier n'existe pas
+  }
+}
+
 // ---------- API principale ----------
 export async function loadWeekSummary(meta: WeekMeta): Promise<{
-  overview: string;          // <- nouveau
+  overview: string;
   top3: TopItem[];
   sections: SummarySection[];
 }> {
+  // Charger le markdown pour overview et top3
   const md = await loadText(summaryPath(meta));
+
+  // Charger le JSON pour les sections (avec content_type)
+  const selectionData = await loadSelectionJson(meta);
+  const categories = await loadCategories();
+
+  // Transformer le JSON en sections
+  const sections: SummarySection[] = [];
+
+  // Parcourir dans l'ordre des catégories
+  for (const [categoryKey, items] of Object.entries(selectionData)) {
+    const categoryTitle = categories[categoryKey] || categoryKey;
+
+    const sectionItems: SectionItem[] = items.map((item: any) => ({
+      title: item.title || "",
+      url: item.url || "",
+      source: item.source_name || "",
+      score: item.score,
+      content_type: item.content_type || "technical",
+    }));
+
+    if (sectionItems.length > 0) {
+      sections.push({ title: categoryTitle, items: sectionItems });
+    }
+  }
+
   return {
     overview: parseOverview(md),
     top3: parseTop3(md),
-    sections: parseSections(md),
+    sections,
   };
 }
 export async function loadLatestWeek(): Promise<WeekMeta> {

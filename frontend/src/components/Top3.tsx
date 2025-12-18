@@ -20,9 +20,6 @@ export default function Top3({ items }: { items: Item[] }) {
               {it.source}{it.date ? ` · ${it.date}` : ""}
             </div>
             <div className="mt-1 font-medium leading-snug group-hover:underline">{it.title}</div>
-            {typeof it.score === "number" && (
-              <div className="mt-2 text-xs text-neutral-500">Score: {it.score}</div>
-            )}
           </a>
         ))}
       </div>

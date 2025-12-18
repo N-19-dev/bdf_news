@@ -342,6 +342,24 @@ def build_top_k_md(items: List[Dict[str, Any]], k: int = 3) -> str:
 #   Weeks index
 # ==========================
 
+def write_categories_index(out_root: Path, cfg: Dict[str, Any]):
+    """
+    Génère export/categories.json : mapping category_key -> category_title
+    pour permettre au frontend de résoudre les noms de catégories.
+    """
+    cat_map = {}
+    for cat in cfg.get("categories", []):
+        key = cat.get("key")
+        title = cat.get("title", key)
+        if key:
+            cat_map[key] = title
+
+    (out_root / "categories.json").write_text(
+        json.dumps(cat_map, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"[done] Index des catégories: {out_root / 'categories.json'}")
+
+
 def write_weeks_index(out_root: Path):
     """
     Génère export/weeks.json listant toutes les semaines (YYYYwWW),
@@ -527,6 +545,9 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
     # --- range lisible pour la semaine ---
     range_path = week_dir / "range.txt"
     range_path.write_text(f"{week_start_h} → {week_end_h}\n", encoding="utf-8")
+
+    # --- index global des catégories ---
+    write_categories_index(out_root, cfg)
 
     # --- index global des semaines ---
     write_weeks_index(out_root)

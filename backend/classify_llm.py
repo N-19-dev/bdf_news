@@ -17,8 +17,12 @@ from typing import List, Dict, Any, Optional
 
 from openai import OpenAI
 from pydantic import BaseModel
+from dotenv import load_dotenv
 
 from veille_tech import db_conn, week_bounds
+
+# Charger les variables d'environnement depuis .env
+load_dotenv()
 
 # -----------------------
 # Models
@@ -168,7 +172,10 @@ Contenu (extrait):
                         print(f"[CHANGE] {it['title'][:30]}... : {it['category_key']} -> {new_key}")
                     else:
                         mark_as_processed(db_path, it["id"])
-                    
+
+                    # Délai pour respecter le rate limit Groq (30 req/min = 2 sec/req)
+                    await asyncio.sleep(2.5)
+
                     # Success, break retry loop
                     break
 
@@ -217,13 +224,13 @@ async def main(config_path: str = "config.yaml", limit: Optional[int] = None, fo
     
     if items:
         await classify_items(
-            items, 
-            cfg["categories"], 
-            base_url, 
-            api_key_env, 
-            model, 
+            items,
+            cfg["categories"],
+            base_url,
+            api_key_env,
+            model,
             db_path,
-            concurrency=2
+            concurrency=1  # Réduit à 1 pour éviter rate limits Groq (30 req/min)
         )
 
 if __name__ == "__main__":

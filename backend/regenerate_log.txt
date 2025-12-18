@@ -1,0 +1,379 @@
+2025-12-16 11:18:36 | INFO     | veille_tech | Starting veille tech pipeline | config=config.yaml
+2025-12-16 11:18:36 | INFO     | veille_tech | Processing week 2025w50 | start=2025-12-08 | end=2025-12-15 | offset=-1
+2025-12-16 11:18:36 | WARNING  | veille_tech | URL not found (404) | url=https://blog.min.io/index.xml
+2025-12-16 11:18:36 | WARNING  | veille_tech | URL not found (404) | url=https://duckdb.org/news/index.xml
+2025-12-16 11:18:36 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/dataengineering/rss
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://www.getdbt.com/rss.xml
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://delta.io/blog/index.xml
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://cloud.google.com/blog/feeds/posts/default
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://www.startdataengineering.com/index.xml
+2025-12-16 11:18:37 | WARNING  | veille_tech | Rate limited (429) | url=https://hashnode.com/n/data/rss
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://grafana.com/blog/rss/
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://www.astronomer.io/blog/rss.xml
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://fastapi.tiangolo.com/feed.xml
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://www.datafold.com/blog/rss.xml
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://www.starrocks.io/blog/rss
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://clickhouse.com/blog/rss
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/data/rss
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://www.datadoghq.com/blog/engineering/rss/
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://www.pinecone.io/learn/feed.xml
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://greatexpectations.io/blog/feed
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://www.scaleway.com/en/blog/rss/
+2025-12-16 11:18:37 | WARNING  | veille_tech | URL not found (404) | url=https://www.atlassian.com/blog/rss/engineering.xml
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://www.confluent.io/blog/feed/
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://www.twilio.com/blog/tag/engineering/feed
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://airflow.apache.org/feeds/blog.xml
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://www.pola.rs/feed.xml
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://www.prefect.io/blog/rss.xml
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://www.collibra.com/us/en/blog/rss
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/datascience/rss
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://medium.com/tag/data/rss
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://cloud.google.com/bigquery/rss.xml
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://www.snowflake.com/blog/feed/
+2025-12-16 11:18:38 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/machinelearning/rss
+2025-12-16 11:18:38 | WARNING  | veille_tech | Rate limited (429) | url=https://hashnode.com/n/machine-learning/rss
+2025-12-16 11:18:39 | WARNING  | veille_tech | URL not found (404) | url=https://segment.com/blog/feed/
+2025-12-16 11:18:39 | WARNING  | veille_tech | URL not found (404) | url=https://monzo.com/blog/feed
+2025-12-16 11:18:39 | WARNING  | veille_tech | URL not found (404) | url=https://medium.com/feed/blablacar-tech
+2025-12-16 11:18:39 | WARNING  | veille_tech | URL not found (404) | url=https://ai.googleblog.com/feeds/posts/default
+2025-12-16 11:18:40 | WARNING  | veille_tech | URL not found (404) | url=https://developers.soundcloud.com/blog/feed.xml
+2025-12-16 11:18:40 | WARNING  | veille_tech | URL not found (404) | url=https://blog.ippon.fr/feed.xml
+2025-12-16 11:18:41 | WARNING  | veille_tech | URL not found (404) | url=https://wandb.ai/site/rss.xml
+2025-12-16 11:18:41 | WARNING  | veille_tech | URL not found (404) | url=https://medium.com/tag/machine-learning/rss
+2025-12-16 11:18:43 | WARNING  | veille_tech | URL not found (404) | url=https://shopify.engineering/blog.atom
+2025-12-16 11:18:43 | WARNING  | veille_tech | URL not found (404) | url=https://www.clever-cloud.com/blog/feed.xml
+  0%|          | 0/42 [00:00<?, ?it/s] 10%|▉         | 4/42 [00:01<00:12,  3.16it/s] 12%|█▏        | 5/42 [00:01<00:11,  3.20it/s] 14%|█▍        | 6/42 [00:02<00:15,  2.36it/s] 17%|█▋        | 7/42 [00:02<00:12,  2.75it/s] 21%|██▏       | 9/42 [00:03<00:17,  1.93it/s] 24%|██▍       | 10/42 [00:04<00:16,  1.98it/s] 26%|██▌       | 11/42 [00:04<00:16,  1.92it/s]/Users/nathansornet/Documents/veille_tech_crawling/backend/veille_tech.py:506: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(text, "lxml")
+ 31%|███       | 13/42 [00:05<00:13,  2.12it/s] 33%|███▎      | 14/42 [00:07<00:19,  1.41it/s] 36%|███▌      | 15/42 [00:08<00:20,  1.29it/s] 38%|███▊      | 16/42 [00:08<00:18,  1.37it/s] 40%|████      | 17/42 [00:10<00:22,  1.13it/s] 43%|████▎     | 18/42 [00:10<00:17,  1.37it/s] 45%|████▌     | 19/42 [00:10<00:13,  1.71it/s] 48%|████▊     | 20/42 [00:11<00:15,  1.40it/s]2025-12-16 11:19:00 | WARNING  | veille_tech | URL not found (404) | url=https://addons.mozilla.org/en-US/firefox/addon/daily/
+ 55%|█████▍    | 23/42 [00:12<00:09,  1.96it/s] 60%|█████▉    | 25/42 [00:13<00:08,  2.09it/s] 76%|███████▌  | 32/42 [00:14<00:02,  3.81it/s] 79%|███████▊  | 33/42 [00:15<00:02,  3.42it/s] 83%|████████▎ | 35/42 [00:15<00:02,  3.37it/s] 88%|████████▊ | 37/42 [00:16<00:01,  3.10it/s] 90%|█████████ | 38/42 [00:17<00:01,  2.63it/s] 93%|█████████▎| 39/42 [00:17<00:01,  2.45it/s] 95%|█████████▌| 40/42 [00:18<00:01,  1.81it/s] 98%|█████████▊| 41/42 [00:19<00:00,  1.97it/s]100%|██████████| 42/42 [00:35<00:00,  4.31s/it]100%|██████████| 42/42 [00:35<00:00,  1.20it/s]
+2025-12-16 11:19:23 | INFO     | veille_tech | Pipeline completed successfully | feeds_processed=42 | new_items=79 | total_articles=77 | week=2025w50
+Done. New items inserted: 79
+Exported: export/2025w50/digest.json
+Exported: export/2025w50/digest.md
+Metrics: export/2025w50/metrics.json
+[classify] 77 items à classifier (semaine courante).
+[warn] GROQ_API_KEY manquant, skip classification.
+[diag] items dans la semaine: 77
+[diag] items avec final_score (semaine): 77
+[done] Sélection (semaine 2025w50): 34 items ≥ seuils
+ - export/2025w50/ai_selection.json
+ - export/2025w50/ai_selection.md
+[done] Top 3: export/2025w50/top3.md
+[done] Index des semaines: export/weeks.json
+[done] Index de recherche (488 items): export/search.json
+[diag] items dans ai_selection: 34
+Traceback (most recent call last):
+  File "/Users/nathansornet/Documents/veille_tech_crawling/backend/summarize_week_llm.py", line 366, in <module>
+    main(args.config, week_offset=args.week_offset)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nathansornet/Documents/veille_tech_crawling/backend/summarize_week_llm.py", line 332, in main
+    weekly_md = generate_weekly_summary_openai(
+        base_url=base_url,
+    ...<7 lines>...
+        max_tokens=max_tokens,
+    )
+  File "/Users/nathansornet/Documents/veille_tech_crawling/backend/summarize_week_llm.py", line 210, in generate_weekly_summary_openai
+    raise RuntimeError(f"Variable d'environnement {api_key_env} manquante.")
+RuntimeError: Variable d'environnement GROQ_API_KEY manquante.
+2025-12-16 11:19:46 | INFO     | veille_tech | Starting veille tech pipeline | config=config.yaml
+2025-12-16 11:19:46 | INFO     | veille_tech | Processing week 2025w49 | start=2025-12-01 | end=2025-12-08 | offset=-2
+2025-12-16 11:19:46 | WARNING  | veille_tech | URL not found (404) | url=https://www.astronomer.io/blog/rss.xml
+2025-12-16 11:19:46 | WARNING  | veille_tech | URL not found (404) | url=https://fastapi.tiangolo.com/feed.xml
+2025-12-16 11:19:46 | WARNING  | veille_tech | URL not found (404) | url=https://duckdb.org/news/index.xml
+2025-12-16 11:19:46 | WARNING  | veille_tech | URL not found (404) | url=https://blog.min.io/index.xml
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://delta.io/blog/index.xml
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://www.startdataengineering.com/index.xml
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://www.getdbt.com/rss.xml
+2025-12-16 11:19:47 | WARNING  | veille_tech | Rate limited (429) | url=https://hashnode.com/n/machine-learning/rss
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://airflow.apache.org/feeds/blog.xml
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://www.collibra.com/us/en/blog/rss
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://shopify.engineering/blog.atom
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://www.snowflake.com/blog/feed/
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://wandb.ai/site/rss.xml
+2025-12-16 11:19:47 | WARNING  | veille_tech | Rate limited (429) | url=https://hashnode.com/n/data/rss
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://cloud.google.com/blog/feeds/posts/default
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://www.scaleway.com/en/blog/rss/
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://greatexpectations.io/blog/feed
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/datascience/rss
+2025-12-16 11:19:47 | WARNING  | veille_tech | URL not found (404) | url=https://www.prefect.io/blog/rss.xml
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://grafana.com/blog/rss/
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://www.datafold.com/blog/rss.xml
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/machinelearning/rss
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://www.confluent.io/blog/feed/
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://www.pinecone.io/learn/feed.xml
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://cloud.google.com/bigquery/rss.xml
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://www.starrocks.io/blog/rss
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://blog.ippon.fr/feed.xml
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://www.datadoghq.com/blog/engineering/rss/
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://monzo.com/blog/feed
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://segment.com/blog/feed/
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://clickhouse.com/blog/rss
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://www.pola.rs/feed.xml
+2025-12-16 11:19:48 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/dataengineering/rss
+2025-12-16 11:19:49 | WARNING  | veille_tech | URL not found (404) | url=https://developers.soundcloud.com/blog/feed.xml
+2025-12-16 11:19:49 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/data/rss
+2025-12-16 11:19:49 | WARNING  | veille_tech | URL not found (404) | url=https://ai.googleblog.com/feeds/posts/default
+2025-12-16 11:19:50 | WARNING  | veille_tech | URL not found (404) | url=https://www.atlassian.com/blog/rss/engineering.xml
+2025-12-16 11:19:50 | WARNING  | veille_tech | URL not found (404) | url=https://www.twilio.com/blog/tag/engineering/feed
+2025-12-16 11:19:50 | WARNING  | veille_tech | URL not found (404) | url=https://medium.com/tag/data-engineering/rss
+2025-12-16 11:19:51 | WARNING  | veille_tech | URL not found (404) | url=https://medium.com/feed/blablacar-tech
+2025-12-16 11:19:51 | WARNING  | veille_tech | URL not found (404) | url=https://medium.com/tag/data/rss
+2025-12-16 11:19:53 | WARNING  | veille_tech | URL not found (404) | url=https://www.clever-cloud.com/blog/feed.xml
+  0%|          | 0/42 [00:00<?, ?it/s]  2%|▏         | 1/42 [00:01<00:47,  1.16s/it]  5%|▍         | 2/42 [00:02<00:43,  1.09s/it]  7%|▋         | 3/42 [00:03<00:52,  1.36s/it] 10%|▉         | 4/42 [00:09<01:54,  3.02s/it] 12%|█▏        | 5/42 [00:09<01:15,  2.04s/it] 14%|█▍        | 6/42 [00:10<00:54,  1.51s/it] 17%|█▋        | 7/42 [00:11<00:46,  1.33s/it] 19%|█▉        | 8/42 [00:11<00:38,  1.12s/it] 21%|██▏       | 9/42 [00:13<00:43,  1.32s/it] 24%|██▍       | 10/42 [00:13<00:30,  1.05it/s] 29%|██▊       | 12/42 [00:14<00:19,  1.58it/s] 31%|███       | 13/42 [00:14<00:15,  1.86it/s] 33%|███▎      | 14/42 [00:15<00:15,  1.86it/s] 36%|███▌      | 15/42 [00:15<00:12,  2.23it/s] 38%|███▊      | 16/42 [00:15<00:10,  2.60it/s] 40%|████      | 17/42 [00:15<00:09,  2.53it/s] 43%|████▎     | 18/42 [00:17<00:14,  1.68it/s] 45%|████▌     | 19/42 [00:17<00:11,  1.98it/s] 50%|█████     | 21/42 [00:17<00:08,  2.35it/s] 52%|█████▏    | 22/42 [00:18<00:09,  2.08it/s] 55%|█████▍    | 23/42 [00:19<00:10,  1.82it/s] 57%|█████▋    | 24/42 [00:21<00:16,  1.10it/s] 60%|█████▉    | 25/42 [00:22<00:16,  1.01it/s] 62%|██████▏   | 26/42 [00:23<00:15,  1.06it/s]2025-12-16 11:20:33 | WARNING  | veille_tech | URL not found (404) | url=https://addons.mozilla.org/en-US/firefox/addon/daily/
+ 64%|██████▍   | 27/42 [00:24<00:14,  1.07it/s] 67%|██████▋   | 28/42 [00:24<00:10,  1.31it/s] 69%|██████▉   | 29/42 [00:25<00:11,  1.17it/s] 71%|███████▏  | 30/42 [00:26<00:11,  1.05it/s]/Users/nathansornet/Documents/veille_tech_crawling/backend/veille_tech.py:506: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(text, "lxml")
+ 79%|███████▊  | 33/42 [00:27<00:04,  2.16it/s] 81%|████████  | 34/42 [00:27<00:03,  2.20it/s] 86%|████████▌ | 36/42 [00:28<00:03,  1.77it/s]2025-12-16 11:20:43 | ERROR    | veille_tech | Connection error | url=https://slack.engineering/feed/ | error=Cannot connect to host slack.engineering:443 ssl:default [None]
+ 88%|████████▊ | 37/42 [00:33<00:06,  1.36s/it] 90%|█████████ | 38/42 [00:35<00:06,  1.64s/it] 93%|█████████▎| 39/42 [00:36<00:04,  1.38s/it] 95%|█████████▌| 40/42 [00:38<00:02,  1.46s/it] 98%|█████████▊| 41/42 [00:38<00:01,  1.18s/it]100%|██████████| 42/42 [00:58<00:00,  6.58s/it]100%|██████████| 42/42 [00:58<00:00,  1.40s/it]
+2025-12-16 11:21:09 | INFO     | veille_tech | Pipeline completed successfully | feeds_processed=42 | new_items=62 | total_articles=76 | week=2025w49
+Done. New items inserted: 62
+Exported: export/2025w49/digest.json
+Exported: export/2025w49/digest.md
+Metrics: export/2025w49/metrics.json
+[classify] 28 items à classifier (semaine courante).
+[warn] GROQ_API_KEY manquant, skip classification.
+[diag] items dans la semaine: 76
+[diag] items avec final_score (semaine): 76
+[done] Sélection (semaine 2025w49): 32 items ≥ seuils
+ - export/2025w49/ai_selection.json
+ - export/2025w49/ai_selection.md
+[done] Top 3: export/2025w49/top3.md
+[done] Index des semaines: export/weeks.json
+[done] Index de recherche (516 items): export/search.json
+[diag] items dans ai_selection: 32
+Traceback (most recent call last):
+  File "/Users/nathansornet/Documents/veille_tech_crawling/backend/summarize_week_llm.py", line 366, in <module>
+    main(args.config, week_offset=args.week_offset)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nathansornet/Documents/veille_tech_crawling/backend/summarize_week_llm.py", line 332, in main
+    weekly_md = generate_weekly_summary_openai(
+        base_url=base_url,
+    ...<7 lines>...
+        max_tokens=max_tokens,
+    )
+  File "/Users/nathansornet/Documents/veille_tech_crawling/backend/summarize_week_llm.py", line 210, in generate_weekly_summary_openai
+    raise RuntimeError(f"Variable d'environnement {api_key_env} manquante.")
+RuntimeError: Variable d'environnement GROQ_API_KEY manquante.
+2025-12-16 11:21:24 | INFO     | veille_tech | Starting veille tech pipeline | config=config.yaml
+2025-12-16 11:21:24 | INFO     | veille_tech | Processing week 2025w48 | start=2025-11-24 | end=2025-12-01 | offset=-3
+2025-12-16 11:21:24 | WARNING  | veille_tech | URL not found (404) | url=https://airflow.apache.org/feeds/blog.xml
+2025-12-16 11:21:24 | WARNING  | veille_tech | URL not found (404) | url=https://fastapi.tiangolo.com/feed.xml
+2025-12-16 11:21:24 | WARNING  | veille_tech | URL not found (404) | url=https://www.datafold.com/blog/rss.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://duckdb.org/news/index.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://delta.io/blog/index.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://clickhouse.com/blog/rss
+2025-12-16 11:21:25 | WARNING  | veille_tech | Rate limited (429) | url=https://hashnode.com/n/machine-learning/rss
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://www.confluent.io/blog/feed/
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://grafana.com/blog/rss/
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://www.getdbt.com/rss.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://www.starrocks.io/blog/rss
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://www.pinecone.io/learn/feed.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://www.startdataengineering.com/index.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://blog.min.io/index.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://www.prefect.io/blog/rss.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://www.datadoghq.com/blog/engineering/rss/
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://cloud.google.com/blog/feeds/posts/default
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://cloud.google.com/bigquery/rss.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://greatexpectations.io/blog/feed
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://www.astronomer.io/blog/rss.xml
+2025-12-16 11:21:25 | WARNING  | veille_tech | URL not found (404) | url=https://www.scaleway.com/en/blog/rss/
+2025-12-16 11:21:26 | WARNING  | veille_tech | URL not found (404) | url=https://segment.com/blog/feed/
+2025-12-16 11:21:26 | WARNING  | veille_tech | URL not found (404) | url=https://www.collibra.com/us/en/blog/rss
+2025-12-16 11:21:26 | WARNING  | veille_tech | URL not found (404) | url=https://medium.com/feed/blablacar-tech
+2025-12-16 11:21:26 | ERROR    | veille_tech | Client error | url=https://blog.x.com/engineering/en_us/blog.rss | error=400, message='Got more than 8190 bytes (9962) when reading Header value is too long.', url='https://blog.x.com/engineering/en_us/blog.rss'
+2025-12-16 11:21:26 | WARNING  | veille_tech | Rate limited (429) | url=https://hashnode.com/n/data/rss
+2025-12-16 11:21:26 | WARNING  | veille_tech | URL not found (404) | url=https://www.snowflake.com/blog/feed/
+2025-12-16 11:21:26 | WARNING  | veille_tech | URL not found (404) | url=https://www.twilio.com/blog/tag/engineering/feed
+2025-12-16 11:21:26 | WARNING  | veille_tech | URL not found (404) | url=https://developers.soundcloud.com/blog/feed.xml
+2025-12-16 11:21:26 | WARNING  | veille_tech | URL not found (404) | url=https://www.pola.rs/feed.xml
+2025-12-16 11:21:27 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/data/rss
+2025-12-16 11:21:27 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/datascience/rss
+2025-12-16 11:21:27 | WARNING  | veille_tech | URL not found (404) | url=https://www.atlassian.com/blog/rss/engineering.xml
+2025-12-16 11:21:27 | WARNING  | veille_tech | URL not found (404) | url=https://shopify.engineering/blog.atom
+2025-12-16 11:21:28 | WARNING  | veille_tech | URL not found (404) | url=https://wandb.ai/site/rss.xml
+2025-12-16 11:21:28 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/dataengineering/rss
+2025-12-16 11:21:28 | WARNING  | veille_tech | URL not found (404) | url=https://medium.com/tag/data/rss
+2025-12-16 11:21:28 | WARNING  | veille_tech | URL not found (404) | url=https://monzo.com/blog/feed
+2025-12-16 11:21:28 | WARNING  | veille_tech | URL not found (404) | url=https://ai.googleblog.com/feeds/posts/default
+2025-12-16 11:21:28 | WARNING  | veille_tech | URL not found (404) | url=https://dev.to/t/machinelearning/rss
+2025-12-16 11:21:30 | WARNING  | veille_tech | URL not found (404) | url=https://blog.ippon.fr/feed.xml
+2025-12-16 11:21:31 | WARNING  | veille_tech | URL not found (404) | url=https://medium.com/tag/data-engineering/rss
+2025-12-16 11:21:35 | WARNING  | veille_tech | URL not found (404) | url=https://www.clever-cloud.com/blog/feed.xml
+  0%|          | 0/42 [00:00<?, ?it/s]  5%|▍         | 2/42 [00:00<00:19,  2.01it/s]  7%|▋         | 3/42 [00:01<00:22,  1.75it/s] 12%|█▏        | 5/42 [00:01<00:11,  3.33it/s] 17%|█▋        | 7/42 [00:02<00:11,  3.13it/s] 19%|█▉        | 8/42 [00:02<00:09,  3.69it/s] 24%|██▍       | 10/42 [00:02<00:06,  5.22it/s] 26%|██▌       | 11/42 [00:03<00:07,  3.98it/s]/Users/nathansornet/Documents/veille_tech_crawling/backend/veille_tech.py:506: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(text, "lxml")
+ 33%|███▎      | 14/42 [00:03<00:04,  6.06it/s] 36%|███▌      | 15/42 [00:03<00:04,  5.72it/s] 40%|████      | 17/42 [00:04<00:06,  3.82it/s] 45%|████▌     | 19/42 [00:04<00:04,  4.61it/s] 48%|████▊     | 20/42 [00:05<00:06,  3.53it/s] 62%|██████▏   | 26/42 [00:05<00:02,  7.78it/s] 67%|██████▋   | 28/42 [00:06<00:02,  5.21it/s] 71%|███████▏  | 30/42 [00:07<00:02,  4.23it/s] 74%|███████▍  | 31/42 [00:07<00:02,  4.15it/s] 76%|███████▌  | 32/42 [00:07<00:03,  3.31it/s] 79%|███████▊  | 33/42 [00:08<00:02,  3.73it/s] 81%|████████  | 34/42 [00:08<00:02,  3.29it/s] 83%|████████▎ | 35/42 [00:09<00:03,  1.91it/s] 86%|████████▌ | 36/42 [00:09<00:02,  2.33it/s] 88%|████████▊ | 37/42 [00:10<00:02,  2.02it/s] 90%|█████████ | 38/42 [00:10<00:01,  2.58it/s] 93%|█████████▎| 39/42 [00:10<00:01,  2.91it/s]2025-12-16 11:21:59 | WARNING  | veille_tech | URL not found (404) | url=https://addons.mozilla.org/en-US/firefox/addon/daily/
+ 95%|█████████▌| 40/42 [00:12<00:01,  1.41it/s] 98%|█████████▊| 41/42 [00:13<00:00,  1.29it/s]100%|██████████| 42/42 [00:20<00:00,  2.54s/it]100%|██████████| 42/42 [00:20<00:00,  2.08it/s]
+2025-12-16 11:22:08 | INFO     | veille_tech | Pipeline completed successfully | feeds_processed=42 | new_items=32 | total_articles=43 | week=2025w48
+Done. New items inserted: 32
+Exported: export/2025w48/digest.json
+Exported: export/2025w48/digest.md
+Metrics: export/2025w48/metrics.json
+[classify] 3 items à classifier (semaine courante).
+[warn] GROQ_API_KEY manquant, skip classification.
+[diag] items dans la semaine: 43
+[diag] items avec final_score (semaine): 43
+[done] Sélection (semaine 2025w48): 23 items ≥ seuils
+ - export/2025w48/ai_selection.json
+ - export/2025w48/ai_selection.md
+[done] Top 3: export/2025w48/top3.md
+[done] Index des semaines: export/weeks.json
+[done] Index de recherche (519 items): export/search.json
+[diag] items dans ai_selection: 23
+Traceback (most recent call last):
+  File "/Users/nathansornet/Documents/veille_tech_crawling/backend/summarize_week_llm.py", line 366, in <module>
+    main(args.config, week_offset=args.week_offset)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nathansornet/Documents/veille_tech_crawling/backend/summarize_week_llm.py", line 332, in main
+    weekly_md = generate_weekly_summary_openai(
+        base_url=base_url,
+    ...<7 lines>...
+        max_tokens=max_tokens,
+    )
+  File "/Users/nathansornet/Documents/veille_tech_crawling/backend/summarize_week_llm.py", line 210, in generate_weekly_summary_openai
+    raise RuntimeError(f"Variable d'environnement {api_key_env} manquante.")
+RuntimeError: Variable d'environnement GROQ_API_KEY manquante.
+
+🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 
+RÉGÉNÉRATION DES 3 DERNIÈRES SEMAINES
+🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 🔄 
+
+⚠️  GROQ_API_KEY n'est pas définie dans l'environnement.
+   Les étapes LLM (classification et résumé) seront ignorées en cas d'erreur.
+
+
+################################################################################
+# RÉGÉNÉRATION DE LA SEMAINE -1
+################################################################################
+
+
+📥 Étape 1/4 : Crawl des articles (semaine -1)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python veille_tech.py --config config.yaml --week-offset -1
+================================================================================
+
+🏷️  Étape 2/4 : Classification LLM (semaine -1)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python classify_llm.py --config config.yaml --week-offset -1
+================================================================================
+
+📊 Étape 3/4 : Analyse de pertinence (semaine -1)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python analyze_relevance.py --config config.yaml --week-offset -1
+================================================================================
+
+📝 Étape 4/4 : Résumé de la semaine (semaine -1)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python summarize_week_llm.py --config config.yaml --week-offset -1
+================================================================================
+
+⚠️  Le résumé LLM a échoué (probablement GROQ_API_KEY manquant)
+   Les autres données ont été régénérées avec succès.
+
+✅ Semaine -1 régénérée avec succès !
+
+################################################################################
+# RÉGÉNÉRATION DE LA SEMAINE -2
+################################################################################
+
+
+📥 Étape 1/4 : Crawl des articles (semaine -2)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python veille_tech.py --config config.yaml --week-offset -2
+================================================================================
+
+🏷️  Étape 2/4 : Classification LLM (semaine -2)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python classify_llm.py --config config.yaml --week-offset -2
+================================================================================
+
+📊 Étape 3/4 : Analyse de pertinence (semaine -2)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python analyze_relevance.py --config config.yaml --week-offset -2
+================================================================================
+
+📝 Étape 4/4 : Résumé de la semaine (semaine -2)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python summarize_week_llm.py --config config.yaml --week-offset -2
+================================================================================
+
+⚠️  Le résumé LLM a échoué (probablement GROQ_API_KEY manquant)
+   Les autres données ont été régénérées avec succès.
+
+✅ Semaine -2 régénérée avec succès !
+
+################################################################################
+# RÉGÉNÉRATION DE LA SEMAINE -3
+################################################################################
+
+
+📥 Étape 1/4 : Crawl des articles (semaine -3)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python veille_tech.py --config config.yaml --week-offset -3
+================================================================================
+
+🏷️  Étape 2/4 : Classification LLM (semaine -3)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python classify_llm.py --config config.yaml --week-offset -3
+================================================================================
+
+📊 Étape 3/4 : Analyse de pertinence (semaine -3)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python analyze_relevance.py --config config.yaml --week-offset -3
+================================================================================
+
+📝 Étape 4/4 : Résumé de la semaine (semaine -3)...
+
+================================================================================
++ /Users/nathansornet/Documents/veille_tech_crawling/backend/.venv/bin/python summarize_week_llm.py --config config.yaml --week-offset -3
+================================================================================
+
+⚠️  Le résumé LLM a échoué (probablement GROQ_API_KEY manquant)
+   Les autres données ont été régénérées avec succès.
+
+✅ Semaine -3 régénérée avec succès !
+
+✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
+RÉGÉNÉRATION TERMINÉE AVEC SUCCÈS !
+✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
+
+→ Résultats disponibles dans export/

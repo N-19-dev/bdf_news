@@ -6,6 +6,7 @@ html5lib
 lxml
 pydantic
 pyyaml
+python-dotenv
 readability-lxml
 tqdm
 openai

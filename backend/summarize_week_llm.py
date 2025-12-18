@@ -14,8 +14,12 @@ from typing import Dict, Any, List, Optional
 
 import yaml
 from openai import OpenAI
+from dotenv import load_dotenv
 
 from veille_tech import week_bounds  # pour retrouver la semaine courante
+
+# Charger les variables d'environnement depuis .env
+load_dotenv()
 
 # ==========================
 #   Helpers pour le résumé
@@ -26,12 +30,14 @@ Objectif: produire un résumé hebdomadaire clair, actionnable, concis.
 
 Structure (Markdown):
 1) "## Aperçu général de la semaine"
-   - 1–2 paragraphes ou 5–8 puces max (tendances transversales)
+   - EXACTEMENT 2 phrases maximum
+   - Résume les ACTUALITÉS principales de la semaine (nouvelles versions, annonces, changements importants)
+   - Pas de liste, pas de puces, juste 2 phrases claires sur ce qu'il faut retenir
 2) Sections par thèmes (mêmes titres que fournis)
    - Pour chaque section, COPIE EXACTEMENT les liens fournis dans le contexte
-   - Format OBLIGATOIRE pour chaque lien : - [Titre](url) — Source · Date · **Score/100**
+   - Format OBLIGATOIRE pour chaque lien : - [Titre](url) — Source · Date
    - Utilise TOUJOURS le tiret "-" (pas "*" ni "•")
-   - NE MODIFIE PAS les liens, scores ou dates fournis
+   - NE MODIFIE PAS les liens ou dates fournis
    - Tu peux ajouter un court commentaire APRÈS chaque lien si pertinent
    - Termine CHAQUE section par "**À creuser :**" avec quelques liens si disponibles
 
@@ -64,9 +70,8 @@ def build_summary_context(
         )[:links_per_section]
         for it in arr_sorted:
             dt = datetime.fromtimestamp(it["published_ts"], tz=timezone.utc).strftime("%Y-%m-%d")
-            sc = it.get("score", "?")
             lines.append(
-                f"- [{it['title']}]({it['url']}) — {it['source']} · {dt} · **{sc}/100**"
+                f"- [{it['title']}]({it['url']}) — {it['source']} · {dt}"
             )
         lines.append("")
     return "\n".join(lines).strip()
@@ -86,7 +91,7 @@ def build_highlights(items: List[Dict[str, Any]], max_items: int = 12) -> str:
     for it in top:
         dt = datetime.fromtimestamp(it["published_ts"], tz=timezone.utc).strftime("%Y-%m-%d")
         lines.append(
-            f"- [{it['title']}]({it['url']}) — {it['source']} · {dt} · score {it.get('score','?')}"
+            f"- [{it['title']}]({it['url']}) — {it['source']} · {dt}"
         )
     return "\n".join(lines)
 
@@ -125,7 +130,7 @@ def ensure_all_sections_ordered(
 ) -> str:
     """
     Force l'ordre des sections H2 :
-    - 1) "🟦 Aperçu général de la semaine"
+    - 1) "Aperçu général de la semaine"
     - 2) chaque titre dans expected_titles (catégories)
     """
     md = _strip_weird_chars(md)
@@ -213,11 +218,15 @@ def generate_weekly_summary_openai(
     high_block = f"[HIGHLIGHTS]\n{highlights_md}\n\n" if highlights_md else ""
     section_list = "\n".join(f"- {t}" for t in expected_titles)
 
-    user_prompt = f"""Voici une sélection d'articles de la semaine (déjà filtrés et scorés).
-Commence par un **Aperçu général de la semaine** à partir des *Highlights*, puis détaille par thèmes.
-Ne crée pas plus de {max_sections} sections thématiques.
+    user_prompt = f"""Voici une sélection d'articles de la semaine.
 
-Tu DOIS utiliser exactement ces titres H2, dans cet ordre, et les conserver même s'il n'y a rien à dire :
+IMPORTANT pour l'**Aperçu général de la semaine** :
+- EXACTEMENT 2 phrases maximum
+- Résume les ACTUALITÉS principales : nouvelles versions, annonces importantes, changements majeurs
+- Pas de liste à puces, juste 2 phrases claires
+- Exemple : "Databricks annonce X et Y cette semaine. Uber partage son REX sur la migration Z."
+
+Ensuite, détaille par thèmes avec les titres H2 ci-dessous (dans cet ordre) :
 {section_list}
 
 {high_block}[CONTEXTE PAR THÈMES]

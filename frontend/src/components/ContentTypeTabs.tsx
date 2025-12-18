@@ -38,15 +38,15 @@ export default function ContentTypeTabs({
   ];
 
   return (
-    <div className="border-b border-neutral-200">
-      <nav className="-mb-px flex space-x-8" aria-label="Tabs">
+    <div className="border-b border-neutral-200 overflow-x-auto">
+      <nav className="-mb-px flex space-x-4 sm:space-x-8 min-w-max sm:min-w-0" aria-label="Tabs">
         {tabs.map((tab) => (
           <button
             key={tab.id}
             onClick={() => onTabChange(tab.id)}
             className={`
-              whitespace-nowrap py-4 px-1 border-b-2 font-medium text-sm
-              transition-colors flex items-center gap-2
+              whitespace-nowrap py-3 sm:py-4 px-1 border-b-2 font-medium text-xs sm:text-sm
+              transition-colors flex items-center gap-1.5 sm:gap-2
               ${
                 activeTab === tab.id
                   ? "border-indigo-500 text-indigo-600"
@@ -55,12 +55,13 @@ export default function ContentTypeTabs({
             `}
             aria-current={activeTab === tab.id ? "page" : undefined}
           >
-            <span className="text-lg">{tab.icon}</span>
-            <span>{tab.label}</span>
+            <span className="text-base sm:text-lg">{tab.icon}</span>
+            <span className="hidden sm:inline">{tab.label}</span>
+            <span className="sm:hidden">{tab.label.split(' ')[0]}</span>
             {tab.count > 0 && (
               <span
                 className={`
-                  ml-2 py-0.5 px-2 rounded-full text-xs font-medium
+                  ml-1 sm:ml-2 py-0.5 px-1.5 sm:px-2 rounded-full text-xs font-medium
                   ${
                     activeTab === tab.id
                       ? "bg-indigo-100 text-indigo-600"

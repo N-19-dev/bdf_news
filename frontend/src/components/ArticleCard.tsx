@@ -19,21 +19,10 @@ export default function ArticleCard({
   url,
   source,
   date,
-  score,
   className = "",
 }: Props) {
   const dom = getDomain(url ?? "");
   const displaySource = (source || dom || "Source").trim();
-
-  // Affiche "NN/100" seulement si score ∈ [0..100]
-  const scoreText = React.useMemo(() => {
-    if (typeof score === "number" && score >= 0 && score <= 100) return `${score}/100`;
-    if (typeof score === "string" && /^\d{1,3}$/.test(score)) {
-      const n = Number(score);
-      if (n >= 0 && n <= 100) return `${n}/100`;
-    }
-    return undefined;
-  }, [score]);
 
   // Si pas d'URL, on rend un <div> non cliquable
   const Clickable: React.ElementType = url ? "a" : "div";
@@ -72,11 +61,6 @@ export default function ArticleCard({
           {displaySource}
         </span>
         {date && <span className="text-[11px] text-neutral-400">· {date}</span>}
-        {scoreText && (
-          <span className="ml-auto text-[11px] font-semibold text-neutral-700">
-            {scoreText}
-          </span>
-        )}
       </div>
 
       {/* Barre d’accent “magazine” (remplace bg-accent par un gradient par défaut) */}

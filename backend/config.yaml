@@ -1,598 +1,440 @@
-# ============================================
-#               STORAGE
-# ============================================
 storage:
-  sqlite_path: "veille.db"
-
-# ============================================
-#               CRAWL
-# ============================================
+  sqlite_path: veille.db
 crawl:
   lookback_days: 7
-  concurrency: 12
-  per_host_rps: 1.5
+  concurrency: 8      # Réduit de 12 à 8 (moins agressif)
+  per_host_rps: 1.0   # Réduit de 1.5 à 1.0 req/sec par host
   timeout_sec: 25
-  user_agent: "VeilleTechBot/1.0 (+https://github.com/nathansornet/veille_tech_crawling)"
+  user_agent: VeilleTechBot/1.0 (+https://github.com/nathansornet/veille_tech_crawling)
   min_text_length: 300
-
-  # On ne met pas de whitelist → le filtrage se fait via regex + pertinence
-  # whitelist_domains: []
-
-
-  # URLs typiques d’articles éditoriaux
-  path_allow_regex: "(?i)(/blog|/posts?|/post|/articles?|/news|/p/|^/@|/tag/|/t/|/n/|/stories?)"
-  path_deny_regex:  "(?i)(forum|community|jobs|careers|events|release[-_ ]?notes|whats[-_ ]?new|changelog|\\bdocs?\\b|/api/|/sdk/|buzz|people|marketing|podcast|social)"
-
-# ============================================
-#               EXPORT
-# ============================================
+  path_allow_regex: (?i)(/blog|/posts?|/post|/articles?|/news|/p/|^/@|/tag/|/t/|/n/|/stories?)
+  path_deny_regex: (?i)(forum|community|jobs|careers|events|release[-_ ]?notes|whats[-_
+    ]?new|changelog|\bdocs?\b|/api/|/sdk/|buzz|people|marketing|podcast|social)
 export:
-  out_dir: "export"
-  make_markdown_digest: true      # utilisé par veille_tech.py pour le digest brut
+  out_dir: export
+  make_markdown_digest: true
   max_items_per_cat: 60
-
-# ============================================
-#               NOTIFICATION (OPTIONNEL)
-# ============================================
 notify:
-  slack_webhook_env: "SLACK_WEBHOOK_URL"
-
-# ============================================
-#          MONITORING & LOGGING
-# ============================================
+  slack_webhook_env: SLACK_WEBHOOK_URL
 monitoring:
-  # Niveau de log: DEBUG, INFO, WARNING, ERROR
-  log_level: "INFO"
-
-  # Export des métriques vers un fichier JSON
+  log_level: INFO
   export_metrics: true
-
-  # Optionnel: Sentry pour tracking des erreurs en production
-  # sentry_dsn_env: "SENTRY_DSN"
-
-  # Métriques collectées automatiquement:
-  # - feeds_processed: nombre de feeds traités
-  # - feeds_failed: nombre de feeds en erreur
-  # - articles_crawled: nombre d'articles récupérés
-  # - articles_filtered: nombre d'articles filtrés
-  # - llm_calls: nombre d'appels LLM
-  # - errors: liste des erreurs rencontrées
-
-# ============================================
-#        TYPES DE CONTENU (Technical vs REX)
-# ============================================
 content_types:
-  # Mots-clés pour identifier les REX (Retours d'Expérience) et All Hands
+  # Sources communautaires authentiques (ingénieurs individuels, non corporate)
+  # Seules ces sources peuvent produire des articles "rex"
+  community_sources:
+    - VuTrinh · Data Engineering
+    - Seattle Data Guy
+    - Blef · Data (FR)
+    - Data Engineering Weekly
+    - DataEngineer.io
+    # Créateurs LinkedIn Data Engineering
+    - Zach Wilson · DataExpert.io
+    - Joe Reis · Data Engineering
+    - Julien Hurault · Ju Data Engineering
+    - Alireza Sadeghi · Practical Data Engineering
+    - Data Engineer Things
+    - Benn Stancil · Mode Analytics
+    - Chip Huyen · ML Engineering
   rex_keywords:
-    - "retour d'expérience"
-    - "retour d'expérience"
-    - "rex"
-    - "all hands"
-    - "all-hands"
-    - "postmortem"
-    - "post-mortem"
-    - "incident"
-    - "lessons learned"
-    - "what we learned"
-    - "our journey"
-    - "our experience"
-    - "how we built"
-    - "how we scaled"
-    - "migration story"
-    - "case study"
-    - "in production"
-    - "war stories"
-    - "behind the scenes"
-    - "real world"
-
-  # Bonus pour augmenter le score REX
-  rex_title_bonus: 30  # Bonus si mot-clé dans le titre
-  rex_min_score: 40    # Score minimal pour être considéré comme REX
-
-# ============================================
-#               CATEGORIES (Data Engineer)
-# ============================================
+  - retour d'expérience
+  - retour d'expérience
+  - rex
+  - all hands
+  - all-hands
+  - postmortem
+  - post-mortem
+  - incident
+  - lessons learned
+  - what we learned
+  - our journey
+  - our experience
+  - how we built
+  - how we scaled
+  - migration story
+  - case study
+  - in production
+  - war stories
+  - behind the scenes
+  - real world
+  - how we migrated
+  - why we chose
+  - why we moved
+  - engineering at
+  - scaling at
+  - building at
+  - year in review
+  - retrospective
+  - our stack
+  - deep dive
+  - architecture
+  - infrastructure at
+  - platform evolution
+  - technical decision
+  rex_title_bonus: 30
+  rex_min_score: 18
 categories:
-  - key: "warehouses_engines"
-    title: "🏛️ Warehouses & Query Engines"
-    keywords: ["snowflake","databricks","bigquery","redshift","athena","trino","duckdb","spark","starrocks","clickhouse","warehouse","lakehouse"]
-
-  - key: "etl_orchestration"
-    title: "🔄 Orchestration, ETL & Data Movement"
-    keywords: ["airflow","dagster","prefect","airbyte","meltano","dbt","sqlmesh","dataform","ingestion","pipeline","batch","elt","etl"]
-
-  - key: "data_modeling_governance"
-    title: "📐 Data Modeling, Governance & Quality"
-    keywords: ["data modeling","star schema","data vault","governance","catalog","lineage","quality","expectations","datafold","great expectations","unity catalog","semantic layer"]
-
-  - key: "lake_storage_formats"
-    title: "🗄️ Data Lakes, Storage & Formats"
-    keywords: ["parquet","iceberg","delta lake","hudi","s3","gcs","adls","lake","compaction","partitions","object storage"]
-
-  - key: "cloud_infra_observability"
-    title: "☁️ Cloud, Infra & Observability"
-    keywords: ["aws","gcp","azure","ovh","terraform","kubernetes","k8s","cost","observability","monitoring","grafana","datadog","prometheus"]
-
-  - key: "python_analytics"
-    title: "🐍 Python, Analytics & Tools"
-    keywords: ["python","polars","pandas","duckdb","fastapi","sql","analytics engineering"]
-
-  - key: "ai_data_engineering"
-    title: "🤖 AI for Data Engineering"
-    keywords: ["mlops","llm","rag","genai","embedding","vector db","feature store","ml","ai"]
-
-  - key: "news"
-    title: "📰 Tech / Cloud / IA News"
-    keywords: ["ia","cloud","data","innovation","cybersécurité","technologie"]
-
-# ============================================
-#          THRESHOLDS PAR CATÉGORIE
-# ============================================
-# seuils sur final_score (0–100) pour la sélection par catégorie
+- key: warehouses_engines
+  title: 🏛️ Warehouses & Query Engines
+  keywords:
+  - snowflake
+  - databricks
+  - bigquery
+  - redshift
+  - athena
+  - trino
+  - duckdb
+  - spark
+  - starrocks
+  - clickhouse
+  - warehouse
+  - lakehouse
+- key: etl_orchestration
+  title: 🔄 Orchestration, ETL & Data Movement
+  keywords:
+  - airflow
+  - dagster
+  - prefect
+  - airbyte
+  - meltano
+  - dbt
+  - sqlmesh
+  - dataform
+  - ingestion
+  - pipeline
+  - batch
+  - elt
+  - etl
+- key: data_modeling_governance
+  title: 📐 Data Modeling, Governance & Quality
+  keywords:
+  - data modeling
+  - star schema
+  - data vault
+  - governance
+  - catalog
+  - lineage
+  - quality
+  - expectations
+  - datafold
+  - great expectations
+  - unity catalog
+  - semantic layer
+- key: lake_storage_formats
+  title: 🗄️ Data Lakes, Storage & Formats
+  keywords:
+  - parquet
+  - iceberg
+  - delta lake
+  - hudi
+  - s3
+  - gcs
+  - adls
+  - lake
+  - compaction
+  - partitions
+  - object storage
+- key: cloud_infra_observability
+  title: ☁️ Cloud, Infra & Observability
+  keywords:
+  - aws
+  - gcp
+  - azure
+  - ovh
+  - terraform
+  - kubernetes
+  - k8s
+  - cost
+  - observability
+  - monitoring
+  - grafana
+  - datadog
+  - prometheus
+- key: python_analytics
+  title: 🐍 Python, Analytics & Tools
+  keywords:
+  - python
+  - polars
+  - pandas
+  - duckdb
+  - fastapi
+  - sql
+  - analytics engineering
+- key: ai_data_engineering
+  title: 🤖 AI for Data Engineering
+  keywords:
+  - mlops
+  - llm
+  - rag
+  - genai
+  - embedding
+  - vector db
+  - feature store
+  - ml
+  - ai
+- key: news
+  title: 📰 Tech / Cloud / IA News
+  keywords:
+  - ia
+  - cloud
+  - data
+  - innovation
+  - cybersécurité
+  - technologie
 category_thresholds:
-  warehouses_engines: 45
-  etl_orchestration: 45
-  data_modeling_governance: 45
-  lake_storage_formats: 45
-  cloud_infra_observability: 45
-  python_analytics: 45
-  ai_data_engineering: 45
-  news: 60
-
-# ============================================
-#               SOURCES
-# ============================================
+  warehouses_engines: 58        # Must-have : top tier data engineering
+  etl_orchestration: 58         # Must-have : orchestration essentielle
+  data_modeling_governance: 58  # Must-have : gouvernance importante
+  lake_storage_formats: 58      # Must-have : storage patterns
+  cloud_infra_observability: 55 # Bon à savoir : infra/cloud
+  python_analytics: 55          # Bon à savoir : outils Python
+  ai_data_engineering: 58       # Filtrage modéré : inclure REX communautaires
+  news: 58                      # Modéré : newsletters communautaires OK
+  hors_sujet: 100               # Jamais inclus
 sources:
-
-  # --- DATA WAREHOUSE / ENGINES ---
-  - name: "Snowflake Blog"
-    url: "https://www.snowflake.com/blog/feed/"
-
-  - name: "Databricks Blog"
-    url: "https://databricks.com/feed"
-
-  - name: "BigQuery Blog"
-    url: "https://cloud.google.com/bigquery/rss.xml"
-
-  - name: "Redshift / AWS Big Data"
-    url: "https://aws.amazon.com/blogs/big-data/feed/"
-
-  - name: "DuckDB Blog"
-    url: "https://duckdb.org/news/index.xml"
-
-  - name: "Polars Blog"
-    url: "https://www.pola.rs/feed.xml"
-
-  - name: "Trino Blog"
-    url: "https://trino.io/feed.xml"
-
-  - name: "ClickHouse Blog"
-    url: "https://clickhouse.com/blog/rss"
-
-  - name: "StarRocks Blog"
-    url: "https://www.starrocks.io/blog/rss"
-
-
-  # --- ETL / ORCHESTRATION / TRANSFORM ---
-  - name: "Apache Airflow Blog"
-    url: "https://airflow.apache.org/feeds/blog.xml"
-
-  - name: "Astronomer Blog"
-    url: "https://www.astronomer.io/blog/rss.xml"
-
-  - name: "Dagster Blog"
-    url: "https://dagster.io/blog/rss.xml"
-
-  - name: "Prefect Blog"
-    url: "https://www.prefect.io/blog/rss.xml"
-
-  - name: "dbt Blog"
-    url: "https://www.getdbt.com/rss.xml"
-
-  - name: "SQLMesh Blog"
-    url: "https://sqlmesh.com/blog/feed.xml"
-
-  - name: "Airbyte Blog"
-    url: "https://airbyte.com/blog/rss.xml"
-
-  - name: "Meltano Blog"
-    url: "https://meltano.com/blog/index.xml"
-
-  - name: "dlt Blog"
-    url: "https://dlthub.com/blog/rss.xml"
-
-  - name: "Rudderstack Blog"
-    url: "https://www.rudderstack.com/blog/rss.xml"
-
-
-  # --- MODELING / GOVERNANCE / QUALITY ---
-  - name: "Datafold Blog"
-    url: "https://www.datafold.com/blog/rss.xml"
-
-  - name: "Great Expectations Blog"
-    url: "https://greatexpectations.io/blog/feed"
-
-  - name: "Collibra Blog"
-    url: "https://www.collibra.com/us/en/blog/rss"
-
-
-  # --- STORAGE / FORMATS / LAKEHOUSE ---
-  - name: "Apache Iceberg"
-    url: "https://iceberg.apache.org/feed.xml"
-
-  - name: "Delta Lake"
-    url: "https://delta.io/blog/index.xml"
-
-  - name: "Apache Hudi"
-    url: "https://hudi.apache.org/blog/feed.xml"
-
-  - name: "MinIO Blog"
-    url: "https://blog.min.io/index.xml"
-
-
-  # --- CLOUD / INFRA / OBSERVABILITY ---
-  - name: "AWS Blog"
-    url: "https://aws.amazon.com/blogs/aws/feed/"
-
-  - name: "Google Cloud Blog"
-    url: "https://cloud.google.com/blog/feeds/posts/default"
-
-  - name: "Azure Blog"
-    url: "https://azure.microsoft.com/en-us/blog/feed/"
-
-  - name: "Cloudflare Engineering"
-    url: "https://blog.cloudflare.com/rss/"
-
-  - name: "Grafana Labs"
-    url: "https://grafana.com/blog/rss/"
-
-  - name: "Datadog Engineering"
-    url: "https://www.datadoghq.com/blog/engineering/rss/"
-
-
-  # --- PYTHON / TOOLS ---
-  - name: "FastAPI Blog"
-    url: "https://fastapi.tiangolo.com/feed.xml"
-
-  - name: "Pydantic Blog"
-    url: "https://docs.pydantic.dev/latest/blog/feed.xml"
-
-
-  # --- AI FOR DATA ENGINEERS ---
-  - name: "Google AI Blog"
-    url: "https://ai.googleblog.com/feeds/posts/default"
-
-  - name: "Hugging Face Blog"
-    url: "https://huggingface.co/blog/feed.xml"
-
-  - name: "LangChain Blog"
-    url: "https://blog.langchain.dev/rss/"
-
-  - name: "Pinecone Blog"
-    url: "https://www.pinecone.io/learn/feed.xml"
-
-  - name: "Weights & Biases"
-    url: "https://wandb.ai/site/rss.xml"
-
-  - name: "Lightning AI"
-    url: "https://lightning.ai/pages/blog/rss/"
-
-
-  # --- 🇫🇷 / 🇪🇺 BLOGS TECH & CLOUD ---
-  - name: "OCTO Talks!"
-    url: "https://blog.octo.com/feed/"
-
-  - name: "Ippon Technologies Blog"
-    url: "https://blog.ippon.fr/feed.xml"
-
-  - name: "OVHcloud Blog"
-    url: "https://blog.ovhcloud.com/feed/"
-
-  - name: "Scaleway Blog"
-    url: "https://www.scaleway.com/en/blog/rss/"
-
-  - name: "Clever Cloud"
-    url: "https://www.clever-cloud.com/blog/feed.xml"
-
-  - name: "Dataiku Blog"
-    url: "https://blog.dataiku.com/rss.xml"
-
-  - name: "Artefact Blog"
-    url: "https://blog.artefact.com/feed/"
-
-  - name: "Zenika Tech Blog"
-    url: "https://blog.zenika.com/feed/"
-
-  - name: "Theodo Tech Blog"
-    url: "https://blog.theodo.com/feed/"
-
-
-  # --- NEWSLETTERS DATA ENGINEERING ---
-  - name: "VuTrinh · Data Engineering"
-    url: "https://vutr.substack.com/feed"
-
-  - name: "Data Engineering Weekly"
-    url: "https://www.dataengineeringweekly.com/feed"
-
-  - name: "Start Data Engineering"
-    url: "https://www.startdataengineering.com/index.xml"
-
-  - name: "Seattle Data Guy"
-    url: "https://seattledataguy.substack.com/feed"
-
-  - name: "DataEngineer.io"
-    url: "https://blog.dataengineer.io/feed"
-
-  - name: "Blef · Data (FR)"
-    url: "https://www.blef.fr/blog/rss"
-
-
-  # --- MEDIUM / DEV.TO / HASHNODE (CIBLÉ UNIQUEMENT) ---
-  - name: "Medium · Data Engineering"
-    url: "https://medium.com/tag/data-engineering/rss"
-
-  - name: "Medium · Data"
-    url: "https://medium.com/tag/data/rss"
-
-  - name: "Medium · Machine Learning"
-    url: "https://medium.com/tag/machine-learning/rss"
-
-  - name: "dev.to · data"
-    url: "https://dev.to/t/data/rss"
-
-  - name: "dev.to · datascience"
-    url: "https://dev.to/t/datascience/rss"
-
-  - name: "dev.to · machinelearning"
-    url: "https://dev.to/t/machinelearning/rss"
-
-  - name: "dev.to · dataengineering"
-    url: "https://dev.to/t/dataengineering/rss"
-
-  - name: "Hashnode · data"
-    url: "https://hashnode.com/n/data/rss"
-
-  - name: "Hashnode · machine-learning"
-    url: "https://hashnode.com/n/machine-learning/rss"
-
-
-  # --- AGRÉGATEUR (OPTIONNEL) ---
-  - name: "daily.dev"
-    url: "https://daily.dev"
-
-
-  # ============================================
-  #     ENGINEERING BLOGS (REX & ALL HANDS)
-  # ============================================
-  # Ces sources publient régulièrement des retours d'expérience,
-  # post-mortems, et articles "how we built"
-
-  # --- GAFAM & BIG TECH ---
-  - name: "Netflix Tech Blog"
-    url: "https://netflixtechblog.com/feed"
-
-  - name: "Uber Engineering Blog"
-    url: "https://www.uber.com/blog/engineering/rss/"
-
-  - name: "Airbnb Engineering"
-    url: "https://medium.com/feed/airbnb-engineering"
-
-  - name: "LinkedIn Engineering"
-    url: "https://www.linkedin.com/blog/engineering/feed"
-
-  - name: "Meta Engineering"
-    url: "https://engineering.fb.com/feed/"
-
-  - name: "Instagram Engineering"
-    url: "https://instagram-engineering.com/feed"
-
-  - name: "Twitter/X Engineering"
-    url: "https://blog.x.com/engineering/en_us/blog.rss"
-
-  - name: "Pinterest Engineering"
-    url: "https://medium.com/feed/pinterest-engineering"
-
-  - name: "Lyft Engineering"
-    url: "https://eng.lyft.com/feed"
-
-  # --- FINTECH & PAYMENTS ---
-  - name: "Stripe Engineering Blog"
-    url: "https://stripe.com/blog/feed.rss"
-
-  - name: "PayPal Engineering"
-    url: "https://medium.com/feed/paypal-tech"
-
-  - name: "Wise Engineering"
-    url: "https://medium.com/feed/wise-engineering"
-
-  - name: "Revolut Engineering"
-    url: "https://medium.com/feed/revolut"
-
-  # --- DEVELOPER TOOLS & PLATFORMS ---
-  - name: "GitHub Engineering"
-    url: "https://github.blog/engineering/feed/"
-
-  - name: "GitLab Engineering"
-    url: "https://about.gitlab.com/atom.xml"
-
-  - name: "Slack Engineering"
-    url: "https://slack.engineering/feed/"
-
-  - name: "Atlassian Engineering"
-    url: "https://www.atlassian.com/blog/rss/engineering.xml"
-
-  - name: "Dropbox Tech Blog"
-    url: "https://dropbox.tech/feed"
-
-  # --- E-COMMERCE ---
-  - name: "Shopify Engineering"
-    url: "https://shopify.engineering/blog.atom"
-
-  - name: "Etsy Engineering"
-    url: "https://www.etsy.com/codeascraft/rss"
-
-  - name: "Booking.com Tech Blog"
-    url: "https://blog.booking.com/feed/"
-
-  - name: "Walmart Global Tech"
-    url: "https://medium.com/feed/walmartglobaltech"
-
-  # --- SAAS & CLOUD ---
-  - name: "Heroku Engineering"
-    url: "https://blog.heroku.com/engineering/feed"
-
-  - name: "Twilio Engineering"
-    url: "https://www.twilio.com/blog/tag/engineering/feed"
-
-  - name: "Salesforce Engineering"
-    url: "https://engineering.salesforce.com/feed/"
-
-  - name: "Zendesk Engineering"
-    url: "https://zendesk.engineering/feed"
-
-  # --- RIDE-SHARING & DELIVERY ---
-  - name: "DoorDash Engineering"
-    url: "https://doordash.engineering/feed/"
-
-  - name: "Grab Tech Blog"
-    url: "https://engineering.grab.com/feed.xml"
-
-  # --- STREAMING & MEDIA ---
-  - name: "Spotify Engineering"
-    url: "https://engineering.atspotify.com/feed/"
-
-  - name: "SoundCloud Backstage"
-    url: "https://developers.soundcloud.com/blog/feed.xml"
-
-  # --- EUROPEAN TECH ---
-  - name: "Monzo Engineering"
-    url: "https://monzo.com/blog/feed"
-
-  - name: "N26 Engineering"
-    url: "https://medium.com/feed/insiden26"
-
-  - name: "BlaBlaCar Tech"
-    url: "https://medium.com/feed/blablacar-tech"
-
-  # --- ANALYTICS & DATA PLATFORMS ---
-  - name: "Segment Engineering"
-    url: "https://segment.com/blog/feed/"
-
-  - name: "Amplitude Engineering"
-    url: "https://amplitude.engineering/feed"
-
-  - name: "Confluent Blog"
-    url: "https://www.confluent.io/blog/feed/"
-
-# ============================================
-#           CONFIG PERTINENCE (relevance)
-# ============================================
+- name: Snowflake Blog
+  url: https://www.snowflake.com/feed/
+- name: Databricks Blog
+  url: https://databricks.com/feed
+- name: Redshift / AWS Big Data
+  url: https://aws.amazon.com/blogs/big-data/feed/
+- name: DuckDB Blog
+  url: https://duckdb.org/feed.xml
+- name: Trino Blog
+  url: https://trino.io/feed.xml
+- name: Apache Airflow Blog
+  url: https://airflow.apache.org/blog/index.xml
+- name: Dagster Blog
+  url: https://dagster.io/blog/rss.xml
+- name: dbt Blog
+  url: https://www.getdbt.com/blog/rss.xml
+- name: SQLMesh Blog
+  url: https://sqlmesh.com/blog/feed.xml
+- name: Airbyte Blog
+  url: https://airbyte.com/blog/rss.xml
+- name: Meltano Blog
+  url: https://meltano.com/blog/index.xml
+- name: dlt Blog
+  url: https://dlthub.com/blog/rss.xml
+- name: Rudderstack Blog
+  url: https://www.rudderstack.com/blog/rss.xml
+- name: Apache Iceberg
+  url: https://iceberg.apache.org/feed.xml
+- name: Apache Hudi
+  url: https://hudi.apache.org/blog/feed.xml
+- name: AWS Blog
+  url: https://aws.amazon.com/blogs/aws/feed/
+- name: Azure Blog
+  url: https://azure.microsoft.com/en-us/blog/feed/
+- name: Cloudflare Engineering
+  url: https://blog.cloudflare.com/rss/
+- name: Pydantic Blog
+  url: https://docs.pydantic.dev/latest/blog/feed.xml
+- name: Hugging Face Blog
+  url: https://huggingface.co/blog/feed.xml
+- name: LangChain Blog
+  url: https://blog.langchain.dev/rss/
+- name: Lightning AI
+  url: https://lightning.ai/pages/blog/rss/
+- name: OCTO Talks!
+  url: https://blog.octo.com/feed/
+- name: OVHcloud Blog
+  url: https://blog.ovhcloud.com/feed/
+- name: Dataiku Blog
+  url: https://blog.dataiku.com/rss.xml
+- name: Artefact Blog
+  url: https://blog.artefact.com/feed/
+- name: Zenika Tech Blog
+  url: https://blog.zenika.com/feed/
+- name: Theodo Tech Blog
+  url: https://blog.theodo.com/feed/
+- name: VuTrinh · Data Engineering
+  url: https://vutr.substack.com/feed
+- name: Data Engineering Weekly
+  url: https://www.dataengineeringweekly.com/feed
+- name: Seattle Data Guy
+  url: https://seattledataguy.substack.com/feed
+- name: DataEngineer.io
+  url: https://blog.dataengineer.io/feed
+- name: Blef · Data (FR)
+  url: https://www.blef.fr/blog/rss
+# Créateurs LinkedIn Data Engineering (Substack/blogs personnels)
+- name: Zach Wilson · DataExpert.io
+  url: https://blog.dataexpert.io/feed
+- name: Joe Reis · Data Engineering
+  url: https://joereis.substack.com/feed
+- name: Julien Hurault · Ju Data Engineering
+  url: https://juhache.substack.com/feed
+- name: Alireza Sadeghi · Practical Data Engineering
+  url: https://www.pracdata.io/feed
+- name: Data Engineer Things
+  url: https://dataengineerthings.substack.com/feed
+- name: Benn Stancil · Mode Analytics
+  url: https://benn.substack.com/feed
+- name: Chip Huyen · ML Engineering
+  url: https://huyenchip.com/feed.xml
+# Hashnode sources supprimées - trop de rate limiting (429)
+# - name: Hashnode · data
+#   url: https://hashnode.com/n/data/rss
+# - name: Hashnode · machine-learning
+#   url: https://hashnode.com/n/machine-learning/rss
+- name: daily.dev
+  url: https://daily.dev
+- name: Netflix Tech Blog
+  url: https://netflixtechblog.com/feed
+- name: Uber Engineering Blog
+  url: https://www.uber.com/blog/engineering/rss/
+- name: Airbnb Engineering
+  url: https://medium.com/feed/airbnb-engineering
+- name: LinkedIn Engineering
+  url: https://www.linkedin.com/blog/engineering/feed
+- name: Meta Engineering
+  url: https://engineering.fb.com/feed/
+- name: Instagram Engineering
+  url: https://instagram-engineering.com/feed
+- name: Twitter/X Engineering
+  url: https://blog.x.com/engineering/en_us/blog.rss
+- name: Pinterest Engineering
+  url: https://medium.com/feed/pinterest-engineering
+- name: Lyft Engineering
+  url: https://eng.lyft.com/feed
+- name: Stripe Engineering Blog
+  url: https://stripe.com/blog/feed.rss
+- name: PayPal Engineering
+  url: https://medium.com/feed/paypal-tech
+- name: Wise Engineering
+  url: https://medium.com/feed/wise-engineering
+- name: Revolut Engineering
+  url: https://medium.com/feed/revolut
+- name: GitHub Engineering
+  url: https://github.blog/engineering/feed/
+- name: GitLab Engineering
+  url: https://about.gitlab.com/atom.xml
+- name: Slack Engineering
+  url: https://slack.engineering/feed/
+- name: Dropbox Tech Blog
+  url: https://dropbox.tech/feed
+- name: Etsy Engineering
+  url: https://www.etsy.com/codeascraft/rss
+- name: Booking.com Tech Blog
+  url: https://blog.booking.com/feed/
+- name: Walmart Global Tech
+  url: https://medium.com/feed/walmartglobaltech
+- name: Heroku Engineering
+  url: https://blog.heroku.com/engineering/feed
+- name: Salesforce Engineering
+  url: https://engineering.salesforce.com/feed/
+- name: Zendesk Engineering
+  url: https://zendesk.engineering/feed
+- name: DoorDash Engineering
+  url: https://doordash.engineering/feed/
+- name: Grab Tech Blog
+  url: https://engineering.grab.com/feed.xml
+- name: Spotify Engineering
+  url: https://engineering.atspotify.com/feed/
+- name: N26 Engineering
+  url: https://medium.com/feed/insiden26
+- name: Amplitude Engineering
+  url: https://amplitude.engineering/feed
 relevance:
-  # Score global = combinaison de ces 4 composantes (0–100 chacune)
   weights:
     semantic: 0.55
-    source:   0.20
-    quality:  0.15
-    tech:     0.10
+    source: 0.2
+    quality: 0.15
+    tech: 0.1
+  score_threshold: 45
+  profile_text: 'data engineering, data platform, data warehouse, lakehouse, dbt,
+    airflow, dagster, prefect, spark, snowflake, databricks, bigquery, redshift, duckdb,
+    orchestration, ingestion, etl, elt, data modeling, governance, quality, monitoring,
+    observability, data contracts, lakehouse, iceberg, delta lake.
 
-  # Score minimal par défaut pour considérer un article "bon"
-  score_threshold: 45  # Temporairement abaissé pour inclure les REX
-
-  # Profil de veille pour les embeddings
-  profile_text: >
-    data engineering, data platform, data warehouse, lakehouse, dbt, airflow,
-    dagster, prefect, spark, snowflake, databricks, bigquery, redshift, duckdb,
-    orchestration, ingestion, etl, elt, data modeling, governance, quality,
-    monitoring, observability, data contracts, lakehouse, iceberg, delta lake.
-
-  # Poids des sources (0–1). Le reste tombe à 0.4 par défaut.
+    '
   source_weights:
-    "Data Engineering Weekly": 1.0
-    "VuTrinh · Data Engineering": 1.0
-    "Start Data Engineering": 0.95
-    "Seattle Data Guy": 0.95
-    "Blef · Data (FR)": 0.90
-    "Snowflake Blog": 0.70
-    "Databricks Blog": 0.70
-    "dbt Blog": 0.70
-    "Dagster Blog": 0.70
-    "Apache Airflow Blog": 0.70
-    "Airbyte Blog": 0.70
-    "Meltano Blog": 0.70
-    "dlt Blog": 0.70
-    "OCTO Talks!": 0.70
-    "Ippon Technologies Blog": 0.70
-    "Zenika Tech Blog": 0.70
-    "Dataiku Blog": 0.70
-    "daily.dev": 0.30
-
-    # Engineering Blogs (REX & All Hands) - Poids élevés pour la qualité
-    "Netflix Tech Blog": 0.95
-    "Uber Engineering Blog": 0.90
-    "Airbnb Engineering": 0.90
-    "LinkedIn Engineering": 0.85
-    "Meta Engineering": 0.85
-    "Stripe Engineering Blog": 0.85
-    "GitHub Engineering": 0.85
-    "Spotify Engineering": 0.85
-    "Shopify Engineering": 0.80
-    "Dropbox Tech Blog": 0.80
-    "Slack Engineering": 0.80
-    "DoorDash Engineering": 0.80
-    "Lyft Engineering": 0.75
-    "Pinterest Engineering": 0.75
-    "Instagram Engineering": 0.75
-    "Twitter/X Engineering": 0.75
-    "PayPal Engineering": 0.70
-    "GitLab Engineering": 0.70
-    "Etsy Engineering": 0.70
-    "Atlassian Engineering": 0.70
-    "Booking.com Tech Blog": 0.70
-    "Salesforce Engineering": 0.70
-    "Monzo Engineering": 0.70
-    "Segment Engineering": 0.70
-    "Confluent Blog": 0.70
-
+    Data Engineering Weekly: 1.0
+    VuTrinh · Data Engineering: 1.0
+    Start Data Engineering: 0.95
+    Seattle Data Guy: 0.95
+    # Créateurs LinkedIn Data Engineering (haute autorité)
+    Zach Wilson · DataExpert.io: 1.0
+    Joe Reis · Data Engineering: 1.0
+    Chip Huyen · ML Engineering: 0.95
+    Julien Hurault · Ju Data Engineering: 0.95
+    Alireza Sadeghi · Practical Data Engineering: 0.95
+    Data Engineer Things: 0.95
+    Benn Stancil · Mode Analytics: 0.9
+    Blef · Data (FR): 0.9
+    Snowflake Blog: 0.7
+    Databricks Blog: 0.7
+    dbt Blog: 0.7
+    Dagster Blog: 0.7
+    Apache Airflow Blog: 0.7
+    Airbyte Blog: 0.7
+    Meltano Blog: 0.7
+    dlt Blog: 0.7
+    OCTO Talks!: 0.7
+    Ippon Technologies Blog: 0.7
+    Zenika Tech Blog: 0.7
+    Dataiku Blog: 0.7
+    daily.dev: 0.3
+    Netflix Tech Blog: 0.95
+    Uber Engineering Blog: 0.9
+    Airbnb Engineering: 0.9
+    LinkedIn Engineering: 0.85
+    Meta Engineering: 0.85
+    Stripe Engineering Blog: 0.85
+    GitHub Engineering: 0.85
+    Spotify Engineering: 0.85
+    Shopify Engineering: 0.8
+    Dropbox Tech Blog: 0.8
+    Slack Engineering: 0.8
+    DoorDash Engineering: 0.8
+    Lyft Engineering: 0.75
+    Pinterest Engineering: 0.75
+    Instagram Engineering: 0.75
+    Twitter/X Engineering: 0.75
+    PayPal Engineering: 0.7
+    GitLab Engineering: 0.7
+    Etsy Engineering: 0.7
+    Atlassian Engineering: 0.7
+    Booking.com Tech Blog: 0.7
+    Salesforce Engineering: 0.7
+    Monzo Engineering: 0.7
+    Segment Engineering: 0.7
+    Confluent Blog: 0.7
   quality:
-    min_len_good: 1500        # >1500 caractères => vrai article
+    min_len_good: 1500
     bonus_good_len: 20
-    bonus_has_code: 10        # blocs de code markdown / HTML
-
+    bonus_has_code: 10
   tech:
     keywords:
-      - "airflow"
-      - "dagster"
-      - "prefect"
-      - "dbt"
-      - "spark"
-      - "lakehouse"
-      - "iceberg"
-      - "delta lake"
-      - "hudi"
-      - "warehouse"
-      - "orchestration"
-      - "etl"
-      - "elt"
-      - "kafka"
-      - "data contract"
-      - "feature store"
-      - "rag"
-      - "llm"
+    - airflow
+    - dagster
+    - prefect
+    - dbt
+    - spark
+    - lakehouse
+    - iceberg
+    - delta lake
+    - hudi
+    - warehouse
+    - orchestration
+    - etl
+    - elt
+    - kafka
+    - data contract
+    - feature store
+    - rag
+    - llm
     max_points: 20
-
-# ============================================
-#        CONFIG LLM (pour le résumé)
-# ============================================
 llm:
-  provider: "openai_compat"
-  base_url: "https://api.groq.com/openai/v1"
-  api_key_env: "GROQ_API_KEY"
-  model: "llama-3.1-8b-instant"
+  provider: openai_compat
+  base_url: https://api.groq.com/openai/v1
+  api_key_env: GROQ_API_KEY
+  model: llama-3.1-8b-instant
   temperature: 0.2
   max_tokens: 1200
-
 summary:
   enabled: true
   max_sections: 8
   links_per_section: 5
-  min_score: 45   # score minimal pour qu’un article entre dans le résumé
+  min_score: 45

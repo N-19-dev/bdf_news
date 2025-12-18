@@ -2,21 +2,29 @@
 
 ## 🏛️ Warehouses & Query Engines
 
+- [Writes in DuckDB-Iceberg](https://duckdb.org/2025/11/28/iceberg-writes-in-duckdb.html) — DuckDB Blog · 2025-11-28
+  - We shipped a number of features and improvements to the DuckDB-Iceberg extension: insert, update, and delete statements are all supported now.
 - [Run Apache Spark and Iceberg 4.5x faster than open source Spark with Amazon EMR](https://aws.amazon.com/blogs/big-data/run-apache-spark-and-iceberg-4-5x-faster-than-open-source-spark-with-amazon-emr/) — Redshift / AWS Big Data · 2025-11-27
   - This post shows how Amazon EMR 7.12 can make your Apache Spark and Iceberg workloads up to 4.5x faster performance.
 - [Run Apache Spark and Apache Iceberg write jobs 2x faster with Amazon EMR](https://aws.amazon.com/blogs/big-data/run-apache-spark-and-apache-iceberg-write-jobs-2x-faster-with-amazon-emr/) — Redshift / AWS Big Data · 2025-11-27
   - In this post, we demonstrate the write performance benefits of using the Amazon EMR 7.12 runtime for Spark and Iceberg compares to open source Spark 3.5.6 with Iceberg 1.10.0 tables on a 3TB merge workload.
 - [Achieve 2x faster data lake query performance with Apache Iceberg on Amazon Redshift](https://aws.amazon.com/blogs/big-data/achieve-2x-faster-data-lake-query-performance-with-apache-iceberg-on-amazon-redshift/) — Redshift / AWS Big Data · 2025-11-26
   - In 2025, Amazon Redshift delivered several performance optimizations that improved query performance over twofold for Iceberg workloads on Amazon Redshift Serverless, delivering exceptional performance and cost-effectiveness for your data l…
+- [Getting started with Apache Iceberg write support in Amazon Redshift](https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift/) — Redshift / AWS Big Data · 2025-11-26
+  - In this post, we show how you can use Amazon Redshift to write data directly to Apache Iceberg tables stored in Amazon S3 and S3 Tables for seamless integration between your data warehouse and data lake while maintaining ACID compliance.
 - [Save up to 24% on Amazon Redshift Serverless compute costs with Reservations](https://aws.amazon.com/blogs/big-data/save-up-to-24-on-amazon-redshift-serverless-compute-costs-with-reservations/) — Redshift / AWS Big Data · 2025-11-24
   - In this post, you learn how Amazon Redshift Serverless Reservations can help you lower your data warehouse costs. We explore ways to determine the optimal number of RPUs to reserve, review example scenarios, and discuss important considerat…
 
 ## 🔄 Orchestration, ETL & Data Movement
 
+- [Using state-aware orchestration to slash your data costs](https://www.getdbt.com/blog/using-state-aware-orchestration-to-slash-your-data-costs) — dbt Blog · 2025-11-26
+  - Why run a job when there’s no new data? Here’s how state-aware orchestration in the dbt Fusion engine saves you money.
+- [Reducing ETL licensing costs with the dbt Fusion engine](https://www.getdbt.com/blog/reducing-etl-licensing-costs) — dbt Blog · 2025-11-26
+  - dbt can already save you a lot on traditional ETL processing costs. Here’s how the dbt Fusion engine saves even more.
 - [Build Pipelines 10x faster with workspace workflow](https://dlthub.com/blog/workspace-video-tutorial) — dlt Blog · 2025-11-26
   - dltHub Workspace: A frictionless LLM-native approach designed to help data developers build, run, and analyze complete pipelines.
-- [Reducing experiment duration with predicted control variates](https://www.etsy.com/codeascraft/reducing-experiment-duration-with-predicted-control-variates?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share) — Etsy Engineering · 2025-11-25
-  - I n 2021, we published a blog post titled “ Increasing experimentation accuracy and speed by using control variates ,” describing how we reduce the variance of metrics using CUPED in our experimentation platform. This is a follow-up on how …
+- [Data migration process: Steps, strategies, and tools](https://www.rudderstack.com/blog/data-migration-process) — Rudderstack Blog · 2025-11-25
+  - Get the guide to the data migration process with strategies, tools, and best practices for safe execution.
 - [How to Orchestrate dbt with Dagster](https://dagster.io/blog/orchestrating-dbt-with-dagster) — Dagster Blog · 2025-11-24
   - With Dagster’s dbt integration, run and monitor dbt models as part of a larger, asset-driven pipeline for improved lineage and scheduling.
 - [Why We Built Dagster for the Data Decade](https://dagster.io/blog/decade-of-data) — Dagster Blog · 2025-11-24
@@ -30,13 +38,19 @@
   - The Era of Open GovernanceA year after we open-sourced Unity Catalog (UC), the results...
 - [Data security shouldn't be an afterthought](https://blog.dataexpert.io/p/how-to-secure-your-data-a-practical) — DataEngineer.io · 2025-11-26
   - A practical guide for Data Engineers
+- [The “Why” Opportunity: From Signals to Action with True Business Intelligence](https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-intelligence-signals-to-action) — Snowflake Blog · 2025-11-25
+  - Snowflake Intelligence, now GA, empowers all users to ask "why" and get trusted, actionable BI answers from their data instead of relying on static dashboards.
+- [Knowns, Unknowns and Why Principles Still Matter (Even in Data and AI)](https://www.snowflake.com/content/snowflake-site/global/en/blog/principles-data-ai) — Snowflake Blog · 2025-11-24
+  - Explore why the fundamental principles of data engineering—clean pipelines, governance, and lineage—are more critical than ever for building a successful AI foundation.
+- [Snowflake to Acquire the Select Star Technology to Expand Horizon Catalog’s View of Enterprise Data for Next-Gen AI](https://www.snowflake.com/content/snowflake-site/global/en/blog/snowflake-acquire-select-star) — Snowflake Blog · 2025-11-24
+  - Snowflake has entered into a definitive agreement to acquire the Select Star team and platform technology.
 
 ## 🗄️ Data Lakes, Storage & Formats
 
+- [Is DuckLake a Step Backward?](https://www.pracdata.io/p/is-ducklake-a-step-backward) — Alireza Sadeghi · Practical Data Engineering · 2025-11-30
+  - Examining the new open table format’s return to relational metadata management
 - [Accelerate data lake operations with Apache Iceberg V3 deletion vectors and row lineage](https://aws.amazon.com/blogs/big-data/accelerate-data-lake-operations-with-apache-iceberg-v3-deletion-vectors-and-row-lineage/) — Redshift / AWS Big Data · 2025-11-26
   - In this post, we walk you through the new capabilities in Iceberg V3, explain how deletion vectors and row lineage address these challenges, explore real-world use cases across industries, and provide practical guidance on implementing Iceb…
-- [Getting started with Apache Iceberg write support in Amazon Redshift](https://aws.amazon.com/blogs/big-data/getting-started-with-apache-iceberg-write-support-in-amazon-redshift/) — Redshift / AWS Big Data · 2025-11-26
-  - In this post, we show how you can use Amazon Redshift to write data directly to Apache Iceberg tables stored in Amazon S3 and S3 Tables for seamless integration between your data warehouse and data lake while maintaining ACID compliance.
 
 ## ☁️ Cloud, Infra & Observability
 
@@ -50,14 +64,10 @@
   - In this post, we show how to use the new visual workflow experience in SageMaker Unified Studio IAM-based domains to orchestrate an end-to-end machine learning workflow. The workflow ingests weather data, applies transformations, and genera…
 - [Manage your secrets through OVHcloud Secret Manager thanks to External Secrets Operator (ESO) on OVHcloud Managed Kubernetes Service (MKS)](https://blog.ovhcloud.com/manage-your-secrets-through-ovhcloud-secret-manager-thanks-to-external-secrets-operator-eso-on-ovhcloud-managed-kubernetes-service-mks/) — OVHcloud Blog · 2025-11-25
   - The Secrets resources in Kubernetes allow us to store sensitive information like login, passwords, tokens, credentials and certificates. But be careful, when creating a Secret in Kubernetes, it is encoded in base64, it is not encrypted so e…
-- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) — Azure Blog · 2025-11-24
-  - Announcing Anthropic's newest model, Claude Opus 4.5, in Microsoft Foundry. Opus 4.5 is now available in public preview in Microsoft Foundry, GitHub Copilot paid plans, and Microsoft Copilot Studio. The post Introducing Claude Opus 4.5 in M…
-- [How AI Tools Accelerated Building and Adopting Cloud-Agnostic SDK Tasks From Months to Weeks](https://engineering.salesforce.com/how-ai-tools-accelerated-building-and-adopting-cloud-agnostic-sdk-tasks-from-months-to-weeks/) — Salesforce Engineering · 2025-11-24
-  - By Claudia Santoro and Sandeep Pal. In our Engineering Energizers Q&A series, we shine a spotlight on the innovative engineering minds at Salesforce. Today, we feature Claudia Santoro, SVP of Software Engineering, whose team developed Multi…
+- [Manage your secrets using OVHcloud Secret Manager with External Secrets Operator (ESO) on OVHcloud Managed Kubernetes Service (MKS)](https://blog.ovhcloud.com/manage-your-secrets-through-ovhcloud-secret-manager-thanks-to-external-secrets-operator-eso-on-ovhcloud-managed-kubernetes-service-mks/) — OVHcloud Blog · 2025-11-25
+  - Secrets resources in Kubernetes help us keep sensitive information like logins, passwords, tokens, credentials and certificates secure. But just a heads up: Secrets in Kubernetes are base64 encoded, not encrypted so anyone can read and deco…
 - [Get better visibility for the WAF with payload logging](https://blog.cloudflare.com/waf-payload-logging/) — Cloudflare Engineering · 2025-11-24
   - The WAF provides ways for our customers to gain insight into why it takes certain actions. The more granular and precise the insight, the more reproducible and understandable it is. Revamped payload logging is one such method.
-- [GitLab discovers widespread npm supply chain attack](https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/) — GitLab Engineering · 2025-11-24
-  - GitLab's Vulnerability Research team has identified an active, large-scale supply chain attack involving a destructive malware variant spreading through the npm ecosystem. Our internal monitoring system has uncovered multiple infected packa…
 
 ## 🐍 Python, Analytics & Tools
 
@@ -72,6 +82,8 @@
   - A media buyer launches a £50,000 digital billboard campaign, only to discover later...
 - [Using skills with Deep Agents](https://blog.langchain.com/using-skills-with-deep-agents/) — LangChain Blog · 2025-11-25
   - tl;dr: Anthropic recently introduced the idea of agent skills . Skills are simply folders containing a SKILL.md file along with any associated files (e.g., documents or scripts) that an agent can discover and load dynamically to perform bet…
+- [Reducing experiment duration with predicted control variates](https://www.etsy.com/codeascraft/reducing-experiment-duration-with-predicted-control-variates?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share) — Etsy Engineering · 2025-11-25
+  - I n 2021, we published a blog post titled “ Increasing experimentation accuracy and speed by using control variates ,” describing how we reduce the variance of metrics using CUPED in our experimentation platform. This is a follow-up on how …
 - [How SoftBank Scaled an AI Agent-Powered Sales Model, Saving 250K Hours a Year](https://www.dataiku.com/stories/blog/softbank) — Dataiku Blog · 2025-11-25
   - SoftBank Corp. is transforming sales with AI agents in Dataiku, capturing every conversation as insight, boosting data quality, and delivering various insights while working to reclaim a quarter-million hours a year for selling. 90% of sell…
 - [🤖 Déployer son agent sur Google Vertex AI Agent Engine](https://blog.zenika.com/2025/11/25/%f0%9f%a4%96-deployer-son-agent-sur-google-vertex-ai-agent-engine/) — Zenika Tech Blog · 2025-11-25
@@ -93,20 +105,32 @@ TL;DR: in this blog post, starting from attention mechanisms and KV caching, we 
 If you've ever used Qwen, Claude, or any other AI chatbot, you've probably noticed …
 - [Claude Opus 4.5 Is Here](https://www.databricks.com/blog/claude-opus-45-here) — Databricks Blog · 2025-11-24
   - Customers process exabytes of data daily on Databricks, and generative AI is already...
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) — Azure Blog · 2025-11-24
+  - Announcing Anthropic's newest model, Claude Opus 4.5, in Microsoft Foundry. Opus 4.5 is now available in public preview in Microsoft Foundry, GitHub Copilot paid plans, and Microsoft Copilot Studio. The post Introducing Claude Opus 4.5 in M…
+- [Announcing Claude Opus 4.5 on Snowflake Cortex AI](https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-4-5-snowflake-cortex-ai) — Snowflake Blog · 2025-11-24
+  - Claude Opus 4.5 now on Snowflake Cortex AI, enabling secure access to Anthropic’s latest models via LLM functions and REST APIs.
 - [Building the Future of AI Agents and Intelligence Apps: Celebrating 4 years of Databricks Seattle R&D](https://www.databricks.com/blog/building-future-ai-agents-and-intelligence-apps-celebrating-4-years-databricks-seattle-rd) — Databricks Blog · 2025-11-24
   - In November 2021, we announced the opening of our Seattle R&D site and our plan to...
 - [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/Tavily/tavily-deep-research) — Hugging Face Blog · 2025-11-24
   - Building Deep Research: How we Achieved State of the Art
 Research agents are rapidly becoming one of the most important applications of AI. Research is a foundational knowledge-work task: collecting, reading, and synthesizing information un…
+- [How AI Tools Accelerated Building and Adopting Cloud-Agnostic SDK Tasks From Months to Weeks](https://engineering.salesforce.com/how-ai-tools-accelerated-building-and-adopting-cloud-agnostic-sdk-tasks-from-months-to-weeks/) — Salesforce Engineering · 2025-11-24
+  - By Claudia Santoro and Sandeep Pal. In our Engineering Energizers Q&A series, we shine a spotlight on the innovative engineering minds at Salesforce. Today, we feature Claudia Santoro, SVP of Software Engineering, whose team developed Multi…
+- [Utilizing ChatGPT for Decoding Astaroth Strings](https://medium.com/walmartglobaltech/utilizing-chatgpt-for-decoding-astaroth-strings-80815e4dfefb?source=rss----905ea2b3d4d1---4) — Walmart Global Tech · 2025-11-24
+  - By: Jason Reaves In this blog I want to demonstrate a scenario that I run into occasionally as a Reverse Engineer. There are plenty of excellent write-ups on Astaroth from a technical perspective[1,2] so I decided to utilize existing analys…
 
 ## 📰 Tech / Cloud / IA News
 
 - [School of Product 2025 : les 5 notions à retenir](https://blog.octo.com/octo-school-of-product-2025--les-5-notions-a-retenir) — OCTO Talks! · 2025-11-27
   - La 8ème édition de la conférence Produit et Design organisée par OCTO Technology s'est déroulée le mardi 18 novembre,  à Paris. On avait rendez-vous comme l’an passé avec le caméléon, notre mascotte Produit, et le thème cette année était : …
+- [RudderStack obtains the Data Privacy Framework Certification](https://www.rudderstack.com/blog/rudderstack-data-privacy-framework-certification) — Rudderstack Blog · 2025-11-24
+  - RudderStack is now certified under the EU-U.S., UK, and Swiss Data Privacy Frameworks, reinforcing our commitment to privacy, transparency, and data protection.
 - [OVHcloud on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud) — Hugging Face Blog · 2025-11-24
   - OVHcloud on Hugging Face Inference Providers 🔥
 We're thrilled to share that
 OVHcloud
 is now a supported Inference Provider on the Hugging Face Hub! OVHcloud joins our growing ecosystem, enhancing the breadth and capabilities of serverless i…
+- [GitLab discovers widespread npm supply chain attack](https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/) — GitLab Engineering · 2025-11-24
+  - GitLab's Vulnerability Research team has identified an active, large-scale supply chain attack involving a destructive malware variant spreading through the npm ecosystem. Our internal monitoring system has uncovered multiple infected packa…
 - [Meet the 2025 EMEA GitLab Partner Award winners](https://about.gitlab.com/blog/meet-the-2025-emea-gitlab-partner-award-winners/) — GitLab Engineering · 2025-11-24
   - At GitLab, our Partner Program has fostered a robust ecosystem of DevSecOps professionals dedicated to driving customer software development innovation and achieving meaningful outcomes. This year, several partners in Europe, the Middle Eas…
