@@ -1,9 +1,11 @@
 // src/components/ArticleCard.tsx
-// Carte article compacte : favicon, source, titre clamp, barre d’accent.
-// Compatible top3/sections: {title,url,source,date,score}
+// Carte article compacte : favicon, source, titre clamp, barre d'accent.
+// Compatible top3/sections: {title,url,source,date,score,tech_level,marketing_score}
 
 import React from "react";
 import { faviconUrl, getDomain } from "../lib/parse";
+
+type TechLevel = 'beginner' | 'intermediate' | 'advanced';
 
 type Props = {
   title: string;
@@ -11,7 +13,39 @@ type Props = {
   source?: string;
   date?: string;
   score?: number | string;
+  tech_level?: TechLevel;
+  marketing_score?: number;
   className?: string;
+};
+
+// Badge de niveau technique
+const LevelBadge = ({ level }: { level: TechLevel }) => {
+  const config = {
+    beginner: {
+      color: 'bg-green-100 text-green-800 border-green-200',
+      label: 'Débutant',
+      emoji: '🟢'
+    },
+    intermediate: {
+      color: 'bg-yellow-100 text-yellow-800 border-yellow-200',
+      label: 'Intermédiaire',
+      emoji: '🟡'
+    },
+    advanced: {
+      color: 'bg-red-100 text-red-800 border-red-200',
+      label: 'Avancé',
+      emoji: '🔴'
+    }
+  };
+
+  const { color, label, emoji } = config[level];
+
+  return (
+    <span className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-medium border ${color}`}>
+      <span>{emoji}</span>
+      <span>{label}</span>
+    </span>
+  );
 };
 
 export default function ArticleCard({
@@ -19,6 +53,7 @@ export default function ArticleCard({
   url,
   source,
   date,
+  tech_level,
   className = "",
 }: Props) {
   const dom = getDomain(url ?? "");
@@ -46,7 +81,7 @@ export default function ArticleCard({
       ].join(" ")}
       aria-label={title}
     >
-      <div className="mb-3 flex items-center gap-2">
+      <div className="mb-3 flex items-center gap-2 flex-wrap">
         {/* Favicon avec fallback silencieux */}
         <img
           src={faviconUrl(url ?? "", 64)}
@@ -61,6 +96,7 @@ export default function ArticleCard({
           {displaySource}
         </span>
         {date && <span className="text-[11px] text-neutral-400">· {date}</span>}
+        {tech_level && <LevelBadge level={tech_level} />}
       </div>
 
       {/* Barre d’accent “magazine” (remplace bg-accent par un gradient par défaut) */}
