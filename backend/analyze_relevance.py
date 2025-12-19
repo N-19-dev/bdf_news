@@ -537,6 +537,10 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
     top_md = build_top_k_md(top_items, k=3)
     top3_path = week_dir / "top3.md"
     top3_path.write_text(top_md, encoding="utf-8")
+
+    # Export JSON du top3 pour le frontend
+    top3_json_path = week_dir / "top3.json"
+    top3_json_path.write_text(json.dumps(top_items[:3], indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"[done] Top 3: {top3_path}")
 
     # --- lien symbolique "latest" → cette semaine (best effort) ---

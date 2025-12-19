@@ -11,30 +11,29 @@ type Item = {
 
 // Badge de niveau technique (même style que ArticleCard)
 const LevelBadge = ({ level }: { level: TechLevel }) => {
-  const config = {
-    beginner: {
-      color: 'bg-green-100 text-green-800 border-green-200',
-      label: 'Débutant',
-      emoji: '🟢'
-    },
-    intermediate: {
-      color: 'bg-yellow-100 text-yellow-800 border-yellow-200',
-      label: 'Intermédiaire',
-      emoji: '🟡'
-    },
-    advanced: {
-      color: 'bg-red-100 text-red-800 border-red-200',
-      label: 'Avancé',
-      emoji: '🔴'
-    }
-  };
+  if (level === 'beginner') {
+    return (
+      <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-medium border bg-green-100 text-green-800 border-green-200">
+        <span>🟢</span>
+        <span>Débutant</span>
+      </span>
+    );
+  }
 
-  const { color, label, emoji } = config[level];
+  if (level === 'advanced') {
+    return (
+      <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-medium border bg-red-100 text-red-800 border-red-200">
+        <span>🔴</span>
+        <span>Avancé</span>
+      </span>
+    );
+  }
 
+  // intermediate (default)
   return (
-    <span className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-medium border ${color}`}>
-      <span>{emoji}</span>
-      <span>{label}</span>
+    <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] font-medium border bg-yellow-100 text-yellow-800 border-yellow-200">
+      <span>🟡</span>
+      <span>Intermédiaire</span>
     </span>
   );
 };
