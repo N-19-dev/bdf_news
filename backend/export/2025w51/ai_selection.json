@@ -6,14 +6,71 @@
       "summary": "...as a data engineer",
       "published_ts": 1765854926,
       "source_name": "VuTrinh · Data Engineering",
-      "score": 62.70874239504337,
+      "score": 62.7087464928627,
       "content_type": "technical",
       "tech_level": "intermediate",
       "marketing_score": 5
+    },
+    {
+      "url": "https://www.dataiku.com/stories/blog/dataiku-solutions-how-they-work-and-how-to-use-them",
+      "title": "Dataiku Solutions: How They Work and How to Use Them",
+      "summary": "Most of the time, business teams have a good idea of what they want to achieve when implementing AI use cases. However, when it comes to getting started they often face roadblocks. These projects often require specialized skills and a strong understanding of industry best practices.",
+      "published_ts": 1766004819,
+      "source_name": "Dataiku Blog",
+      "score": 58.18999835848808,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
     }
   ],
-  "cloud_infra_observability": [],
-  "data_modeling_governance": [],
+  "cloud_infra_observability": [
+    {
+      "url": "https://www.databricks.com/blog/welcoming-stately-cloud-databricks-investing-foundation-scalable-ai-applications",
+      "title": "Welcoming Stately Cloud to Databricks: Investing in the Foundation for Scalable AI Applications",
+      "summary": "Today, we are thrilled to welcome the Stately Cloud team to Databricks. This transaction...",
+      "published_ts": 1766158639,
+      "source_name": "Databricks Blog",
+      "score": 55.71554382145405,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "data_modeling_governance": [
+    {
+      "url": "https://www.databricks.com/blog/databricks-lakehouse-data-modeling-myths-truths-and-best-practices",
+      "title": "Databricks Lakehouse Data Modeling: Myths, Truths, and Best Practices",
+      "summary": "Data warehouses have long been prized for their structure and rigor, and yet many...",
+      "published_ts": 1765819011,
+      "source_name": "Databricks Blog",
+      "score": 66.95492067933083,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    },
+    {
+      "url": "https://www.getdbt.com/blog/whats-new-in-dbt-december-2025",
+      "title": "What’s new in dbt - December 2025",
+      "summary": "Catch up on the latest in dbt: from Fusion and AI updates to Core 1.11 previews and new partner integrations.",
+      "published_ts": 1766186700,
+      "source_name": "dbt Blog",
+      "score": 60.49526786804199,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    },
+    {
+      "url": "https://blog.octo.com/how-can-domain-driven-design-and-hexagonal-architecture-improve-data-product-development-in-practice-1",
+      "title": "How Can Domain-Driven Design and Hexagonal Architecture Improve Data Product Development in Practice?",
+      "summary": "Building robust data products means more than just pipelines. It’s about treating data as a real product with data contracts, quality rules, and clearly defined data transformations. This article explores how Domain-Driven Design and hexagonal architecture can bring structure and trust to your data engineering with clear segmentation of concerns.",
+      "published_ts": 1766168590,
+      "source_name": "OCTO Talks!",
+      "score": 58.15415172278881,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
   "etl_orchestration": [],
   "hors_sujet": [],
   "lake_storage_formats": [],
@@ -24,18 +81,18 @@
       "summary": "The Weekly Data Engineering Newsletter",
       "published_ts": 1765764013,
       "source_name": "Data Engineering Weekly",
-      "score": 69.15838368237019,
+      "score": 69.15838532149792,
       "content_type": "technical",
       "tech_level": "intermediate",
       "marketing_score": 0
     },
     {
-      "url": "https://www.dataiku.com/stories/blog/dataiku-solutions-how-they-work-and-how-to-use-them",
-      "title": "Dataiku Solutions: How They Work and How to Use Them",
-      "summary": "Most of the time, business teams have a good idea of what they want to achieve when implementing AI use cases. However, when it comes to getting started they often face roadblocks. These projects often require specialized skills and a strong understanding of industry best practices.",
-      "published_ts": 1766004819,
-      "source_name": "Dataiku Blog",
-      "score": 58.18999753892422,
+      "url": "https://www.databricks.com/blog/announcing-winners-inaugural-databricks-free-edition-hackathon",
+      "title": "Announcing the winners of the inaugural Databricks Free Edition Hackathon",
+      "summary": "We are excited to announce the winners of the inaugural Databricks Free Edition Hackathon...",
+      "published_ts": 1765915200,
+      "source_name": "Databricks Blog",
+      "score": 58.52862998843193,
       "content_type": "technical",
       "tech_level": "intermediate",
       "marketing_score": 0
@@ -45,23 +102,12 @@
   "python_analytics": [],
   "warehouses_engines": [
     {
-      "url": "https://www.databricks.com/blog/databricks-lakehouse-data-modeling-myths-truths-and-best-practices",
-      "title": "Databricks Lakehouse Data Modeling: Myths, Truths, and Best Practices",
-      "summary": "Data warehouses have long been prized for their structure and rigor, and yet many...",
-      "published_ts": 1765819011,
-      "source_name": "Databricks Blog",
-      "score": 66.95491576194763,
-      "content_type": "technical",
-      "tech_level": "intermediate",
-      "marketing_score": 0
-    },
-    {
       "url": "https://www.getdbt.com/blog/inside-snowflakes-ai-roadmap",
       "title": "Inside Snowflake’s AI roadmap",
       "summary": "Chris Child, Snowflake's VP of Product Management, on the vision for open table formats and the future of the data engineer.",
       "published_ts": 1765831620,
       "source_name": "dbt Blog",
-      "score": 65.04346567392349,
+      "score": 65.04347059130669,
       "content_type": "technical",
       "tech_level": "intermediate",
       "marketing_score": 0
@@ -72,7 +118,18 @@
       "summary": "Traditional data warehouses are slow, expensive, and locked behind proprietary systems....",
       "published_ts": 1765988462,
       "source_name": "Databricks Blog",
-      "score": 62.34724548459053,
+      "score": 62.347250401973724,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    },
+    {
+      "url": "https://www.databricks.com/blog/lakebase-holiday-update",
+      "title": "Lakebase Holiday Update",
+      "summary": "Since we announced the Public Preview of Lakebase in the summer, thousands of Databricks...",
+      "published_ts": 1765924222,
+      "source_name": "Databricks Blog",
+      "score": 59.98313128948212,
       "content_type": "technical",
       "tech_level": "intermediate",
       "marketing_score": 0
