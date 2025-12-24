@@ -3,12 +3,9 @@ import React from "react";
 import Hero from "./components/Hero";
 import SectionCard from "./components/SectionCard";
 import Overview from "./components/Overview";
-import SearchBar from "./components/SearchBar";
 import CategoryFilter from "./components/CategoryFilter";
 import ContentTypeTabs, { type ContentType } from "./components/ContentTypeTabs";
 import { loadWeeksIndex, loadLatestWeek, loadWeekSummary, type WeekMeta, type TopItem, type SummarySection } from "./lib/parse";
-import { createSearchIndex, searchArticles, type SearchableArticle } from "./lib/search";
-import type Fuse from "fuse.js";
 
 // Type pour les données de la semaine
 type WeekData = {
@@ -24,10 +21,8 @@ export default function App() {
   const [loading, setLoading] = React.useState(true);
   const [error, setError] = React.useState<string | null>(null);
 
-  // États pour la recherche et les filtres
-  const [searchQuery, setSearchQuery] = React.useState("");
+  // États pour les filtres
   const [selectedCategory, setSelectedCategory] = React.useState<string | null>(null);
-  const [searchIndex, setSearchIndex] = React.useState<Fuse<SearchableArticle> | null>(null);
   const [activeContentType, setActiveContentType] = React.useState<ContentType>("all");
 
   React.useEffect(() => {
@@ -39,21 +34,6 @@ export default function App() {
         setCurrentWeek(latest);
         const weekData = await loadWeekSummary(latest);
         setData(weekData);
-
-        // Créer l'index de recherche
-        const allArticles: SearchableArticle[] = [];
-        weekData.sections.forEach((section) => {
-          section.items?.forEach((item) => {
-            allArticles.push({
-              title: item.title,
-              url: item.url,
-              source: item.source || "",
-              score: typeof item.score === "number" ? item.score : 0,
-              category: section.title,
-            });
-          });
-        });
-        setSearchIndex(createSearchIndex(allArticles));
       } catch (e) {
         setError(e instanceof Error ? e.message : String(e));
       } finally {
@@ -65,7 +45,6 @@ export default function App() {
   const onWeekChange = async (weekId: string) => {
     try {
       setLoading(true);
-      setSearchQuery("");  // Reset search
       setSelectedCategory(null);  // Reset filter
       setActiveContentType("all");  // Reset content type
       const w = weeks.find((x) => x.week === weekId);
@@ -73,21 +52,6 @@ export default function App() {
       setCurrentWeek(w);
       const weekData = await loadWeekSummary(w);
       setData(weekData);
-
-      // Recréer l'index de recherche
-      const allArticles: SearchableArticle[] = [];
-      weekData.sections.forEach((section) => {
-        section.items?.forEach((item) => {
-          allArticles.push({
-            title: item.title,
-            url: item.url,
-            source: item.source || "",
-            score: typeof item.score === "number" ? item.score : 0,
-            category: section.title,
-          });
-        });
-      });
-      setSearchIndex(createSearchIndex(allArticles));
     } catch (e) {
       setError(e instanceof Error ? e.message : String(e));
     } finally {
@@ -95,7 +59,7 @@ export default function App() {
     }
   };
 
-  // Filtrer les sections en fonction de la recherche, des filtres et du type de contenu
+  // Filtrer les sections en fonction des filtres et du type de contenu
   const filteredSections = React.useMemo(() => {
     if (!data) return [];
 
@@ -118,21 +82,8 @@ export default function App() {
       sections = sections.filter((sec) => sec.title === selectedCategory);
     }
 
-    // Appliquer la recherche
-    if (searchQuery && searchIndex) {
-      const searchResults = searchArticles(searchIndex, searchQuery);
-      const searchUrls = new Set(searchResults.map((r) => r.url));
-
-      sections = sections
-        .map((sec) => ({
-          ...sec,
-          items: sec.items?.filter((item) => searchUrls.has(item.url)) || [],
-        }))
-        .filter((sec) => sec.items.length > 0);
-    }
-
     return sections;
-  }, [data, selectedCategory, searchQuery, searchIndex, activeContentType]);
+  }, [data, selectedCategory, activeContentType]);
 
   // Extraire les catégories uniques
   const categories = React.useMemo(() => {
@@ -183,24 +134,18 @@ export default function App() {
           rexCount={contentTypeCounts.rex}
         />
 
-        {/* Barre de recherche et filtres */}
-        <div className="space-y-3 sm:space-y-4">
-          <SearchBar
-            searchQuery={searchQuery}
-            onSearchChange={setSearchQuery}
-          />
-          <CategoryFilter
-            categories={categories}
-            selectedCategory={selectedCategory}
-            onCategoryChange={setSelectedCategory}
-          />
-        </div>
+        {/* Filtres */}
+        <CategoryFilter
+          categories={categories}
+          selectedCategory={selectedCategory}
+          onCategoryChange={setSelectedCategory}
+        />
 
         {/* Message si aucun résultat */}
-        {(searchQuery || selectedCategory) && filteredSections.length === 0 && (
+        {selectedCategory && filteredSections.length === 0 && (
           <div className="text-center py-8 sm:py-12">
             <p className="text-neutral-500 text-base sm:text-lg">
-              Aucun article trouvé pour cette recherche ou filtre.
+              Aucun article trouvé pour ce filtre.
             </p>
           </div>
         )}

@@ -54,7 +54,7 @@ Tout le reste est secondaire. La monétisation viendra naturellement si l'expér
 **Focus :** Dette technique + Performance + Stabilité + Quick wins UX + Amélioration pertinence
 
 **Timeline :** 12 semaines (si 20% temps = 5-8 SP/sprint)
-**Total SP :** ~44 SP (39 SP dette + 5 SP pertinence)
+**Total SP :** ~42 SP (37 SP dette + 5 SP pertinence)
 
 ---
 
@@ -137,13 +137,12 @@ Tout le reste est secondaire. La monétisation viendra naturellement si l'expér
 
 #### Mois 3 (Semaines 8-12) : Polish Qualité + Tests E2E
 
-**Sprint 4 (Sem 8-9) : Tests E2E Playwright - 8 SP**
+**Sprint 4 (Sem 8-9) : Tests E2E Playwright - 6 SP**
 
 **Semaine 8-9 :**
-- [P1] **Tests E2E Playwright** (8 SP)
+- [P1] **Tests E2E Playwright** (6 SP)
   - Setup Playwright
   - Test flow : Navigation semaines (1 test)
-  - Test flow : Recherche + résultats (1 test)
   - Test flow : Filtres catégories (1 test)
   - Test flow : Onglets type contenu (1 test)
   - Test flow : Click article → open new tab (1 test)
@@ -952,7 +951,7 @@ llm:
 **Quick Win Immédiat :** Abstraction LLM (Semaine 1, 3 SP) ⚠️
 
 **Effort Estimé :**
-- Phase 1 : ~57 SP (qualité + UX basics + pertinence)
+- Phase 1 : ~55 SP (qualité + UX basics + pertinence)
 - Phase 2 : ~47 SP (UX + Contenu avancés, billing optionnel)
 - Phase 3 : Variable (selon demandes users)
 - Cache Redis (optionnel) : 8 SP (uniquement si prod haute fréquence)

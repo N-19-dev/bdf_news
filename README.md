@@ -90,7 +90,6 @@ Ce projet automatise la veille technologique en :
 - ✅ **Onglets Technical / REX & All Hands** pour séparer le contenu
 - ✅ Top 3 des articles les plus pertinents
 - ✅ Navigation par semaine
-- ✅ **Recherche floue** avec Fuse.js
 - ✅ **Filtres par catégorie**
 - ✅ Rendu Markdown avec code highlighting
 - ✅ Scores de pertinence visibles
@@ -374,7 +373,6 @@ Settings → Pages → Source: **GitHub Actions**
 - **Vite** : Build tool moderne
 - **Tailwind CSS** : Design system
 - **marked** : Rendu Markdown
-- **Fuse.js** : Recherche floue (à implémenter)
 
 ### CI/CD
 - **GitHub Actions** : Automatisation
@@ -423,8 +421,7 @@ veille_tech_crawling/
 - [x] Documentation complète
 - [ ] Tests unitaires (pytest)
 - [ ] Logging structuré (loguru)
-- [ ] Barre de recherche frontend
-- [ ] Filtres par catégorie
+- [x] Filtres par catégorie
 
 ### Moyen terme
 - [ ] API REST (FastAPI)
