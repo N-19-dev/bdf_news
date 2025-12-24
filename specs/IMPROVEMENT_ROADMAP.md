@@ -54,7 +54,7 @@ Tout le reste est secondaire. La monétisation viendra naturellement si l'expér
 **Focus :** Dette technique + Performance + Stabilité + Quick wins UX + Amélioration pertinence
 
 **Timeline :** 12 semaines (si 20% temps = 5-8 SP/sprint)
-**Total SP :** ~52 SP (47 SP dette + 5 SP pertinence)
+**Total SP :** ~44 SP (39 SP dette + 5 SP pertinence)
 
 ---
 
@@ -89,7 +89,7 @@ Tout le reste est secondaire. La monétisation viendra naturellement si l'expér
 
 ---
 
-#### Mois 2 (Semaines 5-8) : CI/CD + Performance + Pertinence
+#### Mois 2 (Semaines 5-7) : CI/CD + Pertinence
 
 **Sprint 2.5 (Sem 5-6, Partie 1) : 🎯 Amélioration Pertinence & Scoring - 5 SP**
 
@@ -133,24 +133,13 @@ Tout le reste est secondaire. La monétisation viendra naturellement si l'expér
   - Badge coverage README.md
   - **Deliverable :** Tests automatiques en CI
 
-**Sprint 4 (Sem 8) : Cache Redis Embeddings - 8 SP**
-
-**Semaine 8 :**
-- [P1] **Cache Redis** (8 SP)
-  - Setup Redis (Upstash free tier ou Docker local)
-  - Cache embeddings par `hash(content)`, TTL 30 jours
-  - Fallback : calcul si cache miss
-  - Config YAML : `cache.redis_url` (optionnel)
-  - Monitoring cache hit rate (logs)
-  - **Deliverable :** -50% temps scoring (5 min → 2.5 min)
-
 ---
 
-#### Mois 3 (Semaines 9-12) : Polish Qualité + Tests E2E
+#### Mois 3 (Semaines 8-12) : Polish Qualité + Tests E2E
 
-**Sprint 5 (Sem 9-10) : Tests E2E Playwright - 8 SP**
+**Sprint 4 (Sem 8-9) : Tests E2E Playwright - 8 SP**
 
-**Semaine 9-10 :**
+**Semaine 8-9 :**
 - [P1] **Tests E2E Playwright** (8 SP)
   - Setup Playwright
   - Test flow : Navigation semaines (1 test)
@@ -160,9 +149,9 @@ Tout le reste est secondaire. La monétisation viendra naturellement si l'expér
   - Test flow : Click article → open new tab (1 test)
   - **Deliverable :** Flows critiques couverts
 
-**Sprint 6 (Sem 11-12) : Polish UX & Optimisations - 13 SP**
+**Sprint 5 (Sem 10-12) : Polish UX & Optimisations - 13 SP**
 
-**Semaine 11-12 :**
+**Semaine 10-12 :**
 - [UX] **Mobile UX Audit & Fixes** (3 SP)
   - Audit responsive design (iPhone, iPad, Android)
   - Fix touch targets < 48px
@@ -192,7 +181,6 @@ Tout le reste est secondaire. La monétisation viendra naturellement si l'expér
 - ✅ Monitoring Sentry actif (zéro bugs silencieux)
 - ✅ Tests frontend 40-50% + E2E flows
 - ✅ CI/CD tests automatiques
-- ✅ Cache Redis (-50% temps scoring)
 - ✅ Staging environment
 - ✅ Dependabot CVE scanning
 
@@ -211,7 +199,7 @@ Tout le reste est secondaire. La monétisation viendra naturellement si l'expér
 - ✅ 5-10 nouvelles sources pertinentes ajoutées
 - ✅ Audit pertinence 100 articles (documentation faux positifs/négatifs)
 
-**Score Santé Projeté :** 73/100 → **87/100** ✅ (gain +2 points grâce pertinence)
+**Score Santé Projeté :** 73/100 → **85/100** ✅ (gain +2 points grâce pertinence)
 
 **Décision Go/No-Go :**
 - [ ] UX, contenu et qualité satisfaisants → Passer Phase 2 (Features Avancées)
@@ -508,6 +496,44 @@ Elle prépare l'infrastructure pour monétiser un jour, SI vous décidez de le f
 
 ---
 
+#### Option C : Optimisation Production Haute Fréquence (Optionnel)
+
+**⚠️ IMPORTANT :** Cette option n'est utile QUE SI vous voulez faire tourner le système **en haute fréquence** (run quotidien, API temps réel, etc.).
+
+**Quand faire ce sprint :**
+- ✅ Le code est stable (moins de changements fréquents)
+- ✅ Vous voulez faire tourner le pipeline plusieurs fois par jour
+- ✅ Le temps de scoring (5-10 min) devient un bottleneck
+- ✅ Vous avez besoin d'une API temps réel
+
+**Quand NE PAS faire ce sprint :**
+- ❌ Vous changez souvent le code scoring/filtering (cache = faux résultats)
+- ❌ Pipeline tourne 1x/semaine seulement (gagner 2 min une fois = négligeable)
+- ❌ Vous êtes en développement actif (cache = source de bugs)
+
+**Sprint : Cache Redis Embeddings - 8 SP**
+
+**Pourquoi :**
+- Calcul embeddings = opération la plus lente (~100s pour 200 articles)
+- Cache permet réutilisation embeddings déjà calculés
+- Gain 50% temps total pipeline (5 min → 2.5 min)
+
+**Implémentation :**
+- [PERF] **Cache Redis** (8 SP)
+  - Setup Redis (Upstash free tier ou Docker local)
+  - Cache embeddings par `hash(content)`, TTL 30 jours
+  - Fallback : calcul si cache miss
+  - Config YAML : `cache.redis_url` (optionnel)
+  - Monitoring cache hit rate (logs)
+  - Invalidation intelligente si code scoring change
+  - **Deliverable :** -50% temps scoring (5 min → 2.5 min) en production haute fréquence
+
+**Alternative si pas pertinent :**
+- Investir ces 8 SP dans plus de features UX demandées par users
+- Ou améliorer pertinence contenu (nouvelles sources, meilleur scoring)
+
+---
+
 ### 🏁 Fin Phase 3 (Mois 9+) : Site d'Excellence UX
 
 **Résultats Attendus (UX Excellence) :**
@@ -540,7 +566,7 @@ Elle prépare l'infrastructure pour monétiser un jour, SI vous décidez de le f
 ```
 Mois 1-3 : FONDATIONS (UX + CONTENU) & QUALITÉ 🏗️
 ├─ M1 : Abstraction LLM + Monitoring + Tests frontend
-├─ M2 : 🎯 Amélioration Pertinence + CI/CD + Cache Redis
+├─ M2 : 🎯 Amélioration Pertinence + CI/CD
 │       • Audit scoring, anti-bruit, seuils, sources
 └─ M3 : Tests E2E + Staging + Mobile UX + Accessibilité
 Résultat : Site fiable, rapide, accessible + Articles pertinents ✅
@@ -557,8 +583,12 @@ Mois 8-9+ : POLISH CONTINU & FEATURES BONUS 🌟
 │         • UX: Mode sombre, Export PDF, PWA, Bookmarks
 │         • Contenu: Résumés améliorés, Détection tendances, Sources auto
 │
-└─ M8-9 : Option B (Optionnel) - Monétisation si pertinent
-          • Activation billing, Marketing soft launch
+├─ M8-9 : Option B (Optionnel) - Monétisation si pertinent
+│         • Activation billing, Marketing soft launch
+│
+└─ Option C (Optionnel) - Cache Redis (si prod haute fréquence)
+          • Cache embeddings, -50% temps scoring
+          • Uniquement si run quotidien/API temps réel
 
 Résultat : Site d'excellence (UX + Contenu), users adorent ✅
 ```
@@ -821,14 +851,12 @@ llm:
 - Coverage tests : Backend 60% + Frontend 50% + E2E flows
 - Performance Lighthouse : 70-80 → 90+
 - Monitoring : 0 erreurs silencieuses (Sentry actif)
-- Temps scoring : 10 min → 5 min (cache Redis)
 
 **Deliverables :**
 - [ ] Abstraction LLM (risque mitigé)
 - [ ] Monitoring Sentry actif
 - [ ] Tests > 70% coverage
 - [ ] CI/CD tests automatiques
-- [ ] Cache Redis functional
 - [ ] Perf > 90 Lighthouse
 - [ ] Staging env déployé
 
@@ -924,9 +952,10 @@ llm:
 **Quick Win Immédiat :** Abstraction LLM (Semaine 1, 3 SP) ⚠️
 
 **Effort Estimé :**
-- Phase 1 : ~65 SP (qualité + UX basics + pertinence)
+- Phase 1 : ~57 SP (qualité + UX basics + pertinence)
 - Phase 2 : ~47 SP (UX + Contenu avancés, billing optionnel)
 - Phase 3 : Variable (selon demandes users)
+- Cache Redis (optionnel) : 8 SP (uniquement si prod haute fréquence)
 
 **Velocity :** 5-8 SP/sprint (20% temps)
 
@@ -943,7 +972,7 @@ Voir détails "Actions Immédiates (Cette Semaine)" ci-dessus.
 ---
 
 *Roadmap créée le : 2025-12-20*
-*Mise à jour : 2025-12-20 (Alignement sur objectif UX-First)*
+*Mise à jour : 2025-12-21 (Déplacement Cache Redis vers fin)*
 *Basée sur : Vos 10 réponses + 4 décisions stratégiques + clarification objectif #1*
 *Revue prochaine : Fin Mois 3 (checkpoint UX & qualité)*
 
@@ -975,6 +1004,9 @@ Voir détails "Actions Immédiates (Cette Semaine)" ci-dessus.
 9. ✅ Phase 3 Options Contenu : Résumés améliorés, Détection tendances, Expansion sources auto
 10. ✅ KPIs changés : MRR/Churn → Rétention/NPS/Engagement/**Pertinence articles > 90%**
 11. ✅ Critères succès : "Commercial-Ready" → "Site Indispensable (UX + Contenu)"
+12. ✅ **Cache Redis déplacé** : Mois 2 (Sprint 4) → Phase 3 Option C (optionnel)
+    - Raison : Inutile en développement (1 run/semaine), utile uniquement en prod haute fréquence
+    - Phase 1 réduite : 57 SP (vs 65 SP initialement)
 
 **Philosophie :**
 > Construire le meilleur site de veille tech pour Data Engineers.
