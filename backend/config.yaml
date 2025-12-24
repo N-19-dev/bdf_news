@@ -16,6 +16,34 @@ export:
   max_items_per_cat: 60
 notify:
   slack_webhook_env: SLACK_WEBHOOK_URL
+
+# Email Digest Configuration (Phase 2 - Daily Push)
+email_digest:
+  enabled: true
+  # SendGrid API configuration
+  sendgrid_api_key_env: SENDGRID_API_KEY
+  from_email: veille@datamag.dev  # Change to your verified sender
+  from_name: "Veille MAG"
+
+  # Recipients (MVP: static list)
+  recipients:
+    - email: your-email@example.com  # Replace with your email
+      name: "Your Name"
+
+  # Daily digest settings
+  schedule:
+    frequency: daily  # daily, weekly, manual
+    time: "08:00"
+    timezone: "Europe/Paris"
+    days: [mon, tue, wed, thu, fri]  # Only weekdays
+
+  # Content selection
+  selection:
+    articles_per_digest: 1  # Start with 1 article/day
+    min_score_threshold: 60  # Only send high-quality articles
+    round_robin_categories: true  # Rotate categories
+    avoid_duplicates_days: 30  # Don't send same article for 30 days
+
 monitoring:
   log_level: INFO
   export_metrics: true

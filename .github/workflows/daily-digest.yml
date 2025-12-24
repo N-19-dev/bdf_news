@@ -1,0 +1,61 @@
+name: Daily Email Digest
+
+on:
+  # Run every weekday at 08:00 UTC (09:00 Paris winter, 10:00 Paris summer)
+  # Adjust cron to match your timezone preference
+  schedule:
+    - cron: '0 7 * * 1-5'  # 07:00 UTC = 08:00 Paris (winter)
+
+  # Allow manual trigger for testing
+  workflow_dispatch:
+    inputs:
+      force_send:
+        description: 'Force send even if not scheduled day'
+        required: false
+        default: 'false'
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  send-daily-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history to access database
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install dependencies
+        working-directory: backend
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run database migration (if needed)
+        working-directory: backend
+        run: |
+          python migrate_add_sent_articles.py
+
+      - name: Send daily digest
+        working-directory: backend
+        env:
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python daily_digest.py
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-digest-logs
+          path: backend/logs/daily_digest.log
+          retention-days: 7

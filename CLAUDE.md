@@ -38,6 +38,10 @@ python regenerate_weeks.py         # Regenerate last 3 weeks
 python regenerate_weeks.py --skip-llm  # Skip LLM steps (faster)
 python api_server.py               # Start FastAPI server (optional, for dev)
 uvicorn api_server:app --reload    # Alternative way to run API
+
+# Daily Email Digest (Phase 2)
+python migrate_add_sent_articles.py  # Create sent_articles table (one-time)
+python daily_digest.py               # Send daily digest emails (manual trigger)
 ```
 
 ### Frontend (React + Vite)
@@ -88,6 +92,15 @@ The backend runs 4 sequential steps:
    - Generates overview and category summaries using LLM
    - Exports: `digest.json`, `digest.md`, `summary.json`
 
+5. **daily_digest.py** - Daily Email Notifications (Phase 2)
+   - Runs Mon-Fri at 08:00 (via GitHub Actions)
+   - Selects best article (highest score, not recently sent)
+   - Round-robin categories for diversity
+   - Sends via SendGrid API (HTML + text templates)
+   - Tracks sent articles in `sent_articles` table to avoid duplicates
+   - Config: `config.yaml` → `email_digest`
+   - Setup: See `DAILY_DIGEST_SETUP.md`
+
 ### Content Type Classification
 
 Articles are classified into two types (content_classifier.py):
@@ -116,8 +129,11 @@ GitHub Pages Deploy
 ### Storage
 
 - **SQLite**: `backend/veille.db` (gitignored)
-  - Schema: items table with columns: id, url, title, summary, content, published_ts, source_name, category_key, created_ts, semantic_score, source_weight, quality_score, tech_score, final_score, content_type
-  - Index: `idx_items_cat_pub` on (category_key, published_ts DESC)
+  - **items** table: Articles with scoring (id, url, title, summary, content, published_ts, source_name, category_key, final_score, semantic_score, source_weight, quality_score, tech_score, content_type, tech_level, marketing_score)
+    - Index: `idx_items_cat_pub` on (category_key, published_ts DESC)
+  - **sent_articles** table: Email digest tracking (article_id, email_recipient, sent_at, digest_type)
+    - Prevents sending duplicate articles to users
+    - Indexes: `idx_sent_articles_email`, `idx_sent_articles_article`
 
 - **Exports**: `export/<YYYYwWW>/`
   - `digest.json` - Weekly digest with overview + sections (used by frontend)
@@ -176,6 +192,7 @@ Required in `backend/.env`:
 - `GROQ_API_KEY` - Groq API key (free at https://console.groq.com)
 
 Optional:
+- `SENDGRID_API_KEY` - SendGrid API key for daily digest emails (Phase 2, see DAILY_DIGEST_SETUP.md)
 - `SLACK_WEBHOOK_URL` - Slack notifications
 - `WEEK_OFFSET` - Run for N weeks ago (default 0)
 

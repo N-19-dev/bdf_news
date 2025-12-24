@@ -1,0 +1,31 @@
+VEILLE MAG
+{{date}}
+
+📡 Ton article tech du jour
+═══════════════════════════════════════
+
+Bonjour {{recipient_name}},
+
+Voici l'article que j'ai sélectionné pour toi aujourd'hui — le meilleur de la veille tech Data Engineering, sans la surcharge.
+
+───────────────────────────────────────
+
+{{title}}
+
+{{source}}
+
+{{summary}}
+
+🎯 Score de pertinence : {{score}}/100
+🏷️ Catégorie : {{category}}
+⏱️ Temps de lecture : ~{{read_time}} min
+
+👉 Lire l'article : {{url}}
+
+───────────────────────────────────────
+
+📚 Voir les archives : {{archive_url}}
+⚙️ Gérer mes préférences : {{manage_prefs_url}}
+
+Tu reçois cet email car tu es abonné à Veille MAG.
+Se désabonner : {{unsubscribe_url}}
