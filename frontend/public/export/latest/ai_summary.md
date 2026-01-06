@@ -1,51 +1,48 @@
 ## Aperçu général de la semaine
 
-Cette semaine, Databricks a annoncé plusieurs nouveautés importantes, notamment l'intégration de Stately Cloud pour améliorer la scalabilité des applications AI. Uber a également partagé son REX sur la migration de données.
+Databricks annonce des résultats impressionnants avec Ströer, qui a transformé son succès publicitaire en économies de millions de dollars. Les leaders de la donnée et de l'IA partagent leurs priorités stratégiques pour 2026.
 
 ## 🏛️ Warehouses & Query Engines
 
-- [Inside Snowflake’s AI roadmap](https://www.getdbt.com/blog/inside-snowflakes-ai-roadmap) — dbt Blog · 2025-12-15
-- [SQL on the Databricks Lakehouse in 2025](https://www.databricks.com/blog/sql-databricks-lakehouse-2025) — Databricks Blog · 2025-12-17
-- [Lakebase Holiday Update](https://www.databricks.com/blog/lakebase-holiday-update) — Databricks Blog · 2025-12-16
+- [7 insights to help you learn any OLAP systems](https://vutr.substack.com/p/7-insights-to-help-you-learn-any) — VuTrinh · Data Engineering · 2025-12-30
 **À creuser :**
-** [Data Engineering Weekly #248](https://www.dataengineeringweekly.com/p/data-engineering-weekly-248) — Data Engineering Weekly · 2025-12-15
+** [Dagster’s Code Location Architecture](https://dagster.io/blog/dagster-code-locations) — Dagster Blog · 2025-12-31
 
 ## 🔄 Orchestration, ETL & Data Movement
 
-- Aucun article n'a été trouvé dans cette catégorie.
+- [Dagster’s Code Location Architecture](https://dagster.io/blog/dagster-code-locations) — Dagster Blog · 2025-12-31
+- [From Zero to Millions in Savings: Ströer Transforms Advertising Success with Databricks](https://www.databricks.com/blog/zero-millions-savings-stroer-transforms-advertising-success-databricks) — Databricks Blog · 2025-12-30
+**À creuser :**
+** [7 insights to help you learn any OLAP systems](https://vutr.substack.com/p/7-insights-to-help-you-learn-any) — VuTrinh · Data Engineering · 2025-12-30
 
 ## 📐 Data Modeling, Governance & Quality
 
-- [Databricks Lakehouse Data Modeling: Myths, Truths, and Best Practices](https://www.databricks.com/blog/databricks-lakehouse-data-modeling-myths-truths-and-best-practices) — Databricks Blog · 2025-12-15
-- [What’s new in dbt - December 2025](https://www.getdbt.com/blog/whats-new-in-dbt-december-2025) — dbt Blog · 2025-12-19
-- [How Can Domain-Driven Design and Hexagonal Architecture Improve Data Product Development in Practice?](https://blog.octo.com/how-can-domain-driven-design-and-hexagonal-architecture-improve-data-product-development-in-practice-1) — OCTO Talks! · 2025-12-19
+- [Live with Joe Reis - January 2026 AMA. Ontologies, Data Modeling, Data Engineering, and More](https://joereis.substack.com/p/live-with-joe-reis-ama) — Joe Reis · Data Engineering · 2026-01-02
 **À creuser :**
-** [Databricks Lakehouse Data Modeling: Myths, Truths, and Best Practices](https://www.databricks.com/blog/databricks-lakehouse-data-modeling-myths-truths-and-best-practices) — Databricks Blog · 2025-12-15
+** [Dagster’s Code Location Architecture](https://dagster.io/blog/dagster-code-locations) — Dagster Blog · 2025-12-31
 
 ## 🗄️ Data Lakes, Storage & Formats
 
-- Aucun article n'a été trouvé dans cette catégorie.
+- Aucun article pertinent trouvé dans le contexte.
 
 ## ☁️ Cloud, Infra & Observability
 
-- [Welcoming Stately Cloud to Databricks: Investing in the Foundation for Scalable AI Applications](https://www.databricks.com/blog/welcoming-stately-cloud-databricks-investing-foundation-scalable-ai-applications) — Databricks Blog · 2025-12-19
-**À creuser :**
-** [Welcoming Stately Cloud to Databricks: Investing in the Foundation for Scalable AI Applications](https://www.databricks.com/blog/welcoming-stately-cloud-databricks-investing-foundation-scalable-ai-applications) — Databricks Blog · 2025-12-19
+- Aucun article pertinent trouvé dans le contexte.
 
 ## 🐍 Python, Analytics & Tools
 
-- Aucun article n'a été trouvé dans cette catégorie.
+- Aucun article pertinent trouvé dans le contexte.
 
 ## 🤖 AI for Data Engineering
 
-- [Everything you need to know about LLMs](https://vutr.substack.com/p/everything-you-need-to-know-about-bee) — VuTrinh · Data Engineering · 2025-12-16
-- [Dataiku Solutions: How They Work and How to Use Them](https://www.dataiku.com/stories/blog/dataiku-solutions-how-they-work-and-how-to-use-them) — Dataiku Blog · 2025-12-17
+- [How ZS Associates Used AI Agents to Reduce Risk, Cut Costs, & Improve Model Reliability](https://www.dataiku.com/stories/blog/zs-associates) — Dataiku Blog · 2025-12-29
+- [The Top Strategic Priorities Guiding Data and AI Leaders in 2026](https://www.databricks.com/blog/top-strategic-priorities-guiding-data-and-ai-leaders-2026) — Databricks Blog · 2025-12-29
+- [How Agentforce Enabled Incident Response Automation to Cut Common Resolution Time by 70 – 80%](https://engineering.salesforce.com/how-agentforce-enabled-incident-response-automation-to-cut-common-resolution-time-by-70-80/) — Salesforce Engineering · 2025-12-29
 **À creuser :**
-** [Everything you need to know about LLMs](https://vutr.substack.com/p/everything-you-need-to-know-about-bee) — VuTrinh · Data Engineering · 2025-12-16
+** [7 insights to help you learn any OLAP systems](https://vutr.substack.com/p/7-insights-to-help-you-learn-any) — VuTrinh · Data Engineering · 2025-12-30
 
 ## 📰 Tech / Cloud / IA News
 
-- [Data Engineering Weekly #248](https://www.dataengineeringweekly.com/p/data-engineering-weekly-248) — Data Engineering Weekly · 2025-12-15
-- [Announcing the winners of the inaugural Databricks Free Edition Hackathon](https://www.databricks.com/blog/announcing-winners-inaugural-databricks-free-edition-hackathon) — Databricks Blog · 2025-12-16
+- [Data Engineering Weekly #250](https://www.dataengineeringweekly.com/p/data-engineering-weekly-250) — Data Engineering Weekly · 2025-12-29
 **À creuser :**
-** [Data Engineering Weekly #248](https://www.dataengineeringweekly.com/p/data-engineering-weekly-248) — Data Engineering Weekly · 2025-12-15
+** [7 insights to help you learn any OLAP systems](https://vutr.substack.com/p/7-insights-to-help-you-learn-any) — VuTrinh · Data Engineering · 2025-12-30

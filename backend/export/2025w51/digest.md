@@ -89,6 +89,8 @@
 
 ## 🤖 AI for Data Engineering
 
+- [The future of personalization: From matrix factorization to prompt-personalized LLMs](https://www.rudderstack.com/blog/future-of-personalization-matrix-factorization-llms) — Rudderstack Blog · 2025-12-20
+  - Personalization is shifting from ranking to reasoning. Learn hybrid stacks that pair matrix factorization retrieval with LLM decisioning and generation.
 - [Code Orange: Fail Small — our resilience plan following recent incidents](https://blog.cloudflare.com/fail-small-resilience-plan/) — Cloudflare Engineering · 2025-12-19
   - We have declared “Code Orange: Fail Small” to focus everyone at Cloudflare on a set of high-priority workstreams with one simple goal: ensure that the cause of our last two global outages never happens again.
 - [Gemini veut-il la peau du blog OCTO ?](https://blog.octo.com/gemini-veut-il-la-peau-du-blog-octo) — OCTO Talks! · 2025-12-19
@@ -127,6 +129,8 @@ separates tokenizer design from trained vocabulary (much like how PyTorch separa
   - In our Engineering Energizers Q&A series, we highlight the engineering minds driving innovation across Salesforce. Today, we feature Darryn Dieken, Chief Availability Officer, who directs engineering productivity, reliability, and AI-driven…
 - [How AI Is Transforming the Adoption of Secure-by-Default Mobile Frameworks](https://engineering.fb.com/2025/12/15/android/how-ai-transforming-secure-by-default-mobile-frameworks-adoption/) — Meta Engineering · 2025-12-15
   - Meta’s secure-by-default frameworks wrap potentially unsafe OS and third-party functions, making security the default while preserving developer speed and usability. These frameworks are designed to closely mirror existing APIs, rely on pub…
+- [Keeping Java as the Core, Python to Lead Agentic Systems](https://medium.com/walmartglobaltech/keeping-java-as-the-core-python-to-lead-agentic-systems-e2960693e1cd?source=rss----905ea2b3d4d1---4) — Walmart Global Tech · 2025-12-15
+  - We’ve been a Java shop for years, and now agentic AI demands us to rethink. How I got here? I’ve been in the Java world for more than 30 years. Java has been my default answer to “what should we build this in?” for most of my career. I’ve s…
 - [CUGA on Hugging Face: Democratizing Configurable AI Agents](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face) — Hugging Face Blog · 2025-12-15
   - CUGA on Hugging Face: Democratizing Configurable AI Agents
 Introduction
@@ -152,10 +156,12 @@ AI agents are rapidly becoming essential for building intelligent applications, 
   - In this post, we demonstrate how to implement Apache Spark Connect on Amazon EMR on Amazon Elastic Compute Cloud (Amazon EC2) to build decoupled data processing applications. We show how to set up and configure Spark Connect securely, so yo…
 - [Top 10 Questions You Asked About Databricks Clean Rooms, Answered](https://www.databricks.com/blog/top-10-questions-you-asked-about-databricks-clean-rooms-answered) — Databricks Blog · 2025-12-18
   - Data collaboration is the backbone of modern AI innovation, especially as organizations...
-- [Powering Billion-Scale Vector Search with OpenSearch](https://www.uber.com/blog/powering-billion-scale-vector-search-with-opensearch/) — Uber Engineering Blog · 2025-12-18
-  - Uber powers billion-scale vector search with OpenSearch. Discover the innovative optimizations we designed to boost search efficiency, scalability, and reliability for massive datasets.
+- [Data Engineer Things Newsletter - Community Spotlight Edition (Dec 2025)](https://dataengineerthings.substack.com/p/data-engineer-things-newsletter-community) — Data Engineer Things · 2025-12-18
+  - From big tech to independent consulting: the art of professional brand building and communication. Featuring Ben Rogojan (aka the Seattle Data Guy).
 - [Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](https://blog.cloudflare.com/r2-sql-aggregations/) — Cloudflare Engineering · 2025-12-18
   - Cloudflare’s R2 SQL, a distributed query engine, now supports aggregations. Explore how we built distributed GROUP BY execution, using scatter-gather and shuffling strategies to run analytics directly over your R2 Data Catalog.
+- [Powering Billion-Scale Vector Search with OpenSearch](https://www.uber.com/blog/powering-billion-scale-vector-search-with-opensearch/) — Uber Engineering Blog · 2025-12-18
+  - Uber powers billion-scale vector search with OpenSearch. Discover the innovative optimizations we designed to boost search efficiency, scalability, and reliability for massive datasets.
 - [The AI Agent Revolution for Self-Service BI: Why Everything Is About to Change](https://www.dataiku.com/stories/blog/the-ai-agent-revolution-for-self-service-bi-why-everything-is-about-to-change) — Dataiku Blog · 2025-12-18
   - Business intelligence (BI) is entering a new phase. Organizations want insights that move at the pace of the business, yet many still rely on workflows shaped years ago: dashboards for every new question, exports when dashboards fall short,…
 - [Databricks Spatial Joins Now 17x Faster Out-of-the-Box](https://www.databricks.com/blog/databricks-spatial-joins-now-17x-faster-out-box) — Databricks Blog · 2025-12-18

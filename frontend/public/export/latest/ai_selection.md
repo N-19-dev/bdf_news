@@ -2,30 +2,23 @@
 
 ## ai_data_engineering
 
-- [Everything you need to know about LLMs](https://vutr.substack.com/p/everything-you-need-to-know-about-bee) — VuTrinh · Data Engineering · 2025-12-16 · **61/100**
-- [‘Tis the Season to Reflect and Revamp Your AI Strategy](https://www.dataiku.com/stories/blog/tis-the-season-to-revamp-your-ai-strategy) — Dataiku Blog · 2025-12-16 · **55/100**
-
-## cloud_infra_observability
-
-- [Taming tool sprawl: How to boost university IT productivity](https://about.gitlab.com/blog/taming-tool-sprawl-how-to-boost-university-it-productivity/) — GitLab Engineering · 2025-12-15 · **50/100**
+- [How ZS Associates Used AI Agents to Reduce Risk, Cut Costs, & Improve Model Reliability](https://www.dataiku.com/stories/blog/zs-associates) — Dataiku Blog · 2025-12-29 · **54/100**
+- [The Top Strategic Priorities Guiding Data and AI Leaders in 2026](https://www.databricks.com/blog/top-strategic-priorities-guiding-data-and-ai-leaders-2026) — Databricks Blog · 2025-12-29 · **54/100**
+- [How Agentforce Enabled Incident Response Automation to Cut Common Resolution Time by 70 – 80%](https://engineering.salesforce.com/how-agentforce-enabled-incident-response-automation-to-cut-common-resolution-time-by-70-80/) — Salesforce Engineering · 2025-12-29 · **53/100**
 
 ## data_modeling_governance
 
-- [The Future of AI in Life Sciences: 2026 Predictions](https://www.snowflake.com/content/snowflake-site/global/en/blog/life-sciences-ai-predictions-2026) — Snowflake Blog · 2025-12-16 · **54/100**
+- [Live with Joe Reis - January 2026 AMA. Ontologies, Data Modeling, Data Engineering, and More](https://joereis.substack.com/p/live-with-joe-reis-ama) — Joe Reis · Data Engineering · 2026-01-02 · **55/100**
 
 ## etl_orchestration
 
-- [How Uber Indexes Streaming Data with Pull-Based Ingestion in OpenSearch™](https://www.uber.com/blog/how-uber-indexes-streaming-data-with-pull-based-ingestion-in-opensearch/) — Uber Engineering Blog · 2025-12-16 · **57/100**
-- [Data Ingestion Patterns: Push, Pull & Poll Explained | Dagster](https://dagster.io/blog/data-ingestion-patterns-when-to-use-push-pull-and-poll) — Dagster Blog · 2025-12-17 · **57/100**
-- [Introducing Agent Connectors from Airbyte | Airbyte](https://airbyte.com/blog/agent-connectors) — Airbyte Blog · 2025-12-16 · **56/100**
+- [Dagster’s Code Location Architecture](https://dagster.io/blog/dagster-code-locations) — Dagster Blog · 2025-12-31 · **59/100**
+- [From Zero to Millions in Savings: Ströer Transforms Advertising Success with Databricks](https://www.databricks.com/blog/zero-millions-savings-stroer-transforms-advertising-success-databricks) — Databricks Blog · 2025-12-30 · **55/100**
 
 ## news
 
-- [Data Engineering Weekly #248](https://www.dataengineeringweekly.com/p/data-engineering-weekly-248) — Data Engineering Weekly · 2025-12-15 · **69/100**
-- [Dataiku Solutions: How They Work and How to Use Them](https://www.dataiku.com/stories/blog/dataiku-solutions-how-they-work-and-how-to-use-them) — Dataiku Blog · 2025-12-17 · **58/100**
+- [Data Engineering Weekly #250](https://www.dataengineeringweekly.com/p/data-engineering-weekly-250) — Data Engineering Weekly · 2025-12-29 · **64/100**
 
 ## warehouses_engines
 
-- [Databricks Lakehouse Data Modeling: Myths, Truths, and Best Practices](https://www.databricks.com/blog/databricks-lakehouse-data-modeling-myths-truths-and-best-practices) — Databricks Blog · 2025-12-15 · **67/100**
-- [Inside Snowflake’s AI roadmap](https://www.getdbt.com/blog/inside-snowflakes-ai-roadmap) — dbt Blog · 2025-12-15 · **65/100**
-- [SQL on the Databricks Lakehouse in 2025](https://www.databricks.com/blog/sql-databricks-lakehouse-2025) — Databricks Blog · 2025-12-17 · **62/100**
+- [7 insights to help you learn any OLAP systems](https://vutr.substack.com/p/7-insights-to-help-you-learn-any) — VuTrinh · Data Engineering · 2025-12-30 · **67/100**

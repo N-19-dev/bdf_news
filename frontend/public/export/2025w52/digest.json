@@ -1,0 +1,137 @@
+{
+  "ai_data_engineering": [
+    {
+      "url": "https://aws.amazon.com/blogs/big-data/simplified-management-of-amazon-msk-with-natural-language-using-kiro-cli-and-amazon-msk-mcp-server/",
+      "title": "Simplified management of Amazon MSK with natural language using Kiro CLI and Amazon MSK MCP Server",
+      "summary": "In this post, we demonstrate how Kiro CLI and the MSK MCP server can streamline your Kafka management. Through practical examples and demonstrations, we show you how to use these tools to perform common administrative tasks efficiently while maintaining robust security and reliability.",
+      "published_ts": 1766598905,
+      "source_name": "Redshift / AWS Big Data",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://blog.octo.com/school-of-product-2025-l'approche-produit-n'existe-pas-seules-comptent-les-organisations-produit.",
+      "title": "School of Product 2025 - L’approche produit n'existe pas, seules comptent les organisations produit.",
+      "summary": "Pendant plus de dix ans, Romain Delassus a assisté — parfois en spectateur, souvent en acteur — à des transformations numériques profondes. Et pourtant, malgré les compétences et la motivation du top management… beaucoup échouent encore à produire des services numériques réellement utiles, robustes et durables.",
+      "published_ts": 1766574086,
+      "source_name": "OCTO Talks!",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+      "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+      "summary": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems\nLarge Language Models (LLMs) have rapidly evolved from text-only assistants into complex\nagentic\nsystems capable of performing multi-step reasoning, calling external tools, retrieving memory, and executing code. Wit",
+      "published_ts": 1766498855,
+      "source_name": "Hugging Face Blog",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://dagster.io/blog/how-to-build-a-data-platform-that-actually-scales",
+      "title": "How to Build a Data Platform That Actually Scales | Dagster",
+      "summary": "Learn the architecture patterns and principles that help data teams escape fragmentation, reduce maintenance burden, and build platforms that scale with growth.",
+      "published_ts": 1766426255,
+      "source_name": "Dagster Blog",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://blog.zenika.com/2025/12/22/serveur-mcp-avec-springboot-partie-1/",
+      "title": "Serveur MCP avec SpringBoot – Partie 1",
+      "summary": "Qu'est-ce que le SpringBoot MCP Server ?\n\nLe SpringBoot MCP Server est une application Spring Boot qui utilise la librairie Spring AI MCP pour exposer vos données en tant qu'outils pour les modèles d'IA. Ainsi l'IA peut récupérer les données dont elle a besoin en fonction de ce qu'on lui demande, via des outils MCP standardisés. Nous utiliserons dans ce tutoriel Claude Desktop comme client MCP mais il existe aussi Cursor et d’autres client MCP.",
+      "published_ts": 1766392805,
+      "source_name": "Zenika Tech Blog",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://blog.zenika.com/2025/12/22/serveur-mcp-avec-springboot-partie-2/",
+      "title": "Serveur MCP avec SpringBoot – Partie 2",
+      "summary": "Jusqu’ici nous utilisions MCP inspector en STDIO ce qui ne peut faire fonctionner notre serveur quand local. Mais grâce au protocole HTTP on peut faire tourner notre serveur sur N clients et ce tuto est là pour vous montrer comment faire.",
+      "published_ts": 1766392640,
+      "source_name": "Zenika Tech Blog",
+      "content_type": "technical"
+    }
+  ],
+  "cloud_infra_observability": [],
+  "data_modeling_governance": [
+    {
+      "url": "https://vutr.substack.com/p/i-spent-8-hours-learning-the-semantic",
+      "title": "I spent 8 hours learning the semantic layer",
+      "summary": "Can it resolve messy data problems for your organization?",
+      "published_ts": 1766459716,
+      "source_name": "VuTrinh · Data Engineering",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/big-data/unifying-governance-and-metadata-across-amazon-sagemaker-unified-studio-and-atlan/",
+      "title": "Unifying governance and metadata across Amazon SageMaker Unified Studio and Atlan",
+      "summary": "In this post, we show you how to unify governance and metadata across Amazon SageMaker Unified Studio and Atlan through a comprehensive bidirectional integration. You’ll learn how to deploy the necessary AWS infrastructure, configure secure connections, and set up automated synchronization to maintain consistent metadata across both platforms.",
+      "published_ts": 1766427426,
+      "source_name": "Redshift / AWS Big Data",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/",
+      "title": "Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption",
+      "summary": "The 2025 Typed Python Survey, conducted by contributors from JetBrains, Meta, and the broader Python typing community, offers a comprehensive look at the current state of Python’s type system and developer tooling. With 1,241 responses (a 15% increase from last year), the survey captures the evolving sentiment, challenges, and opportunities around Python typing in the [...] Read More... The post Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption appeared first on Engineering at Meta .",
+      "published_ts": 1766412016,
+      "source_name": "Meta Engineering",
+      "content_type": "technical"
+    }
+  ],
+  "etl_orchestration": [
+    {
+      "url": "https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/",
+      "title": "How Workers powers our internal maintenance scheduling pipeline",
+      "summary": "Physical data center maintenance is risky on a global network. We built a maintenance scheduler on Workers to safely plan disruptive operations, while solving scaling challenges by viewing the state of our infrastructure through a graph interface on top of multiple data sources and metrics pipelines.",
+      "published_ts": 1766412000,
+      "source_name": "Cloudflare Engineering",
+      "content_type": "technical"
+    }
+  ],
+  "hors_sujet": [],
+  "lake_storage_formats": [],
+  "news": [
+    {
+      "url": "https://www.dataiku.com/stories/blog/beinex",
+      "title": "How Beinex Strengthened Compliance & Reduced Operational Delays With AI Agents",
+      "summary": "Beinex used Dataiku to deploy AI agents that automate compliance workflows, improve audit consistency, and cut multi-week processes down to days — giving clients faster decisions, clearer oversight, and scalable intelligence across regulated operations. Weeks-long processes reduced to just days through workflow automation",
+      "published_ts": 1766498403,
+      "source_name": "Dataiku Blog",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://engineering.salesforce.com/shattering-awss-250k-ip-ceiling-how-data-360-reached-1-million-ips-with-zero-downtime-migration/",
+      "title": "Shattering AWS’s 250K-IP Ceiling: How Data 360 Reached 1 Million IPs with Zero-Downtime Migration",
+      "summary": "By Idan Asher, Mendi Neymark, and Shirel Vaiman. In our Engineering Energizers Q&A series, we highlight the engineering minds driving innovation across Salesforce. This edition features Shirel Vaiman, Senior Manager, Software Engineering, whose Service Delivery team leads the platform engineering foundation for Data 360, delivering resilient infrastructure for hyperscale data workloads across Hyperforce. Explore how […] The post Shattering AWS’s 250K-IP Ceiling: How Data 360 Reached 1 Million IPs with Zero-Downtime Migration appeared first on Salesforce Engineering Blog .",
+      "published_ts": 1766446789,
+      "source_name": "Salesforce Engineering",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.getdbt.com/blog/cloud-data-transformation",
+      "title": "Cloud vs on-premise data transformation",
+      "summary": "Compare cloud and on-premise data transformation to choose the model that fits your team’s performance, security, and cost needs.",
+      "published_ts": 1766434740,
+      "source_name": "dbt Blog",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-249",
+      "title": "Data Engineering Weekly #249",
+      "summary": "The Weekly Data Engineering Newsletter",
+      "published_ts": 1766374638,
+      "source_name": "Data Engineering Weekly",
+      "content_type": "technical"
+    }
+  ],
+  "news_general": [],
+  "python_analytics": [],
+  "warehouses_engines": [
+    {
+      "url": "https://blog.dataexpert.io/p/i-processed-1-tb-with-duckdb-in-30",
+      "title": "Processing 1 TB with DuckDB in less than 30 seconds",
+      "summary": "And so can you",
+      "published_ts": 1766519917,
+      "source_name": "DataEngineer.io",
+      "content_type": "technical"
+    }
+  ]
+}

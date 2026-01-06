@@ -1,0 +1,102 @@
+{
+  "ai_data_engineering": [
+    {
+      "url": "https://www.dataiku.com/stories/blog/beinex",
+      "title": "How Beinex Strengthened Compliance & Reduced Operational Delays With AI Agents",
+      "summary": "Beinex used Dataiku to deploy AI agents that automate compliance workflows, improve audit consistency, and cut multi-week processes down to days — giving clients faster decisions, clearer oversight, and scalable intelligence across regulated operations. Weeks-long processes reduced to just days through workflow automation",
+      "published_ts": 1766498403,
+      "source_name": "Dataiku Blog",
+      "score": 51.88933792710304,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "cloud_infra_observability": [
+    {
+      "url": "https://www.getdbt.com/blog/cloud-data-transformation",
+      "title": "Cloud vs on-premise data transformation",
+      "summary": "Compare cloud and on-premise data transformation to choose the model that fits your team’s performance, security, and cost needs.",
+      "published_ts": 1766434740,
+      "source_name": "dbt Blog",
+      "score": 58.20664370059967,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    },
+    {
+      "url": "https://engineering.salesforce.com/shattering-awss-250k-ip-ceiling-how-data-360-reached-1-million-ips-with-zero-downtime-migration/",
+      "title": "Shattering AWS’s 250K-IP Ceiling: How Data 360 Reached 1 Million IPs with Zero-Downtime Migration",
+      "summary": "By Idan Asher, Mendi Neymark, and Shirel Vaiman. In our Engineering Energizers Q&A series, we highlight the engineering minds driving innovation across Salesforce. This edition features Shirel Vaiman, Senior Manager, Software Engineering, whose Service Delivery team leads the platform engineering foundation for Data 360, delivering resilient infrastructure for hyperscale data workloads across Hyperforce. Explore how […] The post Shattering AWS’s 250K-IP Ceiling: How Data 360 Reached 1 Million IPs with Zero-Downtime Migration appeared first on Salesforce Engineering Blog .",
+      "published_ts": 1766446789,
+      "source_name": "Salesforce Engineering",
+      "score": 57.188197910785675,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "data_modeling_governance": [
+    {
+      "url": "https://vutr.substack.com/p/i-spent-8-hours-learning-the-semantic",
+      "title": "I spent 8 hours learning the semantic layer",
+      "summary": "Can it resolve messy data problems for your organization?",
+      "published_ts": 1766459716,
+      "source_name": "VuTrinh · Data Engineering",
+      "score": 62.23547048866749,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "etl_orchestration": [
+    {
+      "url": "https://dagster.io/blog/how-to-build-a-data-platform-that-actually-scales",
+      "title": "How to Build a Data Platform That Actually Scales | Dagster",
+      "summary": "Learn the architecture patterns and principles that help data teams escape fragmentation, reduce maintenance burden, and build platforms that scale with growth.",
+      "published_ts": 1766426255,
+      "source_name": "Dagster Blog",
+      "score": 66.61819589138031,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "news": [
+    {
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-249",
+      "title": "Data Engineering Weekly #249",
+      "summary": "The Weekly Data Engineering Newsletter",
+      "published_ts": 1766374638,
+      "source_name": "Data Engineering Weekly",
+      "score": 69.43129353225231,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "python_analytics": [
+    {
+      "url": "https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/",
+      "title": "Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption",
+      "summary": "The 2025 Typed Python Survey, conducted by contributors from JetBrains, Meta, and the broader Python typing community, offers a comprehensive look at the current state of Python’s type system and developer tooling. With 1,241 responses (a 15% increase from last year), the survey captures the evolving sentiment, challenges, and opportunities around Python typing in the [...] Read More... The post Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption appeared first on Engineering at Meta .",
+      "published_ts": 1766412016,
+      "source_name": "Meta Engineering",
+      "score": 54.39229702949524,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    },
+    {
+      "url": "https://blog.dataexpert.io/p/i-processed-1-tb-with-duckdb-in-30",
+      "title": "Processing 1 TB with DuckDB in less than 30 seconds",
+      "summary": "And so can you",
+      "published_ts": 1766519917,
+      "source_name": "DataEngineer.io",
+      "score": 51.1919983625412,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ]
+}

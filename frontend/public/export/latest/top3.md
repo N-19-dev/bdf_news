@@ -1,5 +1,5 @@
 ## 🏆 Top 3 de la semaine
 
-- **1.** [Data Engineering Weekly #248](https://www.dataengineeringweekly.com/p/data-engineering-weekly-248) — Data Engineering Weekly · 2025-12-15 · **69.15838532149792/100**
-- **2.** [Databricks Lakehouse Data Modeling: Myths, Truths, and Best Practices](https://www.databricks.com/blog/databricks-lakehouse-data-modeling-myths-truths-and-best-practices) — Databricks Blog · 2025-12-15 · **66.95492067933083/100**
-- **3.** [Inside Snowflake’s AI roadmap](https://www.getdbt.com/blog/inside-snowflakes-ai-roadmap) — dbt Blog · 2025-12-15 · **65.04347059130669/100**
+- **1.** [7 insights to help you learn any OLAP systems](https://vutr.substack.com/p/7-insights-to-help-you-learn-any) — VuTrinh · Data Engineering · 2025-12-30 · **66.68005329370499/100**
+- **2.** [Data Engineering Weekly #250](https://www.dataengineeringweekly.com/p/data-engineering-weekly-250) — Data Engineering Weekly · 2025-12-29 · **63.88892528414726/100**
+- **3.** [Dagster’s Code Location Architecture](https://dagster.io/blog/dagster-code-locations) — Dagster Blog · 2025-12-31 · **59.18018326163292/100**
