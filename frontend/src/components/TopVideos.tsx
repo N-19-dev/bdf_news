@@ -1,4 +1,4 @@
-import { faviconUrl, getDomain } from "../lib/parse";
+import { getDomain } from "../lib/parse";
 
 type VideoItem = {
   title: string;

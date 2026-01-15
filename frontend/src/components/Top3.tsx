@@ -1,4 +1,3 @@
-import { faviconUrl, getDomain } from "../lib/parse";
 import ArticleCard from "./ArticleCard";
 
 type Item = {
