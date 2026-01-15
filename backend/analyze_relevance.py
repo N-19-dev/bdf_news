@@ -22,6 +22,8 @@ from typing import Optional, List, Dict, Any
 
 import yaml
 from sentence_transformers import SentenceTransformer, util
+import firebase_admin
+from firebase_admin import credentials, firestore
 
 from veille_tech import db_conn, week_bounds  # mêmes bornes de semaine que le crawler
 
@@ -37,7 +39,7 @@ def ensure_relevance_columns(db_path: str):
     """
     with db_conn(db_path) as conn:
         cols = [r[1] for r in conn.execute("PRAGMA table_info(items)").fetchall()]
-        needed = ["semantic_score", "source_weight", "quality_score", "tech_score", "final_score"]
+        needed = ["semantic_score", "source_weight", "quality_score", "tech_score", "community_score", "final_score"]
         for col in needed:
             if col not in cols:
                 conn.execute(f"ALTER TABLE items ADD COLUMN {col} REAL")
@@ -352,11 +354,98 @@ def compute_tech_score(row: Dict[str, Any], tcfg: Dict[str, Any]) -> float:
     return max(0.0, min(100.0, raw * (100.0 / max_points)))
 
 
-def compute_relevance(row: Dict[str, Any], cfg: Dict[str, Any]) -> Dict[str, float]:
+# ==========================
+#   Firebase Community Boosts
+# ==========================
+
+def init_firebase():
+    """Initialize Firebase Admin SDK (singleton)"""
+    if not firebase_admin._apps:
+        cred_path = os.getenv("FIREBASE_SERVICE_ACCOUNT_KEY")
+        if cred_path and Path(cred_path).exists():
+            cred = credentials.Certificate(cred_path)
+        else:
+            cred = credentials.ApplicationDefault()
+        firebase_admin.initialize_app(cred)
+    return firestore.client()
+
+
+def fetch_community_boosts(week_label: str) -> Dict[str, Dict[str, float]]:
+    """Récupère les patterns Firebase pour la semaine courante"""
+    print(f"[info] Fetching community boosts for {week_label}")
+
+    try:
+        db = init_firebase()
+        patterns_ref = db.collection('voting_patterns')\
+            .where('applied_from_week', '==', week_label)
+
+        patterns = patterns_ref.stream()
+
+        boosts = {
+            'source_boost': {},
+            'category_boost': {},
+            'keyword_boost': {}
+        }
+
+        for pattern in patterns:
+            data = pattern.to_dict()
+            pattern_type = data.get('pattern_type')
+            pattern_key = data.get('pattern_key')
+            boost_score = data.get('boost_score', 1.0)
+
+            if pattern_type in boosts:
+                boosts[pattern_type][pattern_key] = boost_score
+
+        print(f"[info] Loaded {sum(len(b) for b in boosts.values())} boost patterns")
+        return boosts
+
+    except Exception as e:
+        print(f"[warning] Failed to fetch community boosts: {e}")
+        return {'source_boost': {}, 'category_boost': {}, 'keyword_boost': {}}
+
+
+def compute_community_score(row: Dict[str, Any], boosts: Dict[str, Dict[str, float]]) -> float:
+    """
+    Applique les boosts communautaires (0-100).
+    Multiplie un score de base par les boosts appris.
+    """
+    score = 50.0  # baseline
+
+    # Apply source boost
+    source = row.get("source_name", "")
+    if source in boosts.get("source_boost", {}):
+        multiplier = boosts["source_boost"][source]
+        score *= multiplier
+
+    # Apply category boost
+    category = row.get("category_key", "")
+    if category in boosts.get("category_boost", {}):
+        multiplier = boosts["category_boost"][category]
+        score *= multiplier
+
+    # Apply keyword boost (check title + content)
+    text = (row.get("title", "") + " " + (row.get("content", "") or "")[:1000]).lower()
+    for kw, multiplier in boosts.get("keyword_boost", {}).items():
+        if kw in text:
+            score *= multiplier
+            break  # Only apply first matching keyword
+
+    return max(0.0, min(100.0, score))
+
+
+# ==========================
+#   Scoring Final
+# ==========================
+
+def compute_relevance(row: Dict[str, Any], cfg: Dict[str, Any], boosts: Optional[Dict] = None) -> Dict[str, float]:
     """
     Calcule tous les composants + le score final 0–100.
     Pas de fraîcheur : la fenêtre temporelle est gérée par les requêtes DB.
+    Now includes community_score component.
     """
+    if boosts is None:
+        boosts = {}
+
     rcfg = get_relevance_cfg(cfg)
     w_cfg = rcfg.get("weights", {}) or {}
     profile_text = rcfg.get("profile_text", "")
@@ -364,27 +453,32 @@ def compute_relevance(row: Dict[str, Any], cfg: Dict[str, Any]) -> Dict[str, flo
     qcfg = rcfg.get("quality", {}) or {}
     tcfg = rcfg.get("tech", {}) or {}
 
-    w_sem = float(w_cfg.get("semantic", 0.55))
+    # Updated weights to include community
+    w_sem = float(w_cfg.get("semantic", 0.50))     # was 0.55
     w_src = float(w_cfg.get("source", 0.20))
     w_qlt = float(w_cfg.get("quality", 0.15))
-    w_tech = float(w_cfg.get("tech", 0.10))
+    w_tech = float(w_cfg.get("tech", 0.05))        # was 0.10
+    w_com = float(w_cfg.get("community", 0.10))    # NEW
 
-    total_w = max(1e-6, (w_sem + w_src + w_qlt + w_tech))
+    total_w = max(1e-6, (w_sem + w_src + w_qlt + w_tech + w_com))
     w_sem /= total_w
     w_src /= total_w
     w_qlt /= total_w
     w_tech /= total_w
+    w_com /= total_w
 
     sem = compute_semantic_score(row, profile_text)            # 0–100
     srcw = compute_source_weight(row, source_weights_cfg)      # 0–100
     qlt = compute_quality_score(row, qcfg)                     # 0–100
     tech = compute_tech_score(row, tcfg)                       # 0–100
+    com = compute_community_score(row, boosts)                 # 0–100  NEW
 
     base_score = (
         w_sem * sem +
         w_src * srcw +
         w_qlt * qlt +
-        w_tech * tech
+        w_tech * tech +
+        w_com * com    # NEW
     )
 
     # Pénalité anti-marketing (Phase 1 - Amélioration pertinence)
@@ -400,6 +494,7 @@ def compute_relevance(row: Dict[str, Any], cfg: Dict[str, Any]) -> Dict[str, flo
         "source_weight": srcw,
         "quality_score": qlt,
         "tech_score": tech,
+        "community_score": com,    # NEW
         "final_score": max(0.0, min(100.0, final_score)),
     }
 
@@ -622,6 +717,9 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
         "Europe/Paris", week_offset=week_offset
     )
 
+    # --- Fetch community boosts from Firebase ---
+    boosts = fetch_community_boosts(week_label)
+
     # --- Calcul / recalcul de la pertinence pour tous les items de la semaine ---
     with db_conn(db_path) as conn:
         rows = conn.execute(
@@ -648,11 +746,11 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
                 "content": content,
                 "marketing_score": mkt_score or 0,  # Fallback to 0 if NULL
             }
-            scores = compute_relevance(row, cfg)
+            scores = compute_relevance(row, cfg, boosts)  # Pass boosts
             conn.execute(
                 """
                 UPDATE items
-                SET semantic_score=?, source_weight=?, quality_score=?, tech_score=?, final_score=?
+                SET semantic_score=?, source_weight=?, quality_score=?, tech_score=?, community_score=?, final_score=?
                 WHERE id=?
                 """,
                 (
@@ -660,6 +758,7 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
                     scores["source_weight"],
                     scores["quality_score"],
                     scores["tech_score"],
+                    scores["community_score"],  # NEW
                     scores["final_score"],
                     id_,
                 ),

@@ -27,28 +27,29 @@ export default function Hero({
             <Chip>MAG</Chip>
           </div>
 
-          {/* Slot custom ou select intégré */}
-          {rightSlot ? (
-            <div className="flex items-center w-full sm:w-auto">{rightSlot}</div>
-          ) : onWeekChange ? (
-            <div className="flex items-center gap-3 w-full sm:w-auto">
-              <label htmlFor={selectId} className="text-sm text-neutral-500 whitespace-nowrap">
-                Semaine
-              </label>
-              <select
-                id={selectId}
-                className="flex-1 sm:flex-none border rounded-md px-3 py-2 text-sm bg-neutral-50 hover:border-neutral-300 focus:outline-none focus:ring-2 focus:ring-neutral-200"
-                value={weekLabel}
-                onChange={(e) => onWeekChange(e.target.value)}
-              >
-                {weeks.map((w) => (
-                  <option key={w} value={w}>
-                    {w}
-                  </option>
-                ))}
-              </select>
-            </div>
-          ) : null}
+          {/* Week selector + Auth button */}
+          <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3 w-full sm:w-auto">
+            {onWeekChange && (
+              <div className="flex items-center gap-3">
+                <label htmlFor={selectId} className="text-sm text-neutral-500 whitespace-nowrap">
+                  Semaine
+                </label>
+                <select
+                  id={selectId}
+                  className="border rounded-md px-3 py-2 text-sm bg-neutral-50 hover:border-neutral-300 focus:outline-none focus:ring-2 focus:ring-neutral-200"
+                  value={weekLabel}
+                  onChange={(e) => onWeekChange(e.target.value)}
+                >
+                  {weeks.map((w) => (
+                    <option key={w} value={w}>
+                      {w}
+                    </option>
+                  ))}
+                </select>
+              </div>
+            )}
+            {rightSlot && <div className="flex items-center">{rightSlot}</div>}
+          </div>
         </div>
       </div>
 

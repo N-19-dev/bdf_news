@@ -11,14 +11,20 @@ type Article = {
   score?: number | string;
   tech_level?: 'beginner' | 'intermediate' | 'advanced';
   marketing_score?: number;
+  weekLabel?: string;
+  category?: string;
 };
 
 export default function SectionCard({
   title,
   bullets,
+  weekLabel,
+  category,
 }: {
   title: string;
   bullets: Article[];
+  weekLabel?: string;
+  category?: string;
 }) {
   if (!bullets?.length) return null;
 
@@ -35,12 +41,12 @@ export default function SectionCard({
       <div className="grid gap-4 md:grid-cols-2">
         {/* Lead plus mis en avant */}
         <div className="md:col-span-2">
-          <ArticleCard {...lead} className="border-2 border-neutral-100" />
+          <ArticleCard {...lead} weekLabel={weekLabel} category={category} className="border-2 border-neutral-100" />
         </div>
 
         {/* Secondaires */}
         {rest.slice(0, 6).map((b, i) => (
-          <ArticleCard key={i} {...b} />
+          <ArticleCard key={i} {...b} weekLabel={weekLabel} category={category} />
         ))}
       </div>
     </section>
