@@ -4,6 +4,7 @@
 
 import React from "react";
 import { faviconUrl, getDomain } from "../lib/parse";
+import VoteButton from "./VoteButton";
 
 type TechLevel = 'beginner' | 'intermediate' | 'advanced';
 
@@ -16,13 +17,23 @@ type Props = {
   tech_level?: TechLevel;
   marketing_score?: number;
   className?: string;
+  weekLabel?: string;
+  category?: string;
 };
+
+// Helper function to generate article ID (matches backend hash)
+function generateArticleId(url: string, title: string): string {
+  return btoa(`${url}${title}`).slice(0, 40);
+}
 
 export default function ArticleCard({
   title,
   url,
   source,
   date,
+  score,
+  weekLabel,
+  category,
   className = "",
 }: Props) {
   const dom = getDomain(url ?? "");
@@ -73,6 +84,26 @@ export default function ArticleCard({
       <h4 className="line-clamp-3 font-semibold leading-snug group-hover:underline">
         {title}
       </h4>
+
+      {/* Vote buttons - only show if week label is provided */}
+      {weekLabel && url && (
+        <div
+          className="mt-4 pt-3 border-t"
+          onClick={(e) => {
+            e.preventDefault();
+            e.stopPropagation();
+          }}
+        >
+          <VoteButton
+            articleId={generateArticleId(url, title)}
+            articleUrl={url}
+            weekLabel={weekLabel}
+            source={source}
+            category={category}
+            score={typeof score === 'number' ? score : undefined}
+          />
+        </div>
+      )}
     </Clickable>
   );
 }

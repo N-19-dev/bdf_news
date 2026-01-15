@@ -5,6 +5,9 @@ import SectionCard from "./components/SectionCard";
 import CategoryFilter from "./components/CategoryFilter";
 import Top3 from "./components/Top3";
 import TopVideos from "./components/TopVideos";
+import AuthButton from "./components/AuthButton";
+import LoginModal from "./components/LoginModal";
+import { useAuth } from "./lib/AuthContext";
 import { loadWeeksIndex, loadLatestWeek, loadWeekSummary, type WeekMeta, type TopItem, type VideoItem, type SummarySection } from "./lib/parse";
 
 // Type pour les données de la semaine
@@ -16,6 +19,8 @@ type WeekData = {
 };
 
 export default function App() {
+  const { isLoginModalOpen, closeLoginModal } = useAuth();
+
   const [weeks, setWeeks] = React.useState<WeekMeta[]>([]);
   const [currentWeek, setCurrentWeek] = React.useState<WeekMeta | null>(null);
   const [data, setData] = React.useState<WeekData | null>(null);
@@ -96,10 +101,11 @@ export default function App() {
         dateRange={currentWeek.range}
         weeks={weeks.map(w => w.week)}
         onWeekChange={onWeekChange}
+        rightSlot={<AuthButton />}
       />
       <main className="max-w-6xl mx-auto px-4 py-4 sm:py-6 md:py-8 space-y-4 sm:space-y-6 md:space-y-8">
         {/* Top 3 - Toujours visible */}
-        <Top3 items={data.top3} />
+        <Top3 items={data.top3} weekLabel={currentWeek.week} />
 
         {/* Top 3 Vidéos/Podcasts - Visible si présent */}
         <TopVideos items={data.topVideos} />
@@ -149,6 +155,8 @@ export default function App() {
                   <SectionCard
                     key={sec.title}
                     title={sec.title}
+                    weekLabel={currentWeek.week}
+                    category={sec.title}
                     bullets={sec.items.map((it) => ({
                       title: it.title,
                       url: it.url,
@@ -164,6 +172,9 @@ export default function App() {
           </>
         )}
       </main>
+
+      {/* Login Modal */}
+      <LoginModal isOpen={isLoginModalOpen} onClose={closeLoginModal} />
     </div>
   );
 }

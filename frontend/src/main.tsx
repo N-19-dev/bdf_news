@@ -2,6 +2,7 @@ import React from "react";
 import { createRoot } from "react-dom/client";
 import * as Sentry from "@sentry/react";
 import App from "./App";
+import { AuthProvider } from "./lib/AuthContext";
 import "./index.css";
 
 // Initialiser Sentry pour monitoring d'erreurs frontend
@@ -32,6 +33,8 @@ if (import.meta.env.VITE_SENTRY_DSN_FRONTEND) {
 
 createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <App />
+    <AuthProvider>
+      <App />
+    </AuthProvider>
   </React.StrictMode>
 );
