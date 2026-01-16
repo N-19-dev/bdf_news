@@ -67,6 +67,10 @@ jobs:
         run: |
           python compute_voting_patterns.py || echo "⚠️ Voting patterns computation failed (may be normal for week 1), continuing..."
 
+      - name: Analyze comment sentiment from last week
+        run: |
+          python analyze_comment_sentiment.py || echo "⚠️ Comment sentiment analysis failed (may be normal for week 1 or no comments), continuing..."
+
       - name: Run backend pipeline (crawl + analyze + export)
         run: python main.py
 

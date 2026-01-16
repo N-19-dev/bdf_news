@@ -5,6 +5,8 @@
 import React from "react";
 import { faviconUrl, getDomain } from "../lib/parse";
 import VoteButton from "./VoteButton";
+import CommentsCount from "./CommentsCount";
+import { useComments } from "../lib/CommentsContext";
 
 type TechLevel = 'beginner' | 'intermediate' | 'advanced';
 
@@ -36,6 +38,7 @@ export default function ArticleCard({
   category,
   className = "",
 }: Props) {
+  const { openCommentsModal } = useComments();
   const dom = getDomain(url ?? "");
   const displaySource = (source || dom || "Source").trim();
 
@@ -85,10 +88,10 @@ export default function ArticleCard({
         {title}
       </h4>
 
-      {/* Vote buttons - only show if week label is provided */}
+      {/* Vote buttons and comments - only show if week label is provided */}
       {weekLabel && url && (
         <div
-          className="mt-4 pt-3 border-t"
+          className="mt-4 pt-3 border-t flex items-center justify-between"
           onClick={(e) => {
             e.preventDefault();
             e.stopPropagation();
@@ -102,6 +105,26 @@ export default function ArticleCard({
             category={category}
             score={typeof score === 'number' ? score : undefined}
           />
+
+          {/* Comments button */}
+          <button
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              openCommentsModal(
+                generateArticleId(url, title),
+                url,
+                title,
+                weekLabel,
+                category || 'unknown',
+                source || displaySource
+              );
+            }}
+            className="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-gray-600 hover:bg-gray-100 transition"
+          >
+            <span>💬</span>
+            <CommentsCount articleId={generateArticleId(url, title)} />
+          </button>
         </div>
       )}
     </Clickable>

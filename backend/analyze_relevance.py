@@ -434,17 +434,93 @@ def compute_community_score(row: Dict[str, Any], boosts: Dict[str, Dict[str, flo
 
 
 # ==========================
+#   Firebase Sentiment Boosts
+# ==========================
+
+def fetch_sentiment_boosts(week_label: str) -> Dict[str, Dict[str, float]]:
+    """
+    Récupère les patterns de sentiment Firebase pour la semaine courante.
+
+    Args:
+        week_label: Week identifier (e.g., "2026w02")
+
+    Returns:
+        Dictionary with source_sentiment and category_sentiment boost mappings
+    """
+    print(f"[info] Fetching sentiment boosts for {week_label}")
+
+    try:
+        db = init_firebase()
+        patterns_ref = db.collection('sentiment_patterns')\
+            .where('applied_from_week', '==', week_label)
+
+        patterns = patterns_ref.stream()
+
+        boosts = {
+            'source_sentiment': {},
+            'category_sentiment': {}
+        }
+
+        for pattern in patterns:
+            data = pattern.to_dict()
+            pattern_type = data.get('pattern_type')
+            pattern_key = data.get('pattern_key')
+            quality_boost = data.get('quality_boost', 1.0)
+
+            if pattern_type in boosts:
+                boosts[pattern_type][pattern_key] = quality_boost
+
+        print(f"[info] Loaded {sum(len(b) for b in boosts.values())} sentiment patterns")
+        return boosts
+
+    except Exception as e:
+        print(f"[warning] Failed to fetch sentiment boosts: {e}")
+        return {'source_sentiment': {}, 'category_sentiment': {}}
+
+
+def apply_sentiment_boost(base_quality_score: float, row: Dict[str, Any], sentiment_boosts: Dict) -> float:
+    """
+    Applique les boosts de sentiment au score de qualité.
+
+    Args:
+        base_quality_score: Base quality score (0-100)
+        row: Article data dictionary
+        sentiment_boosts: Sentiment boost patterns from Firebase
+
+    Returns:
+        Boosted quality score (capped at 0-100)
+    """
+    score = base_quality_score
+
+    # Boost par source
+    source = row.get("source_name", "")
+    if source in sentiment_boosts.get("source_sentiment", {}):
+        multiplier = sentiment_boosts["source_sentiment"][source]
+        score *= multiplier
+
+    # Boost par catégorie
+    category = row.get("category_key", "")
+    if category in sentiment_boosts.get("category_sentiment", {}):
+        multiplier = sentiment_boosts["category_sentiment"][category]
+        score *= multiplier
+
+    return max(0.0, min(100.0, score))
+
+
+# ==========================
 #   Scoring Final
 # ==========================
 
-def compute_relevance(row: Dict[str, Any], cfg: Dict[str, Any], boosts: Optional[Dict] = None) -> Dict[str, float]:
+def compute_relevance(row: Dict[str, Any], cfg: Dict[str, Any], boosts: Optional[Dict] = None, sentiment_boosts: Optional[Dict] = None) -> Dict[str, float]:
     """
     Calcule tous les composants + le score final 0–100.
     Pas de fraîcheur : la fenêtre temporelle est gérée par les requêtes DB.
-    Now includes community_score component.
+    Now includes community_score component and sentiment boosts on quality_score.
     """
     if boosts is None:
         boosts = {}
+    if sentiment_boosts is None:
+        sentiment_boosts = {}
 
     rcfg = get_relevance_cfg(cfg)
     w_cfg = rcfg.get("weights", {}) or {}
@@ -469,16 +545,19 @@ def compute_relevance(row: Dict[str, Any], cfg: Dict[str, Any], boosts: Optional
 
     sem = compute_semantic_score(row, profile_text)            # 0–100
     srcw = compute_source_weight(row, source_weights_cfg)      # 0–100
-    qlt = compute_quality_score(row, qcfg)                     # 0–100
+    qlt_base = compute_quality_score(row, qcfg)                # 0–100
     tech = compute_tech_score(row, tcfg)                       # 0–100
-    com = compute_community_score(row, boosts)                 # 0–100  NEW
+    com = compute_community_score(row, boosts)                 # 0–100
+
+    # Apply sentiment boost to quality score
+    qlt = apply_sentiment_boost(qlt_base, row, sentiment_boosts)
 
     base_score = (
         w_sem * sem +
         w_src * srcw +
         w_qlt * qlt +
         w_tech * tech +
-        w_com * com    # NEW
+        w_com * com
     )
 
     # Pénalité anti-marketing (Phase 1 - Amélioration pertinence)
@@ -720,11 +799,14 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
     # --- Fetch community boosts from Firebase ---
     boosts = fetch_community_boosts(week_label)
 
+    # --- Fetch sentiment boosts from Firebase ---
+    sentiment_boosts = fetch_sentiment_boosts(week_label)
+
     # --- Calcul / recalcul de la pertinence pour tous les items de la semaine ---
     with db_conn(db_path) as conn:
         rows = conn.execute(
             """
-            SELECT id, url, source_name, title, summary, content, published_ts, marketing_score
+            SELECT id, url, source_name, title, summary, content, published_ts, marketing_score, category_key
             FROM items
             WHERE published_ts >= ? AND published_ts < ?
             ORDER BY published_ts DESC
@@ -737,7 +819,7 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
         if limit is not None:
             rows = rows[:limit]
 
-        for id_, url, src, title, summary, content, ts, mkt_score in rows:
+        for id_, url, src, title, summary, content, ts, mkt_score, cat_key in rows:
             row = {
                 "url": url,
                 "source_name": src,
@@ -745,8 +827,9 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
                 "summary": summary,
                 "content": content,
                 "marketing_score": mkt_score or 0,  # Fallback to 0 if NULL
+                "category_key": cat_key,  # Need for sentiment boost
             }
-            scores = compute_relevance(row, cfg, boosts)  # Pass boosts
+            scores = compute_relevance(row, cfg, boosts, sentiment_boosts)  # Pass both boosts
             conn.execute(
                 """
                 UPDATE items

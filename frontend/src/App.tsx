@@ -7,6 +7,7 @@ import Top3 from "./components/Top3";
 import TopVideos from "./components/TopVideos";
 import AuthButton from "./components/AuthButton";
 import LoginModal from "./components/LoginModal";
+import CommentsModal from "./components/CommentsModal";
 import { useAuth } from "./lib/AuthContext";
 import { loadWeeksIndex, loadLatestWeek, loadWeekSummary, type WeekMeta, type TopItem, type VideoItem, type SummarySection } from "./lib/parse";
 
@@ -175,6 +176,9 @@ export default function App() {
 
       {/* Login Modal */}
       <LoginModal isOpen={isLoginModalOpen} onClose={closeLoginModal} />
+
+      {/* Comments Modal */}
+      <CommentsModal />
     </div>
   );
 }
