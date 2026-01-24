@@ -1,14 +1,11 @@
 // src/components/ArticleCard.tsx
 // Carte article compacte : favicon, source, titre clamp, barre d'accent.
-// Compatible top3/sections: {title,url,source,date,score,tech_level,marketing_score}
 
 import React from "react";
 import { faviconUrl, getDomain } from "../lib/parse";
 import VoteButton from "./VoteButton";
 import CommentsCount from "./CommentsCount";
 import { useComments } from "../lib/CommentsContext";
-
-type TechLevel = 'beginner' | 'intermediate' | 'advanced';
 
 type Props = {
   title: string;
