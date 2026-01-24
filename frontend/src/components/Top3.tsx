@@ -23,7 +23,6 @@ export default function Top3({ items, weekLabel }: { items: Item[]; weekLabel?: 
             url={it.url}
             source={it.source}
             date={it.date}
-            score={it.score}
             weekLabel={weekLabel}
             category="top3"
           />

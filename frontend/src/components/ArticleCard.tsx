@@ -15,9 +15,6 @@ type Props = {
   url?: string;
   source?: string;
   date?: string;
-  score?: number | string;
-  tech_level?: TechLevel;
-  marketing_score?: number;
   className?: string;
   weekLabel?: string;
   category?: string;
@@ -33,7 +30,6 @@ export default function ArticleCard({
   url,
   source,
   date,
-  score,
   weekLabel,
   category,
   className = "",
@@ -103,7 +99,6 @@ export default function ArticleCard({
             weekLabel={weekLabel}
             source={source}
             category={category}
-            score={typeof score === 'number' ? score : undefined}
           />
 
           {/* Comments button */}
@@ -123,7 +118,7 @@ export default function ArticleCard({
             className="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-gray-600 hover:bg-gray-100 transition"
           >
             <span>💬</span>
-            <CommentsCount articleId={generateArticleId(url, title)} />
+            <CommentsCount articleId={generateArticleId(url, title)} weekLabel={weekLabel} />
           </button>
         </div>
       )}

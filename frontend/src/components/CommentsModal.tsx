@@ -24,10 +24,11 @@ export default function CommentsModal() {
     setLoading(true);
     const commentsRef = collection(db, 'comments');
 
-    // Always order by created_at ascending for consistent indexing
+    // Filter by article_id AND week_label, order by created_at ascending
     const q = query(
       commentsRef,
       where('article_id', '==', currentArticle.articleId),
+      where('week_label', '==', currentArticle.weekLabel),
       orderBy('created_at', 'asc')
     );
 
