@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { View, Text, Pressable } from 'react-native';
 import { db } from '../lib/firebase';
 import { doc, setDoc, deleteDoc, collection, query, where, getDocs } from 'firebase/firestore';
 import { useAuth } from '../lib/AuthContext';
@@ -26,7 +27,6 @@ export default function VoteButton({
 
   useEffect(() => {
     fetchVotes();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [articleId, weekLabel, user]);
 
   const fetchVotes = async () => {
@@ -73,7 +73,6 @@ export default function VoteButton({
       const voteRef = doc(db, 'votes', voteDocId);
 
       if (userVote === voteValue) {
-        // Remove vote if clicking same button
         await deleteDoc(voteRef);
         setUserVote(null);
         setVoteCounts((prev) => ({
@@ -81,7 +80,6 @@ export default function VoteButton({
           downvotes: prev.downvotes - (voteValue === -1 ? 1 : 0),
         }));
       } else {
-        // Add or update vote
         await setDoc(voteRef, {
           user_id: user.uid,
           article_id: articleId,
@@ -108,32 +106,29 @@ export default function VoteButton({
   };
 
   return (
-    <div className="flex items-center gap-2">
-      <button
-        onClick={() => handleVote(1)}
+    <View className="flex-row items-center gap-2">
+      <Pressable
+        onPress={() => handleVote(1)}
         disabled={loading}
-        className={`flex items-center gap-1 px-2 py-1 rounded text-sm transition ${
-          userVote === 1
-            ? 'bg-green-100 text-green-700'
-            : 'bg-gray-100 text-gray-600 hover:bg-green-50'
-        } ${loading ? 'opacity-50 cursor-wait' : 'cursor-pointer'}`}
+        className={`flex-row items-center gap-1 px-2 py-1 rounded ${
+          userVote === 1 ? 'bg-green-100' : 'bg-gray-100'
+        } ${loading ? 'opacity-50' : ''}`}
       >
-        👍 {voteCounts.upvotes}
-      </button>
-      <button
-        onClick={() => handleVote(-1)}
+        <Text className={userVote === 1 ? 'text-green-700' : 'text-gray-600'}>
+          👍 {voteCounts.upvotes}
+        </Text>
+      </Pressable>
+      <Pressable
+        onPress={() => handleVote(-1)}
         disabled={loading}
-        className={`flex items-center gap-1 px-2 py-1 rounded text-sm transition ${
-          userVote === -1
-            ? 'bg-red-100 text-red-700'
-            : 'bg-gray-100 text-gray-600 hover:bg-red-50'
-        } ${loading ? 'opacity-50 cursor-wait' : 'cursor-pointer'}`}
+        className={`flex-row items-center gap-1 px-2 py-1 rounded ${
+          userVote === -1 ? 'bg-red-100' : 'bg-gray-100'
+        } ${loading ? 'opacity-50' : ''}`}
       >
-        👎 {voteCounts.downvotes}
-      </button>
-      {!user && (
-        <span className="text-xs text-gray-400 ml-2">Connectez-vous pour voter</span>
-      )}
-    </div>
+        <Text className={userVote === -1 ? 'text-red-700' : 'text-gray-600'}>
+          👎 {voteCounts.downvotes}
+        </Text>
+      </Pressable>
+    </View>
   );
 }
