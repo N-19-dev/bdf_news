@@ -1,0 +1,150 @@
+{
+  "ai_data_engineering": [
+    {
+      "url": "https://www.databricks.com/blog/driving-industry-outcomes-partner-ai-solutions",
+      "title": "Driving Industry Outcomes with Partner AI Solutions",
+      "summary": "Generative AI is transforming the way teams work across various industries. According...",
+      "published_ts": 1769043600,
+      "source_name": "Databricks Blog",
+      "score": 57.73262388326905,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    },
+    {
+      "url": "https://www.getdbt.com/blog/ade-bench-dbt-data-benchmarking",
+      "title": "Introducing ADE-bench: measuring how AI agents perform data work",
+      "summary": "Learn how ADE-bench leverages dbt to produce realistic data benchmarks against all popular LLMs and agents.",
+      "published_ts": 1769025720,
+      "source_name": "dbt Blog",
+      "score": 57.426227574998684,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "cloud_infra_observability": [
+    {
+      "url": "https://www.youtube.com/watch?v=1xgyd3v4EWs",
+      "title": "How AWS Keeps Your Data Untouchable",
+      "summary": "How does AWS protect customer data at the hardware level, and why does it matter for cloud sovereignty?\n\nIn this interview, I talk with Colm MacCarthaigh, Vice President & Distinguished Engineer at @amazonwebservices about the AWS Nitro System — the “behind-the-scenes” architecture that powers EC2 and helps enforce isolation, encryption, and privacy by design.\n\nWe cover:\n✅ What Nitro is and how it works (“servers inside of servers”)\n✅ Hardware-level isolation + encrypted networking and storage\n✅ Why there’s no operator access to customer data\n✅ How this supports the AWS European Sovereign Cloud for sensitive workloads\n\n#ad #awspartner",
+      "published_ts": 1769194804,
+      "source_name": "Andreas Kretz (YouTube)",
+      "score": 54.127638854763724,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "data_modeling_governance": [
+    {
+      "url": "https://www.dataengineeringweekly.com/p/data-contracts-a-missed-opportunity",
+      "title": "Data Contracts: A Missed Opportunity",
+      "summary": "The Conversation We Should Have Had—Before Thought Leadership Replaced System Design",
+      "published_ts": 1768933870,
+      "source_name": "Data Engineering Weekly",
+      "score": 62.65672078186816,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "etl_orchestration": [
+    {
+      "url": "https://dagster.io/blog/dagster-snowflake-cortex",
+      "title": "Dagster + Snowflake: Building Production AI Pipelines with Cortex",
+      "summary": "Learn how to orchestrate Snowflake Cortex AI functions with Dagster for production-ready pipelines, including incremental processing, cost tracking, and dbt integration.",
+      "published_ts": 1769093737,
+      "source_name": "Dagster Blog",
+      "score": 61.13989918069406,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=htAipJ6yYFs",
+      "title": "Common Data Pipeline Patterns You’ll See in the Real World - Types Of Data Pipelines You'll Build",
+      "summary": "Whether you’re working at a large enterprise or a small business, there has likely been some need to take data out of the various source systems, process it, and then use it for either operational or analytical purposes.\n\nAdd in a few lines of code or a low-code solution, and the term data pipeline might start getting thrown around.\n\nThis might make some data engineers angry, but if you think about it, someone extracting data from a data source into Excel, adding in VLOOKUPs, some data cleansing via formulas and IFELSE() statements is essentially building a data pipeline….\n\nOk, it’s not the exact same thing, but when you stop and think about it, it can functionally solve a similar problem(although often in a more limited and specific way)\n\nMy point is that there are a lot of different ways and reasons people build data pipelines.\n\nSo, to kick off 2026, I wanted to discuss some of the key reasons data pipelines exist and the types of pipelines you will run into.\n\nA few months back, I wrote an article about what hasn’t changed in the data world. And much of what hasn’t changed are the problems we face.\n\nOf course, there are also plenty of things that have changed in the data world since I started. For example, the technologies and practices we use.\n\nEven the words and terms we use, although mostly the same, have changed. Whether you like it or not.\n\nWhen I started, no one used the term analytics engineer, and even the concept of a data engineer was still relatively new(at least in terms of how popular it later became).\n\nIn the same way, I have seen plenty of things change. Some of these changes are temporary, I believe (like my first point), others are likely larger trends.\n\nSo let’s dive into what’s changed in the data world in the last decade.\n\nIf you enjoyed this video, check out some of my other top videos.\n\nIntro To Databricks - What Is Databricks\nhttps://www.youtube.com/watch?v=QNdiGZFaUFs\n\nThe Inconvenient Truths of Self-Service Analytics - Tell Me Lies Tell Me Sweet Little Lies\nhttps://www.youtube.com/watch?v=vIclW1EqeUg\n\nIf you're looking for help ingesting your data in batch or real time, then you need to check out Estuary - https://bit.ly/4eQC3oQ\n\nIf you'd like to read up on my updates about the data field, then you can sign up for our newsletter here.\n\nhttps://seattledataguy.substack.com/​​\n\nOr check out my blog\nhttps://www.theseattledataguy.com/\n\nAnd if you want to support the channel, then you can become a paid member of my newsletter\nhttps://seattledataguy.substack.com/subscribe\n\n\nTags: Data engineering projects, Data engineer project ideas, data project sources, data analytics project sources, data project portfolio\n\n_____________________________________________________________\nSubscribe: https://www.youtube.com/channel/UCmLGJ3VYBcfRaWbP6JLJcpA?sub_confirmation=1\n_____________________________________________________________\nAbout me:\nI  have spent my career focused on all forms of data. I have focused on developing algorithms to detect fraud, reduce patient readmission and redesign insurance provider policy to help reduce the overall cost of healthcare. I have also helped develop analytics for marketing and IT operations in order to optimize limited resources such as employees and budget. I privately consult on data science and engineering problems both solo as well as with a company called Acheron Analytics. I have experience both working hands-on with technical problems as well as helping leadership teams develop strategies to maximize their data.\n\n*I do participate in affiliate programs, if a link has an \"*\" by it, then I may receive a small portion of the proceeds at no extra cost to you.",
+      "published_ts": 1769187316,
+      "source_name": "Seattle Data Guy (YouTube)",
+      "score": 59.81062297116626,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    },
+    {
+      "url": "https://airbyte.com/blog/open-agentic-data-infrastructure",
+      "title": "Agentic Data Infrastructure Must Be Open | Airbyte",
+      "summary": "Open agentic data infrastructure is essential for scalable, trustworthy AI—unlocking collaboration, transparency, and innovation.",
+      "published_ts": 1768953600,
+      "source_name": "Airbyte Blog",
+      "score": 56.362045867876574,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "lake_storage_formats": [
+    {
+      "url": "https://www.databricks.com/blog/announcing-first-class-support-iceberg-format-databricks-delta-sharing",
+      "title": "Announcing first-class support of Iceberg format in Databricks Delta Sharing",
+      "summary": "With more than 300% year-on-year usage growth for 2 consecutive years, Delta Sharing...",
+      "published_ts": 1769195100,
+      "source_name": "Databricks Blog",
+      "score": 61.86478851871057,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    },
+    {
+      "url": "https://roundup.getdbt.com/p/apache-iceberg-and-the-catalog-layer",
+      "title": "Apache Iceberg and the catalog layer (w/ Russell Spitzer)",
+      "summary": "Everything you ever wanted to know about open table formats with a member of Apache Iceberg and Apache Polaris",
+      "published_ts": 1769349567,
+      "source_name": "The Analytics Engineering Podcast (dbt)",
+      "score": 56.73512065952474,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "news": [
+    {
+      "url": "https://www.dataengineeringweekly.com/p/data-engineering-weekly-253",
+      "title": "Data Engineering Weekly #253",
+      "summary": "The Weekly Data Engineering Newsletter",
+      "published_ts": 1768800035,
+      "source_name": "Data Engineering Weekly",
+      "score": 65.00261691483584,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "python_analytics": [
+    {
+      "url": "https://duckdb.org/2026/01/23/duckdb-vortex-extension.html",
+      "title": "Announcing Vortex Support in DuckDB",
+      "summary": "Vortex is a new columnar file format with a very promising design. SpiralDB and DuckDB Labs have partnered to give you a very fast experience while reading and writing Vortex files!",
+      "published_ts": 1769126400,
+      "source_name": "DuckDB Blog",
+      "score": 52.75245266881856,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ],
+  "warehouses_engines": [
+    {
+      "url": "https://www.getdbt.com/blog/dbt-fusion-cost-efficiency",
+      "title": "29%+ warehouse savings: How the dbt Fusion engine drives cost efficiency",
+      "summary": "You’re probably overspending on data compute. We know we were. Here’s how we fixed it.",
+      "published_ts": 1769024400,
+      "source_name": "dbt Blog",
+      "score": 56.89918206496672,
+      "content_type": "technical",
+      "tech_level": "intermediate",
+      "marketing_score": 0
+    }
+  ]
+}
