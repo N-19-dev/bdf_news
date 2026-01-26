@@ -21,7 +21,9 @@ export default function LoginModal() {
     webClientId: WEB_CLIENT_ID,
     iosClientId: IOS_CLIENT_ID || undefined,
     scopes: ['profile', 'email'],
-    selectAccount: true,
+    extraParams: {
+      prompt: 'select_account',
+    },
   });
 
   useEffect(() => {
