@@ -10,43 +10,85 @@ type Props = {
   weekLabel?: string;
 };
 
-const medals = ["🥇", "🥈", "🥉"];
+const rankingStyles = [
+  {
+    medal: "🥇",
+    bg: "bg-amber-50",
+    border: "border-amber-200",
+    medalBg: "bg-amber-100",
+    accent: "bg-amber-400",
+  },
+  {
+    medal: "🥈",
+    bg: "bg-slate-50",
+    border: "border-slate-200",
+    medalBg: "bg-slate-100",
+    accent: "bg-slate-400",
+  },
+  {
+    medal: "🥉",
+    bg: "bg-orange-50",
+    border: "border-orange-200",
+    medalBg: "bg-orange-100",
+    accent: "bg-orange-400",
+  },
+];
 
 export default function Top3({ items, weekLabel }: Props) {
   if (!items || items.length === 0) return null;
 
   return (
-    <View className="bg-white rounded-2xl border border-neutral-200 p-4">
-      <Text className="text-lg font-bold text-neutral-900 mb-4">
-        Top 3 de la semaine
-      </Text>
+    <View className="bg-white rounded-3xl shadow-sm border border-neutral-100 p-5">
+      <View className="flex-row items-center gap-2 mb-4">
+        <Text className="text-2xl">🏆</Text>
+        <Text className="text-xl font-bold text-neutral-900">
+          Top 3 de la semaine
+        </Text>
+      </View>
       <View className="gap-3">
         {items.slice(0, 3).map((item, idx) => {
           const articleId = generateArticleId(item.url, item.title);
+          const style = rankingStyles[idx];
 
           return (
-            <View key={item.url} className="bg-neutral-50 rounded-xl overflow-hidden">
+            <View
+              key={item.url}
+              className={`${style.bg} ${style.border} border rounded-2xl overflow-hidden`}
+            >
               <Pressable
                 onPress={() => Linking.openURL(item.url)}
-                className="flex-row items-start gap-3 p-3 active:bg-neutral-100"
+                className="p-4 active:opacity-80"
               >
-                <Text className="text-2xl">{medals[idx]}</Text>
-                <Image
-                  source={{ uri: faviconUrl(item.url, 32) }}
-                  className="w-6 h-6 rounded mt-1"
-                  resizeMode="contain"
-                />
-                <View className="flex-1">
-                  <Text className="text-sm font-medium text-neutral-900 leading-5" numberOfLines={2}>
-                    {item.title}
-                  </Text>
-                  {item.source && (
-                    <Text className="text-xs text-neutral-500 mt-1">{item.source}</Text>
-                  )}
+                <View className="flex-row items-start gap-3">
+                  {/* Medal badge */}
+                  <View className={`${style.medalBg} w-12 h-12 rounded-xl items-center justify-center`}>
+                    <Text className="text-2xl">{style.medal}</Text>
+                  </View>
+
+                  {/* Content */}
+                  <View className="flex-1">
+                    <View className="flex-row items-center gap-2 mb-2">
+                      <Image
+                        source={{ uri: faviconUrl(item.url, 32) }}
+                        className="w-5 h-5 rounded"
+                        resizeMode="contain"
+                      />
+                      {item.source && (
+                        <Text className="text-xs font-medium text-neutral-500 uppercase tracking-wide">
+                          {item.source}
+                        </Text>
+                      )}
+                    </View>
+                    <View className={`h-1 w-10 rounded-full ${style.accent} mb-2`} />
+                    <Text className="text-base font-semibold text-neutral-900 leading-6" numberOfLines={2}>
+                      {item.title}
+                    </Text>
+                  </View>
                 </View>
               </Pressable>
+
               {weekLabel && (
-                <View className="flex-row items-center justify-between px-3 pb-3">
+                <View className="flex-row items-center justify-between px-4 pb-4 pt-1">
                   <VoteButton
                     articleId={articleId}
                     articleUrl={item.url}

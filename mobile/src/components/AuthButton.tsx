@@ -20,29 +20,32 @@ export default function AuthButton() {
 
   if (user) {
     return (
-      <View className="flex-row items-center gap-2">
-        {user.photoURL && (
+      <Pressable
+        onPress={handleLogout}
+        className="flex-row items-center gap-2 bg-white/20 rounded-xl px-3 py-2 active:bg-white/30"
+      >
+        {user.photoURL ? (
           <Image
             source={{ uri: user.photoURL }}
-            className="w-8 h-8 rounded-full"
+            className="w-7 h-7 rounded-full border-2 border-white/50"
           />
+        ) : (
+          <View className="w-7 h-7 rounded-full bg-white/30 items-center justify-center">
+            <Text className="text-white text-xs font-bold">
+              {user.email?.charAt(0).toUpperCase() || '?'}
+            </Text>
+          </View>
         )}
-        <Pressable
-          onPress={handleLogout}
-          className="bg-neutral-200 rounded-lg px-3 py-1.5 active:bg-neutral-300"
-        >
-          <Text className="text-sm text-neutral-700">Déconnexion</Text>
-        </Pressable>
-      </View>
+      </Pressable>
     );
   }
 
   return (
     <Pressable
       onPress={openLoginModal}
-      className="bg-slate-700 rounded-lg px-3 py-1.5 active:bg-slate-600"
+      className="bg-white rounded-xl px-4 py-2 active:bg-indigo-50"
     >
-      <Text className="text-sm text-white font-medium">Connexion</Text>
+      <Text className="text-sm text-indigo-600 font-semibold">Connexion</Text>
     </Pressable>
   );
 }

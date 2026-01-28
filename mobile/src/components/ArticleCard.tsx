@@ -20,27 +20,31 @@ export default function ArticleCard({ title, url, source, weekLabel, category }:
   const articleId = generateArticleId(url, title);
 
   return (
-    <View className="bg-white rounded-xl border border-neutral-200 overflow-hidden">
+    <View className="bg-gradient-to-r from-neutral-50 to-slate-50 rounded-2xl border border-neutral-100 overflow-hidden">
       <Pressable
         onPress={handlePress}
-        className="flex-row items-start gap-3 p-3 active:bg-neutral-50"
+        className="flex-row items-start gap-3 p-4 active:opacity-80"
       >
-        <Image
-          source={{ uri: faviconUrl(url, 32) }}
-          className="w-6 h-6 rounded"
-          resizeMode="contain"
-        />
+        <View className="w-10 h-10 bg-white rounded-xl items-center justify-center border border-neutral-100 shadow-sm">
+          <Image
+            source={{ uri: faviconUrl(url, 32) }}
+            className="w-6 h-6 rounded"
+            resizeMode="contain"
+          />
+        </View>
         <View className="flex-1">
-          <Text className="text-sm font-medium text-neutral-900 leading-5" numberOfLines={2}>
+          {source && (
+            <Text className="text-xs font-medium text-indigo-600 uppercase tracking-wide mb-1">
+              {source}
+            </Text>
+          )}
+          <Text className="text-base font-semibold text-neutral-900 leading-6" numberOfLines={2}>
             {title}
           </Text>
-          {source && (
-            <Text className="text-xs text-neutral-500 mt-1">{source}</Text>
-          )}
         </View>
       </Pressable>
       {weekLabel && (
-        <View className="flex-row items-center justify-between px-3 pb-3">
+        <View className="flex-row items-center justify-between px-4 pb-4 pt-1">
           <VoteButton
             articleId={articleId}
             articleUrl={url}

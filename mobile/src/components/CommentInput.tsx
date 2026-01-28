@@ -97,7 +97,7 @@ export default function CommentInput({
   const isValid = charCount >= MIN_LENGTH && charCount <= MAX_LENGTH;
 
   return (
-    <View className="gap-2">
+    <View className="gap-3">
       <View className="relative">
         <TextInput
           value={content}
@@ -106,21 +106,25 @@ export default function CommentInput({
           multiline
           maxLength={MAX_LENGTH}
           editable={!isSubmitting}
-          className="w-full p-3 border border-gray-300 rounded-lg text-sm min-h-[80px] bg-white"
+          className="w-full p-4 border-2 border-neutral-200 rounded-2xl text-base min-h-[100px] bg-neutral-50"
           placeholderTextColor="#9CA3AF"
         />
-        <Text className="absolute bottom-2 right-2 text-xs text-gray-400">
+        <Text className="absolute bottom-3 right-3 text-xs text-neutral-400">
           {charCount}/{MAX_LENGTH}
         </Text>
       </View>
 
-      {error && <Text className="text-xs text-red-600">{error}</Text>}
+      {error && (
+        <View className="bg-red-50 border border-red-200 rounded-xl p-2">
+          <Text className="text-xs text-red-600">{error}</Text>
+        </View>
+      )}
 
       <Pressable
         onPress={handleSubmit}
         disabled={!isValid || isSubmitting}
-        className={`px-4 py-2 rounded-lg self-end ${
-          isValid && !isSubmitting ? 'bg-blue-600' : 'bg-gray-300'
+        className={`px-5 py-3 rounded-xl self-end ${
+          isValid && !isSubmitting ? 'bg-indigo-600 active:bg-indigo-700' : 'bg-neutral-200'
         }`}
       >
         {isSubmitting ? (
@@ -128,7 +132,7 @@ export default function CommentInput({
         ) : (
           <Text
             className={`text-sm font-semibold ${
-              isValid ? 'text-white' : 'text-gray-500'
+              isValid ? 'text-white' : 'text-neutral-400'
             }`}
           >
             Envoyer

@@ -71,18 +71,24 @@ export default function LoginModal() {
       transparent={true}
       onRequestClose={closeLoginModal}
     >
-      <View className="flex-1 justify-center items-center bg-black/50">
-        <View className="bg-white rounded-2xl p-6 w-[90%] max-w-sm">
-          <Text className="text-xl font-bold text-neutral-900 mb-2">
-            Connexion
-          </Text>
-          <Text className="text-sm text-neutral-600 mb-6">
-            Connectez-vous pour voter et commenter les articles.
-          </Text>
+      <View className="flex-1 justify-center items-center bg-black/60">
+        <View className="bg-white rounded-3xl p-6 w-[90%] max-w-sm shadow-lg">
+          {/* Header with icon */}
+          <View className="items-center mb-4">
+            <View className="w-16 h-16 bg-indigo-100 rounded-2xl items-center justify-center mb-3">
+              <Text className="text-3xl">🔐</Text>
+            </View>
+            <Text className="text-2xl font-bold text-neutral-900">
+              Connexion
+            </Text>
+            <Text className="text-sm text-neutral-500 mt-1 text-center">
+              Connectez-vous pour voter et commenter
+            </Text>
+          </View>
 
           {error && (
-            <View className="mb-4 p-3 bg-red-100 rounded-lg">
-              <Text className="text-red-700 text-sm text-center">{error}</Text>
+            <View className="mb-4 p-3 bg-red-50 border border-red-200 rounded-xl">
+              <Text className="text-red-600 text-sm text-center">{error}</Text>
             </View>
           )}
 
@@ -91,16 +97,16 @@ export default function LoginModal() {
             <Pressable
               onPress={handleGoogleSignIn}
               disabled={!request || isLoading}
-              className={`flex-row items-center justify-center gap-3 bg-white border border-neutral-300 rounded-xl py-3 px-4 mb-3 ${
+              className={`flex-row items-center justify-center gap-3 bg-white border-2 border-neutral-200 rounded-2xl py-4 px-4 mb-3 ${
                 isLoading || !request ? 'opacity-50' : 'active:bg-neutral-50'
               }`}
             >
               {isLoading ? (
-                <ActivityIndicator size="small" color="#374151" />
+                <ActivityIndicator size="small" color="#4f46e5" />
               ) : (
                 <>
-                  <Text className="text-lg">🔵</Text>
-                  <Text className="font-medium text-neutral-700">
+                  <Text className="text-xl">G</Text>
+                  <Text className="font-semibold text-neutral-700">
                     Continuer avec Google
                   </Text>
                 </>
@@ -108,13 +114,12 @@ export default function LoginModal() {
             </Pressable>
           ) : null}
 
-
           <Pressable
             onPress={closeLoginModal}
             disabled={isLoading}
-            className="mt-4 py-2"
+            className="mt-2 py-3 rounded-2xl active:bg-neutral-100"
           >
-            <Text className="text-center text-neutral-500">Annuler</Text>
+            <Text className="text-center text-neutral-400 font-medium">Annuler</Text>
           </Pressable>
         </View>
       </View>

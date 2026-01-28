@@ -88,72 +88,87 @@ export default function CommentsModal() {
       presentationStyle="pageSheet"
       onRequestClose={closeCommentsModal}
     >
-      <View className="flex-1 bg-white">
+      <View className="flex-1 bg-neutral-50">
         {/* Header */}
-        <View className="flex-row items-center justify-between p-4 border-b border-gray-200">
-          <View className="flex-1 pr-4">
-            <Text className="text-xl font-bold text-gray-900">💬 Commentaires</Text>
-            <Text className="text-sm text-gray-600 mt-1" numberOfLines={2}>
-              {currentArticle.articleTitle}
-            </Text>
-            <View className="flex-row items-center gap-4 mt-2">
-              <Text className="text-xs text-gray-500">
-                {comments.length} commentaire{comments.length !== 1 ? 's' : ''}
-              </Text>
-              <View className="flex-row items-center gap-2">
-                <Pressable
-                  onPress={() => setSortBy('recent')}
-                  className={`px-2 py-1 rounded ${
-                    sortBy === 'recent' ? 'bg-blue-100' : ''
-                  }`}
-                >
-                  <Text
-                    className={`text-xs ${
-                      sortBy === 'recent'
-                        ? 'text-blue-700 font-semibold'
-                        : 'text-gray-600'
-                    }`}
-                  >
-                    Récents
-                  </Text>
-                </Pressable>
-                <Pressable
-                  onPress={() => setSortBy('popular')}
-                  className={`px-2 py-1 rounded ${
-                    sortBy === 'popular' ? 'bg-blue-100' : ''
-                  }`}
-                >
-                  <Text
-                    className={`text-xs ${
-                      sortBy === 'popular'
-                        ? 'text-blue-700 font-semibold'
-                        : 'text-gray-600'
-                    }`}
-                  >
-                    Populaires
-                  </Text>
-                </Pressable>
+        <View className="bg-indigo-600 px-5 py-4">
+          <View className="flex-row items-start justify-between">
+            <View className="flex-1 pr-4">
+              <View className="flex-row items-center gap-2 mb-2">
+                <View className="w-8 h-8 bg-white/20 rounded-lg items-center justify-center">
+                  <Text className="text-lg">💬</Text>
+                </View>
+                <Text className="text-xl font-bold text-white">Commentaires</Text>
               </View>
+              <Text className="text-sm text-indigo-100" numberOfLines={2}>
+                {currentArticle.articleTitle}
+              </Text>
+            </View>
+            <Pressable
+              onPress={closeCommentsModal}
+              className="w-10 h-10 bg-white/20 rounded-xl items-center justify-center"
+            >
+              <Text className="text-xl text-white">✕</Text>
+            </Pressable>
+          </View>
+
+          {/* Sort options */}
+          <View className="flex-row items-center gap-4 mt-4">
+            <Text className="text-sm text-indigo-200">
+              {comments.length} commentaire{comments.length !== 1 ? 's' : ''}
+            </Text>
+            <View className="flex-row items-center gap-2">
+              <Pressable
+                onPress={() => setSortBy('recent')}
+                className={`px-3 py-1.5 rounded-xl ${
+                  sortBy === 'recent' ? 'bg-white/20' : ''
+                }`}
+              >
+                <Text
+                  className={`text-sm ${
+                    sortBy === 'recent'
+                      ? 'text-white font-semibold'
+                      : 'text-indigo-200'
+                  }`}
+                >
+                  Récents
+                </Text>
+              </Pressable>
+              <Pressable
+                onPress={() => setSortBy('popular')}
+                className={`px-3 py-1.5 rounded-xl ${
+                  sortBy === 'popular' ? 'bg-white/20' : ''
+                }`}
+              >
+                <Text
+                  className={`text-sm ${
+                    sortBy === 'popular'
+                      ? 'text-white font-semibold'
+                      : 'text-indigo-200'
+                  }`}
+                >
+                  Populaires
+                </Text>
+              </Pressable>
             </View>
           </View>
-          <Pressable onPress={closeCommentsModal} className="p-2">
-            <Text className="text-2xl text-gray-400">✕</Text>
-          </Pressable>
         </View>
 
         {/* Comments List */}
         <ScrollView className="flex-1 p-4">
           {loading && (
             <View className="items-center py-8">
-              <ActivityIndicator size="large" color="#1e293b" />
-              <Text className="mt-2 text-gray-500">Chargement des commentaires...</Text>
+              <ActivityIndicator size="large" color="#4f46e5" />
+              <Text className="mt-3 text-neutral-500">Chargement des commentaires...</Text>
             </View>
           )}
 
           {!loading && comments.length === 0 && (
-            <View className="items-center py-8">
-              <Text className="text-lg text-gray-500">Aucun commentaire pour le moment.</Text>
-              <Text className="text-sm text-gray-400 mt-2">
+            <View className="items-center py-12">
+              <View className="w-16 h-16 bg-indigo-100 rounded-2xl items-center justify-center mb-4">
+                <Text className="text-3xl">💭</Text>
+              </View>
+              <Text className="text-lg font-semibold text-neutral-700">Aucun commentaire</Text>
+              <Text className="text-sm text-neutral-500 mt-1 text-center">
                 Soyez le premier à commenter cet article !
               </Text>
             </View>
@@ -176,7 +191,7 @@ export default function CommentsModal() {
         </ScrollView>
 
         {/* Comment Input */}
-        <View className="border-t border-gray-200 p-4 bg-gray-50">
+        <View className="border-t border-neutral-200 p-4 bg-white">
           {user ? (
             <CommentInput
               articleId={currentArticle.articleId}
@@ -192,9 +207,11 @@ export default function CommentsModal() {
               onCommentAdded={handleCommentAdded}
             />
           ) : (
-            <Text className="text-center text-gray-500">
-              Vous devez être connecté pour commenter.
-            </Text>
+            <View className="items-center py-2">
+              <Text className="text-center text-neutral-500">
+                Connectez-vous pour commenter
+              </Text>
+            </View>
           )}
         </View>
       </View>

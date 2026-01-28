@@ -105,28 +105,48 @@ export default function VoteButton({
     }
   };
 
+  const netVotes = voteCounts.upvotes - voteCounts.downvotes;
+
   return (
-    <View className="flex-row items-center gap-2">
+    <View className="flex-row items-center gap-1">
+      {/* Upvote button */}
       <Pressable
         onPress={() => handleVote(1)}
         disabled={loading}
-        className={`flex-row items-center gap-1 px-2 py-1 rounded ${
-          userVote === 1 ? 'bg-green-100' : 'bg-gray-100'
+        className={`w-9 h-9 rounded-xl items-center justify-center ${
+          userVote === 1
+            ? 'bg-emerald-500'
+            : 'bg-neutral-100 active:bg-emerald-100'
         } ${loading ? 'opacity-50' : ''}`}
       >
-        <Text className={userVote === 1 ? 'text-green-700' : 'text-gray-600'}>
-          👍 {voteCounts.upvotes}
+        <Text className={`text-lg ${userVote === 1 ? '' : 'opacity-60'}`}>
+          {userVote === 1 ? '👍' : '👍'}
         </Text>
       </Pressable>
+
+      {/* Vote count */}
+      <View className="min-w-[32px] items-center">
+        <Text className={`text-sm font-bold ${
+          netVotes > 0 ? 'text-emerald-600' :
+          netVotes < 0 ? 'text-red-500' :
+          'text-neutral-400'
+        }`}>
+          {netVotes > 0 ? `+${netVotes}` : netVotes}
+        </Text>
+      </View>
+
+      {/* Downvote button */}
       <Pressable
         onPress={() => handleVote(-1)}
         disabled={loading}
-        className={`flex-row items-center gap-1 px-2 py-1 rounded ${
-          userVote === -1 ? 'bg-red-100' : 'bg-gray-100'
+        className={`w-9 h-9 rounded-xl items-center justify-center ${
+          userVote === -1
+            ? 'bg-red-500'
+            : 'bg-neutral-100 active:bg-red-100'
         } ${loading ? 'opacity-50' : ''}`}
       >
-        <Text className={userVote === -1 ? 'text-red-700' : 'text-gray-600'}>
-          👎 {voteCounts.downvotes}
+        <Text className={`text-lg ${userVote === -1 ? '' : 'opacity-60'}`}>
+          {userVote === -1 ? '👎' : '👎'}
         </Text>
       </Pressable>
     </View>

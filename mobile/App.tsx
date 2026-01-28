@@ -105,17 +105,25 @@ function AppContent() {
     <SafeAreaView className="flex-1 bg-neutral-50">
       <StatusBar style="light" />
 
-      {/* Header */}
-      <View className="px-4 py-3 bg-slate-800 flex-row items-center justify-between">
-        <View className="flex-row items-center gap-4">
-          <Text className="text-xl font-bold text-white">Veille Tech</Text>
+      {/* Header with gradient effect */}
+      <View className="px-5 py-4 bg-indigo-600 flex-row items-center justify-between">
+        <View className="flex-row items-center gap-3">
+          <View className="w-10 h-10 bg-white/20 rounded-xl items-center justify-center">
+            <Text className="text-2xl">🚀</Text>
+          </View>
+          <View>
+            <Text className="text-xl font-bold text-white tracking-tight">Veille Tech</Text>
+            <Text className="text-xs text-indigo-200">Le meilleur de la tech</Text>
+          </View>
+        </View>
+        <View className="flex-row items-center gap-3">
           <WeekPicker
             weeks={weeks}
             currentWeek={currentWeek}
             onSelect={handleWeekChange}
           />
+          <AuthButton />
         </View>
-        <AuthButton />
       </View>
 
       {/* Content */}
@@ -135,14 +143,14 @@ function AppContent() {
         {/* Toggle button */}
         <Pressable
           onPress={() => setShowFullSelection(!showFullSelection)}
-          className="self-center flex-row items-center gap-2 px-6 py-3 rounded-full border border-neutral-300 bg-white active:bg-neutral-50"
+          className="self-center flex-row items-center gap-2 px-6 py-3 rounded-2xl bg-indigo-600 active:bg-indigo-700 shadow-sm"
         >
-          <Text className="text-sm font-medium text-neutral-700">
+          <Text className="text-sm font-semibold text-white">
             {showFullSelection
-              ? "Masquer la sélection complète"
-              : `Voir toute la sélection (${totalArticles} articles)`}
+              ? "Masquer la sélection"
+              : `Voir tout (${totalArticles} articles)`}
           </Text>
-          <Text className="text-neutral-500">{showFullSelection ? "▲" : "▼"}</Text>
+          <Text className="text-indigo-200">{showFullSelection ? "▲" : "▼"}</Text>
         </Pressable>
 
         {/* Full selection */}

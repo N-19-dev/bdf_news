@@ -50,9 +50,12 @@ export default function CommentsButton({
   return (
     <Pressable
       onPress={handlePress}
-      className="flex-row items-center gap-1 px-2 py-1 rounded bg-gray-100 active:bg-gray-200"
+      className="flex-row items-center gap-2 px-3 py-2 rounded-xl bg-neutral-100 active:bg-indigo-100"
     >
-      <Text className="text-gray-600">💬 {commentCount}</Text>
+      <Text className="text-base">💬</Text>
+      <Text className={`text-sm font-semibold ${commentCount > 0 ? 'text-indigo-600' : 'text-neutral-400'}`}>
+        {commentCount}
+      </Text>
     </Pressable>
   );
 }

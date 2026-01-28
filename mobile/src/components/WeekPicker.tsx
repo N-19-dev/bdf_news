@@ -21,15 +21,12 @@ export default function WeekPicker({ weeks, currentWeek, onSelect }: Props) {
       {/* Trigger button */}
       <Pressable
         onPress={() => setIsOpen(true)}
-        className="flex-row items-center gap-1 active:opacity-70"
+        className="bg-white/20 px-3 py-2 rounded-xl flex-row items-center gap-2 active:bg-white/30"
       >
-        <View>
-          <Text className="text-sm text-slate-400">Semaine</Text>
-          <Text className="text-base font-semibold text-white">
-            {currentWeek?.week || "..."}{" "}
-            <Text className="text-slate-400">▼</Text>
-          </Text>
-        </View>
+        <Text className="text-sm font-semibold text-white">
+          {currentWeek?.week || "..."}
+        </Text>
+        <Text className="text-indigo-200 text-xs">▼</Text>
       </Pressable>
 
       {/* Modal */}
@@ -63,7 +60,7 @@ export default function WeekPicker({ weeks, currentWeek, onSelect }: Props) {
                     key={week.week}
                     onPress={() => handleSelect(week)}
                     className={`flex-row items-center justify-between p-4 rounded-xl mb-1 ${
-                      isSelected ? "bg-slate-800" : "bg-neutral-50 active:bg-neutral-100"
+                      isSelected ? "bg-indigo-600" : "bg-neutral-50 active:bg-neutral-100"
                     }`}
                   >
                     <View>

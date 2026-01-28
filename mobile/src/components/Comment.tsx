@@ -30,46 +30,52 @@ export default function Comment({
   };
 
   return (
-    <View className={`${depth > 0 ? 'ml-4 border-l-2 border-gray-200 pl-3' : ''}`}>
-      <View className="flex-row items-start gap-3">
-        {comment.user_photo ? (
-          <Image
-            source={{ uri: comment.user_photo }}
-            className="w-8 h-8 rounded-full"
-          />
-        ) : (
-          <View className="w-8 h-8 rounded-full bg-gray-300 items-center justify-center">
-            <Text className="text-gray-600 text-sm font-medium">
-              {comment.user_name?.charAt(0)?.toUpperCase() || '?'}
-            </Text>
-          </View>
-        )}
+    <View className={`${depth > 0 ? 'ml-4 border-l-2 border-indigo-200 pl-3' : ''}`}>
+      <View className="bg-white rounded-2xl p-4 border border-neutral-100">
+        <View className="flex-row items-start gap-3">
+          {comment.user_photo ? (
+            <Image
+              source={{ uri: comment.user_photo }}
+              className="w-10 h-10 rounded-xl"
+            />
+          ) : (
+            <View className="w-10 h-10 rounded-xl bg-indigo-100 items-center justify-center">
+              <Text className="text-indigo-600 text-base font-bold">
+                {comment.user_name?.charAt(0)?.toUpperCase() || '?'}
+              </Text>
+            </View>
+          )}
 
-        <View className="flex-1">
-          <View className="flex-row items-center gap-2">
-            <Text className="text-sm font-semibold text-gray-900">
-              {comment.user_name}
-            </Text>
-            <Text className="text-xs text-gray-500">
-              {formatDate(comment.created_at)}
-            </Text>
-            {comment.is_edited && (
-              <Text className="text-xs text-gray-400">(modifié)</Text>
-            )}
-          </View>
-
-          <Text className="text-sm text-gray-700 mt-1">{comment.content}</Text>
-
-          <View className="flex-row items-center gap-4 mt-2">
-            <View className="flex-row items-center gap-1">
-              <Text className="text-xs text-gray-500">❤️ {comment.likes}</Text>
+          <View className="flex-1">
+            <View className="flex-row items-center flex-wrap gap-2">
+              <Text className="text-sm font-bold text-neutral-900">
+                {comment.user_name}
+              </Text>
+              <Text className="text-xs text-neutral-400">
+                {formatDate(comment.created_at)}
+              </Text>
+              {comment.is_edited && (
+                <Text className="text-xs text-neutral-400 italic">(modifié)</Text>
+              )}
             </View>
 
-            {onReply && depth < 2 && (
-              <Pressable onPress={() => onReply(comment.id)}>
-                <Text className="text-xs text-blue-600 font-medium">Répondre</Text>
-              </Pressable>
-            )}
+            <Text className="text-sm text-neutral-700 mt-2 leading-5">{comment.content}</Text>
+
+            <View className="flex-row items-center gap-4 mt-3">
+              <View className="flex-row items-center gap-1 bg-neutral-100 px-2 py-1 rounded-lg">
+                <Text className="text-xs">❤️</Text>
+                <Text className="text-xs text-neutral-600 font-medium">{comment.likes}</Text>
+              </View>
+
+              {onReply && depth < 2 && (
+                <Pressable
+                  onPress={() => onReply(comment.id)}
+                  className="px-2 py-1 rounded-lg active:bg-indigo-50"
+                >
+                  <Text className="text-xs text-indigo-600 font-semibold">Répondre</Text>
+                </Pressable>
+              )}
+            </View>
           </View>
         </View>
       </View>

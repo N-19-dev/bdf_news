@@ -14,36 +14,67 @@ export default function TopVideos({ items, weekLabel }: Props) {
   if (!items || items.length === 0) return null;
 
   return (
-    <View className="bg-white rounded-2xl border border-neutral-200 p-4">
-      <Text className="text-lg font-bold text-neutral-900 mb-4">
-        🎥 Top 3 Vidéos / Podcasts
-      </Text>
+    <View className="bg-white rounded-3xl shadow-sm border border-neutral-100 p-5">
+      <View className="flex-row items-center gap-2 mb-4">
+        <View className="w-10 h-10 bg-violet-100 rounded-xl items-center justify-center">
+          <Text className="text-xl">🎬</Text>
+        </View>
+        <View>
+          <Text className="text-xl font-bold text-neutral-900">
+            Vidéos & Podcasts
+          </Text>
+          <Text className="text-xs text-neutral-500">Top 3 de la semaine</Text>
+        </View>
+      </View>
       <View className="gap-3">
         {items.map((item, idx) => {
           const dom = getDomain(item.url);
           const displaySource = (item.source || dom || "Source").trim();
-          const emoji = item.source_type === "youtube" ? "🎥" : "🎙️";
+          const isYoutube = item.source_type === "youtube";
           const articleId = generateArticleId(item.url, item.title);
 
           return (
-            <View key={idx} className="bg-neutral-50 rounded-xl overflow-hidden">
+            <View
+              key={idx}
+              className="bg-gradient-to-r from-violet-50 to-purple-50 border border-violet-100 rounded-2xl overflow-hidden"
+            >
               <Pressable
                 onPress={() => Linking.openURL(item.url)}
-                className="p-3 active:bg-neutral-100"
+                className="p-4 active:opacity-80"
               >
-                <View className="flex-row items-center gap-2 mb-2">
-                  <Text className="text-lg">{emoji}</Text>
-                  <Text className="text-xs font-semibold uppercase tracking-wider text-neutral-600">
-                    {displaySource}
-                  </Text>
+                <View className="flex-row items-start gap-3">
+                  {/* Media type icon */}
+                  <View className={`w-12 h-12 rounded-xl items-center justify-center ${
+                    isYoutube ? 'bg-red-100' : 'bg-purple-100'
+                  }`}>
+                    <Text className="text-2xl">{isYoutube ? '▶️' : '🎙️'}</Text>
+                  </View>
+
+                  {/* Content */}
+                  <View className="flex-1">
+                    <View className="flex-row items-center gap-2 mb-2">
+                      <View className={`px-2 py-0.5 rounded-full ${
+                        isYoutube ? 'bg-red-100' : 'bg-purple-100'
+                      }`}>
+                        <Text className={`text-xs font-bold uppercase ${
+                          isYoutube ? 'text-red-600' : 'text-purple-600'
+                        }`}>
+                          {isYoutube ? 'YouTube' : 'Podcast'}
+                        </Text>
+                      </View>
+                      <Text className="text-xs text-neutral-500">
+                        {displaySource}
+                      </Text>
+                    </View>
+                    <Text className="text-base font-semibold text-neutral-900 leading-6" numberOfLines={2}>
+                      {item.title}
+                    </Text>
+                  </View>
                 </View>
-                <View className="h-1 w-12 rounded-full bg-purple-300 mb-2" />
-                <Text className="text-sm font-semibold text-neutral-900 leading-5" numberOfLines={3}>
-                  {item.title}
-                </Text>
               </Pressable>
+
               {weekLabel && (
-                <View className="flex-row items-center justify-between px-3 pb-3">
+                <View className="flex-row items-center justify-between px-4 pb-4 pt-1">
                   <VoteButton
                     articleId={articleId}
                     articleUrl={item.url}
