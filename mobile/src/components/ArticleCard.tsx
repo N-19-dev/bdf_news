@@ -20,18 +20,16 @@ export default function ArticleCard({ title, url, source, weekLabel, category }:
   const articleId = generateArticleId(url, title);
 
   return (
-    <View className="bg-gradient-to-r from-neutral-50 to-slate-50 rounded-2xl border border-neutral-100 overflow-hidden">
+    <View className="bg-white rounded-2xl border border-neutral-200 shadow-sm overflow-hidden">
       <Pressable
         onPress={handlePress}
-        className="flex-row items-start gap-3 p-4 active:opacity-80"
+        className="flex-row items-start gap-3 p-4 active:bg-neutral-50"
       >
-        <View className="w-10 h-10 bg-white rounded-xl items-center justify-center border border-neutral-100 shadow-sm">
-          <Image
-            source={{ uri: faviconUrl(url, 32) }}
-            className="w-6 h-6 rounded"
-            resizeMode="contain"
-          />
-        </View>
+        <Image
+          source={{ uri: faviconUrl(url, 32) }}
+          className="w-8 h-8 rounded-lg"
+          resizeMode="contain"
+        />
         <View className="flex-1">
           {source && (
             <Text className="text-xs font-medium text-indigo-600 uppercase tracking-wide mb-1">

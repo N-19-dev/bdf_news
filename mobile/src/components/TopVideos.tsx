@@ -27,14 +27,14 @@ export default function TopVideos({ items, weekLabel }: Props) {
         return (
           <View
             key={idx}
-            className="bg-gradient-to-r from-neutral-50 to-slate-50 rounded-2xl border border-neutral-100 overflow-hidden"
+            className="bg-white rounded-2xl border border-neutral-200 shadow-sm overflow-hidden"
           >
             <Pressable
               onPress={() => Linking.openURL(item.url)}
-              className="flex-row items-start gap-3 p-4 active:opacity-80"
+              className="flex-row items-start gap-3 p-4 active:bg-neutral-50"
             >
-              <View className="w-10 h-10 bg-white rounded-xl items-center justify-center border border-neutral-100 shadow-sm">
-                <Text className="text-lg">{isYoutube ? '▶️' : '🎙️'}</Text>
+              <View className="w-8 h-8 bg-neutral-100 rounded-lg items-center justify-center">
+                <Text className="text-sm">{isYoutube ? '▶️' : '🎙️'}</Text>
               </View>
               <View className="flex-1">
                 <Text className="text-xs font-medium text-indigo-600 uppercase tracking-wide mb-1">
