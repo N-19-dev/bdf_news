@@ -12,6 +12,8 @@ import CommentsModal from "./src/components/CommentsModal";
 import WeekPicker from "./src/components/WeekPicker";
 import { AuthProvider } from "./src/lib/AuthContext";
 import { CommentsProvider } from "./src/lib/CommentsContext";
+import { useWeekVotes } from "./src/lib/useWeekVotes";
+import { generateArticleId } from "./src/lib/utils";
 import {
   loadWeeksIndex,
   loadLatestWeek,
@@ -37,6 +39,28 @@ function AppContent() {
   const [refreshing, setRefreshing] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [showFullSelection, setShowFullSelection] = useState(false);
+
+  // Fetch community votes for ranking
+  const { getVoteCount } = useWeekVotes(currentWeek?.week);
+
+  // Sort items by community votes (highest first)
+  const sortedTop3 = useMemo(() => {
+    if (!data?.top3) return [];
+    return [...data.top3].sort((a, b) => {
+      const aVotes = getVoteCount(generateArticleId(a.url, a.title));
+      const bVotes = getVoteCount(generateArticleId(b.url, b.title));
+      return bVotes - aVotes;
+    });
+  }, [data?.top3, getVoteCount]);
+
+  const sortedTopVideos = useMemo(() => {
+    if (!data?.topVideos) return [];
+    return [...data.topVideos].sort((a, b) => {
+      const aVotes = getVoteCount(generateArticleId(a.url, a.title));
+      const bVotes = getVoteCount(generateArticleId(b.url, b.title));
+      return bVotes - aVotes;
+    });
+  }, [data?.topVideos, getVoteCount]);
 
   const loadData = async () => {
     try {
@@ -126,11 +150,11 @@ function AppContent() {
           <RefreshControl refreshing={refreshing} onRefresh={onRefresh} />
         }
       >
-        {/* Top 3 Articles */}
-        {data && <Top3 items={data.top3} weekLabel={currentWeek?.week} />}
+        {/* Top 3 Articles - sorted by community votes */}
+        {sortedTop3.length > 0 && <Top3 items={sortedTop3} weekLabel={currentWeek?.week} />}
 
-        {/* Top 3 Videos/Podcasts */}
-        {data && <TopVideos items={data.topVideos} weekLabel={currentWeek?.week} />}
+        {/* Top 3 Videos/Podcasts - sorted by community votes */}
+        {sortedTopVideos.length > 0 && <TopVideos items={sortedTopVideos} weekLabel={currentWeek?.week} />}
 
         {/* Toggle button */}
         <Pressable
