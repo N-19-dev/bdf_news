@@ -6,6 +6,10 @@ Exporte dans export/feed.json:
 - articles: les 10 meilleurs articles récents
 - videos: les 5 meilleures vidéos/podcasts récents
 
+Le ranking combine:
+- final_score (algo) : score de pertinence calculé par analyze_relevance.py
+- community_votes : upvotes - downvotes depuis Firebase
+
 Usage:
     python daily_feed.py
     python daily_feed.py --days 7  # Articles des 7 derniers jours
@@ -13,12 +17,22 @@ Usage:
 
 import argparse
 import json
+import os
 import sqlite3
+from collections import defaultdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from typing import Any
+from typing import Any, Optional
 
 import yaml
+
+# Firebase (optional - graceful fallback if not available)
+try:
+    import firebase_admin
+    from firebase_admin import credentials, firestore
+    FIREBASE_AVAILABLE = True
+except ImportError:
+    FIREBASE_AVAILABLE = False
 
 
 def load_config(config_path: str = "config.yaml") -> dict:
@@ -34,22 +48,151 @@ def get_db_connection(db_path: str) -> sqlite3.Connection:
     return conn
 
 
+def init_firebase() -> Optional[Any]:
+    """Initialize Firebase Admin SDK."""
+    if not FIREBASE_AVAILABLE:
+        print("[warning] Firebase not available, votes won't be included")
+        return None
+
+    # Already initialized?
+    try:
+        return firestore.client()
+    except ValueError:
+        pass
+
+    # Try to initialize
+    try:
+        cred_json = os.getenv("FIREBASE_SERVICE_ACCOUNT_KEY")
+        if cred_json:
+            # Check if it's a path or JSON content
+            if cred_json.startswith("{"):
+                import json as json_module
+                cred_dict = json_module.loads(cred_json)
+                cred = credentials.Certificate(cred_dict)
+            elif Path(cred_json).exists():
+                cred = credentials.Certificate(cred_json)
+            else:
+                print("[warning] Firebase credentials not found")
+                return None
+        else:
+            print("[info] No Firebase credentials, votes won't be included")
+            return None
+
+        firebase_admin.initialize_app(cred)
+        return firestore.client()
+    except Exception as e:
+        print(f"[warning] Firebase init failed: {e}")
+        return None
+
+
+def fetch_votes_from_firebase(db: Any) -> dict[str, dict[str, int]]:
+    """
+    Récupère tous les votes depuis Firebase.
+
+    Returns:
+        Dict[article_id] = {"upvotes": X, "downvotes": Y}
+    """
+    if db is None:
+        return {}
+
+    try:
+        votes_ref = db.collection('votes')
+        votes = votes_ref.stream()
+
+        article_votes: dict[str, dict[str, int]] = defaultdict(lambda: {"upvotes": 0, "downvotes": 0})
+
+        for vote in votes:
+            data = vote.to_dict()
+            article_id = data.get('article_id', '')
+            vote_value = data.get('vote_value', 0)
+
+            if vote_value > 0:
+                article_votes[article_id]["upvotes"] += 1
+            elif vote_value < 0:
+                article_votes[article_id]["downvotes"] += 1
+
+        print(f"[info] Loaded votes for {len(article_votes)} articles from Firebase")
+        return dict(article_votes)
+
+    except Exception as e:
+        print(f"[warning] Failed to fetch votes: {e}")
+        return {}
+
+
+def compute_combined_score(
+    algo_score: float,
+    upvotes: int,
+    downvotes: int,
+    max_boost: float = 20.0,
+    confidence_prior: int = 5
+) -> float:
+    """
+    Calcule un score combiné algo + votes avec normalisation Bayésienne.
+
+    Formule:
+    1. Calcule un ratio Bayésien (évite overfitting avec peu de votes)
+    2. Convertit en boost (-max_boost à +max_boost)
+    3. Amplifie avec sqrt(total_votes) pour récompenser la confiance
+
+    Exemples:
+    - 0 votes → boost = 0
+    - 3 up, 0 down → boost ≈ +5
+    - 10 up, 0 down → boost ≈ +12
+    - 10 up, 10 down → boost ≈ 0
+    - 0 up, 5 down → boost ≈ -8
+
+    Args:
+        algo_score: Score de pertinence (0-100)
+        upvotes: Nombre d'upvotes
+        downvotes: Nombre de downvotes
+        max_boost: Boost maximum possible (default ±20 points)
+        confidence_prior: Prior Bayésien (default 5 = besoin ~5 votes pour avoir confiance)
+
+    Returns:
+        Score combiné
+    """
+    import math
+
+    total_votes = upvotes + downvotes
+
+    if total_votes == 0:
+        return algo_score
+
+    # Ratio Bayésien avec prior neutre (0.5)
+    # Plus de votes → plus proche du vrai ratio
+    # Peu de votes → plus proche de 0.5 (neutre)
+    bayesian_ratio = (confidence_prior * 0.5 + upvotes) / (confidence_prior + total_votes)
+
+    # Convertit ratio (0-1) en boost (-1 à +1)
+    # 0.5 → 0, 1.0 → +1, 0.0 → -1
+    normalized_boost = (bayesian_ratio - 0.5) * 2
+
+    # Amplifie avec la racine du nombre de votes (confiance)
+    # Plus de votants = plus de confiance = plus d'impact
+    confidence_factor = math.sqrt(total_votes)
+
+    # Calcule le boost final (plafonné à ±max_boost)
+    vote_boost = normalized_boost * confidence_factor * (max_boost / 3)
+    vote_boost = max(-max_boost, min(max_boost, vote_boost))
+
+    return algo_score + vote_boost
+
+
 def fetch_top_articles(
     conn: sqlite3.Connection,
+    votes: dict[str, dict[str, int]],
     limit: int = 10,
     days: int = 14,
     min_score: int = 40
 ) -> list[dict[str, Any]]:
     """
     Récupère les meilleurs articles (hors vidéos/podcasts).
-
-    Args:
-        conn: Connexion SQLite
-        limit: Nombre max d'articles
-        days: Nombre de jours à considérer
-        min_score: Score minimum requis
+    Trie par score combiné (algo + votes).
     """
     cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=days)).timestamp())
+
+    # Fetch more articles than needed to allow re-ranking
+    fetch_limit = limit * 3
 
     query = """
         SELECT
@@ -65,28 +208,45 @@ def fetch_top_articles(
         LIMIT ?
     """
 
-    cursor = conn.execute(query, (cutoff_ts, min_score, limit))
+    cursor = conn.execute(query, (cutoff_ts, min_score, fetch_limit))
     rows = cursor.fetchall()
 
-    return [dict(row) for row in rows]
+    # Add votes and compute combined score
+    articles = []
+    for row in rows:
+        item = dict(row)
+        article_id = item["id"]
+        article_votes = votes.get(article_id, {"upvotes": 0, "downvotes": 0})
+
+        item["upvotes"] = article_votes["upvotes"]
+        item["downvotes"] = article_votes["downvotes"]
+        item["combined_score"] = compute_combined_score(
+            item["final_score"],
+            article_votes["upvotes"],
+            article_votes["downvotes"]
+        )
+        articles.append(item)
+
+    # Sort by combined score
+    articles.sort(key=lambda x: x["combined_score"], reverse=True)
+
+    return articles[:limit]
 
 
 def fetch_top_videos(
     conn: sqlite3.Connection,
+    votes: dict[str, dict[str, int]],
     limit: int = 5,
     days: int = 14,
     min_score: int = 30
 ) -> list[dict[str, Any]]:
     """
     Récupère les meilleures vidéos et podcasts.
-
-    Args:
-        conn: Connexion SQLite
-        limit: Nombre max de vidéos/podcasts
-        days: Nombre de jours à considérer
-        min_score: Score minimum requis
+    Trie par score combiné (algo + votes).
     """
     cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=days)).timestamp())
+
+    fetch_limit = limit * 3
 
     query = """
         SELECT
@@ -102,10 +262,29 @@ def fetch_top_videos(
         LIMIT ?
     """
 
-    cursor = conn.execute(query, (cutoff_ts, min_score, limit))
+    cursor = conn.execute(query, (cutoff_ts, min_score, fetch_limit))
     rows = cursor.fetchall()
 
-    return [dict(row) for row in rows]
+    # Add votes and compute combined score
+    videos = []
+    for row in rows:
+        item = dict(row)
+        article_id = item["id"]
+        article_votes = votes.get(article_id, {"upvotes": 0, "downvotes": 0})
+
+        item["upvotes"] = article_votes["upvotes"]
+        item["downvotes"] = article_votes["downvotes"]
+        item["combined_score"] = compute_combined_score(
+            item["final_score"],
+            article_votes["upvotes"],
+            article_votes["downvotes"]
+        )
+        videos.append(item)
+
+    # Sort by combined score
+    videos.sort(key=lambda x: x["combined_score"], reverse=True)
+
+    return videos[:limit]
 
 
 def format_item(item: dict[str, Any]) -> dict[str, Any]:
@@ -118,7 +297,10 @@ def format_item(item: dict[str, Any]) -> dict[str, Any]:
         "source_name": item["source_name"],
         "published_ts": item["published_ts"],
         "category_key": item["category_key"],
-        "score": item["final_score"],
+        "score": round(item["combined_score"], 1),
+        "algo_score": round(item["final_score"], 1),
+        "upvotes": item["upvotes"],
+        "downvotes": item["downvotes"],
         "content_type": item["content_type"] or "technical",
         "tech_level": item["tech_level"] or "intermediate",
         "source_type": item["source_type"] or "article",
@@ -140,11 +322,23 @@ def generate_feed(
     config = load_config(config_path)
     db_path = config["storage"]["sqlite_path"]
 
+    # Initialize Firebase and fetch votes
+    firebase_db = init_firebase()
+    votes = fetch_votes_from_firebase(firebase_db)
+
     conn = get_db_connection(db_path)
 
     try:
-        articles = fetch_top_articles(conn, limit=articles_limit, days=days)
-        videos = fetch_top_videos(conn, limit=videos_limit, days=days)
+        articles = fetch_top_articles(
+            conn, votes,
+            limit=articles_limit,
+            days=days
+        )
+        videos = fetch_top_videos(
+            conn, votes,
+            limit=videos_limit,
+            days=days
+        )
 
         feed = {
             "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -195,6 +389,12 @@ def main():
 
     print(f"  - {len(feed['articles'])} articles")
     print(f"  - {len(feed['videos'])} vidéos/podcasts")
+
+    # Show top articles with votes
+    print("\nTop articles:")
+    for i, a in enumerate(feed['articles'][:5], 1):
+        votes_str = f"▲{a['upvotes']} ▼{a['downvotes']}" if a['upvotes'] or a['downvotes'] else "no votes"
+        print(f"  {i}. [{a['score']:.0f}] {a['title'][:50]}... ({votes_str})")
 
     output_path = export_feed(feed, args.output)
     print(f"\nExporté dans {output_path}")
