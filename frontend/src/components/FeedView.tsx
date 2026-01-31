@@ -27,7 +27,6 @@ function getCurrentWeekLabel(): string {
 
 function FeedCard({ item }: { item: FeedItem }) {
   const { openCommentsModal } = useComments();
-  const isVideo = item.source_type === "youtube" || item.source_type === "podcast";
   const icon = item.source_type === "youtube" ? "▶️" : item.source_type === "podcast" ? "🎙️" : null;
   const articleId = generateArticleId(item.url, item.title);
   const weekLabel = getCurrentWeekLabel();
