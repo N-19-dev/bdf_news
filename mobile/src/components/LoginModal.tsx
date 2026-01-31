@@ -19,7 +19,7 @@ export default function LoginModal() {
 
   const [request, response, promptAsync] = Google.useAuthRequest({
     webClientId: WEB_CLIENT_ID,
-    iosClientId: IOS_CLIENT_ID || undefined,
+    iosClientId: IOS_CLIENT_ID,
     scopes: ['profile', 'email'],
     extraParams: {
       prompt: 'select_account',
@@ -55,13 +55,9 @@ export default function LoginModal() {
 
   const handleGoogleSignIn = async () => {
     setError(null);
-    if (IOS_CLIENT_ID) {
-      // Clear any cached browser session first
-      await WebBrowser.coolDownAsync();
-      promptAsync({ showInRecents: true });
-    } else {
-      setError('iOS Client ID non configuré. Utilisez la connexion invité.');
-    }
+    // Clear any cached browser session first
+    await WebBrowser.coolDownAsync();
+    promptAsync({ showInRecents: true });
   };
 
   return (
@@ -92,27 +88,25 @@ export default function LoginModal() {
             </View>
           )}
 
-          {/* Google Sign In - only if iOS Client ID is configured */}
-          {IOS_CLIENT_ID ? (
-            <Pressable
-              onPress={handleGoogleSignIn}
-              disabled={!request || isLoading}
-              className={`flex-row items-center justify-center gap-3 bg-white border-2 border-neutral-200 rounded-2xl py-4 px-4 mb-3 ${
-                isLoading || !request ? 'opacity-50' : 'active:bg-neutral-50'
-              }`}
-            >
-              {isLoading ? (
-                <ActivityIndicator size="small" color="#4f46e5" />
-              ) : (
-                <>
-                  <Text className="text-xl">G</Text>
-                  <Text className="font-semibold text-neutral-700">
-                    Continuer avec Google
-                  </Text>
-                </>
-              )}
-            </Pressable>
-          ) : null}
+          {/* Google Sign In */}
+          <Pressable
+            onPress={handleGoogleSignIn}
+            disabled={!request || isLoading}
+            className={`flex-row items-center justify-center gap-3 bg-white border-2 border-neutral-200 rounded-2xl py-4 px-4 mb-3 ${
+              isLoading || !request ? 'opacity-50' : 'active:bg-neutral-50'
+            }`}
+          >
+            {isLoading ? (
+              <ActivityIndicator size="small" color="#4f46e5" />
+            ) : (
+              <>
+                <Text className="text-xl">G</Text>
+                <Text className="font-semibold text-neutral-700">
+                  Continuer avec Google
+                </Text>
+              </>
+            )}
+          </Pressable>
 
           <Pressable
             onPress={closeLoginModal}
