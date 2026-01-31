@@ -123,59 +123,66 @@ def compute_combined_score(
     algo_score: float,
     upvotes: int,
     downvotes: int,
+    published_ts: int,
     max_boost: float = 20.0,
-    confidence_prior: int = 5
+    confidence_prior: int = 5,
+    gravity: float = 1.5
 ) -> float:
     """
-    Calcule un score combiné algo + votes avec normalisation Bayésienne.
+    Calcule un score combiné algo + votes + time decay (style HN).
 
     Formule:
-    1. Calcule un ratio Bayésien (évite overfitting avec peu de votes)
-    2. Convertit en boost (-max_boost à +max_boost)
-    3. Amplifie avec sqrt(total_votes) pour récompenser la confiance
+    1. Calcule un vote boost Bayésien
+    2. Combine avec algo_score
+    3. Applique time decay: score / (age_hours + 2)^gravity
 
-    Exemples:
-    - 0 votes → boost = 0
-    - 3 up, 0 down → boost ≈ +5
-    - 10 up, 0 down → boost ≈ +12
-    - 10 up, 10 down → boost ≈ 0
-    - 0 up, 5 down → boost ≈ -8
+    Le time decay fait descendre les vieux articles même s'ils ont beaucoup de votes,
+    permettant aux nouveaux articles d'avoir une chance.
+
+    Exemples avec gravity=1.5:
+    - Article 60pts, 0h → 60 / 2^1.5 = 21.2
+    - Article 60pts, 24h → 60 / 26^1.5 = 0.5
+    - Article 80pts, 6h → 80 / 8^1.5 = 3.5
+    - Article 50pts, 1h → 50 / 3^1.5 = 9.6
 
     Args:
         algo_score: Score de pertinence (0-100)
         upvotes: Nombre d'upvotes
         downvotes: Nombre de downvotes
-        max_boost: Boost maximum possible (default ±20 points)
-        confidence_prior: Prior Bayésien (default 5 = besoin ~5 votes pour avoir confiance)
+        published_ts: Timestamp de publication (Unix)
+        max_boost: Boost maximum des votes (default ±20 points)
+        confidence_prior: Prior Bayésien (default 5)
+        gravity: Facteur de décroissance temporelle (default 1.5, HN utilise 1.8)
 
     Returns:
-        Score combiné
+        Score combiné avec time decay
     """
     import math
 
+    # 1. Calcul du vote boost (Bayésien)
     total_votes = upvotes + downvotes
+    vote_boost = 0.0
 
-    if total_votes == 0:
-        return algo_score
+    if total_votes > 0:
+        bayesian_ratio = (confidence_prior * 0.5 + upvotes) / (confidence_prior + total_votes)
+        normalized_boost = (bayesian_ratio - 0.5) * 2
+        confidence_factor = math.sqrt(total_votes)
+        vote_boost = normalized_boost * confidence_factor * (max_boost / 3)
+        vote_boost = max(-max_boost, min(max_boost, vote_boost))
 
-    # Ratio Bayésien avec prior neutre (0.5)
-    # Plus de votes → plus proche du vrai ratio
-    # Peu de votes → plus proche de 0.5 (neutre)
-    bayesian_ratio = (confidence_prior * 0.5 + upvotes) / (confidence_prior + total_votes)
+    # 2. Score de base (algo + votes)
+    base_score = algo_score + vote_boost
 
-    # Convertit ratio (0-1) en boost (-1 à +1)
-    # 0.5 → 0, 1.0 → +1, 0.0 → -1
-    normalized_boost = (bayesian_ratio - 0.5) * 2
+    # 3. Time decay (style HN)
+    now_ts = datetime.now(timezone.utc).timestamp()
+    age_hours = max(0, (now_ts - published_ts) / 3600)
 
-    # Amplifie avec la racine du nombre de votes (confiance)
-    # Plus de votants = plus de confiance = plus d'impact
-    confidence_factor = math.sqrt(total_votes)
+    # Formule HN: score / (age + 2)^gravity
+    time_decay_factor = math.pow(age_hours + 2, gravity)
+    final_score = base_score / time_decay_factor
 
-    # Calcule le boost final (plafonné à ±max_boost)
-    vote_boost = normalized_boost * confidence_factor * (max_boost / 3)
-    vote_boost = max(-max_boost, min(max_boost, vote_boost))
-
-    return algo_score + vote_boost
+    # Normalise pour avoir des scores plus lisibles (multiplie par 10)
+    return final_score * 10
 
 
 def fetch_top_articles(
@@ -223,7 +230,8 @@ def fetch_top_articles(
         item["combined_score"] = compute_combined_score(
             item["final_score"],
             article_votes["upvotes"],
-            article_votes["downvotes"]
+            article_votes["downvotes"],
+            item["published_ts"]
         )
         articles.append(item)
 
@@ -277,7 +285,8 @@ def fetch_top_videos(
         item["combined_score"] = compute_combined_score(
             item["final_score"],
             article_votes["upvotes"],
-            article_votes["downvotes"]
+            article_votes["downvotes"],
+            item["published_ts"]
         )
         videos.append(item)
 
