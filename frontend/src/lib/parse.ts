@@ -6,6 +6,32 @@ export type VideoItem = { title: string; url: string; source?: string; date?: st
 export type SectionItem = { title: string; url: string; source?: string; score?: string|number; content_type?: string; tech_level?: string; marketing_score?: number };
 export type SummarySection = { title: string; items: SectionItem[] };
 
+// Types pour le feed continu
+export type FeedItem = {
+  id: string;
+  url: string;
+  title: string;
+  summary: string;
+  source_name: string;
+  published_ts: number;
+  category_key: string;
+  score: number;
+  content_type: string;
+  tech_level: string;
+  source_type: "article" | "youtube" | "podcast";
+};
+
+export type Feed = {
+  generated_at: string;
+  config: {
+    articles_limit: number;
+    videos_limit: number;
+    days_lookback: number;
+  };
+  articles: FeedItem[];
+  videos: FeedItem[];
+};
+
 // Types pour les données JSON brutes
 type RawSelectionItem = {
   title?: string;
@@ -181,4 +207,42 @@ export function getDomain(url?: string): string | null {
 export function faviconUrl(url?: string, size = 32): string {
   const dom = getDomain(url);
   return dom ? `https://www.google.com/s2/favicons?domain=${dom}&sz=${size}` : `https://via.placeholder.com/${size}`;
+}
+
+// ---------- Chargement du feed continu ----------
+export async function loadFeed(): Promise<Feed> {
+  try {
+    const txt = await loadText("export/feed.json");
+    return JSON.parse(txt) as Feed;
+  } catch {
+    // Fallback si le fichier n'existe pas
+    return {
+      generated_at: new Date().toISOString(),
+      config: { articles_limit: 10, videos_limit: 5, days_lookback: 14 },
+      articles: [],
+      videos: [],
+    };
+  }
+}
+
+// Formater la date relative (ex: "il y a 2 jours")
+export function formatRelativeDate(timestamp: number): string {
+  const now = Date.now() / 1000;
+  const diff = now - timestamp;
+
+  if (diff < 3600) {
+    const mins = Math.floor(diff / 60);
+    return mins <= 1 ? "à l'instant" : `il y a ${mins} min`;
+  }
+  if (diff < 86400) {
+    const hours = Math.floor(diff / 3600);
+    return hours === 1 ? "il y a 1 heure" : `il y a ${hours} heures`;
+  }
+  if (diff < 604800) {
+    const days = Math.floor(diff / 86400);
+    return days === 1 ? "il y a 1 jour" : `il y a ${days} jours`;
+  }
+
+  const date = new Date(timestamp * 1000);
+  return date.toLocaleDateString("fr-FR", { day: "numeric", month: "short" });
 }

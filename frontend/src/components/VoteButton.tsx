@@ -107,33 +107,37 @@ export default function VoteButton({
     }
   };
 
+  const score = voteCounts.upvotes - voteCounts.downvotes;
+
   return (
-    <div className="flex items-center gap-2">
+    <div className="flex items-center gap-1">
       <button
         onClick={() => handleVote(1)}
         disabled={loading}
-        className={`flex items-center gap-1 px-2 py-1 rounded text-sm transition ${
+        className={`p-1 rounded transition ${
           userVote === 1
-            ? 'bg-green-100 text-green-700'
-            : 'bg-gray-100 text-gray-600 hover:bg-green-50'
+            ? 'text-green-600'
+            : 'text-gray-400 hover:text-green-600'
         } ${loading ? 'opacity-50 cursor-wait' : 'cursor-pointer'}`}
       >
-        👍 {voteCounts.upvotes}
+        ▲
       </button>
+      <span className={`text-sm font-medium min-w-[20px] text-center ${
+        score > 0 ? 'text-green-600' : score < 0 ? 'text-red-600' : 'text-gray-500'
+      }`}>
+        {score}
+      </span>
       <button
         onClick={() => handleVote(-1)}
         disabled={loading}
-        className={`flex items-center gap-1 px-2 py-1 rounded text-sm transition ${
+        className={`p-1 rounded transition ${
           userVote === -1
-            ? 'bg-red-100 text-red-700'
-            : 'bg-gray-100 text-gray-600 hover:bg-red-50'
+            ? 'text-red-600'
+            : 'text-gray-400 hover:text-red-600'
         } ${loading ? 'opacity-50 cursor-wait' : 'cursor-pointer'}`}
       >
-        👎 {voteCounts.downvotes}
+        ▼
       </button>
-      {!user && (
-        <span className="text-xs text-gray-400 ml-2">Connectez-vous pour voter</span>
-      )}
     </div>
   );
 }
