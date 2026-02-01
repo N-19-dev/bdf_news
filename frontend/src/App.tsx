@@ -29,12 +29,12 @@ type WeekData = {
   sections: SummarySection[];
 };
 
-type ViewMode = "feed" | "week";
+type ViewMode = "feed" | "videos" | "archives";
 
 export default function App() {
   const { isLoginModalOpen, closeLoginModal } = useAuth();
 
-  // Mode de vue: feed continu ou semaine
+  // Mode de vue: feed, vidéos ou archives
   const [viewMode, setViewMode] = React.useState<ViewMode>("feed");
 
   // États pour le mode semaine
@@ -121,14 +121,14 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-neutral-50">
-      {/* Header simplifié */}
+      {/* Header */}
       <header className="bg-white border-b border-neutral-200">
         <div className="max-w-6xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             {/* Logo / Title */}
             <div>
-              <h1 className="text-xl font-bold text-neutral-900">Veille Tech</h1>
-              <p className="text-sm text-neutral-500">Data Engineering</p>
+              <h1 className="text-xl font-bold text-neutral-900">BDF News</h1>
+              <p className="text-sm text-neutral-500">Bras de Fer / Armwrestling</p>
             </div>
 
             {/* Mode toggle */}
@@ -145,9 +145,19 @@ export default function App() {
                   Feed
                 </button>
                 <button
-                  onClick={() => setViewMode("week")}
+                  onClick={() => setViewMode("videos")}
                   className={`px-4 py-2 text-sm font-medium rounded-md transition-colors ${
-                    viewMode === "week"
+                    viewMode === "videos"
+                      ? "bg-white text-neutral-900 shadow-sm"
+                      : "text-neutral-600 hover:text-neutral-900"
+                  }`}
+                >
+                  Vidéos
+                </button>
+                <button
+                  onClick={() => setViewMode("archives")}
+                  className={`px-4 py-2 text-sm font-medium rounded-md transition-colors ${
+                    viewMode === "archives"
                       ? "bg-white text-neutral-900 shadow-sm"
                       : "text-neutral-600 hover:text-neutral-900"
                   }`}
@@ -163,17 +173,28 @@ export default function App() {
       </header>
 
       <main className="max-w-3xl mx-auto px-4 py-6 sm:py-8">
-        {/* Mode Feed */}
+        {/* Mode Feed - Articles uniquement */}
         {viewMode === "feed" && feedData && (
           <FeedView
             articles={feedData.articles}
-            videos={feedData.videos}
+            videos={[]}
             generatedAt={feedData.generated_at}
+            showArticlesOnly={true}
           />
         )}
 
-        {/* Mode Semaine (Archives) */}
-        {viewMode === "week" && currentWeek && weekData && (
+        {/* Mode Vidéos */}
+        {viewMode === "videos" && feedData && (
+          <FeedView
+            articles={[]}
+            videos={feedData.videos}
+            generatedAt={feedData.generated_at}
+            showVideosOnly={true}
+          />
+        )}
+
+        {/* Mode Archives */}
+        {viewMode === "archives" && currentWeek && weekData && (
           <div className="space-y-6">
             {/* Week selector */}
             <div className="flex items-center justify-between">

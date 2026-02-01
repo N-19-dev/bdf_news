@@ -435,8 +435,9 @@ async def run(config_path: str = "config.yaml"):
         feed_urls: List[Dict[str, str]] = []
 
         async def prepare_source(src: Source):
-            # Skip robots.txt check for YouTube/Podcast RSS feeds (public feeds meant to be consumed)
-            if src.type not in ("youtube", "podcast"):
+            # Skip robots.txt check for aggregated RSS feeds (public feeds meant to be consumed)
+            SKIP_ROBOTS_TYPES = ("youtube", "podcast", "reddit", "twitter", "google_news")
+            if src.type not in SKIP_ROBOTS_TYPES:
                 if not await robots.allowed(session, src.url): return
             raw = await fetcher.get(session, src.url)
             if not raw: return
@@ -473,8 +474,9 @@ async def run(config_path: str = "config.yaml"):
             source_type = entry.get("type")  # 'youtube', 'podcast', or None
             inserts = 0
             async with sem:
-                # Skip robots.txt check for YouTube/Podcast RSS feeds (public feeds meant to be consumed)
-                if source_type not in ("youtube", "podcast"):
+                # Skip robots.txt check for aggregated RSS feeds (public feeds meant to be consumed)
+                SKIP_ROBOTS_TYPES = ("youtube", "podcast", "reddit", "twitter", "google_news")
+                if source_type not in SKIP_ROBOTS_TYPES:
                     if not await robots.allowed(session, url): return 0
                 raw = await fetcher.get(session, url)
                 if not raw: return 0
@@ -490,11 +492,12 @@ async def run(config_path: str = "config.yaml"):
                         title = (e.get("title") or "").strip() or link
                         summary = BeautifulSoup((e.get("summary") or ""), "lxml").get_text(" ", strip=True)
 
-                        # For YouTube/Podcast feeds, use description as content directly
+                        # For aggregated feeds, use description as content directly
                         # No need to fetch the full page content
+                        AGGREGATED_TYPES = ("youtube", "podcast", "reddit", "twitter", "google_news")
                         content_text = ""
-                        if source_type in ("youtube", "podcast"):
-                            # Use summary/description as main content for media sources
+                        if source_type in AGGREGATED_TYPES:
+                            # Use summary/description as main content for aggregated sources
                             content_text = summary
                             logger.info(f"Processing {source_type} feed item", title=title[:50], url=link, desc_len=len(summary))
                         else:
@@ -506,8 +509,9 @@ async def run(config_path: str = "config.yaml"):
                                     content_text = extract_main_content(art_txt, link)
 
                         text_for_filter = (content_text or summary or "")
-                        # Skip editorial filters for YouTube/Podcast sources
-                        if source_type not in ("youtube", "podcast"):
+                        # Skip editorial filters for aggregated sources (YouTube, Podcast, Reddit, Twitter, Google News)
+                        SKIP_EDITORIAL_TYPES = ("youtube", "podcast", "reddit", "twitter", "google_news")
+                        if source_type not in SKIP_EDITORIAL_TYPES:
                             if not is_editorial_article(link, cfg.model_dump(), text=text_for_filter):
                                 continue
 

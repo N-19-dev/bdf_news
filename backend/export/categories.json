@@ -1,10 +1,8 @@
 {
-  "warehouses_engines": "🏛️ Warehouses & Query Engines",
-  "etl_orchestration": "🔄 Orchestration, ETL & Data Movement",
-  "data_modeling_governance": "📐 Data Modeling, Governance & Quality",
-  "lake_storage_formats": "🗄️ Data Lakes, Storage & Formats",
-  "cloud_infra_observability": "☁️ Cloud, Infra & Observability",
-  "python_analytics": "🐍 Python, Analytics & Tools",
-  "ai_data_engineering": "🤖 AI for Data Engineering",
-  "news": "📰 Tech / Cloud / IA News"
+  "competitions": "\ud83c\udfc6 Comp\u00e9titions & R\u00e9sultats",
+  "athletes": "\ud83c\udf1f Athl\u00e8tes & Interviews",
+  "training": "\ud83d\udcaa Entra\u00eenement & Technique",
+  "youtube_media": "\ud83c\udfac YouTube & M\u00e9dias",
+  "france": "\ud83c\uddeb\ud83c\uddf7 Bras de Fer France",
+  "news": "\ud83d\udcf0 Actualit\u00e9s & Annonces"
 }

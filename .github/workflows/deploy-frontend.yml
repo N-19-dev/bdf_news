@@ -48,7 +48,7 @@ jobs:
           echo "📂 Contents of public/export:"
           ls -la public/export/
           echo "📊 Week directories:"
-          find public/export -type d -name "2025w*" -o -name "latest" | sort
+          find public/export -type d -name "202*w*" -o -name "latest" | sort
 
       - name: Build (Vite)
         env:

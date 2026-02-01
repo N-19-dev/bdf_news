@@ -1,564 +1,606 @@
+# ============================================================
+# BDF NEWS - Configuration Veille Bras de Fer / Armwrestling
+# ============================================================
+
 storage:
   sqlite_path: veille.db
+
 crawl:
   lookback_days: 7
-  concurrency: 8      # Réduit de 12 à 8 (moins agressif)
-  per_host_rps: 1.0   # Réduit de 1.5 à 1.0 req/sec par host
+  concurrency: 8
+  per_host_rps: 1.0
   timeout_sec: 25
-  user_agent: VeilleTechBot/1.0 (+https://github.com/nathansornet/veille_tech_crawling)
-  min_text_length: 300
-  path_allow_regex: (?i)(/blog|/posts?|/post|/articles?|/news|/p/|^/@|/tag/|/t/|/n/|/stories?)
-  path_deny_regex: (?i)(forum|community|jobs|careers|events|release[-_ ]?notes|whats[-_
-    ]?new|changelog|\bdocs?\b|/api/|/sdk/|buzz|people|marketing|podcast|social)
+  user_agent: BDFNews/1.0 (+https://github.com/N-19-dev/bdf_news)
+  min_text_length: 100  # Réduit pour les descriptions YouTube
+  path_allow_regex: (?i)(/blog|/posts?|/articles?|/news|/actualites?|/armwrestling|/bras-de-fer|/r/armwrestling|/comments/|news\.google|rss/search)
+  path_deny_regex: (?i)(forum|jobs|careers|shop|store|boutique|merch)
+
 export:
   out_dir: export
   make_markdown_digest: true
-  max_items_per_cat: 60
+  max_items_per_cat: 30
+
 notify:
   slack_webhook_env: SLACK_WEBHOOK_URL
 
-# Email Digest Configuration (Phase 2 - Daily Push)
+# Email Digest Configuration
 email_digest:
-  enabled: true
-  # SendGrid API configuration
+  enabled: false
   sendgrid_api_key_env: SENDGRID_API_KEY
-  from_email: veille@datamag.dev  # Change to your verified sender
-  from_name: "Veille MAG"
-
-  # Recipients (MVP: static list)
+  from_email: news@bdfnews.fr
+  from_name: "BDF News"
   recipients:
-    - email: your-email@example.com  # Replace with your email
+    - email: your-email@example.com
       name: "Your Name"
-
-  # Daily digest settings
   schedule:
-    frequency: daily  # daily, weekly, manual
+    frequency: daily
     time: "08:00"
     timezone: "Europe/Paris"
-    days: [mon, tue, wed, thu, fri]  # Only weekdays
-
-  # Content selection
+    days: [mon, tue, wed, thu, fri]
   selection:
-    articles_per_digest: 1  # Start with 1 article/day
-    min_score_threshold: 60  # Only send high-quality articles
-    round_robin_categories: true  # Rotate categories
-    avoid_duplicates_days: 30  # Don't send same article for 30 days
+    articles_per_digest: 1
+    min_score_threshold: 50
+    round_robin_categories: true
+    avoid_duplicates_days: 30
 
 monitoring:
   log_level: INFO
   export_metrics: true
+
 content_types:
-  # Sources communautaires authentiques (ingénieurs individuels, non corporate)
-  # Seules ces sources peuvent produire des articles "rex"
   community_sources:
-    - VuTrinh · Data Engineering
-    - Seattle Data Guy
-    - Blef · Data (FR)
-    - Data Engineering Weekly
-    - DataEngineer.io
-    # Créateurs LinkedIn Data Engineering
-    - Zach Wilson · DataExpert.io
-    - Joe Reis · Data Engineering
-    - Julien Hurault · Ju Data Engineering
-    - Alireza Sadeghi · Practical Data Engineering
-    - Data Engineer Things
-    - Benn Stancil · Mode Analytics
-    - Chip Huyen · ML Engineering
-    # Nouvelles sources communautaires (Phase 1)
-    - Reddit Data Engineering (Top)
+    - Devon Larratt
+    - ARMWRESTLING TV (Schoolboy)
+    - Monster Michael Todd
+    - Levan Saginashvili
+    - Reddit Armwrestling (Top)
   rex_keywords:
-  - retour d'expérience
-  - retour d'expérience
-  - rex
-  - all hands
-  - all-hands
-  - postmortem
-  - post-mortem
-  - incident
-  - lessons learned
-  - what we learned
-  - our journey
-  - our experience
-  - how we built
-  - how we scaled
-  - migration story
-  - case study
-  - in production
-  - war stories
-  - behind the scenes
-  - real world
-  - how we migrated
-  - why we chose
-  - why we moved
-  - engineering at
-  - scaling at
-  - building at
-  - year in review
-  - retrospective
-  - our stack
-  - deep dive
-  - architecture
-  - infrastructure at
-  - platform evolution
-  - technical decision
-  rex_title_bonus: 30
-  rex_min_score: 18
+    - training
+    - entrainement
+    - technique
+    - tutorial
+    - how to
+    - tips
+    - conseils
+    - workout
+    - behind the scenes
+    - day in the life
+    - preparation
+  rex_title_bonus: 25
+  rex_min_score: 20
+
+# ============================================================
+# CATEGORIES BRAS DE FER
+# ============================================================
 categories:
-- key: warehouses_engines
-  title: 🏛️ Warehouses & Query Engines
-  keywords:
-  - snowflake
-  - databricks
-  - bigquery
-  - redshift
-  - athena
-  - trino
-  - duckdb
-  - spark
-  - starrocks
-  - clickhouse
-  - warehouse
-  - lakehouse
-- key: etl_orchestration
-  title: 🔄 Orchestration, ETL & Data Movement
-  keywords:
-  - airflow
-  - dagster
-  - prefect
-  - airbyte
-  - meltano
-  - dbt
-  - sqlmesh
-  - dataform
-  - ingestion
-  - pipeline
-  - batch
-  - elt
-  - etl
-- key: data_modeling_governance
-  title: 📐 Data Modeling, Governance & Quality
-  keywords:
-  - data modeling
-  - star schema
-  - data vault
-  - governance
-  - catalog
-  - lineage
-  - quality
-  - expectations
-  - datafold
-  - great expectations
-  - unity catalog
-  - semantic layer
-- key: lake_storage_formats
-  title: 🗄️ Data Lakes, Storage & Formats
-  keywords:
-  - parquet
-  - iceberg
-  - delta lake
-  - hudi
-  - s3
-  - gcs
-  - adls
-  - lake
-  - compaction
-  - partitions
-  - object storage
-- key: cloud_infra_observability
-  title: ☁️ Cloud, Infra & Observability
-  keywords:
-  - aws
-  - gcp
-  - azure
-  - ovh
-  - terraform
-  - kubernetes
-  - k8s
-  - cost
-  - observability
-  - monitoring
-  - grafana
-  - datadog
-  - prometheus
-- key: python_analytics
-  title: 🐍 Python, Analytics & Tools
-  keywords:
-  - python
-  - polars
-  - pandas
-  - duckdb
-  - fastapi
-  - sql
-  - analytics engineering
-- key: ai_data_engineering
-  title: 🤖 AI for Data Engineering
-  keywords:
-  - mlops
-  - llm
-  - rag
-  - genai
-  - embedding
-  - vector db
-  - feature store
-  - ml
-  - ai
-- key: news
-  title: 📰 Tech / Cloud / IA News
-  keywords:
-  - ia
-  - cloud
-  - data
-  - innovation
-  - cybersécurité
-  - technologie
+  - key: competitions
+    title: "🏆 Compétitions & Résultats"
+    keywords:
+      - competition
+      - compétition
+      - championship
+      - championnat
+      - tournament
+      - tournoi
+      - king of the table
+      - kott
+      - east vs west
+      - evw
+      - supermatch
+      - match
+      - victory
+      - victoire
+      - winner
+      - gagnant
+      - results
+      - résultats
+      - event
+      - événement
+      - world championship
+      - european championship
+      - waf
+      - podium
+      - medal
+      - médaille
+
+  - key: athletes
+    title: "🌟 Athlètes & Interviews"
+    keywords:
+      - interview
+      - profile
+      - profil
+      - athlete
+      - athlète
+      - champion
+      - puller
+      - armwrestler
+      - devon larratt
+      - levan saginashvili
+      - michael todd
+      - schoolboy
+      - beziazykov
+      - vitaly laletin
+      - ermes gasparini
+      - denis cyplenkov
+      - john brzenk
+      - travis bagent
+      - dave chaffee
+      - alex kurdecha
+      - genadi kvikvinia
+      - monster
+      - georgian hulk
+
+  - key: training
+    title: "💪 Entraînement & Technique"
+    keywords:
+      - training
+      - entrainement
+      - entraînement
+      - technique
+      - exercise
+      - exercice
+      - workout
+      - muscle
+      - strength
+      - force
+      - grip
+      - poignet
+      - wrist
+      - biceps
+      - forearm
+      - avant-bras
+      - hook
+      - toproll
+      - top roll
+      - press
+      - king's move
+      - side pressure
+      - pronation
+      - supination
+      - cupping
+      - posting
+      - rise
+      - drag
+      - program
+      - programme
+      - coaching
+
+  - key: youtube_media
+    title: "🎬 YouTube & Médias"
+    keywords:
+      - video
+      - vidéo
+      - youtube
+      - challenge
+      - street
+      - street armwrestling
+      - reaction
+      - highlights
+      - best moments
+      - compilation
+      - vlog
+      - behind the scenes
+      - day in the life
+      - podcast
+      - live
+      - stream
+
+  - key: france
+    title: "🇫🇷 Bras de Fer France"
+    keywords:
+      - france
+      - français
+      - french
+      - ffforce
+      - fédération française
+      - federation francaise
+      - championnat de france
+      - ligue
+      - alès
+      - ales
+      - paris
+      - lyon
+      - marseille
+      - bordeaux
+      - toulouse
+      - nantes
+      - lille
+
+  - key: news
+    title: "📰 Actualités & Annonces"
+    keywords:
+      - news
+      - actualité
+      - actualite
+      - annonce
+      - announcement
+      - update
+      - breaking
+      - officiel
+      - official
+      - confirmed
+      - confirmé
+      - signed
+      - contract
+      - retirement
+      - retraite
+      - injury
+      - blessure
+      - comeback
+      - retour
+
 category_thresholds:
-  warehouses_engines: 50        # Baissé de 58 → 50 (avg: 55.2, médian proche)
-  etl_orchestration: 50         # Baissé de 58 → 50 (avg: 54.2)
-  data_modeling_governance: 50  # Baissé de 58 → 50 (avg: 53.0)
-  lake_storage_formats: 52      # Baissé de 58 → 52 (avg: 56.8, garder qualité)
-  cloud_infra_observability: 48 # Baissé de 55 → 48 (avg: 45.9, beaucoup rejetés)
-  python_analytics: 48          # Baissé de 55 → 48 (avg: 43.5, beaucoup rejetés)
-  ai_data_engineering: 50       # Baissé de 58 → 50 (avg: 49.7)
-  news: 58                      # MAINTENU à 58 (avg: 53.6, filtrage strict OK)
-  hors_sujet: 100               # Jamais inclus
+  competitions: 40
+  athletes: 40
+  training: 40
+  youtube_media: 35
+  france: 35
+  news: 45
+  hors_sujet: 100
+
+# ============================================================
+# SOURCES - YouTube Channels & RSS Feeds
+# ============================================================
 sources:
-- name: Snowflake Blog
-  url: https://www.snowflake.com/feed/
-- name: Databricks Blog
-  url: https://databricks.com/feed
-- name: Redshift / AWS Big Data
-  url: https://aws.amazon.com/blogs/big-data/feed/
-- name: DuckDB Blog
-  url: https://duckdb.org/feed.xml
-- name: Trino Blog
-  url: https://trino.io/feed.xml
-- name: Apache Airflow Blog
-  url: https://airflow.apache.org/blog/index.xml
-- name: Dagster Blog
-  url: https://dagster.io/blog/rss.xml
-- name: dbt Blog
-  url: https://www.getdbt.com/blog/rss.xml
-- name: SQLMesh Blog
-  url: https://sqlmesh.com/blog/feed.xml
-- name: Airbyte Blog
-  url: https://airbyte.com/blog/rss.xml
-- name: Meltano Blog
-  url: https://meltano.com/blog/index.xml
-- name: dlt Blog
-  url: https://dlthub.com/blog/rss.xml
-- name: Rudderstack Blog
-  url: https://www.rudderstack.com/blog/rss.xml
-- name: Apache Iceberg
-  url: https://iceberg.apache.org/feed.xml
-- name: Apache Hudi
-  url: https://hudi.apache.org/blog/feed.xml
-- name: AWS Blog
-  url: https://aws.amazon.com/blogs/aws/feed/
-- name: Azure Blog
-  url: https://azure.microsoft.com/en-us/blog/feed/
-- name: Cloudflare Engineering
-  url: https://blog.cloudflare.com/rss/
-- name: Pydantic Blog
-  url: https://docs.pydantic.dev/latest/blog/feed.xml
-- name: Hugging Face Blog
-  url: https://huggingface.co/blog/feed.xml
-- name: LangChain Blog
-  url: https://blog.langchain.dev/rss/
-- name: Lightning AI
-  url: https://lightning.ai/pages/blog/rss/
-- name: OCTO Talks!
-  url: https://blog.octo.com/feed/
-- name: OVHcloud Blog
-  url: https://blog.ovhcloud.com/feed/
-- name: Dataiku Blog
-  url: https://blog.dataiku.com/rss.xml
-- name: Artefact Blog
-  url: https://blog.artefact.com/feed/
-- name: Zenika Tech Blog
-  url: https://blog.zenika.com/feed/
-- name: Theodo Tech Blog
-  url: https://blog.theodo.com/feed/
-- name: VuTrinh · Data Engineering
-  url: https://vutr.substack.com/feed
-- name: Data Engineering Weekly
-  url: https://www.dataengineeringweekly.com/feed
-- name: Seattle Data Guy
-  url: https://seattledataguy.substack.com/feed
-- name: DataEngineer.io
-  url: https://blog.dataengineer.io/feed
-- name: Blef · Data (FR)
-  url: https://www.blef.fr/blog/rss
-# Créateurs LinkedIn Data Engineering (Substack/blogs personnels)
-- name: Zach Wilson · DataExpert.io
-  url: https://blog.dataexpert.io/feed
-- name: Joe Reis · Data Engineering
-  url: https://joereis.substack.com/feed
-- name: Julien Hurault · Ju Data Engineering
-  url: https://juhache.substack.com/feed
-- name: Alireza Sadeghi · Practical Data Engineering
-  url: https://www.pracdata.io/feed
-- name: Data Engineer Things
-  url: https://dataengineerthings.substack.com/feed
-- name: Benn Stancil · Mode Analytics
-  url: https://benn.substack.com/feed
-- name: Chip Huyen · ML Engineering
-  url: https://huyenchip.com/feed.xml
-# Hashnode sources supprimées - trop de rate limiting (429)
-# - name: Hashnode · data
-#   url: https://hashnode.com/n/data/rss
-# - name: Hashnode · machine-learning
-#   url: https://hashnode.com/n/machine-learning/rss
-- name: daily.dev
-  url: https://daily.dev
-- name: Netflix Tech Blog
-  url: https://netflixtechblog.com/feed
-- name: Uber Engineering Blog
-  url: https://www.uber.com/blog/engineering/rss/
-- name: Airbnb Engineering
-  url: https://medium.com/feed/airbnb-engineering
-- name: LinkedIn Engineering
-  url: https://www.linkedin.com/blog/engineering/feed
-- name: Meta Engineering
-  url: https://engineering.fb.com/feed/
-- name: Instagram Engineering
-  url: https://instagram-engineering.com/feed
-- name: Twitter/X Engineering
-  url: https://blog.x.com/engineering/en_us/blog.rss
-- name: Pinterest Engineering
-  url: https://medium.com/feed/pinterest-engineering
-- name: Lyft Engineering
-  url: https://eng.lyft.com/feed
-- name: Stripe Engineering Blog
-  url: https://stripe.com/blog/feed.rss
-- name: PayPal Engineering
-  url: https://medium.com/feed/paypal-tech
-- name: Wise Engineering
-  url: https://medium.com/feed/wise-engineering
-- name: Revolut Engineering
-  url: https://medium.com/feed/revolut
-- name: GitHub Engineering
-  url: https://github.blog/engineering/feed/
-- name: GitLab Engineering
-  url: https://about.gitlab.com/atom.xml
-- name: Slack Engineering
-  url: https://slack.engineering/feed/
-- name: Dropbox Tech Blog
-  url: https://dropbox.tech/feed
-- name: Etsy Engineering
-  url: https://www.etsy.com/codeascraft/rss
-- name: Booking.com Tech Blog
-  url: https://blog.booking.com/feed/
-- name: Walmart Global Tech
-  url: https://medium.com/feed/walmartglobaltech
-- name: Heroku Engineering
-  url: https://blog.heroku.com/engineering/feed
-- name: Salesforce Engineering
-  url: https://engineering.salesforce.com/feed/
-- name: Zendesk Engineering
-  url: https://zendesk.engineering/feed
-- name: DoorDash Engineering
-  url: https://doordash.engineering/feed/
-- name: Grab Tech Blog
-  url: https://engineering.grab.com/feed.xml
-- name: Spotify Engineering
-  url: https://engineering.atspotify.com/feed/
-- name: N26 Engineering
-  url: https://medium.com/feed/insiden26
-- name: Amplitude Engineering
-  url: https://amplitude.engineering/feed
-# ===== NOUVELLES SOURCES (Phase 1 - Amélioration Pertinence) =====
-- name: Reddit Data Engineering (Top)
-  url: https://www.reddit.com/r/dataengineering/top/.rss?limit=20
-- name: Shopify Engineering
-  url: https://shopify.engineering/blog.atom
-- name: Data Mechanics
-  url: https://www.datamechanics.co/blog-rss.xml
-- name: Twitch Engineering
-  url: https://blog.twitch.tv/en/rss/
-- name: Coinbase Engineering
-  url: https://www.coinbase.com/blog/engineering/rss.xml
+  # =============================================================
+  # TWITTER/X via Nitter (instances publiques)
+  # Note: Twitter/X bloque la plupart des services RSS. Ces URLs peuvent
+  # ne pas fonctionner selon la disponibilité des instances Nitter.
+  # =============================================================
+  # - name: "X: Devon Larratt"
+  #   url: https://nitter.privacydev.net/devaborisova/rss
+  #   type: twitter
+  # - name: "X: East vs West"
+  #   url: https://nitter.privacydev.net/EvsW_official/rss
+  #   type: twitter
+  # Commenté car Twitter bloque la plupart des services RSS gratuits
 
-# ===== YOUTUBE CHANNELS (Phase 2 - Media Sources) =====
-# Chaînes Data Engineering populaires
-- name: Seattle Data Guy (YouTube)
-  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCmLGJ3VYBcfRaWbP6JLJcpA
-  type: youtube
-# Advancing Analytics - 404 error, source désactivée
-# - name: Advancing Analytics (YouTube)
-#   url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQ3xgpVZYYvFKXsVRb7gWLw
-#   type: youtube
-# Data with Zach - 404 error, source désactivée
-# - name: Data with Zach (YouTube)
-#   url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQ5xYp8_UzYdVXuogsPWyOQ
-#   type: youtube
-# Darshil Parmar - Channel ID incorrect, source désactivée temporairement
-# - name: Darshil Parmar (YouTube)
-#   url: https://www.youtube.com/feeds/videos.xml?channel_id=UCH9hKLJ2dXLXI5gNOi5IXvw
-#   type: youtube
-- name: Andreas Kretz (YouTube)
-  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCY8mzqqGwl5_bTpBY9qLMAA
-  type: youtube
-# E-learning Bridge - 404 error, source désactivée
-# - name: E-learning Bridge (YouTube)
-#   url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLIBQlOMRaKXW2blCK6CnBg
-#   type: youtube
-- name: Guy in a Cube (YouTube)
-  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFp1vaKzpfvoGai0vE5VJ0w
-  type: youtube
-# Learn Data with Mark - 404 error, source désactivée
-# - name: Learn Data with Mark (YouTube)
-#   url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9xU_-2sjIM6b7eNNK6VWXA
-#   type: youtube
+  # =============================================================
+  # SITES WEB & NEWS (Articles)
+  # =============================================================
+  - name: WAF News
+    url: https://www.waf-armwrestling.com/feed/
+    type: article
 
-# ===== PODCASTS (Phase 2 - Media Sources) =====
-# Podcasts Data Engineering & Analytics
-- name: Data Engineering Podcast
-  url: https://www.dataengineeringpodcast.com/feed/mp3/
-  type: podcast
-- name: Analytics Power Hour
-  url: https://analyticshour.io/feed/podcast/
-  type: podcast
-# DataFramed (DataCamp) - Flux RSS indisponible (404)
-# - name: DataFramed (DataCamp)
-#   url: https://feeds.simplecast.com/xKDRRjA7
-#   type: podcast
-- name: The Analytics Engineering Podcast (dbt)
-  url: https://roundup.getdbt.com/feed.xml
-  type: podcast
-# DataTopics - Flux RSS indisponible (404)
-# - name: DataTopics
-#   url: https://anchor.fm/s/46a8f5d4/podcast/rss
-#   type: podcast
+  - name: XSportNews Armwrestling
+    url: https://www.xsportnews.com/feed/
+    type: article
+
+  - name: ArmSport Federation
+    url: https://armsportfederation.com/feed/
+    type: article
+
+  - name: Fitness Volt Armwrestling
+    url: https://fitnessvolt.com/category/armwrestling/feed/
+    type: article
+
+  - name: Barbend Armwrestling
+    url: https://barbend.com/category/armwrestling/feed/
+    type: article
+
+  # Generation Iron - removed (404)
+
+  # MiddleEasy removed - too general (MMA/boxing, not armwrestling)
+
+  # EAF, Armwrestling.com, IFA - removed (broken feeds)
+
+  # =============================================================
+  # GOOGLE NEWS - Armwrestling
+  # =============================================================
+  - name: Google News Armwrestling EN
+    url: https://news.google.com/rss/search?q=armwrestling&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+
+  - name: Google News Armwrestling FR
+    url: https://news.google.com/rss/search?q=bras+de+fer+sport&hl=fr&gl=FR&ceid=FR:fr
+    type: google_news
+
+  - name: Google News Arm Wrestling
+    url: https://news.google.com/rss/search?q=%22arm+wrestling%22&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+
+  - name: Google News Devon Larratt
+    url: https://news.google.com/rss/search?q=Devon+Larratt&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+
+  - name: Google News Levan Saginashvili
+    url: https://news.google.com/rss/search?q=Levan+Saginashvili&hl=en-US&gl=US&ceid=US:en
+    type: google_news
+
+  # =============================================================
+  # REDDIT
+  # =============================================================
+  - name: Reddit Armwrestling (Top)
+    url: https://www.reddit.com/r/armwrestling/top/.rss?limit=25
+    type: reddit
+
+  - name: Reddit Armwrestling (New)
+    url: https://www.reddit.com/r/armwrestling/new/.rss?limit=30
+    type: reddit
+
+  - name: Reddit Armwrestling (Hot)
+    url: https://www.reddit.com/r/armwrestling/hot/.rss?limit=25
+    type: reddit
+
+  - name: Reddit GripTraining
+    url: https://www.reddit.com/r/GripTraining/top/.rss?limit=15
+    type: reddit
+
+  # =============================================================
+  # YOUTUBE - ATHLETES MAJEURS
+  # =============================================================
+  - name: Devon Larratt
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCBcMvaSRmSh3362bzvOBerw
+    type: youtube
+
+  - name: Levan Saginashvili
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCHKqlHHM5WMMylaLI3Kr-Wg
+    type: youtube
+
+  - name: Monster Michael Todd
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCarJKBV9GEpXRHrw4bEEhHA
+    type: youtube
+
+  - name: ARMWRESTLING TV (Schoolboy)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC6eMRqZWwSBYS6IlVYD7dwQ
+    type: youtube
+
+  - name: John Brzenk
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCDU2qgOmaZpT1XXs8yPO3aw
+    type: youtube
+
+  - name: Larry Wheels
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeU05pwtEAreeF81saVb9XQ
+    type: youtube
+
+  - name: Vitaly Laletin
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCeSJhX0t7vQ-lUwjt0mPz2g
+    type: youtube
+
+  - name: Ermes Gasparini
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC7x9U9J4oKd76XxQEjK1S5w
+    type: youtube
+
+  - name: Alex Kurdecha
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCvXd9w9b_2aJ3rHjkNZFD0Q
+    type: youtube
+
+  - name: Dave Chaffee
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCTvUDKyYmzHN3V0VGbR0M0A
+    type: youtube
+
+  - name: Corey West
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCL1MxN0P7F7iRHb3rNJRs0A
+    type: youtube
+
+  - name: Travis Bagent
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCDH0e_O1hVRDqJYgmSB7Wlg
+    type: youtube
+
+  # =============================================================
+  # YOUTUBE - ORGANISATIONS & MEDIAS
+  # =============================================================
+  - name: East vs West Armwrestling
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3Dw8OYsWmZqrM1qBBZUMhQ
+    type: youtube
+
+  - name: WAF (World Armwrestling Federation)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCkBr9pNGEM9FLDSk28qoPCQ
+    type: youtube
+
+  - name: Voice of Armwrestling
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCAH2krcji9uc3gYSqa33Zyw
+    type: youtube
+
+  - name: ARMBETS TV
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCujb5MIcKh7KeSWQ7Uax-Wg
+    type: youtube
+
+  - name: Matt Rhodes Sport (Core Sports)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCOEDEt6h8-DD-JeyCJx8uSw
+    type: youtube
+
+  - name: Engin Terzi (Enigma of Rage)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCMzpyrvO3yUeGDclgjixSoA
+    type: youtube
+
+  - name: Pound for Pound Armwrestling
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCIEjGMfXbN4LFYSnV8qSgAQ
+    type: youtube
+
+  - name: ARMSHARK ARMWRESTLING
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCOD2LcUDdidBPP0FhMfDY6Q
+    type: youtube
+
+  - name: King of the Table
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8oJiPKxZqSPJ6QMZKKrYxg
+    type: youtube
+
+  - name: Armwrestling TV (Russian)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCBxGi8sQv8XB0L6M6H8nz3A
+    type: youtube
+
+  - name: PAL (Pro Armwrestling League)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbz_H4d8CKFYdqQHV2tZIvA
+    type: youtube
+
+  - name: Armwrestling LIVE
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCvlr7rHmzPP9ux5pH0GkHWw
+    type: youtube
+
+  - name: Igor Mazurenko (IgorM)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCJDqLPnNdX5f8hxLRuP0dXw
+    type: youtube
+
+  # =============================================================
+  # YOUTUBE - EQUIPEMENT & TRAINING
+  # =============================================================
+  - name: Mazurenko Armwrestling
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8bIHDqBnQ4iF8QWxKsXYcg
+    type: youtube
+
+  - name: Armwrestling Training
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCcMDMUPJNBzq4pVqr5mQqOA
+    type: youtube
+
+  - name: Ryan Bowen
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCyGLJXvhD9OMhLhxHLRfJNg
+    type: youtube
+
+# ============================================================
+# RELEVANCE SCORING
+# ============================================================
 relevance:
   weights:
-    semantic: 0.55
-    source: 0.2
+    semantic: 0.50
+    source: 0.25
     quality: 0.15
-    tech: 0.1
-  score_threshold: 45
-  profile_text: 'data engineering, data platform, data warehouse, lakehouse, dbt,
-    airflow, dagster, prefect, spark, snowflake, databricks, bigquery, redshift, duckdb,
-    orchestration, ingestion, etl, elt, data modeling, governance, quality, monitoring,
-    observability, data contracts, lakehouse, iceberg, delta lake.
+    tech: 0.10
 
-    '
+  score_threshold: 35
+
+  profile_text: >
+    armwrestling, arm wrestling, bras de fer, pullers, grip strength,
+    wrist strength, forearm training, hook technique, toproll, press,
+    king's move, side pressure, pronation, supination, cupping,
+    supermatch, competition, championship, WAF, EAF,
+    East vs West, King of the Table, Core Sports,
+    Devon Larratt, Levan Saginashvili, Michael Todd, Schoolboy,
+    Vitaly Laletin, Ermes Gasparini, Denis Cyplenkov, John Brzenk,
+    strength sports, combat sports, table sports
+
   source_weights:
-    Data Engineering Weekly: 1.0
-    VuTrinh · Data Engineering: 1.0
-    Start Data Engineering: 0.95
-    Seattle Data Guy: 0.95
-    # Créateurs LinkedIn Data Engineering (haute autorité)
-    Zach Wilson · DataExpert.io: 1.0
-    Joe Reis · Data Engineering: 1.0
-    Chip Huyen · ML Engineering: 0.95
-    Julien Hurault · Ju Data Engineering: 0.95
-    Alireza Sadeghi · Practical Data Engineering: 0.95
-    Data Engineer Things: 0.95
-    Benn Stancil · Mode Analytics: 0.9
-    Blef · Data (FR): 0.9
-    Snowflake Blog: 0.7
-    Databricks Blog: 0.7
-    dbt Blog: 0.7
-    Dagster Blog: 0.7
-    Apache Airflow Blog: 0.7
-    Airbyte Blog: 0.7
-    Meltano Blog: 0.7
-    dlt Blog: 0.7
-    OCTO Talks!: 0.7
-    Ippon Technologies Blog: 0.7
-    Zenika Tech Blog: 0.7
-    Dataiku Blog: 0.7
-    daily.dev: 0.3
-    Netflix Tech Blog: 0.95
-    Uber Engineering Blog: 0.9
-    Airbnb Engineering: 0.9
-    LinkedIn Engineering: 0.85
-    Meta Engineering: 0.85
-    Stripe Engineering Blog: 0.85
-    GitHub Engineering: 0.85
-    Spotify Engineering: 0.85
-    Shopify Engineering: 0.8
-    Dropbox Tech Blog: 0.8
-    # Nouvelles sources (Phase 1)
-    Reddit Data Engineering (Top): 0.85
-    Data Mechanics: 0.85
-    Twitch Engineering: 0.85
-    Coinbase Engineering: 0.85
-    Slack Engineering: 0.8
-    DoorDash Engineering: 0.8
-    Lyft Engineering: 0.75
-    # YouTube channels (Phase 2)
-    Seattle Data Guy (YouTube): 0.9
-    # Advancing Analytics (YouTube): 0.85  # 404 error
-    # Data with Zach (YouTube): 0.9  # 404 error
-    Andreas Kretz (YouTube): 0.95
-    # E-learning Bridge (YouTube): 0.85  # 404 error
-    Guy in a Cube (YouTube): 0.85
-    # Learn Data with Mark (YouTube): 0.85  # 404 error
-    # Podcasts (Phase 2)
-    Data Engineering Podcast: 0.95
-    Analytics Power Hour: 0.85
-    The Analytics Engineering Podcast (dbt): 0.9
-    Pinterest Engineering: 0.75
-    Instagram Engineering: 0.75
-    Twitter/X Engineering: 0.75
-    PayPal Engineering: 0.7
-    GitLab Engineering: 0.7
-    Etsy Engineering: 0.7
-    Atlassian Engineering: 0.7
-    Booking.com Tech Blog: 0.7
-    Salesforce Engineering: 0.7
-    Monzo Engineering: 0.7
-    Segment Engineering: 0.7
-    Confluent Blog: 0.7
+    # =============================================================
+    # TWITTER/X (haute priorité pour actualités)
+    # =============================================================
+    "X: Devon Larratt": 1.0
+    "X: East vs West": 0.95
+    "X: WAF Official": 0.95
+    "X: Michael Todd": 0.95
+    "X: Levan Saginashvili": 1.0
+    "X: Schoolboy Alex": 0.90
+    "X: Larry Wheels": 0.90
+    "X: Voice of Armwrestling": 0.90
+    "X: Arm Wrestling Search": 0.75
+
+    # =============================================================
+    # SITES WEB - News officielles (haute priorité articles)
+    # =============================================================
+    WAF News: 1.0
+    XSportNews Armwrestling: 0.95
+    ArmSport Federation: 0.90
+    Fitness Volt Armwrestling: 0.90
+    Barbend Armwrestling: 0.90
+    # Generation Iron, MiddleEasy, EAF, Armwrestling.com, IFA - removed
+
+    # =============================================================
+    # GOOGLE NEWS (articles agrégés)
+    # =============================================================
+    Google News Armwrestling EN: 0.80
+    Google News Armwrestling FR: 0.85
+    Google News Arm Wrestling: 0.80
+    Google News Devon Larratt: 0.85
+    Google News Levan Saginashvili: 0.85
+
+    # =============================================================
+    # REDDIT - Communauté
+    # =============================================================
+    Reddit Armwrestling (Top): 0.85
+    Reddit Armwrestling (New): 0.70
+    Reddit Armwrestling (Hot): 0.80
+    Reddit GripTraining: 0.65
+
+    # =============================================================
+    # YOUTUBE - Athlètes stars (haute autorité)
+    # =============================================================
+    Devon Larratt: 1.0
+    Levan Saginashvili: 1.0
+    Monster Michael Todd: 0.95
+    ARMWRESTLING TV (Schoolboy): 0.95
+    John Brzenk: 1.0
+    Larry Wheels: 0.90
+    Vitaly Laletin: 0.95
+    Ermes Gasparini: 0.90
+    Alex Kurdecha: 0.90
+    Dave Chaffee: 0.90
+    Corey West: 0.85
+    Travis Bagent: 0.90
+
+    # =============================================================
+    # YOUTUBE - Organisations & Médias
+    # =============================================================
+    East vs West Armwrestling: 0.95
+    WAF (World Armwrestling Federation): 0.90
+    Voice of Armwrestling: 0.90
+    ARMBETS TV: 0.85
+    Matt Rhodes Sport (Core Sports): 0.90
+    Engin Terzi (Enigma of Rage): 0.90
+    Pound for Pound Armwrestling: 0.85
+    ARMSHARK ARMWRESTLING: 0.80
+    King of the Table: 0.90
+    Armwrestling TV (Russian): 0.85
+    PAL (Pro Armwrestling League): 0.90
+    Armwrestling LIVE: 0.85
+    Igor Mazurenko (IgorM): 0.90
+
+    # =============================================================
+    # YOUTUBE - Équipement & Training
+    # =============================================================
+    Mazurenko Armwrestling: 0.85
+    Armwrestling Training: 0.80
+    Ryan Bowen: 0.85
+
   quality:
-    min_len_good: 1500
-    bonus_good_len: 20
-    bonus_has_code: 10
+    min_len_good: 300  # Adapté pour YouTube descriptions
+    bonus_good_len: 15
+    bonus_has_code: 0  # Pas pertinent pour le sport
+
   tech:
     keywords:
-    - airflow
-    - dagster
-    - prefect
-    - dbt
-    - spark
-    - lakehouse
-    - iceberg
-    - delta lake
-    - hudi
-    - warehouse
-    - orchestration
-    - etl
-    - elt
-    - kafka
-    - data contract
-    - feature store
-    - rag
-    - llm
+      - armwrestling
+      - arm wrestling
+      - bras de fer
+      - toproll
+      - hook
+      - press
+      - king's move
+      - supermatch
+      - championship
+      - championnat
+      - training
+      - entrainement
+      - grip
+      - wrist
+      - forearm
+      - competition
+      - match
+      - puller
     max_points: 20
+
+# ============================================================
+# LLM CONFIG
+# ============================================================
 llm:
-  provider: groq  # Switchable: groq (défaut), openai, ollama
+  provider: groq
   temperature: 0.2
   max_tokens: 1200
 
-  # Config Groq (actuel, gratuit, rapide)
   groq:
     api_key_env: GROQ_API_KEY
     model: llama-3.1-8b-instant
     base_url: https://api.groq.com/openai/v1
 
-  # Config OpenAI (fallback si Groq down, payant)
   openai:
     api_key_env: OPENAI_API_KEY
-    model: gpt-4o-mini  # Moins cher que gpt-4
+    model: gpt-4o-mini
     base_url: https://api.openai.com/v1
 
-  # Config Ollama (local, zéro coût, nécessite installation)
   ollama:
-    model: llama3.1  # Ou llama3.2, mistral, etc.
+    model: llama3.1
     base_url: http://localhost:11434/v1
+
 summary:
   enabled: true
-  max_sections: 8
+  max_sections: 6
   links_per_section: 5
-  min_score: 45
+  min_score: 35

@@ -9,6 +9,8 @@ type FeedViewProps = {
   articles: FeedItem[];
   videos: FeedItem[];
   generatedAt: string;
+  showArticlesOnly?: boolean;
+  showVideosOnly?: boolean;
 };
 
 // Helper function to generate article ID (matches backend hash)
@@ -134,32 +136,13 @@ function FeedCard({ item }: { item: FeedItem }) {
   );
 }
 
-function FeedSection({
-  title,
-  items,
-  emptyMessage
-}: {
-  title: string;
-  items: FeedItem[];
-  emptyMessage: string;
-}) {
-  return (
-    <section>
-      <h2 className="text-lg font-semibold text-neutral-900 mb-4">{title}</h2>
-      {items.length > 0 ? (
-        <div className="space-y-3">
-          {items.map((item) => (
-            <FeedCard key={item.id} item={item} />
-          ))}
-        </div>
-      ) : (
-        <p className="text-neutral-500 text-sm py-8 text-center">{emptyMessage}</p>
-      )}
-    </section>
-  );
-}
-
-export default function FeedView({ articles, videos, generatedAt }: FeedViewProps) {
+export default function FeedView({
+  articles,
+  videos,
+  generatedAt,
+  showArticlesOnly = false,
+  showVideosOnly = false
+}: FeedViewProps) {
   const generatedDate = new Date(generatedAt);
   const formattedDate = generatedDate.toLocaleDateString("fr-FR", {
     day: "numeric",
@@ -168,26 +151,42 @@ export default function FeedView({ articles, videos, generatedAt }: FeedViewProp
     minute: "2-digit",
   });
 
+  // Get items based on mode
+  const items = showArticlesOnly ? articles : showVideosOnly ? videos : [...articles, ...videos];
+  const sortedItems = [...items].sort((a, b) => b.published_ts - a.published_ts);
+
+  const title = showArticlesOnly
+    ? `📰 Articles (${articles.length})`
+    : showVideosOnly
+    ? `🎬 Vidéos (${videos.length})`
+    : `📰 Tout (${articles.length + videos.length})`;
+
+  const emptyMessage = showArticlesOnly
+    ? "Aucun article pour le moment"
+    : showVideosOnly
+    ? "Aucune vidéo pour le moment"
+    : "Aucun contenu pour le moment";
+
   return (
-    <div className="space-y-8">
+    <div className="space-y-6">
       {/* Header info */}
       <div className="text-center text-sm text-neutral-500">
         Mis à jour : {formattedDate}
       </div>
 
-      {/* Articles feed */}
-      <FeedSection
-        title={`📰 Articles (${articles.length})`}
-        items={articles}
-        emptyMessage="Aucun article pour le moment"
-      />
-
-      {/* Videos/Podcasts feed */}
-      <FeedSection
-        title={`🎬 Vidéos & Podcasts (${videos.length})`}
-        items={videos}
-        emptyMessage="Aucune vidéo ou podcast pour le moment"
-      />
+      {/* Feed section */}
+      <section>
+        <h2 className="text-lg font-semibold text-neutral-900 mb-4">{title}</h2>
+        {sortedItems.length > 0 ? (
+          <div className="space-y-3">
+            {sortedItems.map((item) => (
+              <FeedCard key={item.id} item={item} />
+            ))}
+          </div>
+        ) : (
+          <p className="text-neutral-500 text-sm py-8 text-center">{emptyMessage}</p>
+        )}
+      </section>
     </div>
   );
 }
