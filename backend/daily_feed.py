@@ -189,8 +189,8 @@ def fetch_top_articles(
     conn: sqlite3.Connection,
     votes: dict[str, dict[str, int]],
     limit: int = 10,
-    days: int = 14,
-    min_score: int = 40
+    days: int = 30,  # Increased from 14 to 30 to capture more articles
+    min_score: float = 0.0  # Changed from 40 to 0.0 to include all articles
 ) -> list[dict[str, Any]]:
     """
     Récupère les meilleurs articles (hors vidéos/podcasts).
