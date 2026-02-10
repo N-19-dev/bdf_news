@@ -1,9 +1,9 @@
-name: Backend Weekly Export
+name: Backend Daily Export
 
 on:
   schedule:
-    # Tous les lundis à 06:00 UTC
-    - cron: "0 6 * * 1"
+    # Tous les jours à 06:00 UTC
+    - cron: "0 6 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -21,7 +21,7 @@ jobs:
       run:
         working-directory: backend
     env:
-      # Semaine N-1 pour figer la semaine écoulée
+      # Jour N-1 pour le traitement quotidien
       WEEK_OFFSET: "-1"
       # Nécessaire pour analyze_llm.py → config.llm.api_key_env
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -112,7 +112,7 @@ jobs:
             echo "No changes to commit."
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "chore(export): weekly export $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git commit -m "chore(export): daily export $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             git push
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
