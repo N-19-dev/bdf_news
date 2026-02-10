@@ -156,7 +156,12 @@ export async function loadWeekSummary(meta: WeekMeta): Promise<{
   sections: SummarySection[];
 }> {
   // Charger le markdown pour overview uniquement
-  const md = await loadText(summaryPath(meta));
+  let md = "";
+  try {
+    md = await loadText(summaryPath(meta));
+  } catch {
+    // ai_summary.md may not exist if LLM step was skipped
+  }
 
   // Charger le JSON pour top3, topVideos et sections
   const top3Data = await loadTop3Json(meta);
