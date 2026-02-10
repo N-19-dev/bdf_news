@@ -5,6 +5,8 @@ import CategoryFilter from "./components/CategoryFilter";
 import Top3 from "./components/Top3";
 import TopVideos from "./components/TopVideos";
 import FeedView from "./components/FeedView";
+import CommunityPage from "./components/CommunityPage";
+import MySpace from "./components/MySpace";
 import AuthButton from "./components/AuthButton";
 import LoginModal from "./components/LoginModal";
 import CommentsModal from "./components/CommentsModal";
@@ -29,10 +31,10 @@ type WeekData = {
   sections: SummarySection[];
 };
 
-type ViewMode = "feed" | "videos" | "archives";
+type ViewMode = "feed" | "videos" | "community" | "archives" | "myspace";
 
 export default function App() {
-  const { isLoginModalOpen, closeLoginModal } = useAuth();
+  const { user, isLoginModalOpen, closeLoginModal } = useAuth();
 
   // Mode de vue: feed, vidéos ou archives
   const [viewMode, setViewMode] = React.useState<ViewMode>("feed");
@@ -140,7 +142,7 @@ export default function App() {
 
             {/* Mode toggle + Auth (desktop) */}
             <div className="flex items-center justify-between sm:justify-end gap-3 sm:gap-4">
-              <div className="flex bg-neutral-100 rounded-lg p-1 flex-1 sm:flex-none">
+              <div className="flex bg-neutral-100 rounded-lg p-1 w-full sm:w-auto">
                 <button
                   onClick={() => setViewMode("feed")}
                   className={`flex-1 sm:flex-none px-3 sm:px-4 py-2 text-xs sm:text-sm font-medium rounded-md transition-colors ${
@@ -159,7 +161,17 @@ export default function App() {
                       : "text-neutral-600 hover:text-neutral-900"
                   }`}
                 >
-                  Vidéos
+                  Vid&eacute;os
+                </button>
+                <button
+                  onClick={() => setViewMode("community")}
+                  className={`flex-1 sm:flex-none px-3 sm:px-4 py-2 text-xs sm:text-sm font-medium rounded-md transition-colors ${
+                    viewMode === "community"
+                      ? "bg-white text-neutral-900 shadow-sm"
+                      : "text-neutral-600 hover:text-neutral-900"
+                  }`}
+                >
+                  Must Have
                 </button>
                 <button
                   onClick={() => setViewMode("archives")}
@@ -171,6 +183,18 @@ export default function App() {
                 >
                   Archives
                 </button>
+                {user && (
+                  <button
+                    onClick={() => setViewMode("myspace")}
+                    className={`flex-1 sm:flex-none px-3 sm:px-4 py-2 text-xs sm:text-sm font-medium rounded-md transition-colors ${
+                      viewMode === "myspace"
+                        ? "bg-white text-neutral-900 shadow-sm"
+                        : "text-neutral-600 hover:text-neutral-900"
+                    }`}
+                  >
+                    &#9733;
+                  </button>
+                )}
               </div>
 
               {/* Auth button hidden on mobile (shown above) */}
@@ -183,24 +207,39 @@ export default function App() {
       </header>
 
       <main className="max-w-3xl mx-auto px-3 sm:px-4 py-4 sm:py-8">
-        {/* Mode Feed - Articles uniquement */}
+        {/* Mode Feed (articles uniquement) */}
         {viewMode === "feed" && feedData && (
           <FeedView
             articles={feedData.articles}
             videos={[]}
             generatedAt={feedData.generated_at}
-            showArticlesOnly={true}
+            onNavigateCommunity={() => setViewMode("community")}
           />
         )}
 
-        {/* Mode Vidéos */}
+        {/* Mode Vid&eacute;os */}
         {viewMode === "videos" && feedData && (
-          <FeedView
-            articles={[]}
-            videos={feedData.videos}
-            generatedAt={feedData.generated_at}
-            showVideosOnly={true}
-          />
+          <div className="space-y-6">
+            <div className="text-center text-sm text-neutral-500">
+              Vid&eacute;os & Podcasts r&eacute;cents
+            </div>
+            <FeedView
+              articles={[]}
+              videos={feedData.videos}
+              generatedAt={feedData.generated_at}
+              onNavigateCommunity={() => setViewMode("community")}
+            />
+          </div>
+        )}
+
+        {/* Mode Community */}
+        {viewMode === "community" && (
+          <CommunityPage />
+        )}
+
+        {/* Mode Mon espace */}
+        {viewMode === "myspace" && (
+          <MySpace />
         )}
 
         {/* Mode Archives */}

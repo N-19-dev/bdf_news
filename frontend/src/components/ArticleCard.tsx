@@ -6,6 +6,8 @@ import { faviconUrl, getDomain } from "../lib/parse";
 import VoteButton from "./VoteButton";
 import CommentsCount from "./CommentsCount";
 import { useComments } from "../lib/CommentsContext";
+import { useSavedArticles } from "../lib/SavedArticlesContext";
+import { useAuth } from "../lib/AuthContext";
 
 type Props = {
   title: string;
@@ -18,7 +20,6 @@ type Props = {
 };
 
 // Helper function to generate article ID (matches backend hash)
-// Uses unescape+encodeURIComponent to handle UTF-8 characters
 function generateArticleId(url: string, title: string): string {
   const str = `${url}${title}`;
   return btoa(unescape(encodeURIComponent(str))).slice(0, 40);
@@ -34,8 +35,11 @@ export default function ArticleCard({
   className = "",
 }: Props) {
   const { openCommentsModal } = useComments();
+  const { user } = useAuth();
+  const { isSaved, toggleSave } = useSavedArticles();
   const dom = getDomain(url ?? "");
   const displaySource = (source || dom || "Source").trim();
+  const saved = url ? isSaved(url) : false;
 
   // Si pas d'URL, on rend un <div> non cliquable
   const Clickable: React.ElementType = url ? "a" : "div";
@@ -116,9 +120,28 @@ export default function ArticleCard({
             }}
             className="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-gray-600 hover:bg-gray-100 transition"
           >
-            <span>💬</span>
+            <span>&#128172;</span>
             <CommentsCount articleId={generateArticleId(url, title)} weekLabel={weekLabel} />
           </button>
+
+          {/* Save button */}
+          {user && (
+            <button
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                toggleSave({ url, title, source_name: displaySource });
+              }}
+              className={`px-3 py-1.5 rounded-lg text-sm transition ${
+                saved
+                  ? "text-yellow-500 hover:text-yellow-600"
+                  : "text-gray-400 hover:text-yellow-500"
+              }`}
+              title={saved ? "Retirer des favoris" : "Sauvegarder"}
+            >
+              {saved ? "\u2605" : "\u2606"}
+            </button>
+          )}
         </div>
       )}
     </Clickable>

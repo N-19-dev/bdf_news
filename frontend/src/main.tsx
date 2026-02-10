@@ -3,6 +3,7 @@ import { createRoot } from "react-dom/client";
 import * as Sentry from "@sentry/react";
 import App from "./App";
 import { AuthProvider } from "./lib/AuthContext";
+import { SavedArticlesProvider } from "./lib/SavedArticlesContext";
 import { CommentsProvider } from "./lib/CommentsContext";
 import "./index.css";
 
@@ -35,9 +36,11 @@ if (import.meta.env.VITE_SENTRY_DSN_FRONTEND) {
 createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <AuthProvider>
-      <CommentsProvider>
-        <App />
-      </CommentsProvider>
+      <SavedArticlesProvider>
+        <CommentsProvider>
+          <App />
+        </CommentsProvider>
+      </SavedArticlesProvider>
     </AuthProvider>
   </React.StrictMode>
 );

@@ -1,22 +1,45 @@
 // src/components/FeedView.tsx
+import { useState, useEffect } from "react";
 import { type FeedItem, faviconUrl, formatRelativeDate } from "../lib/parse";
 import VoteButton from "./VoteButton";
 import CommentsCount from "./CommentsCount";
 import TopCommentPreview from "./TopCommentPreview";
 import { useComments } from "../lib/CommentsContext";
+import { useAuth } from "../lib/AuthContext";
+import { useSavedArticles } from "../lib/SavedArticlesContext";
 
 type FeedViewProps = {
   articles: FeedItem[];
   videos: FeedItem[];
   generatedAt: string;
-  showArticlesOnly?: boolean;
-  showVideosOnly?: boolean;
+  onNavigateCommunity?: () => void;
 };
 
-// Helper function to generate article ID (matches backend hash)
-function generateArticleId(url: string, title: string): string {
-  const str = `${url}${title}`;
-  return btoa(unescape(encodeURIComponent(str))).slice(0, 40);
+// Track seen articles in localStorage
+const SEEN_KEY = "bdf_seen_articles";
+
+function getSeenArticles(): Set<string> {
+  try {
+    const stored = localStorage.getItem(SEEN_KEY);
+    if (stored) {
+      return new Set(JSON.parse(stored));
+    }
+  } catch (e) {
+    console.error("Error reading seen articles:", e);
+  }
+  return new Set();
+}
+
+function markAsSeen(url: string): void {
+  try {
+    const seen = getSeenArticles();
+    seen.add(url);
+    // Keep only last 200 URLs to avoid localStorage bloat
+    const urls = Array.from(seen).slice(-200);
+    localStorage.setItem(SEEN_KEY, JSON.stringify(urls));
+  } catch (e) {
+    console.error("Error saving seen article:", e);
+  }
 }
 
 // Get current week label (format: 2026w05)
@@ -28,27 +51,50 @@ function getCurrentWeekLabel(): string {
   return `${now.getFullYear()}w${weekNumber.toString().padStart(2, '0')}`;
 }
 
-function FeedCard({ item }: { item: FeedItem }) {
+function FeedCard({ item, isSeen, onSeen }: { item: FeedItem; isSeen: boolean; onSeen: (url: string) => void }) {
   const { openCommentsModal } = useComments();
-  const icon = item.source_type === "youtube" ? "▶️" : item.source_type === "podcast" ? "🎙️" : null;
-  const articleId = generateArticleId(item.url, item.title);
+  const { user } = useAuth();
+  const { isSaved, toggleSave } = useSavedArticles();
+  const icon = item.source_type === "youtube" ? "\u25B6\uFE0F" : item.source_type === "podcast" ? "\uD83C\uDF99\uFE0F" : null;
+  const articleId = item.id;
   const weekLabel = getCurrentWeekLabel();
+  const saved = isSaved(item.url);
+
+  const handleClick = () => {
+    onSeen(item.url);
+  };
 
   return (
-    <div className="bg-white rounded-xl border border-neutral-200 p-3 sm:p-4 hover:border-neutral-300 hover:shadow-sm transition-all">
+    <div className={`bg-white rounded-xl border border-neutral-200 p-3 sm:p-4 hover:border-neutral-300 hover:shadow-sm transition-all ${isSeen ? "opacity-60" : ""} relative`}>
+      {/* Save button - top right */}
+      {user && (
+        <button
+          onClick={() => toggleSave({ url: item.url, title: item.title, source_name: item.source_name })}
+          className={`absolute top-2 right-2 sm:top-3 sm:right-3 text-lg transition ${
+            saved
+              ? "text-yellow-500 hover:text-yellow-600"
+              : "text-gray-300 hover:text-yellow-500"
+          }`}
+          title={saved ? "Retirer des favoris" : "Sauvegarder"}
+        >
+          {saved ? "\u2605" : "\u2606"}
+        </button>
+      )}
+
       {/* Main content - clickable */}
       <a
         href={item.url}
         target="_blank"
         rel="noopener noreferrer"
         className="block"
+        onClick={handleClick}
       >
-        <div className="flex gap-2 sm:gap-3">
-          {/* Favicon - smaller on mobile */}
+        <div className="flex gap-2.5 sm:gap-3 pr-6">
+          {/* Favicon */}
           <img
             src={faviconUrl(item.url, 32)}
             alt=""
-            className="w-6 h-6 sm:w-8 sm:h-8 rounded-md flex-shrink-0 mt-0.5"
+            className="w-7 h-7 sm:w-8 sm:h-8 rounded-md flex-shrink-0 mt-0.5"
             loading="lazy"
           />
 
@@ -62,33 +108,22 @@ function FeedCard({ item }: { item: FeedItem }) {
             {/* Meta */}
             <div className="flex items-center gap-1.5 sm:gap-2 mt-1 sm:mt-1.5 text-xs sm:text-sm text-neutral-500">
               <span className="truncate max-w-[120px] sm:max-w-none">{item.source_name}</span>
-              <span>·</span>
+              <span>&middot;</span>
               <span className="flex-shrink-0">{formatRelativeDate(item.published_ts)}</span>
             </div>
 
-            {/* Summary - hidden on mobile for cleaner look */}
+            {/* Summary - hidden on very small screens, truncated to 200 chars */}
             {item.summary && (
               <p className="hidden sm:block mt-2 text-sm text-neutral-600 line-clamp-2">
-                {item.summary}
+                {item.summary.length > 200 ? item.summary.slice(0, 200) + '...' : item.summary}
               </p>
             )}
-          </div>
-
-          {/* Score badge */}
-          <div className="flex-shrink-0">
-            <span className={`inline-flex items-center px-1.5 sm:px-2 py-0.5 sm:py-1 rounded-full text-xs font-medium ${
-              item.score >= 60 ? "bg-green-100 text-green-700" :
-              item.score >= 45 ? "bg-yellow-100 text-yellow-700" :
-              "bg-neutral-100 text-neutral-600"
-            }`}>
-              {Math.round(item.score)}
-            </span>
           </div>
         </div>
       </a>
 
       {/* Vote and Comments */}
-      <div className="mt-2 sm:mt-3 pt-2 sm:pt-3 border-t flex items-center justify-between gap-2 sm:gap-4">
+      <div className="mt-2.5 sm:mt-3 pt-2.5 sm:pt-3 border-t flex items-center justify-between gap-2 sm:gap-4">
         {/* Votes - left */}
         <div className="flex-shrink-0">
           <VoteButton
@@ -128,8 +163,8 @@ function FeedCard({ item }: { item: FeedItem }) {
             className="flex-shrink-0 flex items-center gap-1 sm:gap-1.5 text-xs sm:text-sm text-gray-400 hover:text-gray-600 transition"
           >
             <CommentsCount articleId={articleId} weekLabel={weekLabel} />
-            <span className="hidden xs:inline">comments</span>
-            <span className="xs:hidden">💬</span>
+            <span className="hidden sm:inline">comments</span>
+            <span className="sm:hidden">&#128172;</span>
           </button>
         </div>
       </div>
@@ -137,13 +172,53 @@ function FeedCard({ item }: { item: FeedItem }) {
   );
 }
 
-export default function FeedView({
-  articles,
-  videos,
-  generatedAt,
-  showArticlesOnly = false,
-  showVideosOnly = false
-}: FeedViewProps) {
+function FeedSection({
+  title,
+  items,
+  emptyMessage,
+  seenUrls,
+  onSeen
+}: {
+  title: string;
+  items: FeedItem[];
+  emptyMessage: string;
+  seenUrls: Set<string>;
+  onSeen: (url: string) => void;
+}) {
+  return (
+    <section>
+      <h2 className="text-lg font-semibold text-neutral-900 mb-4">{title}</h2>
+      {items.length > 0 ? (
+        <div className="space-y-3">
+          {items.map((item) => (
+            <FeedCard
+              key={item.id}
+              item={item}
+              isSeen={seenUrls.has(item.url)}
+              onSeen={onSeen}
+            />
+          ))}
+        </div>
+      ) : (
+        <p className="text-neutral-500 text-sm py-8 text-center">{emptyMessage}</p>
+      )}
+    </section>
+  );
+}
+
+export default function FeedView({ articles, videos, generatedAt, onNavigateCommunity }: FeedViewProps) {
+  const [seenUrls, setSeenUrls] = useState<Set<string>>(new Set());
+
+  // Load seen articles on mount
+  useEffect(() => {
+    setSeenUrls(getSeenArticles());
+  }, []);
+
+  const handleSeen = (url: string) => {
+    markAsSeen(url);
+    setSeenUrls((prev) => new Set([...prev, url]));
+  };
+
   const generatedDate = new Date(generatedAt);
   const formattedDate = generatedDate.toLocaleDateString("fr-FR", {
     day: "numeric",
@@ -152,42 +227,47 @@ export default function FeedView({
     minute: "2-digit",
   });
 
-  // Get items based on mode
-  const items = showArticlesOnly ? articles : showVideosOnly ? videos : [...articles, ...videos];
-  const sortedItems = [...items].sort((a, b) => b.published_ts - a.published_ts);
-
-  const title = showArticlesOnly
-    ? `📰 Articles (${articles.length})`
-    : showVideosOnly
-    ? `🎬 Vidéos (${videos.length})`
-    : `📰 Tout (${articles.length + videos.length})`;
-
-  const emptyMessage = showArticlesOnly
-    ? "Aucun article pour le moment"
-    : showVideosOnly
-    ? "Aucune vidéo pour le moment"
-    : "Aucun contenu pour le moment";
-
   return (
-    <div className="space-y-6">
+    <div className="space-y-8">
       {/* Header info */}
       <div className="text-center text-sm text-neutral-500">
-        Mis à jour : {formattedDate}
+        Mis &agrave; jour : {formattedDate}
       </div>
 
-      {/* Feed section */}
-      <section>
-        <h2 className="text-lg font-semibold text-neutral-900 mb-4">{title}</h2>
-        {sortedItems.length > 0 ? (
-          <div className="space-y-3">
-            {sortedItems.map((item) => (
-              <FeedCard key={item.id} item={item} />
-            ))}
-          </div>
-        ) : (
-          <p className="text-neutral-500 text-sm py-8 text-center">{emptyMessage}</p>
-        )}
-      </section>
+      {/* Articles feed */}
+      {articles.length > 0 && (
+        <FeedSection
+          title={`\uD83D\uDCF0 Articles (${articles.length})`}
+          items={articles}
+          emptyMessage="Aucun article pour le moment"
+          seenUrls={seenUrls}
+          onSeen={handleSeen}
+        />
+      )}
+
+      {/* Videos/Podcasts feed */}
+      {videos.length > 0 && (
+        <FeedSection
+          title={`\uD83C\uDFAC Vid\u00E9os & Podcasts (${videos.length})`}
+          items={videos}
+          emptyMessage="Aucune vid\u00E9o ou podcast pour le moment"
+          seenUrls={seenUrls}
+          onSeen={handleSeen}
+        />
+      )}
+
+      {/* Link to community page */}
+      {onNavigateCommunity && (
+        <div className="text-center py-6">
+          <button
+            onClick={onNavigateCommunity}
+            className="inline-flex items-center gap-2 px-4 py-2 text-sm font-medium text-blue-600 hover:text-blue-800 hover:bg-blue-50 rounded-lg transition"
+          >
+            <span>+</span>
+            <span>Proposer un article dans le Must Have</span>
+          </button>
+        </div>
+      )}
     </div>
   );
 }
