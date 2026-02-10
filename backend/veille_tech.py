@@ -130,6 +130,22 @@ def ensure_db(path: str):
             conn.execute("ALTER TABLE items ADD COLUMN source_type TEXT DEFAULT 'article'")
             conn.execute("CREATE INDEX IF NOT EXISTS idx_items_source_type ON items(source_type)")
 
+        # Migration: ajouter les colonnes nécessaires pour analyze_relevance.py
+        cursor = conn.execute("PRAGMA table_info(items)")
+        columns = [row[1] for row in cursor.fetchall()]
+        
+        if "tech_level" not in columns:
+            logger.info("Migrating database: adding tech_level column")
+            conn.execute("ALTER TABLE items ADD COLUMN tech_level INTEGER DEFAULT 1")
+            
+        if "marketing_score" not in columns:
+            logger.info("Migrating database: adding marketing_score column")
+            conn.execute("ALTER TABLE items ADD COLUMN marketing_score REAL DEFAULT 0.0")
+            
+        if "is_excluded" not in columns:
+            logger.info("Migrating database: adding is_excluded column")
+            conn.execute("ALTER TABLE items ADD COLUMN is_excluded INTEGER DEFAULT 0")
+
 def upsert_item(path: str, item: Dict[str, Any]):
     with db_conn(path) as conn:
         conn.execute("""
