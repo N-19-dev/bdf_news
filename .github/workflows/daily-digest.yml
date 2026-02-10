@@ -43,6 +43,7 @@ jobs:
         working-directory: backend
         run: |
           python migrate_add_sent_articles.py
+          python migrate_database.py
 
       - name: Send daily digest
         working-directory: backend

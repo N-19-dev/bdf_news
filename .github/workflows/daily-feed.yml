@@ -50,6 +50,10 @@ jobs:
           # Scoring rapide sans classification LLM complète
           python analyze_relevance.py --config config.yaml --week-offset 0 || echo "⚠️ Scoring had some issues, continuing..."
 
+      - name: Run database migration
+        run: |
+          python migrate_database.py
+
       - name: Generate feed.json
         run: |
           python daily_feed.py --days 14 --articles 10 --videos 5
