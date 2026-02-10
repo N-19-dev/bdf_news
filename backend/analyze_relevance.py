@@ -78,6 +78,7 @@ def group_filtered_with_thresholds(
     thresholds: Dict[str, int],
     default_threshold: int,
     max_total_articles: int = 12,  # Limite globale à 12 articles
+    max_per_source: int = 3,
 ) -> Dict[str, List[Dict[str, Any]]]:
     """
     Regroupe par catégorie en appliquant un seuil par catégorie sur final_score.
@@ -85,7 +86,7 @@ def group_filtered_with_thresholds(
     Stratégie de sélection (Option 3 - Mix):
     1. Garantir au moins 1 article par catégorie (si score > seuil)
     2. Compléter avec les meilleurs scores jusqu'à max_total_articles (12)
-    3. Respecter diversité: max 2 articles par source
+    3. Respecter diversité: max max_per_source articles par source
 
     Trie par score puis date.
     """
@@ -119,8 +120,8 @@ def group_filtered_with_thresholds(
                 url = row[0]
                 src = row[4]
 
-                # Respecter diversité (max 2 par source)
-                if source_counts.get(src, 0) < 2:
+                # Respecter diversité
+                if source_counts.get(src, 0) < max_per_source:
                     guaranteed_articles.append(row)
                     selected_urls.add(url)
                     source_counts[src] = source_counts.get(src, 0) + 1
@@ -164,8 +165,8 @@ def group_filtered_with_thresholds(
                 if cat == "hors_sujet":
                     continue
 
-                # Respecter diversité (max 2 par source)
-                if source_counts.get(src, 0) >= 2:
+                # Respecter diversité
+                if source_counts.get(src, 0) >= max_per_source:
                     continue
 
                 additional_articles.append(row)
@@ -891,6 +892,9 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
     week_dir.mkdir(parents=True, exist_ok=True)
 
     # --- Export sélection (seuils par catégorie) ---
+    min_articles = int(cfg.get("selection", {}).get("min_articles", 10))
+    max_lookback_weeks = int(cfg.get("selection", {}).get("max_lookback_weeks", 4))
+
     groups = group_filtered_with_thresholds(
         db_path=db_path,
         min_ts=week_start_ts,
@@ -898,17 +902,39 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
         thresholds=thresholds,
         default_threshold=default_threshold,
     )
+    kept = sum(len(v) for v in groups.values())
+
+    # Si pas assez d'articles, élargir la fenêtre et relâcher les contraintes
+    expanded_min_ts = week_start_ts
+    if kept < min_articles:
+        for i in range(1, max_lookback_weeks + 1):
+            expanded_min_ts = week_start_ts - (i * 7 * 86400)
+            # Relâcher progressivement : plus de sources par source, plus d'articles max
+            relaxed_per_source = 3 + i  # 4, 5, 6, 7...
+            groups = group_filtered_with_thresholds(
+                db_path=db_path,
+                min_ts=expanded_min_ts,
+                max_ts=week_end_ts,
+                thresholds=thresholds,
+                default_threshold=default_threshold,
+                max_total_articles=max(12, min_articles),
+                max_per_source=relaxed_per_source,
+            )
+            kept = sum(len(v) for v in groups.values())
+            print(f"[info] Lookback {i} semaine(s), max {relaxed_per_source}/source → {kept} articles")
+            if kept >= min_articles:
+                break
+
     json_path = week_dir / "ai_selection.json"
     md_path = week_dir / "ai_selection.md"
     json_path.write_text(json.dumps(groups, indent=2, ensure_ascii=False), encoding="utf-8")
     md_path.write_text(to_markdown(groups), encoding="utf-8")
-    kept = sum(len(v) for v in groups.values())
     print(f"[done] Sélection (semaine {week_label}): {kept} items ≥ seuils")
     print(f" - {json_path}\n - {md_path}")
 
-    # --- Top 3 global ---
+    # --- Top 3 global (même fenêtre que la sélection) ---
     top_items = fetch_items_for_top(
-        db_path, week_start_ts, week_end_ts, min_score=default_threshold
+        db_path, expanded_min_ts, week_end_ts, min_score=default_threshold
     )
     top_md = build_top_k_md(top_items, k=3)
     top3_path = week_dir / "top3.md"
@@ -919,9 +945,9 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
     top3_json_path.write_text(json.dumps(top_items[:3], indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"[done] Top 3: {top3_path}")
 
-    # --- Top 3 Vidéos/Podcasts ---
+    # --- Top 3 Vidéos/Podcasts (même fenêtre que la sélection) ---
     top_videos = fetch_videos_for_top(
-        db_path, week_start_ts, week_end_ts, min_score=default_threshold
+        db_path, expanded_min_ts, week_end_ts, min_score=default_threshold
     )
 
     # Toujours créer les fichiers, même vides (pour le frontend)
