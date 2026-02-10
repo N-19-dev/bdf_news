@@ -44,6 +44,32 @@ def ensure_relevance_columns(db_path: str):
             if col not in cols:
                 conn.execute(f"ALTER TABLE items ADD COLUMN {col} REAL")
 
+def ensure_database_schema(db_path: str):
+    """
+    S'assure que toutes les colonnes nécessaires existent dans la base de données.
+    Appelé automatiquement au démarrage pour éviter les erreurs SQL.
+    """
+    with db_conn(db_path) as conn:
+        cols = [r[1] for r in conn.execute("PRAGMA table_info(items)").fetchall()]
+        
+        # Colonnes nécessaires pour analyze_relevance.py
+        required_columns = {
+            "tech_level": "INTEGER DEFAULT 1",
+            "marketing_score": "REAL DEFAULT 0.0",
+            "is_excluded": "INTEGER DEFAULT 0",
+            "semantic_score": "REAL",
+            "source_weight": "REAL",
+            "quality_score": "REAL",
+            "tech_score": "REAL",
+            "community_score": "REAL",
+            "final_score": "REAL"
+        }
+        
+        for col_name, col_def in required_columns.items():
+            if col_name not in cols:
+                conn.execute(f"ALTER TABLE items ADD COLUMN {col_name} {col_def}")
+                print(f"[info] Added missing column: {col_name}")
+
 
 def group_filtered_with_thresholds(
     db_path: str,
@@ -785,6 +811,7 @@ def main(config_path: str = "config.yaml", limit: Optional[int] = None):
 
     db_path = cfg["storage"]["sqlite_path"]
     ensure_relevance_columns(db_path)
+    ensure_database_schema(db_path)  # Ensure all required columns exist
 
     relevance_cfg = cfg.get("relevance", {}) or {}
     default_threshold = int(relevance_cfg.get("score_threshold", 60))
