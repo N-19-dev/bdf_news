@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-10T15:03:55.367591+00:00",
+  "generated_at": "2026-02-10T15:31:29.110272+00:00",
   "config": {
     "articles_limit": 10,
     "videos_limit": 5,
-    "days_lookback": 30
+    "days_lookback": 14
   },
   "articles": [
     {
@@ -14,7 +14,7 @@
       "source_name": "Google News Armwrestling EN",
       "published_ts": 1770695940,
       "category_key": "competitions",
-      "score": 11.4,
+      "score": 10.9,
       "algo_score": 54.1,
       "upvotes": 0,
       "downvotes": 0,
@@ -48,7 +48,7 @@
       "source_name": "Monster Michael Todd",
       "published_ts": 1770688091,
       "category_key": "athletes",
-      "score": 10.3,
+      "score": 9.8,
       "algo_score": 61.3,
       "upvotes": 0,
       "downvotes": 0,
@@ -64,7 +64,7 @@
       "source_name": "Monster Michael Todd",
       "published_ts": 1770653922,
       "category_key": "athletes",
-      "score": 4.6,
+      "score": 4.5,
       "algo_score": 56.4,
       "upvotes": 0,
       "downvotes": 0,
@@ -80,7 +80,7 @@
       "source_name": "Monster Michael Todd",
       "published_ts": 1770642008,
       "category_key": "youtube_media",
-      "score": 4.1,
+      "score": 4.0,
       "algo_score": 60.2,
       "upvotes": 0,
       "downvotes": 0,
