@@ -81,22 +81,22 @@ jobs:
         run: |
           echo "🔍 Verifying database schema..."
           python -c "
-import sqlite3
-from pathlib import Path
-db_path = 'veille.db'
-if Path(db_path).exists():
-    conn = sqlite3.connect(db_path)
-    cols = [r[1] for r in conn.execute('PRAGMA table_info(items)').fetchall()]
-    required = ['tech_level', 'marketing_score', 'is_excluded']
-    missing = [c for c in required if c not in cols]
-    if missing:
-        print(f'❌ Missing columns: {missing}')
-        exit(1)
-    else:
-        print(f'✅ All required columns present: {required}')
-else:
-    print(f'⚠️ Database {db_path} not found')
-"
+          import sqlite3
+          from pathlib import Path
+          db_path = 'veille.db'
+          if Path(db_path).exists():
+              conn = sqlite3.connect(db_path)
+              cols = [r[1] for r in conn.execute('PRAGMA table_info(items)').fetchall()]
+              required = ['tech_level', 'marketing_score', 'is_excluded']
+              missing = [c for c in required if c not in cols]
+              if missing:
+                  print(f'❌ Missing columns: {missing}')
+                  exit(1)
+              else:
+                  print(f'✅ All required columns present: {required}')
+          else:
+              print(f'⚠️ Database {db_path} not found')
+          "
 
       - name: Run backend pipeline (crawl + analyze + export)
         run: python main.py
