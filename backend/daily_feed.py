@@ -209,7 +209,7 @@ def fetch_top_articles(
         FROM items
         WHERE published_ts >= ?
           AND final_score >= ?
-          AND (source_type IS NULL OR source_type = 'article' OR source_type = 'google_news')
+          AND (source_type IS NULL OR source_type NOT IN ('youtube', 'podcast'))
           AND is_excluded = 0
         ORDER BY final_score DESC, published_ts DESC
         LIMIT ?
