@@ -1,85 +1,4 @@
 {
-  "athletes": [
-    {
-      "url": "https://www.youtube.com/shorts/-TuEaM6HXYo",
-      "title": "Outside SP & Wrist Cupping 247lbs/112kgs & 230lbs/104.3kgs #armwrestling #worldchampion #phil413",
-      "summary": "",
-      "published_ts": 1770387748,
-      "source_name": "Monster Michael Todd",
-      "score": 60.79306748780338,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://www.youtube.com/shorts/Gh91xktgSXw",
-      "title": "Outside SP & Wrist Cupping 252lbs/114.3kgs & 232.5lbs/105.5kgs #armwrestling #worldchampion #phil413",
-      "summary": "",
-      "published_ts": 1770570559,
-      "source_name": "Monster Michael Todd",
-      "score": 60.089573507959194,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://www.youtube.com/shorts/QGguP2RNQDg",
-      "title": "Not bad considering I’m down 30lbs since my last match! 274.2lbs/124.4kgs #armwrestling #worldchamp",
-      "summary": "",
-      "published_ts": 1770323115,
-      "source_name": "Monster Michael Todd",
-      "score": 57.20576668327505,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://www.youtube.com/shorts/f38EIIQVxbE",
-      "title": "PEBP STATIC HOLD 215lbs/97.5kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1770512301,
-      "source_name": "Monster Michael Todd",
-      "score": 56.654006296938114,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://www.youtube.com/shorts/Tm2reW2Vixw",
-      "title": "Seated Pronation 159.75lbs/72.5kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1770470153,
-      "source_name": "Monster Michael Todd",
-      "score": 56.02806337855078,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUGF6b0M4Q2RBTlR3aTBXcjRkbUFTbmRHVWZEaDJlN0xGUGwwRXF6NlRTNDdFRFctdEhkSlZKLUhQVEc3SlA5QlRVOE5TR0dKMUp3YzRneWpjXzlkdnhYZnBoYk9HTEJfU3UzMGpETlZocWZWQzQ2UEJvdXFkNmN5N21YWlRzTDNreDFmczN5RGc5bHFNS2dyLXVNelFsSzNxanR1dlV4aFMxd2tHVFgtb1ZBNUMySkJwQWdUcVJtQmxHZUVnTmdRNnIxUGlOdU9OcHc?oc=5",
-      "title": "Kenneth Odeng Adade appointed Chief Operations Officer as Accra hosts Africa’s top armwrestlers - GBC Ghana Online",
-      "summary": "Kenneth Odeng Adade appointed Chief Operations Officer as Accra hosts Africa’s top armwrestlers GBC Ghana Online",
-      "published_ts": 1770297978,
-      "source_name": "Google News Armwrestling EN",
-      "score": 49.800487065857105,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    }
-  ],
-  "competitions": [
-    {
-      "url": "https://www.youtube.com/shorts/iCJ5RYDMBZU",
-      "title": "First competition of 2026 #armwrestling",
-      "summary": "",
-      "published_ts": 1770134234,
-      "source_name": "Voice of Armwrestling",
-      "score": 58.090253147211946,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    }
-  ],
   "france": [
     {
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZkJOV2h1TWpUTFZwYnhCd252Q1BLcUZvUUx1TTNfTTJRSGo5Z1R4UkExTnR2UU1ocERaeXhTWml5Y1o3czZick5mWlowbTY0MEw5dnFYUElKck5zWFhMb083X2J0cGRGQVhLUGJjQnZtOFVCMEw1Vjc3aFpfVzZLcllhd0VEWTJUcHF1cVA2eHZMZDJ2RzdKaW5RMEFXb0dBRDRja1JkRTQxcU9hUXNna3BXNGZyaG40XzB5V3NyQkpYYWRWNzVJWU9adFlaaHVhSlc2MzkzZFBBRGZWN3J0d3J3?oc=5",
@@ -88,30 +7,6 @@
       "published_ts": 1770489121,
       "source_name": "Google News Armwrestling FR",
       "score": 52.43892707607963,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQcVJ5VEFKc19SSWUxOUNzTzJzU2p1clRoSGZ6MXJWbkdnZF8tN1l5dGZaS3FHWHIzak01UWE0eHFic21ELWdKZUxKYnVNMWh2MlFaYVFKZ0hYaGNrRW5aTVhMVWtaTnFlNnJGRlpRQWktcVJPWDE4VlJsYkI0Mi1mQVhJUEZXRWlSZ2RjUGNDclRoNlY4bUlvYS1aeURMQmZLd2pUV29nTUVSSUNOUEVNWmhxNk54OW8tbHVaQU5DenB6Wm9zTVF5a21jTlJEaGYxYV90cDc1dG83eVVaSWRrOXBDaTdOVTZQWkEzTEhIR3Q2ODd4cHBuZmRjNUtFSUJxYXJiT05OX2dBWDRUdmhZTlZ0blV4QkhaZXItRGdjUDd6OC1IN1VORjZXM1dLam5yQks2WDFXTmdGUXo5M01odA?oc=5",
-      "title": "Paillotes de la Grande-Motte : le bras de fer se poursuit en appel, une décision rendue dans les prochaines semaines pour trois établissements interdits d'installation - franceinfo.fr",
-      "summary": "Paillotes de la Grande-Motte : le bras de fer se poursuit en appel, une décision rendue dans les prochaines semaines pour trois établissements interdits d'installation franceinfo.fr",
-      "published_ts": 1770396172,
-      "source_name": "Google News Armwrestling FR",
-      "score": 49.49164805764501,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    }
-  ],
-  "youtube_media": [
-    {
-      "url": "https://www.youtube.com/shorts/Io_tiD9hO2A",
-      "title": "These are the matches I live for #armwrestling",
-      "summary": "",
-      "published_ts": 1770309196,
-      "source_name": "Voice of Armwrestling",
-      "score": 59.467450299046256,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
