@@ -1,6 +1,6 @@
 ## Aperçu général de la semaine
 
-Cette semaine, Albi a été choisie pour accueillir tous les championnats de France de différentes disciplines, dont le bras de fer, en 2026. Cette décision devrait apporter un élan à la ville et à la région.
+Cette semaine, Albi a été choisie pour accueillir tous les championnats de France de différentes disciplines, y compris le bras de fer en 2026. Cette décision devrait avoir un impact significatif sur la scène sportive française.
 
 ## 🏆 Compétitions & Résultats
 
