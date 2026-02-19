@@ -3,7 +3,6 @@
 ## athletes
 
 - [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10 · **61/100**
-- [Dawson County grad aims high for this pro arm wrestling competition - Dawson County News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUjN4anlVcFhiQVZGOG9FWU1aSFctRVE1M0szanpRbEFXb1J1MGFUaURza0VXVHNkWDluZVdNRlp3ZndWSnRBclFCVDFURVVjck5KYnpZSG1DLXd3RkpUNWFRM0cyUmRDbHc2MGowREhZSzVCZ0VJUWltbjFZVHR6TUNYUWh0NUduazM3bWhGN24yckNlSl83cWF6b2lHNFEtOXEwNU9HMzdWY1ZHalZ2UGdB?oc=5) — Google News Armwrestling EN · 2026-02-12 · **58/100**
 - [YouTube-taught Haryana teen shines in world arm wrestling championship - Tribune India](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTE2Y3NqT3liZUZvb0MteHAwLTlISXNZSW12aFVhWkhBdkc0b2w2TnlKVGZlejdJQTlyX0VWMExUeXdHLUJ2RElRU1dwa2Q4ekN4YXZwdEM1NU1XanBWanU5QTEydmZvSFBoNGVnWDN4c3hRX2cyWXRlSW5EaWFWM3N0a0lMWnZOcjY0amF5cHhtcndNdXN6Y1haeWs1ZHdTRWd4ZFlLbm_SAawBQVVfeXFMTkxBeGZlbFFDZGhDODJlNll5aXk0TWJCdW9NNGFLTkhuR0FRUW9HQWdiZXhpRjBWaUZPS1VUNmJWOE04SVluSHdudTQwSWJUZlA0VVRrYUp3Nno2OVBVbnBXb0d4Rk5SRmRFeXU2YUxtcXd3cUliTEZPV2piYzlPcnVMX3I2elFJcTQyTEt0SFFnQ2NEekRfekpTVF9Pb0laejJkVkxRWGZIZHpGUQ?oc=5) — Google News Armwrestling EN · 2026-02-11 · **57/100**
 - [PEBP 220lbs/99.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/bVGncoIUzvw) — Monster Michael Todd · 2026-02-09 · **56/100**
 - [Seated Pronation 162.25lbs/73.4kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/f8xaT35JIVA) — Monster Michael Todd · 2026-02-08 · **56/100**
@@ -19,12 +18,13 @@
 
 ## news
 
-- [OM : Longoria se positionne suite au bras de fer entre LFP Media face à beIN Sports ! - footballclubdemarseille.fr](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ1c1dTcyb2RyWkc1UjBDRUkwMjdua2xjZ1FJVTlZSUV1WjYzanhmWVNKTEdhSzNyWkxfemQ2dFduWlRyRVlYd0I2Z2hHVDRuUVNIaWZobU1aaVdxQmFFQVlZc1BVTEFzeW83RjVBdkpGV2lNbkMxaFh4c2JSR2JBVF82M0RDSFNGTzlQNW1ZRVUwOFViQW5BcXJEV0cxR3dYWlBLMzhmRmlFeU12T1pjVHVDOEtDTXhqS3NESG1EYXpZbkw0X2xQSDlMMlFsSDlWcUVJUXdB?oc=5) — Google News Armwrestling FR · 2026-02-13 · **53/100**
+- [Bras de fer entre la Ligue1+ et beLN Sport pour la diffusion du Mondial 2026 - Nasser Al-Khelaïfi et la chaîne franco-qatarie frappent fort - Tribuna.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTN3RDYxZklnWXdjQlZ0TmhEYWVOdWlmMzVpUkJUNnN4QmlBb0xQaW9YTERvU1lmbE9qQVkzUGR0dUQzQVBUS19HU2x2U3QzSGtEd0ZfSjA1UHBISVJyMGFCcDhCNGxqOTFlM1VUMnVzOG81MjVucHhQMkdGT2NodGxEVDdMMUxHTlBReUJWNEFQSzVtU2wwVzdsdU5VbEcyUTlRZWhacHJqT0JTQ2thZ3R2RmZtNXpUMmJOSUNZMTVmdzJ5b1RnU9IBzgFBVV95cUxPUFlRUDk1Vzl6ZDVDNHBRVFNUcEFaenY5TmJBc3BjazFLLWxqclAtM2dpTDZESDRoQU90VmpLR1dTbUQzMnFieGJpZklZaVBzSWhWa2Q3X1RSN2xyZGowdFgzMlRJT0dlMWFKaF9DSGlMbW9rbWxEbmJNYS1LQ1lSV0xLaFV4d3J2QlBFNTlPMXVnLVNsV015YU5UYm54anlzY1JTSGhreGVNV1B5TTZkSE9NNFBtOVYxeXJfUmtMUnVuM1dTOG94eHVhYjVmZw?oc=5) — Google News Armwrestling FR · 2026-02-11 · **52/100**
 
 ## training
 
 - [Are internal rotation enough for side pressure work](https://www.reddit.com/r/armwrestling/comments/1r0f29x/are_internal_rotation_enough_for_side_pressure/) — Reddit Armwrestling (Hot) · 2026-02-09 · **56/100**
 - [Best way to progress grippers](https://www.reddit.com/r/GripTraining/comments/1r05m2h/best_way_to_progress_grippers/) — Reddit GripTraining · 2026-02-09 · **54/100**
+- [Can I strengthen my 5.7' wrists?](https://www.reddit.com/r/GripTraining/comments/1r0i5zv/can_i_strengthen_my_57_wrists/) — Reddit GripTraining · 2026-02-09 · **51/100**
 
 ## youtube_media
 
