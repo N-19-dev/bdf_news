@@ -2,8 +2,6 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [Dawson County grad aims high for this pro arm wrestling competition - Dawson County News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUjN4anlVcFhiQVZGOG9FWU1aSFctRVE1M0szanpRbEFXb1J1MGFUaURza0VXVHNkWDluZVdNRlp3ZndWSnRBclFCVDFURVVjck5KYnpZSG1DLXd3RkpUNWFRM0cyUmRDbHc2MGowREhZSzVCZ0VJUWltbjFZVHR6TUNYUWh0NUduazM3bWhGN24yckNlSl83cWF6b2lHNFEtOXEwNU9HMzdWY1ZHalZ2UGdB?oc=5) — Google News Armwrestling EN · 2026-02-12
-  - Dawson County grad aims high for this pro arm wrestling competition Dawson County News
 - [Kyrgyzstan’s armwrestling team wins 87 medals at World Cup - 24.KG](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnBEQmUweWRzZ0dJS1F3VmItLUd2OGtMaGJGOTluVDVJR25xTUNLcDFqR2syQ2VaYm1MSlNaUTNWZ1VVdzdoOXdoOFN1dlN0WHQtdmlUNTJURm5RdUpUemxmcDBEemxUVjBfN3FuUW5KQXJ3QWVfaWMwNWNHOF9yN2FwcGsxTE10aWlxZzZzQ0zSAZYBQVVfeXFMTnBQSldXTjdmZzBfbERuTXlCNnRfclE5cHNKZVVaTm9GazYycVpoWG9GUHJwODBLNU1wTnA2UWttNE0waEZ2OGxjVmt6eHF3Zk5TdC13LWVyaDhBdkFvMVVSZ2RUMmlJVjUzeDhDZ091N2FyR3pkWWg4TTdhSlhEYzI4cWZKdHdxZHo0bFR1MkIxZ0VRSVFn?oc=5) — Google News Armwrestling EN · 2026-02-10
   - Kyrgyzstan’s armwrestling team wins 87 medals at World Cup 24.KG
 - [Ethan calling out Auden on the stage after destroying Supinator despite the weight gap .. do you think it's a good match & LPL should consider he's wishes?](https://www.reddit.com/r/armwrestling/comments/1r0d2cc/ethan_calling_out_auden_on_the_stage_after/) — Reddit Armwrestling (Hot) · 2026-02-09
