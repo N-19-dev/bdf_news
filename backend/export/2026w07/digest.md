@@ -2,6 +2,20 @@
 
 ## 🏆 Compétitions & Résultats
 
+- [What I got WRONG vs Kamil | The Real Breakdown](https://www.youtube.com/watch?v=4FKN0tVdkes) — Monster Michael Todd · 2026-02-15
+  - I won the last match against Kamil Jablonski.
+But winning isn’t enough.
+In this video, I break down our previous super heavyweight armwrestling match round by round — what worked, what didn’t, and what must improve before our rematch at Eas…
+- [Armwrestling Rematch | Preparing for a WAR](https://www.youtube.com/shorts/Uj5syGx-mtg) — Monster Michael Todd · 2026-02-11
+  - I won the last match — but this time is different.
+
+**Kamil Jablonski is stronger, more experienced, and more dangerous going into our rematch.
+
+That’s why this preparation isn’t casual.
+It’s intentional.
+It’s calculated.
+
+Heavy lifts. High…
 - [Kyrgyzstan’s armwrestling team wins 87 medals at World Cup - 24.KG](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnBEQmUweWRzZ0dJS1F3VmItLUd2OGtMaGJGOTluVDVJR25xTUNLcDFqR2syQ2VaYm1MSlNaUTNWZ1VVdzdoOXdoOFN1dlN0WHQtdmlUNTJURm5RdUpUemxmcDBEemxUVjBfN3FuUW5KQXJ3QWVfaWMwNWNHOF9yN2FwcGsxTE10aWlxZzZzQ0zSAZYBQVVfeXFMTnBQSldXTjdmZzBfbERuTXlCNnRfclE5cHNKZVVaTm9GazYycVpoWG9GUHJwODBLNU1wTnA2UWttNE0waEZ2OGxjVmt6eHF3Zk5TdC13LWVyaDhBdkFvMVVSZ2RUMmlJVjUzeDhDZ091N2FyR3pkWWg4TTdhSlhEYzI4cWZKdHdxZHo0bFR1MkIxZ0VRSVFn?oc=5) — Google News Armwrestling EN · 2026-02-10
   - Kyrgyzstan’s armwrestling team wins 87 medals at World Cup 24.KG
 - [Ethan calling out Auden on the stage after destroying Supinator despite the weight gap .. do you think it's a good match & LPL should consider he's wishes?](https://www.reddit.com/r/armwrestling/comments/1r0d2cc/ethan_calling_out_auden_on_the_stage_after/) — Reddit Armwrestling (Hot) · 2026-02-09
@@ -17,6 +31,11 @@
 
 ## 🌟 Athlètes & Interviews
 
+- [Trying out a static hold! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/6sjGv5C5KV0) — Monster Michael Todd · 2026-02-15
+- [Outside SP 262lbs/118.8kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/1u2Ki4jbAPU) — Monster Michael Todd · 2026-02-13
+- [SP (I decided to do it 2 different ways) 167.25lbs/75.9kgs #armwrestling #worldchampion #phil413](https://www.youtube.com/shorts/6i7srUFBbMc) — Monster Michael Todd · 2026-02-13
+- [PEBP Static Hold 225lbs/102kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/VhoqfY4pwc4) — Monster Michael Todd · 2026-02-12
+- [Seated Pronation 164.75lbs/74.8kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/1o3Fou8GeHU) — Monster Michael Todd · 2026-02-12
 - [The Mindaugas Tarasaitis Study 2/3 #armwrestler @devlarratt @eastvswesta...](https://www.reddit.com/r/armwrestling/comments/1r0wwlm/the_mindaugas_tarasaitis_study_23_armwrestler/) — Reddit Armwrestling (Hot) · 2026-02-10
   - This one seemed interesting so I thought I'd share, small channel with a couple of good AW vids. I have seen some of the shorts and the Minde study videos. submitted by /u/stoalmannen [link] [comments]
 - [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10
@@ -27,6 +46,8 @@
 
 ## 💪 Entraînement & Technique
 
+- [Wrist Cupping 237.5lbs/107.7kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/VJUoBX4KiHc) — Monster Michael Todd · 2026-02-14
+- [Wrist Cupping Static Hold 235lbs/106.6kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/-f1GYVE0nvM) — Monster Michael Todd · 2026-02-11
 - [Back to training with lumbar hernia](https://www.reddit.com/r/armwrestling/comments/1r0zkz6/back_to_training_with_lumbar_hernia/) — Reddit Armwrestling (Hot) · 2026-02-10
   - Hello guys, i got mri answer and sadly i have 5 mm hernia in 4-5 lumbar discs. Doctors said that, surgery is not needed and i can rehabilitate with training.i know many arm wrestlers who have hernia and If anyone here has same story, i wann…
 - [Competitions](https://www.reddit.com/r/armwrestling/comments/1r0xhla/competitions/) — Reddit Armwrestling (Hot) · 2026-02-10

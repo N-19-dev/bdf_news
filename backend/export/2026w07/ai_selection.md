@@ -2,9 +2,9 @@
 
 ## athletes
 
-- [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10 · **61/100**
-- [PEBP 220lbs/99.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/bVGncoIUzvw) — Monster Michael Todd · 2026-02-09 · **56/100**
-- [Seated Pronation 162.25lbs/73.4kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/f8xaT35JIVA) — Monster Michael Todd · 2026-02-08 · **56/100**
+- [Armwrestling Rematch | Preparing for a WAR](https://www.youtube.com/shorts/Uj5syGx-mtg) — Monster Michael Todd · 2026-02-11 · **64/100**
+- [What I got WRONG vs Kamil | The Real Breakdown](https://www.youtube.com/watch?v=4FKN0tVdkes) — Monster Michael Todd · 2026-02-15 · **62/100**
+- [How to not get toprolled by taller guys](https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/) — Reddit Armwrestling (Hot) · 2026-02-10 · **61/100**
 - [Kyrgyzstan’s armwrestling team wins 87 medals at World Cup - 24.KG](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnBEQmUweWRzZ0dJS1F3VmItLUd2OGtMaGJGOTluVDVJR25xTUNLcDFqR2syQ2VaYm1MSlNaUTNWZ1VVdzdoOXdoOFN1dlN0WHQtdmlUNTJURm5RdUpUemxmcDBEemxUVjBfN3FuUW5KQXJ3QWVfaWMwNWNHOF9yN2FwcGsxTE10aWlxZzZzQ0zSAZYBQVVfeXFMTnBQSldXTjdmZzBfbERuTXlCNnRfclE5cHNKZVVaTm9GazYycVpoWG9GUHJwODBLNU1wTnA2UWttNE0waEZ2OGxjVmt6eHF3Zk5TdC13LWVyaDhBdkFvMVVSZ2RUMmlJVjUzeDhDZ091N2FyR3pkWWg4TTdhSlhEYzI4cWZKdHdxZHo0bFR1MkIxZ0VRSVFn?oc=5) — Google News Armwrestling EN · 2026-02-10 · **54/100**
 
 ## competitions
@@ -28,4 +28,4 @@
 
 ## youtube_media
 
-- [Ethan vs Supinator full match](https://www.reddit.com/r/armwrestling/comments/1r0aeou/ethan_vs_supinator_full_match/) — Reddit Armwrestling (Hot) · 2026-02-09 · **53/100**
+- [Trying out a static hold! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/6sjGv5C5KV0) — Monster Michael Todd · 2026-02-15 · **57/100**
