@@ -1,32 +1,35 @@
 ## Aperçu général de la semaine
 
-Databricks et Uber ont partagé des informations importantes cette semaine. Uber a également publié un rapport sur la migration de son système.
+Databricks n'a pas annoncé de nouvelles versions cette semaine. Uber a partagé son REX sur la migration d'arm-wrestling.
 
 ## 🏆 Compétitions & Résultats
 
-- [SSA Adeboye Commends Historic Armwrestling Debut as Police Games Record 84 Medals - Sports247 Nigeria](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2c1WGxZaGxmYm5kMU9BUnlkdjRFYmxNMW5LeFRsWTdOOVY5Tm9kNXRKeEJnZkJtcnFIR0VsTTJ2d3RJdlhGcW9fTERfbnQyRUM2cDFCLVpCdlRLWV8xRlZQeEQ3TjhiQjNEdWZBRFRmYW95R0tsSkpDREJKVi12V3JzOEtrTk5EdWpDRGxKaFAyOFNkWWw2amlxcW92TUlWVDI2cElJR3J1U2M?oc=5) — Google News Armwrestling EN · 2026-02-19
-- [Filip Larson testing he's strength after the injury before announcing he's next opponent](https://www.reddit.com/r/armwrestling/comments/1razyja/filip_larson_testing_hes_strength_after_the/) — Reddit Armwrestling (New) · 2026-02-21
+- [Safari to host arm wrestling competition - The Peninsula Qatar](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVFCT05DdkRjaWZvUFZRRzJMbUczNTVyWi1wbW8zcGNQel9nU0wzd2RaUm5mbU5rS3ZKSEpiT2RULUc0a1hoRmd1ZnJoTG40bkJFT1I5THpPUGFBWGxBSE9UVlZCZ3lMaXVseEpVN1EwVDNSUXByT2xpYTJMTnhIRGp5MGR5ZnotZmpDcU1xRTlTb0k?oc=5) — Google News Armwrestling EN · 2026-02-09
+**À creuser :**
+** [Competitions](https://www.reddit.com/r/armwrestling/comments/1r0xhla/competitions/) — Reddit Armwrestling (Hot) · 2026-02-10
 
 ## 🌟 Athlètes & Interviews
 
-- [How can you guys recover fast and What supplements should I take to support this sport](https://www.reddit.com/r/armwrestling/comments/1rbg6i9/how_can_you_guys_recover_fast_and_what/) — Reddit Armwrestling (Top) · 2026-02-22
-- [Combining riser and hammercurls](https://www.reddit.com/r/armwrestling/comments/1rbiyca/combining_riser_and_hammercurls/) — Reddit Armwrestling (Top) · 2026-02-22
-- [See 17-time arm wrestling world champ from West Bridgewater in action - Enterprise News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQnZaQ0wwbDhqQnZqRHo1eXNFaUpYNXVVWVF3NS1zVEI0RGY0YUxESE1YSDVBYXFaMGRDaFh3ZFVPakdROHhyaGdlUC1KelhaRi01OWgzcnJ0YnNlN0FjYjhkYkNabkhEdXpIUlRJSW44bnp5UEtDbVFhb3NfN0ZkOUNvRzZUVkhxWU1JVWsyTVE5c211X0tBS2ZqNkpOVnJmcmRxcnhwMTZDaWVpY3RLaHVvaDFsRXNfTjM1QlFBTjVtX0tnOE5fb3Y3YnJKbnBXLUJ4OTc2LVZvOU5qVWM0Y0xYR0pEVTJKdkttVXRJTU8?oc=5) — Google News Armwrestling EN · 2026-02-20
-- [Strap issues](https://www.reddit.com/r/armwrestling/comments/1rbqx4f/strap_issues/) — Reddit Armwrestling (Top) · 2026-02-22
-- [Getting better](https://www.reddit.com/r/armwrestling/comments/1rb7d9g/getting_better/) — Reddit Armwrestling (Hot) · 2026-02-22
+- [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10
+- [See 17-time arm wrestling world champ from West Bridgewater in action - Enterprise News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQnZaQ0wwbDhqQnZqRHo1eXNFaUpYNXVVWVF3NS1zVEI0RGY0YUxESE1YSDVBYXFaMGRDaFh3ZFVPakdROHhyaGdlUC1KelhaRi01OWgzcnJ0YnNlN0FjYjhkYkNabkhEdXpIUlRJSW44bnp5UEtDbVFhb3NfN0ZkOUNvRzZUVkhxWU1JVWsyTVE5c211X0tBS2ZqNkpOVnJmcmRxcnhwMTZDaWVpY3RLaHVvaDFsRXNfTjM1QlFBTjVtX0tnOE5fb3Y3YnJKbnBXLUJ4OTc2LVZvOU5qVWM0Y0xYR0pEVTJKdkttVXRJTU8?oc=5) — Google News Arm Wrestling · 2026-02-20
+- [PEBP 220lbs/99.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/bVGncoIUzvw) — Monster Michael Todd · 2026-02-09
+- [Seated Pronation 162.25lbs/73.4kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/f8xaT35JIVA) — Monster Michael Todd · 2026-02-08
+**À creuser :**
+** [How to not get toprolled by taller guys](https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/) — Reddit Armwrestling (Hot) · 2026-02-10
 
 ## 💪 Entraînement & Technique
 
-- [Hook Curl Holds?](https://www.reddit.com/r/armwrestling/comments/1rb7rcx/hook_curl_holds/) — Reddit Armwrestling (New) · 2026-02-22
-- [Opinions on rigged/faked test results? Or cheated.](https://www.reddit.com/r/armwrestling/comments/1rba4qq/opinions_on_riggedfaked_test_results_or_cheated/) — Reddit Armwrestling (Hot) · 2026-02-22
+_Rien d’important cette semaine._
 
 ## 🎬 YouTube & Médias
 
-- [See 17-time arm wrestling world champ from West Bridgewater in action - Enterprise News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQnZaQ0wwbDhqQnZqRHo1eXNFaUpYNXVVWVF3NS1zVEI0RGY0YUxESE1YSDVBYXFaMGRDaFh3ZFVPakdROHhyaGdlUC1KelhaRi01OWgzcnJ0YnNlN0FjYjhkYkNabkhEdXpIUlRJSW44bnp5UEtDbVFhb3NfN0ZkOUNvRzZUVkhxWU1JVWsyTVE5c211X0tBS2ZqNkpOVnJmcmRxcnhwMTZDaWVpY3RLaHVvaDFsRXNfTjM1
+_Rien d’important cette semaine._
 
 ## 🇫🇷 Bras de Fer France
 
-_Rien d’important cette semaine._
+- [France-Italie: "On est entrés dans un bras de fer", le XV de France s'est sorti d'un "match difficile" au 6 nations - RMC Sport](https://news.google.com/rss/articles/CBMikwJBVV95cUxOZTRmMzFpb1l0WWpCelN2NWVZc09fTzEydUJScW1hMmd5TUpmZE9qemlIcHJMU1JFNlpGeE1yOGxRNDRJdWVOQXI3aDhERnUydFl4c3E4bDZTU0ZkckNZMEFrYXBLd0J6REItRW44VDdRRFlGNmktWjUxakt5UDhsSW00eGhScDAyMExka1AwWERiWWJxam92a1dUVUs5RFJDVUpvVU9faTdEWlB3LXR1TS1ac180aVRoUFEzR1N2UVZqU2xnUFRFZ3RyQUNXMEVvOFVPZ1Q3LUI0MDVaYUhlamNQd2I2WDhMUDl2REJ6d1Y1RUEtejc0TENvdnZ6c3NpVnNZdWc0YTRMc2dHX3BUODVUMA?oc=5) — Google News Armwrestling FR · 2026-02-22
+**À creuser :**
+** [Affaire
 
 ## 📰 Actualités & Annonces
 
