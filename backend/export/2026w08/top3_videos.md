@@ -1,4 +1,5 @@
 ## 🎥 Top 3 Vidéos / Podcasts de la semaine
 
-- **1.** 🎥 [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10 · **61/100**
-- **2.** 🎥 [Getting the most out of each rep with @FATGRIPZ](https://www.youtube.com/shorts/gHPXTrLAOII) — Larry Wheels · 2026-02-19 · **53/100**
+- **1.** 🎥 [12 Days Out From My Kamil Rematch | Numbers Don't Lie](https://www.youtube.com/watch?v=9AoWwGkwHpg) — Monster Michael Todd · 2026-02-19 · **66/100**
+- **2.** 🎥 [Tani Shechter vs Mariah Bush LIVE REACTION](https://www.youtube.com/watch?v=6GqR3uA7EnQ) — Voice of Armwrestling · 2026-02-21 · **63/100**
+- **3.** 🎥 [Who is Luka Tsinadze? #evwsports #armwrestling](https://www.youtube.com/shorts/Ffm8ZvGBjSk) — East vs West Armwrestling · 2026-02-22 · **56/100**

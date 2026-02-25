@@ -2,14 +2,16 @@
 
 ## athletes
 
-- [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10 · **61/100**
-- [See 17-time arm wrestling world champ from West Bridgewater in action - Enterprise News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQnZaQ0wwbDhqQnZqRHo1eXNFaUpYNXVVWVF3NS1zVEI0RGY0YUxESE1YSDVBYXFaMGRDaFh3ZFVPakdROHhyaGdlUC1KelhaRi01OWgzcnJ0YnNlN0FjYjhkYkNabkhEdXpIUlRJSW44bnp5UEtDbVFhb3NfN0ZkOUNvRzZUVkhxWU1JVWsyTVE5c211X0tBS2ZqNkpOVnJmcmRxcnhwMTZDaWVpY3RLaHVvaDFsRXNfTjM1QlFBTjVtX0tnOE5fb3Y3YnJKbnBXLUJ4OTc2LVZvOU5qVWM0Y0xYR0pEVTJKdkttVXRJTU8?oc=5) — Google News Arm Wrestling · 2026-02-20 · **57/100**
-- [PEBP 220lbs/99.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/bVGncoIUzvw) — Monster Michael Todd · 2026-02-09 · **56/100**
-- [Seated Pronation 162.25lbs/73.4kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/f8xaT35JIVA) — Monster Michael Todd · 2026-02-08 · **56/100**
+- [Tani Shechter vs Mariah Bush LIVE REACTION](https://www.youtube.com/watch?v=6GqR3uA7EnQ) — Voice of Armwrestling · 2026-02-21 · **64/100**
+- [Hit my goal for this PREP! 197lbs/89.4kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/1QCtlYpxr90) — Monster Michael Todd · 2026-02-19 · **57/100**
+- [Who is Luka Tsinadze? #evwsports #armwrestling](https://www.youtube.com/shorts/Ffm8ZvGBjSk) — East vs West Armwrestling · 2026-02-22 · **57/100**
+- [Devon Larratt vs Georgi Tsvetkov | King of The Table 9 Armwrestling](https://www.youtube.com/shorts/rdHa-CcgCzA) — East vs West Armwrestling · 2026-02-21 · **57/100**
+- [Vlad The Destoryer 🇱🇻 vs Man1festor 🇺🇦 at EvW 22 on 28th February #armwrestling](https://www.youtube.com/shorts/lFPcEzsZg2Q) — Voice of Armwrestling · 2026-02-20 · **54/100**
 
 ## competitions
 
-- [Safari to host arm wrestling competition - The Peninsula Qatar](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVFCT05DdkRjaWZvUFZRRzJMbUczNTVyWi1wbW8zcGNQel9nU0wzd2RaUm5mbU5rS3ZKSEpiT2RULUc0a1hoRmd1ZnJoTG40bkJFT1I5THpPUGFBWGxBSE9UVlZCZ3lMaXVseEpVN1EwVDNSUXByT2xpYTJMTnhIRGp5MGR5ZnotZmpDcU1xRTlTb0k?oc=5) — Google News Armwrestling EN · 2026-02-09 · **56/100**
+- [Arm wrestling tournament makes first Opry appearance - corsicanadailysun.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSHBjUkFoeXVYUlowekVWNkZDM2dfS2NlZmt2VmhwdDN2NGdibnlOYzJlNUptWDdHc1pVRHh0NFBVY3BCdFFIWnotSmVlZXNydEQzNEEzQzBBVERvWnlJMUtYb1JBNE1hUTV4NGUtbzQ1MmhWYmx6NnY0WDhqSS16bGhDRk5BQUhSUFhxWjI1VXZXLXAxcTdTZTAtOWhBQ3Z6WUc4dUJiRzVCTmtMUFdTZ0g0QW1wWVlReUxIeFN6VE1jWFhDcGgxQXFmR0RfaFJQQ1BOOUV3X1k?oc=5) — Google News Arm Wrestling · 2026-02-22 · **57/100**
+- [Get your ticket to the gun show at the first annual arm wrestling tournament - East Idaho News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV1dsWGlkcnRKc283c0xuRHZlS0RjWnhzcWtscVJPOTRSaUV2RHZZbHBYSWxHTEV2S3k0cVh2dDdOdUo5cmNiQ1ZGYVA1eGEtc25mTmxEQjR6VEVGX0d3ZldEemlJeS01VEl6bHQxQndaSU4xSzR1RHo2alZ2UWk4Nm1CRm9BaTRFaWRHM3ZpeXBsenkyTm85dEtFbktFOUZUcU5QNmdoVmdxbVU2ZWNIVzROUjN5dw?oc=5) — Google News Arm Wrestling · 2026-02-18 · **56/100**
 
 ## france
 
@@ -19,13 +21,8 @@
 
 - [Affaire Yan Diomandé : révélations sur le bras de fer entre Max Gradel et Roc Nation - Sport News Africa](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1ZzMjlGQXQwc2k1WkxrWDNsdjMwN3JmX0xUbjlxRkxmdnZUTVR5cWlsYWFscVVMZHlLelFXcmxMUG1wOU9Bb1ZZX3dfQWlrNzZwc1AwZVBWNV9mUDlVRWtCWXFCMUt5UzJ4OWVVYTluMEZhcVUxRnFzbnZfNVQxU2lhSF95RldYRkZaY3dpQmRmb2hBQUJQNndLbU8yNE9EY04teG8tWjhXSk1jYVVnUXl4RWVxYXJyOTVB?oc=5) — Google News Armwrestling FR · 2026-02-20 · **55/100**
 
-## training
-
-- [How to not get toprolled by taller guys](https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/) — Reddit Armwrestling (Hot) · 2026-02-10 · **61/100**
-- [What are your favourite forearm/hand exercises that AREN’T armwrestling specific?](https://www.reddit.com/r/armwrestling/comments/1r0qx3k/what_are_your_favourite_forearmhand_exercises/) — Reddit Armwrestling (Hot) · 2026-02-10 · **60/100**
-- [Competitions](https://www.reddit.com/r/armwrestling/comments/1r0xhla/competitions/) — Reddit Armwrestling (Hot) · 2026-02-10 · **58/100**
-- [Are internal rotation enough for side pressure work](https://www.reddit.com/r/armwrestling/comments/1r0f29x/are_internal_rotation_enough_for_side_pressure/) — Reddit Armwrestling (Hot) · 2026-02-09 · **56/100**
-
 ## youtube_media
 
-- [Performance: What Actually Helps And What Doesn’t](https://www.youtube.com/watch?v=2es2tOGA6Ng) — Monster Michael Todd · 2026-02-09 · **60/100**
+- [12 Days Out From My Kamil Rematch | Numbers Don't Lie](https://www.youtube.com/watch?v=9AoWwGkwHpg) — Monster Michael Todd · 2026-02-19 · **66/100**
+- [Pronation Engaged Back Pressure Static hold with the weight of a HEAVYWEIGHT human. #armwrestling](https://www.youtube.com/shorts/rf0EMpz25o0) — Monster Michael Todd · 2026-02-21 · **61/100**
+- [Dave Chaffee vs Alex Kurdecha | King Of The Table 3 Full Match](https://www.youtube.com/watch?v=LjPDrhVqI_o) — East vs West Armwrestling · 2026-02-19 · **57/100**
