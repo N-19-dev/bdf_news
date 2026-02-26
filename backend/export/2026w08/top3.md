@@ -1,5 +1,5 @@
 ## 🏆 Top 3 de la semaine
 
-- **1.** [12 Days Out From My Kamil Rematch | Numbers Don't Lie](https://www.youtube.com/watch?v=9AoWwGkwHpg) — Monster Michael Todd · 2026-02-19 · **66.27617055719548/100**
-- **2.** [Tani Shechter vs Mariah Bush LIVE REACTION](https://www.youtube.com/watch?v=6GqR3uA7EnQ) — Voice of Armwrestling · 2026-02-21 · **63.687219484285876/100**
-- **3.** [Who is Luka Tsinadze? #evwsports #armwrestling](https://www.youtube.com/shorts/Ffm8ZvGBjSk) — East vs West Armwrestling · 2026-02-22 · **56.9332601536404/100**
+- **1.** [How to not get toprolled by taller guys](https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/) — Reddit Armwrestling (Hot) · 2026-02-10 · **61.15279753099789/100**
+- **2.** [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10 · **61.29897139289162/100**
+- **3.** [See 17-time arm wrestling world champ from West Bridgewater in action - Enterprise News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQnZaQ0wwbDhqQnZqRHo1eXNFaUpYNXVVWVF3NS1zVEI0RGY0YUxESE1YSDVBYXFaMGRDaFh3ZFVPakdROHhyaGdlUC1KelhaRi01OWgzcnJ0YnNlN0FjYjhkYkNabkhEdXpIUlRJSW44bnp5UEtDbVFhb3NfN0ZkOUNvRzZUVkhxWU1JVWsyTVE5c211X0tBS2ZqNkpOVnJmcmRxcnhwMTZDaWVpY3RLaHVvaDFsRXNfTjM1QlFBTjVtX0tnOE5fb3Y3YnJKbnBXLUJ4OTc2LVZvOU5qVWM0Y0xYR0pEVTJKdkttVXRJTU8?oc=5) — Google News Arm Wrestling · 2026-02-20 · **57.21527831120924/100**

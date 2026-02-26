@@ -1,47 +1,6 @@
 {
-  "athletes": [
-    {
-      "url": "https://www.youtube.com/shorts/o8RXOtHEJ7Y",
-      "title": "Progress has been MADE! #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1771602202,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/1QCtlYpxr90",
-      "title": "Hit my goal for this PREP! 197lbs/89.4kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1771528581,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/oM9j1dCMK0w",
-      "title": "Finally starting to enjoy benching again! 335lbs/152kgs AMRAP #armwrestling #worldchampion #phil413",
-      "summary": "",
-      "published_ts": 1771424707,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    }
-  ],
+  "athletes": [],
   "competitions": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVktzakdFOERlUVdTbWJQaG50QlpKei1UQS1wWFpsSGVSc3BtdW0zNUhXUjB5Y0lZM2hUYTlGWTA5MFpLaUI2X3pQYjVHNE8yaG81TXFyTFFPcUJHV3R1TGw1TU1tYkZ4SldxbllQdjJnc2NLQnRza19mRkZJTWFGVWpISkpxcDNFSkNScEw0b3I5c29MNlZOUFowaHZFd05zWjhnbHVxNjdyQmgtNE42NW00c21NbWVERS1ZcjJWZmh4Z1VsTkZVcQ?oc=5",
-      "title": "Rugby - Tournoi des 6 Nations : Fabien Galthié : « On a remporté le bras de fer » - L'Équipe",
-      "summary": "Rugby - Tournoi des 6 Nations : Fabien Galthié : « On a remporté le bras de fer » L'Équipe",
-      "published_ts": 1771790450,
-      "source_name": "Google News Armwrestling FR",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/Ffm8ZvGBjSk",
-      "title": "Who is Luka Tsinadze? #evwsports #armwrestling",
-      "summary": "",
-      "published_ts": 1771789299,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZTRmMzFpb1l0WWpCelN2NWVZc09fTzEydUJScW1hMmd5TUpmZE9qemlIcHJMU1JFNlpGeE1yOGxRNDRJdWVOQXI3aDhERnUydFl4c3E4bDZTU0ZkckNZMEFrYXBLd0J6REItRW44VDdRRFlGNmktWjUxakt5UDhsSW00eGhScDAyMExka1AwWERiWWJxam92a1dUVUs5RFJDVUpvVU9faTdEWlB3LXR1TS1ac180aVRoUFEzR1N2UVZqU2xnUFRFZ3RyQUNXMEVvOFVPZ1Q3LUI0MDVaYUhlamNQd2I2WDhMUDl2REJ6d1Y1RUEtejc0TENvdnZ6c3NpVnNZdWc0YTRMc2dHX3BUODVUMA?oc=5",
       "title": "France-Italie: \"On est entrés dans un bras de fer\", le XV de France s'est sorti d'un \"match difficile\" au 6 nations - RMC Sport",
@@ -51,127 +10,23 @@
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/shorts/F_c6N8HSWKA",
-      "title": "The work has been done! 6 days until EVW22 use code MTODD #armwrestling #worldchampion #comeback",
-      "summary": "",
-      "published_ts": 1771772407,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSHBjUkFoeXVYUlowekVWNkZDM2dfS2NlZmt2VmhwdDN2NGdibnlOYzJlNUptWDdHc1pVRHh0NFBVY3BCdFFIWnotSmVlZXNydEQzNEEzQzBBVERvWnlJMUtYb1JBNE1hUTV4NGUtbzQ1MmhWYmx6NnY0WDhqSS16bGhDRk5BQUhSUFhxWjI1VXZXLXAxcTdTZTAtOWhBQ3Z6WUc4dUJiRzVCTmtMUFdTZ0g0QW1wWVlReUxIeFN6VE1jWFhDcGgxQXFmR0RfaFJQQ1BOOUV3X1k?oc=5",
-      "title": "Arm wrestling tournament makes first Opry appearance - corsicanadailysun.com",
-      "summary": "Arm wrestling tournament makes first Opry appearance corsicanadailysun.com",
-      "published_ts": 1771768800,
-      "source_name": "Google News Arm Wrestling",
-      "content_type": "technical"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbGhzd0owLUNVTEFUWW1QWGhEOGYxWXl2WUI0WVRZQTNabGFDMm5MOC1SWkNJaDIydUJJd2xxNW80WGRJVFI3d19QZFVGdkx1Q1h1LUhneXpjb2RvX3JlWElXbDY0bE5ZMnJfM2dRc3FkUnB0VjhqZWJ0OFNKN2RPRkhnaDRhdDNvbHkyS1hUQ0RvaFVOSFJxZVFrelFGcG1ZVVFKNGFtUmhBSTVldXplUVZqcGxwOVZiOGs0dDV3MEp2UWszOXZPeg?oc=5",
       "title": "Fabien Galthié : « On a remporté le bras de fer » - Rugby - Tournoi des 6 Nations - Orange",
       "summary": "Fabien Galthié : « On a remporté le bras de fer » - Rugby - Tournoi des 6 Nations Orange",
       "published_ts": 1771718400,
       "source_name": "Google News Armwrestling FR",
       "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/GHrGv4i4XYk",
-      "title": "PorkChop is coming to EvW 22: Lean and Mean!",
-      "summary": "",
-      "published_ts": 1771706923,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/rdHa-CcgCzA",
-      "title": "Devon Larratt vs Georgi Tsvetkov | King of The Table 9 Armwrestling",
-      "summary": "",
-      "published_ts": 1771693524,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=TxgTVWixWv8",
-      "title": "Michael Todd vs Kamil Jablonski | East vs West 22 Pre-Match Livestream Podcast",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1771624885,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/IJWJ2OND5a0",
-      "title": "Vitaly Laletin vs Kamil Jablonski | King of the table 11 | Left Hand | Round 1",
-      "summary": "",
-      "published_ts": 1771612442,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/KrFSdhV1O9E",
-      "title": "Both athletes are 100% confident that they’re gonna win on East vs West 22",
-      "summary": "",
-      "published_ts": 1771609489,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/lFPcEzsZg2Q",
-      "title": "Vlad The Destoryer 🇱🇻 vs Man1festor 🇺🇦 at EvW 22 on 28th February #armwrestling",
-      "summary": "",
-      "published_ts": 1771594523,
-      "source_name": "Voice of Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/-VNAXEXhOJA",
-      "title": "Matt Mask vs Marcio Barboza | King of the table 13 | Right Arm | Round 2",
-      "summary": "",
-      "published_ts": 1771531625,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=WnqD5Y3MsFA",
-      "title": "Matt Mask vs Davit Arabuli | East vs West 22 Pre-Match Livestream Podcast",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1771528434,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=LjPDrhVqI_o",
-      "title": "Dave Chaffee vs Alex Kurdecha | King Of The Table 3 Full Match",
-      "summary": "King of The Table 3\nApril 2, 2022, Dubai\n\nOfficial EVW website: https://evwsports.com/",
-      "published_ts": 1771516830,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=stUbDTghGqI",
-      "title": "Vladislavs Krasovskis vs Alexander Teliatnik | East vs West 22 Pre-Match Livestream Podcast",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1771486543,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV1dsWGlkcnRKc283c0xuRHZlS0RjWnhzcWtscVJPOTRSaUV2RHZZbHBYSWxHTEV2S3k0cVh2dDdOdUo5cmNiQ1ZGYVA1eGEtc25mTmxEQjR6VEVGX0d3ZldEemlJeS01VEl6bHQxQndaSU4xSzR1RHo2alZ2UWk4Nm1CRm9BaTRFaWRHM3ZpeXBsenkyTm85dEtFbktFOUZUcU5QNmdoVmdxbVU2ZWNIVzROUjN5dw?oc=5",
-      "title": "Get your ticket to the gun show at the first annual arm wrestling tournament - East Idaho News",
-      "summary": "Get your ticket to the gun show at the first annual arm wrestling tournament East Idaho News",
-      "published_ts": 1771444260,
-      "source_name": "Google News Arm Wrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/dhlVb9aUeTQ",
-      "title": "Tani Shechter first and last supermatch is this week on The Natty Bros.",
-      "summary": "",
-      "published_ts": 1771437802,
-      "source_name": "Voice of Armwrestling",
-      "content_type": "technical"
     }
   ],
   "france": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONk50SnlCdTRUOTFkdUlkVzl2aW9RLUYtdFktd0lLLWZoX1hBM0xZZ1lqaFlIUV9YTXExeWdHTzZ5QWhLVWVadnRFN1RWUS1hTDBhVFRqME9fUkRXWXA1aHlyWGdRSURyZk83YV91WHhzb0t6eW93R1AycnNOUzdwd2FvaE9JNG54UXN4TVhyZGtKakdTQWFDamRERDIwOHJydlJpQWw4YXA3OF93SkdJQw?oc=5",
+      "title": "Fabien Galthié après France-Italie : « On a remporté le bras de fer » - L'Équipe",
+      "summary": "Fabien Galthié après France-Italie : « On a remporté le bras de fer » L'Équipe",
+      "published_ts": 1771787461,
+      "source_name": "Google News Armwrestling FR",
+      "content_type": "technical"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZXVXV0NSbTRSMUNIaTNJMWNIdlNfMzkwMGNrdVJSUXQtaHB2dDNVQlIwVjJqQlBEbld3UnY2b05xVVN4YnBTN2hUdG9RaFlObmFSR24wMHpqY3B4UW9ZY1VjcmdEZTlPM21uWWRPX3Q2RXZvUDl1UG5xbW9Cd3BGOG9XYjlLak1hR2Nwb1I3Q0ZkWEg3V25keDh1RnBIUy1HMDVRQ1FwSEZaSi1FQXkzV2JHOU00aU55QzZvUg?oc=5",
       "title": "Après France – Italie. Fabien Galthié : « C’est bien d’avoir remporté ce bras de fer » - Sud Ouest",
@@ -181,71 +36,22 @@
       "content_type": "technical"
     }
   ],
-  "news": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1ZzMjlGQXQwc2k1WkxrWDNsdjMwN3JmX0xUbjlxRkxmdnZUTVR5cWlsYWFscVVMZHlLelFXcmxMUG1wOU9Bb1ZZX3dfQWlrNzZwc1AwZVBWNV9mUDlVRWtCWXFCMUt5UzJ4OWVVYTluMEZhcVUxRnFzbnZfNVQxU2lhSF95RldYRkZaY3dpQmRmb2hBQUJQNndLbU8yNE9EY04teG8tWjhXSk1jYVVnUXl4RWVxYXJyOTVB?oc=5",
-      "title": "Affaire Yan Diomandé : révélations sur le bras de fer entre Max Gradel et Roc Nation - Sport News Africa",
-      "summary": "Affaire Yan Diomandé : révélations sur le bras de fer entre Max Gradel et Roc Nation Sport News Africa",
-      "published_ts": 1771588961,
-      "source_name": "Google News Armwrestling FR",
-      "content_type": "technical"
-    }
-  ],
+  "news": [],
   "training": [
     {
-      "url": "https://www.youtube.com/shorts/rf0EMpz25o0",
-      "title": "Pronation Engaged Back Pressure Static hold with the weight of a HEAVYWEIGHT human. #armwrestling",
-      "summary": "",
-      "published_ts": 1771704265,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=6GqR3uA7EnQ",
-      "title": "Tani Shechter vs Mariah Bush LIVE REACTION",
-      "summary": "👕T-SHIRTS & TRAINING PLANS https://voaarmwrestling.com/ \n📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com \n✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling\n▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com/ Discount Code: VOA2025 \n\n📲 Social Media\n📝https://linktr.ee/coach_ray\nhttps://www.instagram.com/voiceofarmwrestling/\nhttps://www.instagram.com/janisamolins/\nhttps://www.instagram.com/coach_rayx/\n\n#armwrestling #voiceofarmwrestling #armwrestlingtraining",
-      "published_ts": 1771696801,
-      "source_name": "Voice of Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/gHPXTrLAOII",
-      "title": "Getting the most out of each rep with @FATGRIPZ",
-      "summary": "",
-      "published_ts": 1771530486,
-      "source_name": "Larry Wheels",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=Vv9si-91hX8",
-      "title": "Who Has Them as Favorites? — Devon, Toddzilla & Brigitta",
-      "summary": "👕T-SHIRTS & TRAINING PLANS https://voaarmwrestling.com/ \n📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com \n✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling\n▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com/ Discount Code: VOA2025 \n\n📲 Social Media\n📝https://linktr.ee/coach_ray\nhttps://www.instagram.com/voiceofarmwrestling/\nhttps://www.instagram.com/janisamolins/\nhttps://www.instagram.com/coach_rayx/\n\n#armwrestling #voiceofarmwrestling #armwrestlingtraining",
-      "published_ts": 1771523438,
-      "source_name": "Voice of Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=9AoWwGkwHpg",
-      "title": "12 Days Out From My Kamil Rematch | Numbers Don't Lie",
-      "summary": "Head to https://huel.yt.link/7S8IDjk\n and use MONSTER15 to get 15% off orders $50+. New customers only!\nThis video includes a paid partnership with Huel. #ad\n\nI’m 12 days out from my rematch with Kamil Jablonski.\n\nThis isn’t a hype session. It’s a strength test against numbers I set weeks ago during training camp to make sure I’m prepared for this armwrestling match.\n\nEvery lift in this video has a benchmark attached to it. Either it shows up — or it doesn’t. That’s how I remove guesswork before competition.\n\nI’ve pulled Kamil before and won 3–0. But I expect a stronger, more prepared opponent this time. Nothing gets left to chance.\n\nThese lifts include:\n• Shoulder press\n• Seated pronation\n• Riser curl\n• Pronation-engaged back pressure\n• Outside side pressure\n• Wrist cupping\n\nThis is what preparation looks like when numbers don’t lie.\n\nJoin this channel to get access to perks:https://www.youtube.com/channel/UCarJKBV9GEpXRHrw4bEEhHA/join\n👕https://www.ninelineapparel.com/discount/MONSTER20 for a discount. Support the company that gives back to those who give all.\n💪Visit https://monstermichaeltodd.com for all your training tools, apparel, social media links, and partner links",
-      "published_ts": 1771507602,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjRxMHRCZlV5Qk1mZXYyTFVLQUV1X3lmOEpNM3JmZHBtbnREbUU1NkxHX3hURGE1VHZkaWFFVzk5UEVud0VrREtTbUhmWHpKUC1BenF2aFJPVVFxcHpsNXlBSnN5MGJGMzVPZjhKWmVwRUhoX2pqMHZfaWR0UGpzSXdKMVRna1lwd2IzbTNoeV9WVHlwMlQ3M3l1UQ?oc=5",
-      "title": "Former arm wrestling club owners on hook for $18k in rent, repairs - Tri-Cities Dispatch",
-      "summary": "Former arm wrestling club owners on hook for $18k in rent, repairs Tri-Cities Dispatch",
-      "published_ts": 1771387309,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQnZaQ0wwbDhqQnZqRHo1eXNFaUpYNXVVWVF3NS1zVEI0RGY0YUxESE1YSDVBYXFaMGRDaFh3ZFVPakdROHhyaGdlUC1KelhaRi01OWgzcnJ0YnNlN0FjYjhkYkNabkhEdXpIUlRJSW44bnp5UEtDbVFhb3NfN0ZkOUNvRzZUVkhxWU1JVWsyTVE5c211X0tBS2ZqNkpOVnJmcmRxcnhwMTZDaWVpY3RLaHVvaDFsRXNfTjM1QlFBTjVtX0tnOE5fb3Y3YnJKbnBXLUJ4OTc2LVZvOU5qVWM0Y0xYR0pEVTJKdkttVXRJTU8?oc=5",
+      "title": "See 17-time arm wrestling world champ from West Bridgewater in action - Enterprise News",
+      "summary": "See 17-time arm wrestling world champ from West Bridgewater in action Enterprise News",
+      "published_ts": 1771579801,
       "source_name": "Google News Arm Wrestling",
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/shorts/UqFwg7xwpsI",
-      "title": "Seated pronation daily 5 & static hold 169.75lbs/77kgs #armwrestling #worldchamp  #comeback #phil413",
-      "summary": "",
-      "published_ts": 1771250999,
-      "source_name": "Monster Michael Todd",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQREJ3SVJZaWVmbGkwN2FTMVl0a1llcTJLV2hJb1dSQUZrazVXTXlwWF9pMC15dkdZZGJFbmJXYjNSWEt2Z21xWXNHR1J3Y0w0enZBQTdJdTdvS1hKbVF6UGFhc2xpUGlialBzVzdJdlRBOTBJQ1NzbFRmeDZrd0RVZ1Q5UE1Rb1U0anRmTnlhdEJCV1hjUzJZaHBnNnRUelAxWDVRYXpQdFdUXzd6WnhCSUdOOUlvZkN0TVhuVldqWFZYVjhLREFjeDhwd09uREJSRzRrUzltZzk5LXpWcERpLXRKOUdzUGxKTmU2NXZoZk5vUQ?oc=5",
+      "title": "Inside the training of Lincoln arm wrestler Wallace Dilley - Nebraska News Service",
+      "summary": "Inside the training of Lincoln arm wrestler Wallace Dilley Nebraska News Service",
+      "published_ts": 1771479900,
+      "source_name": "Google News Arm Wrestling",
       "content_type": "technical"
     }
   ],
