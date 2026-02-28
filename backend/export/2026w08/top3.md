@@ -1,5 +1,5 @@
 ## 🏆 Top 3 de la semaine
 
-- **1.** [12 Days Out From My Kamil Rematch | Numbers Don't Lie](https://www.youtube.com/watch?v=9AoWwGkwHpg) — Monster Michael Todd · 2026-02-19 · **66.27617055719548/100**
-- **2.** [‘Arm-ed and dangerous’: Over 200 competitors gather for arm wrestling tournament - East Idaho News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjlwZE1YRTJ1R3JOaTJnNFkxNS1CM25UZml2NjVVZXBGckF4ZFk0V3VkcFo3dnJkUjJadDRyTHI5VXlTZUJTUG1oZ3dkc0ZWbHU4TGtNcjRLYjNMQ3o4OXRDNTE0eS1JaDRHc004c3Fzc0dTTW1FYTQxMjlYcjFNc040SWtLR3dDdEVwd1Y0UHlDaV80bGdxYW9MNXZjWmhKMGNlSi1Tc1dieDBqbmxBbUk4UDhVVGc?oc=5) — Google News Arm Wrestling · 2026-02-22 · **59.396542798389085/100**
-- **3.** [Who is Luka Tsinadze? #evwsports #armwrestling](https://www.youtube.com/shorts/Ffm8ZvGBjSk) — East vs West Armwrestling · 2026-02-22 · **56.9332601536404/100**
+- **1.** [How to not get toprolled by taller guys](https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/) — Reddit Armwrestling (Hot) · 2026-02-10 · **61.15279753099789/100**
+- **2.** [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10 · **61.29897139289162/100**
+- **3.** [Safari to host arm wrestling competition - The Peninsula Qatar](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVFCT05DdkRjaWZvUFZRRzJMbUczNTVyWi1wbW8zcGNQel9nU0wzd2RaUm5mbU5rS3ZKSEpiT2RULUc0a1hoRmd1ZnJoTG40bkJFT1I5THpPUGFBWGxBSE9UVlZCZ3lMaXVseEpVN1EwVDNSUXByT2xpYTJMTnhIRGp5MGR5ZnotZmpDcU1xRTlTb0k?oc=5) — Google News Armwrestling EN · 2026-02-09 · **56.10393973914059/100**
