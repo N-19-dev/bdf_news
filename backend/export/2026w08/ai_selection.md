@@ -9,11 +9,14 @@
 ## competitions
 
 - [Safari to host arm wrestling competition - The Peninsula Qatar](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVFCT05DdkRjaWZvUFZRRzJMbUczNTVyWi1wbW8zcGNQel9nU0wzd2RaUm5mbU5rS3ZKSEpiT2RULUc0a1hoRmd1ZnJoTG40bkJFT1I5THpPUGFBWGxBSE9UVlZCZ3lMaXVseEpVN1EwVDNSUXByT2xpYTJMTnhIRGp5MGR5ZnotZmpDcU1xRTlTb0k?oc=5) — Google News Armwrestling EN · 2026-02-09 · **56/100**
-- [Kyrgyzstan’s armwrestling team wins 87 medals at World Cup - 24.KG](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnBEQmUweWRzZ0dJS1F3VmItLUd2OGtMaGJGOTluVDVJR25xTUNLcDFqR2syQ2VaYm1MSlNaUTNWZ1VVdzdoOXdoOFN1dlN0WHQtdmlUNTJURm5RdUpUemxmcDBEemxUVjBfN3FuUW5KQXJ3QWVfaWMwNWNHOF9yN2FwcGsxTE10aWlxZzZzQ0zSAZYBQVVfeXFMTnBQSldXTjdmZzBfbERuTXlCNnRfclE5cHNKZVVaTm9GazYycVpoWG9GUHJwODBLNU1wTnA2UWttNE0waEZ2OGxjVmt6eHF3Zk5TdC13LWVyaDhBdkFvMVVSZ2RUMmlJVjUzeDhDZ091N2FyR3pkWWg4TTdhSlhEYzI4cWZKdHdxZHo0bFR1MkIxZ0VRSVFn?oc=5) — Google News Armwrestling EN · 2026-02-10 · **54/100**
 
 ## france
 
 - [France-Italie: "On est entrés dans un bras de fer", le XV de France s'est sorti d'un "match difficile" au 6 nations - RMC Sport](https://news.google.com/rss/articles/CBMikwJBVV95cUxOZTRmMzFpb1l0WWpCelN2NWVZc09fTzEydUJScW1hMmd5TUpmZE9qemlIcHJMU1JFNlpGeE1yOGxRNDRJdWVOQXI3aDhERnUydFl4c3E4bDZTU0ZkckNZMEFrYXBLd0J6REItRW44VDdRRFlGNmktWjUxakt5UDhsSW00eGhScDAyMExka1AwWERiWWJxam92a1dUVUs5RFJDVUpvVU9faTdEWlB3LXR1TS1ac180aVRoUFEzR1N2UVZqU2xnUFRFZ3RyQUNXMEVvOFVPZ1Q3LUI0MDVaYUhlamNQd2I2WDhMUDl2REJ6d1Y1RUEtejc0TENvdnZ6c3NpVnNZdWc0YTRMc2dHX3BUODVUMA?oc=5) — Google News Armwrestling FR · 2026-02-22 · **54/100**
+
+## news
+
+- [Affaire Yan Diomandé : révélations sur le bras de fer entre Max Gradel et Roc Nation - Sport News Africa](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1ZzMjlGQXQwc2k1WkxrWDNsdjMwN3JmX0xUbjlxRkxmdnZUTVR5cWlsYWFscVVMZHlLelFXcmxMUG1wOU9Bb1ZZX3dfQWlrNzZwc1AwZVBWNV9mUDlVRWtCWXFCMUt5UzJ4OWVVYTluMEZhcVUxRnFzbnZfNVQxU2lhSF95RldYRkZaY3dpQmRmb2hBQUJQNndLbU8yNE9EY04teG8tWjhXSk1jYVVnUXl4RWVxYXJyOTVB?oc=5) — Google News Armwrestling FR · 2026-02-20 · **55/100**
 
 ## training
 

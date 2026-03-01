@@ -11,7 +11,25 @@
     }
   ],
   "france": [],
-  "news": [],
-  "training": [],
+  "news": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1ZzMjlGQXQwc2k1WkxrWDNsdjMwN3JmX0xUbjlxRkxmdnZUTVR5cWlsYWFscVVMZHlLelFXcmxMUG1wOU9Bb1ZZX3dfQWlrNzZwc1AwZVBWNV9mUDlVRWtCWXFCMUt5UzJ4OWVVYTluMEZhcVUxRnFzbnZfNVQxU2lhSF95RldYRkZaY3dpQmRmb2hBQUJQNndLbU8yNE9EY04teG8tWjhXSk1jYVVnUXl4RWVxYXJyOTVB?oc=5",
+      "title": "Affaire Yan Diomandé : révélations sur le bras de fer entre Max Gradel et Roc Nation - Sport News Africa",
+      "summary": "Affaire Yan Diomandé : révélations sur le bras de fer entre Max Gradel et Roc Nation Sport News Africa",
+      "published_ts": 1771574400,
+      "source_name": "Google News Armwrestling FR",
+      "content_type": "technical"
+    }
+  ],
+  "training": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjRxMHRCZlV5Qk1mZXYyTFVLQUV1X3lmOEpNM3JmZHBtbnREbUU1NkxHX3hURGE1VHZkaWFFVzk5UEVud0VrREtTbUhmWHpKUC1BenF2aFJPVVFxcHpsNXlBSnN5MGJGMzVPZjhKWmVwRUhoX2pqMHZfaWR0UGpzSXdKMVRna1lwd2IzbTNoeV9WVHlwMlQ3M3l1UQ?oc=5",
+      "title": "Former arm wrestling club owners on hook for $18k in rent, repairs - Tri-Cities Dispatch",
+      "summary": "Former arm wrestling club owners on hook for $18k in rent, repairs Tri-Cities Dispatch",
+      "published_ts": 1771387309,
+      "source_name": "Google News Armwrestling EN",
+      "content_type": "technical"
+    }
+  ],
   "youtube_media": []
 }
