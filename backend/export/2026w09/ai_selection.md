@@ -2,24 +2,30 @@
 
 ## athletes
 
-- [Devon's training methodology.](https://www.reddit.com/r/armwrestling/comments/1riapjr/devons_training_methodology/) — Reddit Armwrestling (Hot) · 2026-03-01 · **57/100**
-- [What do you guys think about georgi tautiev opinion](https://www.reddit.com/r/armwrestling/comments/1riasgf/what_do_you_guys_think_about_georgi_tautiev/) — Reddit Armwrestling (New) · 2026-03-01 · **56/100**
-- [Inside elbow pain](https://www.reddit.com/r/armwrestling/comments/1ri7pi0/inside_elbow_pain/) — Reddit Armwrestling (New) · 2026-03-01 · **56/100**
-- [Do you guys think its alot to do 3 hammer curl variation for a session like alan zoloev](https://www.reddit.com/r/armwrestling/comments/1ria85m/do_you_guys_think_its_alot_to_do_3_hammer_curl/) — Reddit Armwrestling (New) · 2026-03-01 · **56/100**
-- [I was in Vienna. Few thoughts](https://www.reddit.com/r/armwrestling/comments/1rhti4r/i_was_in_vienna_few_thoughts/) — Reddit Armwrestling (Top) · 2026-03-01 · **56/100**
-- [Do you think Vitaly will win right arm vs devon?](https://www.reddit.com/r/armwrestling/comments/1ri7wxq/do_you_think_vitaly_will_win_right_arm_vs_devon/) — Reddit Armwrestling (Hot) · 2026-03-01 · **55/100**
-- [Teliaknik (The Manifestor)](https://www.reddit.com/r/armwrestling/comments/1rhur6y/teliaknik_the_manifestor/) — Reddit Armwrestling (Top) · 2026-03-01 · **54/100**
-- [Larratts wife Jodi allowed again to scream at the referees while Pork Chop match](https://www.reddit.com/r/armwrestling/comments/1rhupww/larratts_wife_jodi_allowed_again_to_scream_at_the/) — Reddit Armwrestling (Top) · 2026-03-01 · **53/100**
-- [« Bayonne va nous mettre sous pression » : David Giguel et l’ACFC s’attendent à un bras de fer dans le Pays basque - Charente Libre](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT2MzTzVwUTdQTEFqTzVrZU40Slg3Q09CNkpHSXZyMEFMT3l0Z0pTMkJRRHNkVlMxMUFBRTdQczFnX24yVzFqTzJHQWR3eXAtbnc1ZEVWa1o4d2JPZ1UtZmhfUVh2d1hJOE9lNTN2OGh1eHBvWllPTHQ2R3VPdnloZ25mRkZGWHNhUWdRbHlFX3NuOVdpejZsZm12QVU3aU1SaWRPQjRkYzFpMUNKaHg3ZlNzcUVkcjQyeDZBMWYxZnRRT2g2cldlMnF5UHU1WklISHhxMlFPRElzYy0tMXlFN2VxVHVYWlFZNFM0YjBLT0dBaGJFck5MUg?oc=5) — Google News Armwrestling FR · 2026-02-27 · **51/100**
+- [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10 · **61/100**
+- [PEBP 220lbs/99.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/bVGncoIUzvw) — Monster Michael Todd · 2026-02-09 · **56/100**
+- [Leonidas Arkona and Devon Larratt Part 2 (Backyard Arm wrestling with Canadian Giants)](https://www.reddit.com/r/armwrestling/comments/1r0dci1/leonidas_arkona_and_devon_larratt_part_2_backyard/) — Reddit Armwrestling (Hot) · 2026-02-09 · **56/100**
+- [Seated Pronation 162.25lbs/73.4kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/f8xaT35JIVA) — Monster Michael Todd · 2026-02-08 · **56/100**
 
 ## competitions
 
-- [Alizhan vs Morozov LH SHW EvW 23 CONFIRMED](https://www.reddit.com/r/armwrestling/comments/1ri8kqt/alizhan_vs_morozov_lh_shw_evw_23_confirmed/) — Reddit Armwrestling (Hot) · 2026-03-01 · **50/100**
+- [Safari to host arm wrestling competition - The Peninsula Qatar](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVFCT05DdkRjaWZvUFZRRzJMbUczNTVyWi1wbW8zcGNQel9nU0wzd2RaUm5mbU5rS3ZKSEpiT2RULUc0a1hoRmd1ZnJoTG40bkJFT1I5THpPUGFBWGxBSE9UVlZCZ3lMaXVseEpVN1EwVDNSUXByT2xpYTJMTnhIRGp5MGR5ZnotZmpDcU1xRTlTb0k?oc=5) — Google News Armwrestling EN · 2026-02-09 · **56/100**
 
 ## france
 
 - [ALBI. Albi Bras de fer prépare les championnats de France - letarnlibre.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlXWU0tTGxhWXMtR2l6MTFlUlZJNld4d29iVEFKbWRTNHM2ZDZ3b1ZETHBaLW5IRmxZa0FZcnd2RnFLWG44dENqeUNzNTRwZjFKVzFrMEhzdGw1bnhPcDY2OEJBajhvV0VTRGtwandzWFVzdlFtVlQ2ZmlxZklqYXhYYUVNOERMRDBGTl9laDRlRTZBMmRFZjVPcW5Md3UzYkE?oc=5) — Google News Armwrestling FR · 2026-02-25 · **54/100**
 
+## news
+
+- [Cheyenne Happenings (2/27, 2/28): Arm wrestling tournament, Almost Maine, more - Cap City News](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZF80NVZWTzhwWWlnTFBoel9QaE1iS3lOVHNyTk15REpXRWJ1V0VLajZZVlhBbHB4TDFVODByUFI1VGVRcmNtMDhKTU1IeVdINkxtelpCVXNzSGtIY2lqRVFsMWNZRC1TdmJLbUd5VDFCZ0pNRzl4ckkwWVcyQXdLcFhQeGdUTWVvMG5JZmROdDA0bm9wUkQwekZGVnZlVFdCNmZtaWs2MnpXcVZkMUZnbWFBTkpOUUhrVGxwRnk5MA?oc=5) — Google News Arm Wrestling · 2026-02-27 · **56/100**
+
 ## training
 
-- [help with deciding](https://www.reddit.com/r/GripTraining/comments/1rhvoln/help_with_deciding/) — Reddit GripTraining · 2026-03-01 · **52/100**
+- [How to not get toprolled by taller guys](https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/) — Reddit Armwrestling (Hot) · 2026-02-10 · **61/100**
+- [What are your favourite forearm/hand exercises that AREN’T armwrestling specific?](https://www.reddit.com/r/armwrestling/comments/1r0qx3k/what_are_your_favourite_forearmhand_exercises/) — Reddit Armwrestling (Hot) · 2026-02-10 · **60/100**
+- [Competitions](https://www.reddit.com/r/armwrestling/comments/1r0xhla/competitions/) — Reddit Armwrestling (Hot) · 2026-02-10 · **58/100**
+- [Are internal rotation enough for side pressure work](https://www.reddit.com/r/armwrestling/comments/1r0f29x/are_internal_rotation_enough_for_side_pressure/) — Reddit Armwrestling (Hot) · 2026-02-09 · **56/100**
+
+## youtube_media
+
+- [Performance: What Actually Helps And What Doesn’t](https://www.youtube.com/watch?v=2es2tOGA6Ng) — Monster Michael Todd · 2026-02-09 · **60/100**
