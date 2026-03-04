@@ -2,11 +2,115 @@
   "athletes": [],
   "competitions": [
     {
+      "url": "https://www.youtube.com/watch?v=upNd1vXYZgg",
+      "title": "Gawd damit",
+      "summary": "Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/\n\nEvent links - https://EVWsports.com/\n\nget behind your Athlete - \nhttps://stake.armbet.net/\n\n🪽🗡🧬♾️- https://minicircle.io/\n\n▼ Merch:\nhttps://nolimitsarmwrestling.com/nolimits/\nhttps://armbet.net\n\n▬▬▬▬▬▬▬ ABOUT DEVON LARRATT  ▬▬▬▬▬▬▬\n\nin the pursuit of strength and all good times\n\n► Website → https://www.armbet.com\n\n▼ Devon Larratt Social Media:\n• Instagram → @devlarratt\n• TikTok → @devonlarratt\n• Tag me on social media: #devonlarratt\n\n▼ ArmBet:\n• Google Play → https://play.google.com/store/apps/details?id=com.armbet.app\n• iPhone https://apps.apple.com/tt/app/armbet/id1525205708\n\n▼ Vets and First Responders: \nhttp://spartanwellness.ca/\n\n▼ Good Times Game: \nhttps://play.google.com/store/apps/details?id=com.quierogames.canadarun2\n\n▼ Fan Mail: \nDevon Larratt\nPO Box 931\nRichmond Ontario\nCanada K0A 2Z0",
+      "published_ts": 1772326629,
+      "source_name": "Devon Larratt",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MAlfJgzaS9U",
+      "title": "CELEŠ vs PORKCHOP | FREE PRELIMS | EAST VS WEST 22",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772310402,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qweHdkLztYQ",
+      "title": "East vs West 22 - Day 3 recap (Devon vs Vitaly left)",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772266097,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oKvk2w8F6CE",
+      "title": "Offical Rules Meeting| East vs West 22",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772230791,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hLyNP0NcmVE",
+      "title": "EAST VS WEST 22 | PRESS CONFERENCE",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772229261,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U0CnUrUhw0Y",
+      "title": "EVW 22 - 1 DAY OUT!!!",
+      "summary": "Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/\n\nEvent links - https://EVWsports.com/\n\nget behind your Athlete - \nhttps://stake.armbet.net/\n\n🪽🗡🧬♾️- https://minicircle.io/\n\n▼ Merch:\nhttps://nolimitsarmwrestling.com/nolimits/\nhttps://armbet.net\n\n▬▬▬▬▬▬▬ ABOUT DEVON LARRATT  ▬▬▬▬▬▬▬\n\nin the pursuit of strength and all good times\n\n► Website → https://www.armbet.com\n\n▼ Devon Larratt Social Media:\n• Instagram → @devlarratt\n• TikTok → @devonlarratt\n• Tag me on social media: #devonlarratt\n\n▼ ArmBet:\n• Google Play → https://play.google.com/store/apps/details?id=com.armbet.app\n• iPhone https://apps.apple.com/tt/app/armbet/id1525205708\n\n▼ Vets and First Responders: \nhttp://spartanwellness.ca/\n\n▼ Good Times Game: \nhttps://play.google.com/store/apps/details?id=com.quierogames.canadarun2\n\n▼ Fan Mail: \nDevon Larratt\nPO Box 931\nRichmond Ontario\nCanada K0A 2Z0",
+      "published_ts": 1772216919,
+      "source_name": "Devon Larratt",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rz6nmz7glQw",
+      "title": "Official Weigh-ins | East vs West 22",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772215606,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4MlWhLiyeGU",
+      "title": "Vitaly Laletin vs Devon Larratt | East vs West 22 Pre Match Livestream",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772212641,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3lJRXZRZy1WWWswajZMY3RVR3NzZmJTVy1Lcng2a1ROallkY05zRVRxMlRnaElPTjFPR1ZVa0hXUjNRWEsxQjF4bHBlNW0zYWh1UE5ZTkVubEt4cGtoT05WNG5DckFqRGVRbFdvdldjNHNIeEkzbHNnNlZpV0NEYXNfR0dJZnlDLW1ya1FqajhUNWZSd08tTlJCTTZLRHJob3c?oc=5",
+      "title": "Chris Hemsworth & Ed Sheeran’s Arm-Wrestling Match Is Winning the Internet - Yahoo",
+      "summary": "Chris Hemsworth & Ed Sheeran’s Arm-Wrestling Match Is Winning the Internet Yahoo",
+      "published_ts": 1772198158,
+      "source_name": "Google News Arm Wrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/YXDAGjHa6hw",
+      "title": "Kamil thinks people are protecting Michael in comments",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772197612,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/xKcGw6RZaOU",
+      "title": "Matt is screaming only when he is winning",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772197554,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/j9H7Qjh-DGA",
+      "title": "Matt is feeling extra good for this match on EvW 22",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772197513,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fAx3MH9gGZo",
+      "title": "East vs West 22 - Day 2 recap (Devon vs Vitaly left)",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772178698,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkZGcGhuaXBlZEdSMXhzTU5hb3VXbUNvMnJTU3hnbkpqTzI1RzVKVGpDbGRaejQteVFuOEpraVpuaDROQUE3TGlLem5CUGViR1lkQlE1NEJXa0JCTkxmcFJxMU5xTTJrQ1pCRk56ZGdPbUVBeURyaE9RWUl3SVRUWTlpOU9jeUhWRnAxMklpaHJDMlZDVU1fNWRPZTREOFVPVmNfektRYktqWWM?oc=5",
       "title": "Ed Sheeran Shows Off His Superhero Strength in Arm Wrestling Match with Chris Hemsworth - People.com",
       "summary": "Ed Sheeran Shows Off His Superhero Strength in Arm Wrestling Match with Chris Hemsworth People.com",
       "published_ts": 1772158490,
-      "source_name": "Google News Arm Wrestling",
+      "source_name": "Google News Armwrestling EN",
       "content_type": "technical"
     },
     {
@@ -14,7 +118,31 @@
       "title": "Cheyenne Happenings (2/27, 2/28): Arm wrestling tournament, Almost Maine, more - Cap City News",
       "summary": "Cheyenne Happenings (2/27, 2/28): Arm wrestling tournament, Almost Maine, more Cap City News",
       "published_ts": 1772153494,
-      "source_name": "Google News Arm Wrestling",
+      "source_name": "Google News Armwrestling EN",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gv0-1XFP28I",
+      "title": "EVW RULE CHANGES",
+      "summary": "Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/\n\nEvent links - https://EVWsports.com/\n\nget behind your Athlete - \nhttps://stake.armbet.net/\n\n🪽🗡🧬♾️- https://minicircle.io/\n\n▼ Merch:\nhttps://nolimitsarmwrestling.com/nolimits/\nhttps://armbet.net\n\n▬▬▬▬▬▬▬ ABOUT DEVON LARRATT  ▬▬▬▬▬▬▬\n\nin the pursuit of strength and all good times\n\n► Website → https://www.armbet.com\n\n▼ Devon Larratt Social Media:\n• Instagram → @devlarratt\n• TikTok → @devonlarratt\n• Tag me on social media: #devonlarratt\n\n▼ ArmBet:\n• Google Play → https://play.google.com/store/apps/details?id=com.armbet.app\n• iPhone https://apps.apple.com/tt/app/armbet/id1525205708\n\n▼ Vets and First Responders: \nhttp://spartanwellness.ca/\n\n▼ Good Times Game: \nhttps://play.google.com/store/apps/details?id=com.quierogames.canadarun2\n\n▼ Fan Mail: \nDevon Larratt\nPO Box 931\nRichmond Ontario\nCanada K0A 2Z0",
+      "published_ts": 1772141119,
+      "source_name": "Devon Larratt",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/hXZKRRP6-jc",
+      "title": "Manifestor vs Vlad The Destroyer Don’t blink 🔥East vs West 22 Vienna 🇦🇹",
+      "summary": "",
+      "published_ts": 1772135620,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8ytxauYekH8",
+      "title": "Athletes Pre-match Livestream EVW 22",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772126607,
+      "source_name": "East vs West Armwrestling",
       "content_type": "technical"
     },
     {
@@ -26,6 +154,14 @@
       "content_type": "technical"
     },
     {
+      "url": "https://www.youtube.com/watch?v=Y0Oj4c6Nh-g",
+      "title": "East vs West 22 - Day 1 recap (Devon vs Vitaly left)",
+      "summary": "Official EVW website: https://evwsports.com/",
+      "published_ts": 1772090726,
+      "source_name": "East vs West Armwrestling",
+      "content_type": "technical"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlXWU0tTGxhWXMtR2l6MTFlUlZJNld4d29iVEFKbWRTNHM2ZDZ3b1ZETHBaLW5IRmxZa0FZcnd2RnFLWG44dENqeUNzNTRwZjFKVzFrMEhzdGw1bnhPcDY2OEJBajhvV0VTRGtwandzWFVzdlFtVlQ2ZmlxZklqYXhYYUVNOERMRDBGTl9laDRlRTZBMmRFZjVPcW5Md3UzYkE?oc=5",
       "title": "ALBI. Albi Bras de fer prépare les championnats de France - letarnlibre.com",
       "summary": "ALBI. Albi Bras de fer prépare les championnats de France letarnlibre.com",
@@ -34,11 +170,11 @@
       "content_type": "technical"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ1JBTXk4QngzVHo0QmhubXZLOGJMTk1xSmFNWEsxTGRjMi1kZkpyTFd5eXp2b3J3WXA3VGtsNTZIbm13bEdKbFZERkVQbWVxSG9pVUgxWDgtdHlrWWI1Q3hfSUVaU3pkdnhJSDkwdlJaREdxYU5ISkpNc3hIbTdRZmstM2JCM2RteXQ4REdhc1lzNmkxWDJGbnRR0gGYAUFVX3lxTE9KT3d0SFQ5d1B6VGtYeGJBUWs0VXNUYjdfOVItMm1WejNtckJweE9FTElJRUhLVGVqX2thYTVPSkh0YVpKRlJGa1gtc3Q3VzQ1aHJGZUJJN1Y0clUyTks5T3FPMjVSMVJDRUgwRkNvaFZiN1FxTXk4OTU3cjRmMHhlMVRUV0YzZ3VrcHB4SzJTcTlvTHdZaktO?oc=5",
-      "title": "LOC inspects Borteyman Sports Complex ahead of 15th Africa Armwrestling Championship - Modern Ghana",
-      "summary": "LOC inspects Borteyman Sports Complex ahead of 15th Africa Armwrestling Championship Modern Ghana",
-      "published_ts": 1771970100,
-      "source_name": "Google News Armwrestling EN",
+      "url": "https://www.youtube.com/watch?v=XsxVXJhPfvA",
+      "title": "Goodbye Costa Rica",
+      "summary": "Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/\n\nEvent links - https://EVWsports.com/\n\nget behind your Athlete - \nhttps://stake.armbet.net/\n\n🪽🗡🧬♾️- https://minicircle.io/\n\n▼ Merch:\nhttps://nolimitsarmwrestling.com/nolimits/\nhttps://armbet.net\n\n▬▬▬▬▬▬▬ ABOUT DEVON LARRATT  ▬▬▬▬▬▬▬\n\nin the pursuit of strength and all good times\n\n► Website → https://www.armbet.com\n\n▼ Devon Larratt Social Media:\n• Instagram → @devlarratt\n• TikTok → @devonlarratt\n• Tag me on social media: #devonlarratt\n\n▼ ArmBet:\n• Google Play → https://play.google.com/store/apps/details?id=com.armbet.app\n• iPhone https://apps.apple.com/tt/app/armbet/id1525205708\n\n▼ Vets and First Responders: \nhttp://spartanwellness.ca/\n\n▼ Good Times Game: \nhttps://play.google.com/store/apps/details?id=com.quierogames.canadarun2\n\n▼ Fan Mail: \nDevon Larratt\nPO Box 931\nRichmond Ontario\nCanada K0A 2Z0",
+      "published_ts": 1771980416,
+      "source_name": "Devon Larratt",
       "content_type": "technical"
     }
   ],
@@ -50,26 +186,9 @@
       "published_ts": 1771824617,
       "source_name": "Google News Armwrestling FR",
       "content_type": "technical"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeGRFMm1leE5IUk9iRXZuN2szR0NaTkt0N1Z6Xy1sdXdXdFBjcHRMRHJ3WEhCSmctU3pWel8tM2FLVU5RYnhfN0lITUxGN1RINFE3cDVUUHljT2swUWQ2YU0tT21hWXBkMzNpMWpsTkhlc09TZUZmaXJadjlodXRoek1UTFlVNllJTGFaM09URXFIc0dJTHJaQ3FVVlpyampiQ1ZHY196Z0U4a25Uay1ybUY3THV5Q0s1Wlo2SzFYM3VfemlUaENaZGVpUkxCRjNsSXVJNExTQnZMNVJfOUJCZUtkMXNEeEkzUGtmRkZVNzVJd0tXY2lSR05n?oc=5",
-      "title": "Finistère - France - Italie. « Il a fallu tenir le bras de fer » : les Bleus s’imposent dans un autre registre - Maville",
-      "summary": "Finistère - France - Italie. « Il a fallu tenir le bras de fer » : les Bleus s’imposent dans un autre registre Maville",
-      "published_ts": 1771824600,
-      "source_name": "Google News Armwrestling FR",
-      "content_type": "technical"
     }
   ],
-  "news": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVV2STQwV1ZCaTdwOE1idVdmNmREc0RpdnR4WEJIOXJxYlJIb0t5WlgxUjVVdWhCcG9NYUhpUnBSTHA2a2tGeHdzbUhzNDk3aUlVbk1OSGh6cHRKQk1QdkxsU3VpWGlZd1FObDM1V1hoZTlFeXlReUc4UG1vQjIxODFuRVdCUEFx?oc=5",
-      "title": "Cal City Armwrestling Seeks to Build Youth, Community Through Sport - Mojave Desert News",
-      "summary": "Cal City Armwrestling Seeks to Build Youth, Community Through Sport Mojave Desert News",
-      "published_ts": 1771948800,
-      "source_name": "Google News Armwrestling EN",
-      "content_type": "technical"
-    }
-  ],
+  "news": [],
   "training": [
     {
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT2MzTzVwUTdQTEFqTzVrZU40Slg3Q09CNkpHSXZyMEFMT3l0Z0pTMkJRRHNkVlMxMUFBRTdQczFnX24yVzFqTzJHQWR3eXAtbnc1ZEVWa1o4d2JPZ1UtZmhfUVh2d1hJOE9lNTN2OGh1eHBvWllPTHQ2R3VPdnloZ25mRkZGWHNhUWdRbHlFX3NuOVdpejZsZm12QVU3aU1SaWRPQjRkYzFpMUNKaHg3ZlNzcUVkcjQyeDZBMWYxZnRRT2g2cldlMnF5UHU1WklISHhxMlFPRElzYy0tMXlFN2VxVHVYWlFZNFM0YjBLT0dBaGJFck5MUg?oc=5",
@@ -80,5 +199,14 @@
       "content_type": "technical"
     }
   ],
-  "youtube_media": []
+  "youtube_media": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHU1TzFRUjlBejNlamxseUFCcTRQN1RqWTM4UjkyMjhNNUtNQlRON2loTlJlOEN6Z1l0WlNUM3ZVRW0yWjZyRi1GWWgxS0JiRzhRTFBmTlhUVEhUNEptWUNQTnR5OXNieEVxWU5ucXlsMUxReGQ2bHhxeEpvcUtmMXYzVGFtZnBRdDI2T0w4ZDlQZEJF0gGaAUFVX3lxTFBGR3BCZFVTekRfcmJ1WU4yTHhTOVJPZHc3azlfQnEwR1JmcEhKY3dvcW9NQXIyOW1HWHVGRzRDQldURDY2aUM3ckNUZDAzalptZVFwYnY2cHZJTkFkbVpWLVZuTUI0eVBmd2EwX0RHaDhhZVdreTV2ZVdsbEZ2amVkY1p5OG10eF9MdE5KMHk5QkJseEpMTUt6b1E?oc=5",
+      "title": "Chris Hemsworth Loses To Ed Sheeran in Arm Wrestling Video of Mural Recreation - SuperHeroHype",
+      "summary": "Chris Hemsworth Loses To Ed Sheeran in Arm Wrestling Video of Mural Recreation SuperHeroHype",
+      "published_ts": 1772110800,
+      "source_name": "Google News Armwrestling EN",
+      "content_type": "technical"
+    }
+  ]
 }

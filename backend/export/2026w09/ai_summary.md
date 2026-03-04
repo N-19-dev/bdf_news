@@ -1,34 +1,38 @@
 ## Aperçu général de la semaine
 
-Cette semaine, les athlètes d'arm-wrestling ont partagé leurs entraînements et leurs compétitions, tandis que des événements importants ont eu lieu en France et à l'étranger. Les athlètes ont également partagé leurs conseils et leurs techniques pour améliorer leurs performances.
+Databricks n'a pas annoncé de nouvelles versions cette semaine. La communauté armwrestling est en pleine activité avec les championnats de France et l'événement East vs West 22.
 
 ## 🏆 Compétitions & Résultats
 
-- [Safari to host arm wrestling competition - The Peninsula Qatar](https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVFCT05DdkRjaWZvUFZRRzJMbUczNTVyWi1wbW8zcGNQel9nU0wzd2RaUm5mbU5rS3ZKSEpiT2RULUc0a1hoRmd1ZnJoTG40bkJFT1I5THpPUGFBWGxBSE9UVlZCZ3lMaXVseEpVN1EwVDNSUXByT2xpYTJMTnhIRGp5MGR5ZnotZmpDcU1xRTlTb0k?oc=5) — Google News Armwrestling EN · 2026-02-09
-**À creuser :**
-** [Cheyenne Happenings (2/27, 2/28): Arm wrestling tournament, Almost Maine, more - Cap City News](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZF80NVZWTzhwWWlnTFBoel9QaE1iS3lOVHNyTk15REpXRWJ1V0VLajZZVlhBbHB4TDFVODByUFI1VGVRcmNtMDhKTU1IeVdINkxtelpCVXNzSGtIY2lqRVFsMWNZRC1TdmJLbUd5VDFCZ0pNRzl4ckkwWVcyQXdLcFhQeGdUTWVvMG5JZmROdDA0bm9wUkQwekZGVnZlVFdCNmZtaWs2MnpXcVZkMUZnbWFBTkpOUUhrVGxwRnk5MA?oc=5) — Google News Arm Wrestling · 2026-02-27
+- [EVW 22 - 1 DAY OUT!!!](https://www.youtube.com/watch?v=U0CnUrUhw0Y) — Devon Larratt · 2026-02-27
+- [Official Weigh-ins | East vs West 22](https://www.youtube.com/watch?v=rz6nmz7glQw) — East vs West Armwrestling · 2026-02-27
+- [Vitaly Laletin vs Devon Larratt | East vs West 22 Pre Match Livestream](https://www.youtube.com/watch?v=4MlWhLiyeGU) — East vs West Armwrestling · 2026-02-27
+- [France - Italie. « Il a fallu tenir le bras de fer » : les Bleus s’imposent dans un autre registre - Ouest-France](https://news.google.com/rss/articles/CBMihgJBVV95cUxQejNRS2NZUE9VS1lTMENucms2bFR2N0RSNkdMZGlxbUVaR09TTlJ0UjlTa01ZZVRsaFpOVGtTakNJbzJoeGtKME5BelFSUTFLaXl3bDJZNDZ3aXZodzAycnNFYUJJTHBDTlFyQWc5WVJWWnA4TGhBQnRGOVoyS3F5WVRfalVsSG9KZ1BIVXdwbU56Qlk3cklIUW1EWFFEd0dGTXBUQnE1V1lSaC1QNExTRVB3NVJ1aUhCeGZKM2NTaHNJcVZ2WnN3ZGx1QVhWQ3EtM3VuUDVRQTdoOFBPa2E3d3AtbWFrOVN5RXV2SDR5aUMtVUZsUWFQNXZCNmx5dTEtc3BsQ1V3?oc=5) — Google News Armwrestling FR · 2026-02-23
+- [ALBI. Albi Bras de fer prépare les championnats de France - letarnlibre.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlXWU0tTGxhWXMtR2l6MTFlUlZJNld4d29iVEFKbWRTNHM2ZDZ3b1ZETHBaLW5IRmxZa0FZcnd2RnFLWG44dENqeUNzNTRwZjFKVzFrMEhzdGw1bnhPcDY2OEJBajhvV0VTRGtwandzWFVzdlFtVlQ2ZmlxZklqYXhYYUVNOERMRDBGTl9laDRlRTZBMmRFZjVPcW5Md3UzYkE?oc=5) — Google News Armwrestling FR · 2026-02-25
 
 ## 🌟 Athlètes & Interviews
 
-- [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10
-- [PEBP 220lbs/99.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/bVGncoIUzvw) — Monster Michael Todd · 2026-02-09
-- [Leonidas Arkona and Devon Larratt Part 2 (Backyard Arm wrestling with Canadian Giants)](https://www.reddit.com/r/armwrestling/comments/1r0dci1/leonidas_arkona_and_devon_larratt_part_2_backyard/) — Reddit Armwrestling (Hot) · 2026-02-09
-- [Seated Pronation 162.25lbs/73.4kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/f8xaT35JIVA) — Monster Michael Todd · 2026-02-08
-**À creuser :**
-** [How to not get toprolled by taller guys](https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/) — Reddit Armwrestling (Hot) · 2026-02-10
+- [Gawd damit](https://www.youtube.com/watch?v=upNd1vXYZgg) — Devon Larratt · 2026-03-01
+- [EVW 22 - 1 DAY OUT!!!](https://www.youtube.com/watch?v=U0CnUrUhw0Y) — Devon Larratt · 2026-02-27
+- [EVW RULE CHANGES](https://www.youtube.com/watch?v=gv0-1XFP28I) — Devon Larratt · 2026-02-26
+- [Athletes Pre-match Livestream EVW 22](https://www.youtube.com/watch?v=8ytxauYekH8) — East vs West Armwrestling · 2026-02-26
+- [East vs West 22 MEGATHREAD](https://www.reddit.com/r/armwrestling/comments/1rfd52k/east_vs_west_22_megathread/) — Reddit Armwrestling (Hot) · 2026-02-26
 
 ## 💪 Entraînement & Technique
 
-- [How to not get toprolled by taller guys](https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/) — Reddit Armwrestling (Hot) · 2026-02-10
-- [What are your favourite forearm/hand exercises that AREN’T armwrestling specific?](https://www.reddit.com/r/armwrestling/comments/
+- [EVW RULE CHANGES](https://www.youtube.com/watch?v=gv0-1XFP28I) — Devon Larratt · 2026-02-26
+- [Athletes Pre-match Livestream EVW 22](https://www.youtube.com/watch?v=8ytxauYekH8) — East vs West Armwrestling · 2026-02-26
 
 ## 🎬 YouTube & Médias
 
-_Rien d’important cette semaine._
+- [Official Weigh-ins | East vs West 22](https://www.youtube.com/watch?v=rz6nmz7glQw) — East vs West Armwrestling · 2026-02-27
+- [Vitaly Laletin vs Devon Larratt | East vs West 22 Pre Match Livestream](https://www.youtube.com/watch?v=4MlWhLiyeGU) — East vs West Armwrestling · 2026-02-27
+
+##
 
 ## 🇫🇷 Bras de Fer France
 
-- [ALBI. Albi Bras de fer prépare les championnats de France - letarnlibre.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlXWU0tTGxhWXMtR2l6MTFlUlZJNld4d29iVEFKbWRTNHM2ZDZ3b1ZETHBaLW5IRmxZa0FZcnd2RnFLWG44dENqeUNzNTRwZjFKVzFrMEhzdGw1bnhPcDY2OEJBajhvV0VTRGtwandzWFVzdlFtVlQ2ZmlxZklqYXhYYUVNOERMRDBGTl9laDRlRTZBMmRFZjVPcW5Md3UzYkE?oc=5) — Google News Armwrestling FR · 2026-02-25
+_Rien d’important cette semaine._
 
 ## 📰 Actualités & Annonces
 
