@@ -10,17 +10,5 @@
     "tech_level": 1,
     "marketing_score": 0,
     "source_type": "youtube"
-  },
-  {
-    "title": "Athletes Pre-match Livestream EVW 22",
-    "url": "https://www.youtube.com/watch?v=8ytxauYekH8",
-    "source": "East vs West Armwrestling",
-    "category": "athletes",
-    "score": 59,
-    "published_ts": 1772126607,
-    "content_type": "technical",
-    "tech_level": 1,
-    "marketing_score": 0,
-    "source_type": "youtube"
   }
 ]

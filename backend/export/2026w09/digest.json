@@ -1,92 +1,53 @@
 {
-  "athletes": [],
+  "athletes": [
+    {
+      "url": "https://www.youtube.com/watch?v=IB8dsfX09ak",
+      "title": "Working out the Soreness!",
+      "summary": "Join this channel to get access to perks:https://www.youtube.com/channel/UCarJKBV9GEpXRHrw4bEEhHA/join\n👕https://www.ninelineapparel.com/discount/MONSTER20 for a discount. Support the company that gives back to those who give all.\n💪Visit https://monstermichaeltodd.com for all your training tools, apparel, social media links, and partner links",
+      "published_ts": 1772353314,
+      "source_name": "Monster Michael Todd",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/OgIGP4li5jI",
+      "title": "HEAVIEST SEATED PRONATION EVER! 197.25lbs/89.5kgs #armwrestling #worldchampion #comeback #phil413",
+      "summary": "",
+      "published_ts": 1772104134,
+      "source_name": "Monster Michael Todd",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/r-LOLjDB-qQ",
+      "title": "Having some from on the Bench Press! #armwrestling #worldchampion #comeback #letsgo #phil413",
+      "summary": "",
+      "published_ts": 1772042114,
+      "source_name": "Monster Michael Todd",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/87zwFIBrrHI",
+      "title": "New AMRAP PR! 245lbs/111.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
+      "summary": "",
+      "published_ts": 1771953656,
+      "source_name": "Monster Michael Todd",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://www.youtube.com/shorts/p0jcmSQ-fdA",
+      "title": "NEW PR OUTSIDE SP 277lbs/125.7kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413",
+      "summary": "",
+      "published_ts": 1771863299,
+      "source_name": "Monster Michael Todd",
+      "content_type": "technical"
+    }
+  ],
   "competitions": [
     {
-      "url": "https://www.youtube.com/watch?v=MAlfJgzaS9U",
-      "title": "CELEŠ vs PORKCHOP | FREE PRELIMS | EAST VS WEST 22",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772310402,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=qweHdkLztYQ",
-      "title": "East vs West 22 - Day 3 recap (Devon vs Vitaly left)",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772266097,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=oKvk2w8F6CE",
-      "title": "Offical Rules Meeting| East vs West 22",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772230791,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=hLyNP0NcmVE",
-      "title": "EAST VS WEST 22 | PRESS CONFERENCE",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772229261,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=rz6nmz7glQw",
-      "title": "Official Weigh-ins | East vs West 22",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772215606,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=4MlWhLiyeGU",
-      "title": "Vitaly Laletin vs Devon Larratt | East vs West 22 Pre Match Livestream",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772212641,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/YXDAGjHa6hw",
-      "title": "Kamil thinks people are protecting Michael in comments",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772197612,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/xKcGw6RZaOU",
-      "title": "Matt is screaming only when he is winning",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772197554,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/j9H7Qjh-DGA",
-      "title": "Matt is feeling extra good for this match on EvW 22",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772197513,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=fAx3MH9gGZo",
-      "title": "East vs West 22 - Day 2 recap (Devon vs Vitaly left)",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772178698,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRFo2aXNIRVdDZnYwVkhmeHNOaC14VU1XS1VJTXNlZlVpLWdsN0xIMjlnc212VldNMDNPS05aS1c0VlR1MlFfY1dXM1h3LTB5aFRnNG1TTkZ5cGFZcHdzYlQtZ2xuZnBCQkMxUXU4YzZWb2dqVTJHcXVRNUlTQ2JIdEQ5ZG9paHN4MllKa2ExSTk5elc1TVVMelhkMDI1Nm4taXRaM242N0VZVjk2Szg5dFMta19kY2ZuSHQzbkY5bVlid0xTWC1rcUZ4Y9IB0AFBVV95cUxPREFxMmIzN1kxMWdUR0RJWG5fQmh1VmFkd09SdmlxZmFzanRaRWlPTm5xOTBGeE95SHEyRzhsUVFCc0taR0dFSWdTc0lCUWlhaHgxcUVnUGgyZHYyUTc5VklCdUt4TEVhMmZJbFdZRjRVLXdQR1h5clJQZDhzMXJBMk9xNDQ5eUJBVDktNFV3VXZzNjg0anltWENreU15RlZhTDhidlVkWG5raUhwQ0Nsb0xQQk9UODNnMUs3N0xzc0xUY1dfVDFTNkJ6bXZtYnBT?oc=5",
-      "title": "Ed Sheeran And Chris Hemswroth Had An Arm Wrestling Match, And The Winner Is… - News18",
-      "summary": "Ed Sheeran And Chris Hemswroth Had An Arm Wrestling Match, And The Winner Is… News18",
-      "published_ts": 1772168625,
-      "source_name": "Google News Armwrestling EN",
+      "url": "https://www.youtube.com/watch?v=pBa81YLiJDs",
+      "title": "So That Happened... Now What's Next | Michael Todd Speaks",
+      "summary": "Monster Michael Todd and Mrs Monster discuss the EVW 22 Results and what may be on the horizon next. \n\n🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6736103118471168",
+      "published_ts": 1772329132,
+      "source_name": "Monster Michael Todd",
       "content_type": "technical"
     },
     {
@@ -106,35 +67,11 @@
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/shorts/hXZKRRP6-jc",
-      "title": "Manifestor vs Vlad The Destroyer Don’t blink 🔥East vs West 22 Vienna 🇦🇹",
-      "summary": "",
-      "published_ts": 1772135620,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=8ytxauYekH8",
-      "title": "Athletes Pre-match Livestream EVW 22",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772126607,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
       "url": "https://www.reddit.com/r/armwrestling/comments/1rfd52k/east_vs_west_22_megathread/",
       "title": "East vs West 22 MEGATHREAD",
       "summary": "This is the official megathread. All comments are set to display by newest . While the event is happening, make sure to keep the megathread open and constantly refreshed to view and and participate in live discussion from the reddit community. Event Time: February 28, 2026 8:00 PM Local Vienna, Austria Time 2:00 PM EST Eastern Standard Time 11:00 AM PST Pacific Standard Time 7:00 PM UTC Coordinated Universal Time 8:00 PM CET Central European Time 11:00 PM GST Gulf Standard Time Purchase PPV : https://live.evwsports.com/ Preliminary Matches These matches will be livestreamed for free on Youtube Carolina “The Flame” Pettersson vs Esra Kiraz Luka Tsinadze vs Eli Saidov Curtis “Porkchop” Cameron vs Peter Čeleš Main Card Matches Buy the PPV to watch these matches (order of matches might change): Nugo “Bulldog” Chikadze vs Bogdan “Specialist” Stoica Vladislavs “Vlad The Destroyer” Krasovskis vs Alexander “Manifestor” Teliatnik Efe Kömek vs Tarkhan Muzaffarov Matt \"Wild Horse\" Mask vs Davit Arabuli Serhii “Kalina” Kalinichenko vs Yordan Tsonev Fia Reisek vs Brigitta Ivanfi Kamil “The Golden Dragon ”Jablonski vs Michael \"Monster\" Todd Oleg Petrenko vs Todd \"Toddzilla\" Hutchings (Right Arm Light Heavyweight Title) Vitaly Laletin vs Devon \"No Limits\" Larratt (Left Arm Super Heavyweight Title) https://preview.redd.it/t25phprlxulg1.png?width=1440&format=png&auto=webp&s=516e66b014e7f16b5ecb612f11fbd10cafdb4efc submitted by /u/minhale [link] [comments]",
       "published_ts": 1772119701,
       "source_name": "Reddit Armwrestling (Hot)",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=Y0Oj4c6Nh-g",
-      "title": "East vs West 22 - Day 1 recap (Devon vs Vitaly left)",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1772090726,
-      "source_name": "East vs West Armwrestling",
       "content_type": "technical"
     },
     {
@@ -144,26 +81,34 @@
       "published_ts": 1772017200,
       "source_name": "Google News Armwrestling FR",
       "content_type": "technical"
-    }
-  ],
-  "france": [],
-  "news": [
+    },
     {
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGVmQmhwMzJuOHNnSDFWdG5taTllM3FfRXhzbHNGWklteFM3b2otM2IyRC1ZZHBBQU5sTmMxbVhWM2pnTFdfZmptLXZBQU1YeW9qWTJBYWVkQTJjZ3owckd0Nng2UzRLTUM5dlh2ZFdmbWJSUk1GSm4yUVo4c0l6S1lGWWlNbk5DbmxxbWtsSVhzTVNXd0F2UzNuLVE3QTg?oc=5",
-      "title": "Chris Hemsworth, Ed Sheeran face off in arm wrestling - See who wins - Geo News",
-      "summary": "Chris Hemsworth, Ed Sheeran face off in arm wrestling - See who wins Geo News",
-      "published_ts": 1772096760,
-      "source_name": "Google News Armwrestling EN",
+      "url": "https://www.youtube.com/watch?v=2uZnh5fVoFc",
+      "title": "What REALLY Happens at East vs West 22…",
+      "summary": "East vs West 22 is not just another event.\n\nThese matchups will shift rankings, reputations, and careers.\n\nIn this live breakdown, I’m not just giving predictions — I’m explaining what really matters in each matchup, where the pressure points are, and what could change everything in Vienna.\n\nThis is a strategic look at East vs West 22 from someone who has been there.\n\nLet’s break it down.\nget your ppv at www.evwsports.com and use code MTODD for a discount\n\n—\nEast vs West 22 predictions\nArmwrestling live discussion\nSuper heavyweight armwrestling\nVienna February 28\nProfessional armwrestling analysis\n\nSubscribe and join the live chat.",
+      "published_ts": 1771819373,
+      "source_name": "Monster Michael Todd",
       "content_type": "technical"
     }
   ],
+  "france": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQejNRS2NZUE9VS1lTMENucms2bFR2N0RSNkdMZGlxbUVaR09TTlJ0UjlTa01ZZVRsaFpOVGtTakNJbzJoeGtKME5BelFSUTFLaXl3bDJZNDZ3aXZodzAycnNFYUJJTHBDTlFyQWc5WVJWWnA4TGhBQnRGOVoyS3F5WVRfalVsSG9KZ1BIVXdwbU56Qlk3cklIUW1EWFFEd0dGTXBUQnE1V1lSaC1QNExTRVB3NVJ1aUhCeGZKM2NTaHNJcVZ2WnN3ZGx1QVhWQ3EtM3VuUDVRQTdoOFBPa2E3d3AtbWFrOVN5RXV2SDR5aUMtVUZsUWFQNXZCNmx5dTEtc3BsQ1V3?oc=5",
+      "title": "France - Italie. « Il a fallu tenir le bras de fer » : les Bleus s’imposent dans un autre registre - Ouest-France",
+      "summary": "France - Italie. « Il a fallu tenir le bras de fer » : les Bleus s’imposent dans un autre registre Ouest-France",
+      "published_ts": 1771833600,
+      "source_name": "Google News Armwrestling FR",
+      "content_type": "technical"
+    }
+  ],
+  "news": [],
   "training": [
     {
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT2MzTzVwUTdQTEFqTzVrZU40Slg3Q09CNkpHSXZyMEFMT3l0Z0pTMkJRRHNkVlMxMUFBRTdQczFnX24yVzFqTzJHQWR3eXAtbnc1ZEVWa1o4d2JPZ1UtZmhfUVh2d1hJOE9lNTN2OGh1eHBvWllPTHQ2R3VPdnloZ25mRkZGWHNhUWdRbHlFX3NuOVdpejZsZm12QVU3aU1SaWRPQjRkYzFpMUNKaHg3ZlNzcUVkcjQyeDZBMWYxZnRRT2g2cldlMnF5UHU1WklISHhxMlFPRElzYy0tMXlFN2VxVHVYWlFZNFM0YjBLT0dBaGJFck5MUg?oc=5",
-      "title": "« Bayonne va nous mettre sous pression » : David Giguel et l’ACFC s’attendent à un bras de fer dans le Pays basque - Charente Libre",
-      "summary": "« Bayonne va nous mettre sous pression » : David Giguel et l’ACFC s’attendent à un bras de fer dans le Pays basque Charente Libre",
-      "published_ts": 1772172120,
-      "source_name": "Google News Armwrestling FR",
+      "url": "https://www.youtube.com/shorts/GtuDBnRWtck",
+      "title": "Leaner+Stronger=More Dangerous",
+      "summary": "Weighins done. Works done. One more press conference tonight. The big show is tomorrow. \nGet your PPV at evwsports.com use code MTODD for discount. \nWho’s your pick me vs The Golden Dragon, Kamil Jablonski \n#armgame #armwrestling @eastvswestarmwrestling",
+      "published_ts": 1772201994,
+      "source_name": "Monster Michael Todd",
       "content_type": "technical"
     }
   ],

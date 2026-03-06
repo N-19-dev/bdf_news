@@ -3,8 +3,7 @@
 ## athletes
 
 - [May add these into my training #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/x0jRRndfmGs) — Monster Michael Todd · 2026-02-10 · **61/100**
-- [Athletes Pre-match Livestream EVW 22](https://www.youtube.com/watch?v=8ytxauYekH8) — East vs West Armwrestling · 2026-02-26 · **59/100**
-- [PEBP 220lbs/99.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/bVGncoIUzvw) — Monster Michael Todd · 2026-02-09 · **56/100**
+- [Having some from on the Bench Press! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/r-LOLjDB-qQ) — Monster Michael Todd · 2026-02-25 · **58/100**
 - [Leonidas Arkona and Devon Larratt Part 2 (Backyard Arm wrestling with Canadian Giants)](https://www.reddit.com/r/armwrestling/comments/1r0dci1/leonidas_arkona_and_devon_larratt_part_2_backyard/) — Reddit Armwrestling (Hot) · 2026-02-09 · **56/100**
 
 ## competitions
@@ -25,4 +24,5 @@
 ## youtube_media
 
 - [Performance: What Actually Helps And What Doesn’t](https://www.youtube.com/watch?v=2es2tOGA6Ng) — Monster Michael Todd · 2026-02-09 · **60/100**
-- [Official Weigh-ins | East vs West 22](https://www.youtube.com/watch?v=rz6nmz7glQw) — East vs West Armwrestling · 2026-02-27 · **56/100**
+- [Leaner+Stronger=More Dangerous](https://www.youtube.com/shorts/GtuDBnRWtck) — Monster Michael Todd · 2026-02-27 · **60/100**
+- [What REALLY Happens at East vs West 22…](https://www.youtube.com/watch?v=2uZnh5fVoFc) — Monster Michael Todd · 2026-02-23 · **59/100**
