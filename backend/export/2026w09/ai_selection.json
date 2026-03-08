@@ -71,19 +71,6 @@
       "marketing_score": 0
     }
   ],
-  "news": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZF80NVZWTzhwWWlnTFBoel9QaE1iS3lOVHNyTk15REpXRWJ1V0VLajZZVlhBbHB4TDFVODByUFI1VGVRcmNtMDhKTU1IeVdINkxtelpCVXNzSGtIY2lqRVFsMWNZRC1TdmJLbUd5VDFCZ0pNRzl4ckkwWVcyQXdLcFhQeGdUTWVvMG5JZmROdDA0bm9wUkQwekZGVnZlVFdCNmZtaWs2MnpXcVZkMUZnbWFBTkpOUUhrVGxwRnk5MA?oc=5",
-      "title": "Cheyenne Happenings (2/27, 2/28): Arm wrestling tournament, Almost Maine, more - Cap City News",
-      "summary": "Cheyenne Happenings (2/27, 2/28): Arm wrestling tournament, Almost Maine, more Cap City News",
-      "published_ts": 1772153494,
-      "source_name": "Google News Arm Wrestling",
-      "score": 56.3661403818564,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    }
-  ],
   "training": [
     {
       "url": "https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/",
@@ -131,6 +118,17 @@
     }
   ],
   "youtube_media": [
+    {
+      "url": "https://www.youtube.com/watch?v=Z_XCeLHSS4g",
+      "title": "SCHOOLBOY ARM WRESTLING TRAINING 2026",
+      "summary": "Armwrestling workout of Aleksandr Beziazykov aka SCHOOLBOY in February of 2026 with Alex Toproll \nSubscribe for NEW VIDEOS \nhttps://www.youtube.com/AlexToproll\nhttps://www.instagram.com/alex_toproll\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/alextoproll/join\n\nYOU CAN SUPPORT MY CHANNEL BY BUYING MERCH\nhttps://toproll.creator-spring.com\n\n#armwrestling #training #video",
+      "published_ts": 1771930096,
+      "source_name": "ARMWRESTLING TV (Schoolboy)",
+      "score": 65.99277718500657,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
+    },
     {
       "url": "https://www.youtube.com/watch?v=2es2tOGA6Ng",
       "title": "Performance: What Actually Helps And What Doesn’t",

@@ -15,10 +15,6 @@
 
 - [ALBI. Albi Bras de fer prépare les championnats de France - letarnlibre.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlXWU0tTGxhWXMtR2l6MTFlUlZJNld4d29iVEFKbWRTNHM2ZDZ3b1ZETHBaLW5IRmxZa0FZcnd2RnFLWG44dENqeUNzNTRwZjFKVzFrMEhzdGw1bnhPcDY2OEJBajhvV0VTRGtwandzWFVzdlFtVlQ2ZmlxZklqYXhYYUVNOERMRDBGTl9laDRlRTZBMmRFZjVPcW5Md3UzYkE?oc=5) — Google News Armwrestling FR · 2026-02-25 · **54/100**
 
-## news
-
-- [Cheyenne Happenings (2/27, 2/28): Arm wrestling tournament, Almost Maine, more - Cap City News](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZF80NVZWTzhwWWlnTFBoel9QaE1iS3lOVHNyTk15REpXRWJ1V0VLajZZVlhBbHB4TDFVODByUFI1VGVRcmNtMDhKTU1IeVdINkxtelpCVXNzSGtIY2lqRVFsMWNZRC1TdmJLbUd5VDFCZ0pNRzl4ckkwWVcyQXdLcFhQeGdUTWVvMG5JZmROdDA0bm9wUkQwekZGVnZlVFdCNmZtaWs2MnpXcVZkMUZnbWFBTkpOUUhrVGxwRnk5MA?oc=5) — Google News Arm Wrestling · 2026-02-27 · **56/100**
-
 ## training
 
 - [How to not get toprolled by taller guys](https://www.reddit.com/r/armwrestling/comments/1r0ug46/how_to_not_get_toprolled_by_taller_guys/) — Reddit Armwrestling (Hot) · 2026-02-10 · **61/100**
@@ -28,4 +24,5 @@
 
 ## youtube_media
 
+- [SCHOOLBOY ARM WRESTLING TRAINING 2026](https://www.youtube.com/watch?v=Z_XCeLHSS4g) — ARMWRESTLING TV (Schoolboy) · 2026-02-24 · **66/100**
 - [Performance: What Actually Helps And What Doesn’t](https://www.youtube.com/watch?v=2es2tOGA6Ng) — Monster Michael Todd · 2026-02-09 · **60/100**
