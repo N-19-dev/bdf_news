@@ -8,14 +8,6 @@
 - [Eldar Bubenko vs Logan Bittinger on East vs West 22](https://www.youtube.com/shorts/H8bF3Abh4rE) — East vs West Armwrestling · 2026-03-08
 - [Bogdan Stoica vs Nugo Chikadze | East vs West 22 Full Match](https://www.youtube.com/watch?v=Ezj3oEKf5XE) — East vs West Armwrestling · 2026-03-08
   - Official EVW website: https://evwsports.com/
-- [Curtis Cameron vs Peter Celes | East vs West 22 Full Match](https://www.youtube.com/watch?v=eSJ-qCr6hvQ) — East vs West Armwrestling · 2026-03-08
-  - Official EVW website: https://evwsports.com/
-- [Todd Hutchings vs Oleg Petrenko | East vs West 22 Full Match](https://www.youtube.com/watch?v=1y94C3SmMbA) — East vs West Armwrestling · 2026-03-08
-  - Official EVW website: https://evwsports.com/
-- [Michael Todd vs Kamil Jablonski | East vs West 22 Full Match](https://www.youtube.com/watch?v=REKkIjOr_fs) — East vs West Armwrestling · 2026-03-08
-  - Official EVW website: https://evwsports.com/
-- [Yordan Tsonev vs Serhii Kalinichenko | East vs West 22 Full Match](https://www.youtube.com/watch?v=nWxA8YprsuI) — East vs West Armwrestling · 2026-03-08
-  - Official EVW website: https://evwsports.com/
 - [EVW rule update - false start sportsmanlike??](https://www.youtube.com/watch?v=q29NcvOhQ1U) — Devon Larratt · 2026-03-07
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -30,10 +22,6 @@ https://stake.armbet.net/
 https://nolimitsarmwrestling.com/nolimit…
 - [Devon Larratt's technical options for facing Vitaly Laletin on RIGHT ARM](https://www.youtube.com/watch?v=DN0KjCRxb_M) — Pound for Pound Armwrestling · 2026-03-07
   - Lets break down what techincal armwrestling options Devon Larratt has in his upcoming supermatch with Vitaly Laletin on Right Arm at East Vs West 23
-- [Eli Saidov vs Luka Tsinadze | East vs West 22 Full Match](https://www.youtube.com/watch?v=MSReE-00Ii8) — East vs West Armwrestling · 2026-03-07
-  - Official EVW website: https://evwsports.com/
-- [Esra Kiraz vs Carolina Pettersson | East vs West 22 Full Match](https://www.youtube.com/watch?v=v_LxfciH1P4) — East vs West Armwrestling · 2026-03-07
-  - Official EVW website: https://evwsports.com/
 - [EVW23 - TRIBAL DAYS](https://www.youtube.com/watch?v=KCLvjKMXvO0) — Devon Larratt · 2026-03-05
   - https://www.facebook.com/share/p/1AjR3vmms5/
 
@@ -76,8 +64,6 @@ https://nolimitsarmwrestling.com/nolimit…
 - [LH Outside SP 177lbs/80.3kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/6sC7KMsffqw) — Monster Michael Todd · 2026-03-07
 - [Left hand PEBP 120lbs/54.4kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/Qrsr2vsDO28) — Monster Michael Todd · 2026-03-06
 - [Left hand Riser Curl 73lbs/33.1kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/RXA3ySNw62I) — Monster Michael Todd · 2026-03-05
-- [TAWF talk: Surrey roots for team arm wrestling league coach, athlete - North Delta Reporter](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFNrOU1BVjc4TXlha3NWYUV5LTRDVkd2RFZXb1pqUEd0aVRJWEUzT0lXLUVyV1B3cUN0bF9QajJLRkI1Z2JwdmtIWW9ONGljR0xRbXlmQW9sWm1nRjZVMGRDcUk2XzVsakJDbmZ3SGhVdzdjZVpCRnc1aWZNUi1xR0Q3cEhUeWRIc1FpTnZCME8wTEhyMXdzeDJxQ3FaUXllYUNSaFY5SS1SUlNRcUE?oc=5) — Google News Arm Wrestling · 2026-03-04
-  - TAWF talk: Surrey roots for team arm wrestling league coach, athlete North Delta Reporter
 - [TAWF talk: Surrey roots for team arm wrestling league coach, athlete - Cloverdale Reporter](https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2owMFlwdWJTelJTNkx5aXNvRUpFd2tMRnVLX1ZUQnV6SE8xOWdtMkFlU0RUTkFEVHBRbTROZVRod3ZBN053bzFpX0FXdFNVOTZQelplS2g5RG4tdTUzbjFVc1NPTHVSOHNxUmd0WUFURU42MWV1ZGRtRzVsUUdMUV9DaFUxd2pWZVZTbnpBeHRENFoxNkE5dC1tSG50RTVlMlFwTE84M1J6TnY0bFE?oc=5) — Google News Armwrestling EN · 2026-03-04
   - TAWF talk: Surrey roots for team arm wrestling league coach, athlete Cloverdale Reporter
 
