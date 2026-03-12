@@ -2,12 +2,6 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [Esra Kiraz vs Carolina Pettersson at East vs West 22 🔥](https://www.youtube.com/shorts/NDnBryur_9A) — East vs West Armwrestling · 2026-03-08
-- [Krasovskis vs Telyatnik | East vs West 22 Full Match](https://www.youtube.com/watch?v=Iuz6ST8REVc) — East vs West Armwrestling · 2026-03-08
-  - Official EVW website: https://evwsports.com/
-- [Eldar Bubenko vs Logan Bittinger on East vs West 22](https://www.youtube.com/shorts/H8bF3Abh4rE) — East vs West Armwrestling · 2026-03-08
-- [Bogdan Stoica vs Nugo Chikadze | East vs West 22 Full Match](https://www.youtube.com/watch?v=Ezj3oEKf5XE) — East vs West Armwrestling · 2026-03-08
-  - Official EVW website: https://evwsports.com/
 - [EVW rule update - false start sportsmanlike??](https://www.youtube.com/watch?v=q29NcvOhQ1U) — Devon Larratt · 2026-03-07
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -64,13 +58,10 @@ https://nolimitsarmwrestling.com/nolimit…
 - [LH Outside SP 177lbs/80.3kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/6sC7KMsffqw) — Monster Michael Todd · 2026-03-07
 - [Left hand PEBP 120lbs/54.4kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/Qrsr2vsDO28) — Monster Michael Todd · 2026-03-06
 - [Left hand Riser Curl 73lbs/33.1kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/RXA3ySNw62I) — Monster Michael Todd · 2026-03-05
-- [TAWF talk: Surrey roots for team arm wrestling league coach, athlete - Cloverdale Reporter](https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2owMFlwdWJTelJTNkx5aXNvRUpFd2tMRnVLX1ZUQnV6SE8xOWdtMkFlU0RUTkFEVHBRbTROZVRod3ZBN053bzFpX0FXdFNVOTZQelplS2g5RG4tdTUzbjFVc1NPTHVSOHNxUmd0WUFURU42MWV1ZGRtRzVsUUdMUV9DaFUxd2pWZVZTbnpBeHRENFoxNkE5dC1tSG50RTVlMlFwTE84M1J6TnY0bFE?oc=5) — Google News Armwrestling EN · 2026-03-04
+- [TAWF talk: Surrey roots for team arm wrestling league coach, athlete - Cloverdale Reporter](https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2owMFlwdWJTelJTNkx5aXNvRUpFd2tMRnVLX1ZUQnV6SE8xOWdtMkFlU0RUTkFEVHBRbTROZVRod3ZBN053bzFpX0FXdFNVOTZQelplS2g5RG4tdTUzbjFVc1NPTHVSOHNxUmd0WUFURU42MWV1ZGRtRzVsUUdMUV9DaFUxd2pWZVZTbnpBeHRENFoxNkE5dC1tSG50RTVlMlFwTE84M1J6TnY0bFE?oc=5) — Google News Arm Wrestling · 2026-03-04
   - TAWF talk: Surrey roots for team arm wrestling league coach, athlete Cloverdale Reporter
-
-## 💪 Entraînement & Technique
-
-- [Rugby à XIII : avec beaucoup de caractère, les Dragons Catalans remportent un gros bras de fer à Leigh - L'Indépendant](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYXI2RWQ0UnY2Uzd3OWhxRVFyZUhKZktNak9wTEdpY3RuWTlUMmpuamk2Z3lfMnNwQ21XNGlwczUwRWZFTDBKSFQxZWJIUEQ4RkZ0bUx0dk1hUDMzNzlZSVFRWGNVYl9CaE1BUk5sVndjQU5Pd3RzM0I5OU5pV2l6UmpFS3hnMzU5MzdCUmdOODg3bW1WS1VPdzdqaUpLSW9mNnAwZTJJWk9Fb1FZQWtWNjJTY3Z5bm0xMVN1bG9hYVhjaUItX2x1YW45amllN2hPQU1BZllCUFpCNzl0X1ZHZGFyX1N5UQ?oc=5) — Google News Armwrestling FR · 2026-03-06
-  - Rugby à XIII : avec beaucoup de caractère, les Dragons Catalans remportent un gros bras de fer à Leigh L'Indépendant
+- [TAWF talk: Surrey roots for team arm wrestling league coach, athlete - Surrey Now-Leader](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORi1fNURJamhvUVZENG44U3FVVGZWWVJoelBZdVdfb1VvV1lpVDFYZGw1NmFEbmdYT21KVEtmV0V6d2ZPMUp4NGlqajZ6WGREUGxTTDI2QmV4eEZTM21OaUtsbHYxTzFEeV8wWk5VbW9qRVRlSUVKQW4tTjlFYW1mbFFibVpRUGt2OHJtcHFlZGVvcEFXZGV2dVRGTGQwbEljakNEZThaN1lnZw?oc=5) — Google News Armwrestling EN · 2026-03-04
+  - TAWF talk: Surrey roots for team arm wrestling league coach, athlete Surrey Now-Leader
 
 ## 🎬 YouTube & Médias
 
