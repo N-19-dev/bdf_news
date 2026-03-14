@@ -58,6 +58,8 @@ https://nolimitsarmwrestling.com/nolimit…
 - [LH Outside SP 177lbs/80.3kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/6sC7KMsffqw) — Monster Michael Todd · 2026-03-07
 - [Left hand PEBP 120lbs/54.4kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/Qrsr2vsDO28) — Monster Michael Todd · 2026-03-06
 - [Left hand Riser Curl 73lbs/33.1kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/RXA3ySNw62I) — Monster Michael Todd · 2026-03-05
+- [TAWF talk: Surrey roots for team arm wrestling league coach, athlete - Cloverdale Reporter](https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2owMFlwdWJTelJTNkx5aXNvRUpFd2tMRnVLX1ZUQnV6SE8xOWdtMkFlU0RUTkFEVHBRbTROZVRod3ZBN053bzFpX0FXdFNVOTZQelplS2g5RG4tdTUzbjFVc1NPTHVSOHNxUmd0WUFURU42MWV1ZGRtRzVsUUdMUV9DaFUxd2pWZVZTbnpBeHRENFoxNkE5dC1tSG50RTVlMlFwTE84M1J6TnY0bFE?oc=5) — Google News Arm Wrestling · 2026-03-04
+  - TAWF talk: Surrey roots for team arm wrestling league coach, athlete Cloverdale Reporter
 - [TAWF talk: Surrey roots for team arm wrestling league coach, athlete - Surrey Now-Leader](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORi1fNURJamhvUVZENG44U3FVVGZWWVJoelBZdVdfb1VvV1lpVDFYZGw1NmFEbmdYT21KVEtmV0V6d2ZPMUp4NGlqajZ6WGREUGxTTDI2QmV4eEZTM21OaUtsbHYxTzFEeV8wWk5VbW9qRVRlSUVKQW4tTjlFYW1mbFFibVpRUGt2OHJtcHFlZGVvcEFXZGV2dVRGTGQwbEljakNEZThaN1lnZw?oc=5) — Google News Armwrestling EN · 2026-03-04
   - TAWF talk: Surrey roots for team arm wrestling league coach, athlete Surrey Now-Leader
 
