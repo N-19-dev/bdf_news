@@ -13,13 +13,10 @@
 
 - [Bras de fer : la Team FF33 a aligné des athlètes au championnat de France de bras de fer à Albi - Sud Ouest](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWVRVd2hUQ2pMSTducE1hVU9tYlRtcHdOcE9SQWRpVWdfcnZUTHBFcU1fcTNGNXpZbk9pN282dVVzSVRXTTJBbDdPVEZ4eEhzR3A4UWIzNmtEWW56WW04VkFzZHhselhlTUtQa0dYOTg1ai1GUEw5MlB5ZVRwdFZyVHRXb2RMUkYxOGJzYjRsLUpWaW5lX2JEUkRzYUpoWjhmTzlfWk82X1liVFZzd3psRHR1UjVqSkxxSmtCWjJ2SGwwTmVqQlJVSUZnZWJUdkMxLWc?oc=5) — Google News Armwrestling FR · 2026-03-10 · **58/100**
 - [Romanèche-Thorins. Eden Tranchand, championne de France de bras de fer sportif - Le JSL](https://news.google.com/rss/articles/CBMingFBVV95cUxPZC1STGlZWFcxS3VwX3NPWUV4ZWhfVzcyQmxkay1wbFZfZGVYOUNON3pqczdJWGJvWlAyTUF0emM1cm10SjRZeUVjX2RfZHhia1NOZmNtSVJUNHhWQm5wYXU1MFJ1VzJWcmhkLWo4aWNjcHowMk8zRlUwMXZHOVFKYThYNmlZSV93UENkRUZOLUxORXIzTHZMMUZmSVptQQ?oc=5) — Google News Armwrestling FR · 2026-03-13 · **56/100**
-
-## training
-
-- [Looking to build some strong forearms. Can I accomplish it all with a judo belt and weights or would you recommend one of those wrist extensions machines I see everywhere. Looking to build muscle and strength. Currently just doing heavy farmer carriers ordered a Bruce Lee machine as well.](https://www.reddit.com/r/GripTraining/comments/1rurnhl/looking_to_build_some_strong_forearms_can_i/) — Reddit GripTraining · 2026-03-15 · **55/100**
+- [La Grand-Combienne, Aude Delsaut, qualifiée pour les championnats d'Europe de bras de fer sportif en Hongrie - francebleu.fr](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNDhNM3poZUlacThBTUtraU5tb2lsZWFuZzZqUWNBU3VzMW40Tk9yWkhHR3VOczZxWkZLMi1Kd1oyREZnZzVaanc0ekFNOE5IQ1NtUlNIMFJLWmljcmtYYndzZXBUczhvVEtCVWp3OWFwNmlUcmQ1a05oSk5VZTNvclRSd1d1T0l4ekp1bmlaRnZmcFl2R0NJVjNHRVdCN3hSYkk0NmdsODBFRTlpay1ic3ZNcXBPZFpRNmo2OXRXU0N3NjVlMGVsTngxVV9HUDVBdHRxd3hpcnFCdG9HYnlYSDBxRFdzQ0h3SEZBeGRLakNXQnZJODUzUVNhbklDclBGYWdYNmVmRDVwR0k?oc=5) — Google News Armwrestling FR · 2026-03-15 · **56/100**
 
 ## youtube_media
 
-- [BREAKING PR'S WITH LARS RØRBAKKEN | MONSTER FACTORY](https://www.youtube.com/watch?v=H_Sn2eQ4Kkk) — Monster Michael Todd · 2026-03-15 · **64/100**
-- [Michael Todd vs Kamil Jablonski | East vs West 22 Full Match](https://www.youtube.com/watch?v=REKkIjOr_fs) — East vs West Armwrestling · 2026-03-10 · **57/100**
+- [Breaking PRs with Strongman Lars Rørbakken : ArmWrestling Style](https://www.youtube.com/watch?v=H_Sn2eQ4Kkk) — Monster Michael Todd · 2026-03-15 · **65/100**
 - [Todd Hutchings vs Oleg Petrenko | East vs West 22 Full Match](https://www.youtube.com/watch?v=1y94C3SmMbA) — East vs West Armwrestling · 2026-03-11 · **57/100**
+- [Devon Larratt vs Vitaly Laletin | East vs West 22 Full Match](https://www.youtube.com/watch?v=B_-u3LQtX_I) — East vs West Armwrestling · 2026-03-11 · **56/100**
