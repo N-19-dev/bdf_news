@@ -38,7 +38,7 @@
       "title": "Red Deer athlete competing in world’s first team-based arm wrestling league - centralalbertaonline.com",
       "summary": "Red Deer athlete competing in world’s first team-based arm wrestling league centralalbertaonline.com",
       "published_ts": 1773235967,
-      "source_name": "Google News Arm Wrestling",
+      "source_name": "Google News Armwrestling EN",
       "score": 58.02927456118843,
       "content_type": "technical",
       "tech_level": 1,
@@ -67,6 +67,19 @@
       "marketing_score": 0
     }
   ],
+  "competitions": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xMjhCd255NGh3UzRkRU9fcWFMRW1jWGJwYmVZTkdCY0xPMEc1dDhwT3hpWnUtamtuaW44eHpkUG1GZnpQUF9VWlRIZGZ0TURhTmw4MA?oc=5",
+      "title": "VIDEO: Myofit Armwrestling Championship - York Daily Record",
+      "summary": "VIDEO: Myofit Armwrestling Championship York Daily Record",
+      "published_ts": 1773240053,
+      "source_name": "Google News Armwrestling EN",
+      "score": 58.24547569860112,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
+    }
+  ],
   "france": [
     {
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWVRVd2hUQ2pMSTducE1hVU9tYlRtcHdOcE9SQWRpVWdfcnZUTHBFcU1fcTNGNXpZbk9pN282dVVzSVRXTTJBbDdPVEZ4eEhzR3A4UWIzNmtEWW56WW04VkFzZHhselhlTUtQa0dYOTg1ai1GUEw5MlB5ZVRwdFZyVHRXb2RMUkYxOGJzYjRsLUpWaW5lX2JEUkRzYUpoWjhmTzlfWk82X1liVFZzd3psRHR1UjVqSkxxSmtCWjJ2SGwwTmVqQlJVSUZnZWJUdkMxLWc?oc=5",
@@ -86,17 +99,6 @@
       "published_ts": 1773423060,
       "source_name": "Google News Armwrestling FR",
       "score": 55.89042121713811,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNDhNM3poZUlacThBTUtraU5tb2lsZWFuZzZqUWNBU3VzMW40Tk9yWkhHR3VOczZxWkZLMi1Kd1oyREZnZzVaanc0ekFNOE5IQ1NtUlNIMFJLWmljcmtYYndzZXBUczhvVEtCVWp3OWFwNmlUcmQ1a05oSk5VZTNvclRSd1d1T0l4ekp1bmlaRnZmcFl2R0NJVjNHRVdCN3hSYkk0NmdsODBFRTlpay1ic3ZNcXBPZFpRNmo2OXRXU0N3NjVlMGVsTngxVV9HUDVBdHRxd3hpcnFCdG9HYnlYSDBxRFdzQ0h3SEZBeGRLakNXQnZJODUzUVNhbklDclBGYWdYNmVmRDVwR0k?oc=5",
-      "title": "La Grand-Combienne, Aude Delsaut, qualifiée pour les championnats d'Europe de bras de fer sportif en Hongrie - francebleu.fr",
-      "summary": "La Grand-Combienne, Aude Delsaut, qualifiée pour les championnats d'Europe de bras de fer sportif en Hongrie francebleu.fr",
-      "published_ts": 1773559890,
-      "source_name": "Google News Armwrestling FR",
-      "score": 55.52859411998229,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
