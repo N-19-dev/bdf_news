@@ -7,7 +7,7 @@
 - [LH Shoulder Press 145lbs/65.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/IkA1vdBvJRY) — Monster Michael Todd · 2026-03-12 · **60/100**
 - [Red Deer athlete competing in world’s first team-based arm wrestling league - centralalbertaonline.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2dhdzNscExSYmNyT1lQUWNkbDlNZDlDSkZxdUcydnNUazRqLWd3Z0VuTXU3WEMtSFI4SW1qcXprdFZSdU1XMXlRUnJJMDlNRHNSX3AxenlWaFNZWnZwM284Qkxoc3FHdGxJNWN6U0lGeGE3OW16aTNzMUVfWk9rbDhuUHJ5QWNKMEFCWUlKUGlhZ0t0cGZ0emp4UzB1YW96dmxIclREd3lGeGJCU2lhSEI4eGQwRkE?oc=5) — Google News Armwrestling EN · 2026-03-11 · **58/100**
 - [Left Hand WC 162.5lbs/73.7kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/pLj4w_tpCJM) — Monster Michael Todd · 2026-03-12 · **58/100**
-- [Inside the match: Vitaly Laletin vs Devon Larratt | EVW 22](https://www.youtube.com/watch?v=ioH0ak1EyeA) — East vs West Armwrestling · 2026-03-10 · **57/100**
+- [Nugo Chikadze vs Bogdan Stoica at EVW 22 #armwrestling](https://www.youtube.com/shorts/IRviY8vreRQ) — East vs West Armwrestling · 2026-03-10 · **56/100**
 
 ## competitions
 
