@@ -4,10 +4,8 @@
 
 - [Winnipeg a été l’hôte d’une « rare » compétition de bras de fer - Radio-Canada](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzE2YkUyUENsYVlFWDZ2dFZ5eFozNlNkM1lnNG5ZcHBfM1h5SE4zclZfZGJNeGs1cm11VW5vZHFka3FvLTlfQXVoQV9sYnh2clNZekFPZDBWRVQyQ3paaG43T1ZHVTdoeGhHUWNTRlpVZjBlaXRhenNKNTZuZjkyOXU2MmxpSXNrWmJuTm5RRklSUGVoZlBJdDUyUQ?oc=5) — Google News Armwrestling FR · 2026-04-05
   - Winnipeg a été l’hôte d’une « rare » compétition de bras de fer Radio-Canada
-- [Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition - cbc.ca](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBScGY3LTNINjNQbmhHOVNPb1VPSnhVbHdoLXNndkFPbTBRenRSTW00WnpDNHBVZDVGeC1xMnlBY0o1akV4LVBHYU9uR2JPOHBz?oc=5) — Google News Armwrestling EN · 2026-04-05
-  - Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition cbc.ca
-- [Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition - cbc.ca](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRE9mekFIVlJqTEhwalZZN1drbklyMkQ0ay12UFFBck1GRk9tWlByMEhUOGpkdXN2MWJSVnZhNk5YWXRFNGJ5N2NnTFdfcFdocndLMkFlVG5UdjE3bmdsRVJGbm01MGFYZ0xCSWlDanEzaFRfdzNhMTJid1FneTZ6V1VSUW5wNnpfLTlHRFJUOUlsTHRBT1ZybHQ1ZTA?oc=5) — Google News Armwrestling EN · 2026-04-05
-  - Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition cbc.ca
+- [Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition - CBC](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRE9mekFIVlJqTEhwalZZN1drbklyMkQ0ay12UFFBck1GRk9tWlByMEhUOGpkdXN2MWJSVnZhNk5YWXRFNGJ5N2NnTFdfcFdocndLMkFlVG5UdjE3bmdsRVJGbm01MGFYZ0xCSWlDanEzaFRfdzNhMTJid1FneTZ6V1VSUW5wNnpfLTlHRFJUOUlsTHRBT1ZybHQ1ZTA?oc=5) — Google News Armwrestling EN · 2026-04-05
+  - Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition CBC
 - [Matt “Wild Horse” Mask vs Aymeric Pradines - EVW 23 in Deutschland 🇩🇪](https://www.youtube.com/shorts/0PkSu_-tqrA) — East vs West Armwrestling · 2026-04-05
 - [Artyom Morozov vs Ermes Gasparini 🔥 EvW 5 - Left Hand](https://www.youtube.com/shorts/5nPeadKu-a4) — East vs West Armwrestling · 2026-04-04
 - [Zurab Tavberidze vs Rob Vigeant Jr (RVJ) | East vs West 7 | Right Arm](https://www.youtube.com/shorts/kCGvPGY5QD8) — East vs West Armwrestling · 2026-04-03
@@ -30,10 +28,8 @@ https://stake.armbet.net/
 ▼ Merch:
 https://nolimitsarmwrestling.com/nolimit…
 - [Aymeric Pradines on Morozov vs Muratov at EVW 23](https://www.youtube.com/shorts/yNE-VwmFi5s) — East vs West Armwrestling · 2026-04-02
-- [Lars Rørbakken vs Valerii Chubotaru | KOTT 9 | Right Arm](https://www.youtube.com/shorts/Q4TEtPgsTIY) — East vs West Armwrestling · 2026-04-02
-- [Mindaugas Tarasaitis vs Artur Makarov 2 - EVW 23, 4/18/2026](https://www.youtube.com/shorts/bhmPwtfb4Hg) — East vs West Armwrestling · 2026-04-02
-- [Deux médailles pour Léa Bastien à Columbus - lechodemaskinonge.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjBKeXNoM2psY2l4NkR4SFE4VTJFMmZOWkJNWndibTRfa2NqSjQ5MDZyWVpzWnNGZURDUjluWEZQLWl6MjFsaVZYZElGdVRnMDdGN0JwUmIyQzBhNmdJZ1BFWld4NjdDNGVJVlFMemxpSEgtaHVFMl9MdTBsWDFoaUx3XzlVYXhNMF9tdg?oc=5) — Google News Armwrestling FR · 2026-03-31
-  - Deux médailles pour Léa Bastien à Columbus lechodemaskinonge.com
+- [Deux médailles pour Léa Bastien à Columbus - L’Écho de Maskinongé](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjBKeXNoM2psY2l4NkR4SFE4VTJFMmZOWkJNWndibTRfa2NqSjQ5MDZyWVpzWnNGZURDUjluWEZQLWl6MjFsaVZYZElGdVRnMDdGN0JwUmIyQzBhNmdJZ1BFWld4NjdDNGVJVlFMemxpSEgtaHVFMl9MdTBsWDFoaUx3XzlVYXhNMF9tdg?oc=5) — Google News Armwrestling FR · 2026-03-31
+  - Deux médailles pour Léa Bastien à Columbus L’Écho de Maskinongé
 - [PILON'S RAMPAGE](https://www.youtube.com/watch?v=cQAgvoLanAE) — Devon Larratt · 2026-03-31
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -83,18 +79,6 @@ in the pursuit of strength and all good times
   - Join this channel to get access to perks:https://www.youtube.com/channel/UCarJKBV9GEpXRHrw4bEEhHA/join
 👕https://www.ninelineapparel.com/discount/MONSTER20 for a discount. Support the company that gives back to those who give all.
 💪Visit htt…
-- [Week 4 PEBP/Riser Curl 195lbs/88.5kgs & 90.5lbs/41kgs X 5 #armwrestling #worldchampion #comeback](https://www.youtube.com/shorts/UZR_o-eFpJ8) — Monster Michael Todd · 2026-03-31
-- [We’ve NEVER Done This Before | Huge Announcement #Monsterfactory](https://www.youtube.com/watch?v=2Pu-cgGPDgk) — Monster Michael Todd · 2026-03-31
-  - We’re announcing something we’ve never done before at the Monster Factory.
-
-This is going to be limited—and it’s not for everyone.
-
-Stay with us… we’re revealing everything live.
-- [Train with Michael Todd & John Brzenk?!! #armwrestling](https://www.youtube.com/shorts/bfmc0UkauDw) — Monster Michael Todd · 2026-03-31
-  - 3 days inside The Monster Factory! 
-Full access. Friday-Sunday 
-
-12 spots only. Email Michael at monstermt243@gmail.com for your application.
 - [Does Devon Larratt also LOSE to Vitaly Laletin on RIGHT HAND?](https://www.youtube.com/watch?v=CRlE5HgJPp4) — Voice of Armwrestling · 2026-03-30
   - 👕T-SHIRTS & TRAINING PLANS https://voaarmwrestling.com/ 
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
@@ -105,8 +89,6 @@ Full access. Friday-Sunday
 
 - [Riser Curl & Wrist Cupping #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/jWfMrzoRIMc) — Monster Michael Todd · 2026-04-04
 - [Programmed to hit new PR of 630lbs+ #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/MB-dsraqD2Q) — Monster Michael Todd · 2026-04-03
-- [HUCOVIN Arm Wrestling Battle Table - Black & Orange Strength Training Equipment For Home, Gym, Office, Club - aplusme.me](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyX0h2SUxzSjc0VmY5S3FNTFI5NjFxckUwbzFtZEtrNkl6b0F0UGw4T0JVbkdZVW5rQVNlQ2JqUzFLTUx5TlFhNld1MEkxSEYtTmZlSk0zX0NNUQ?oc=5) — Google News Armwrestling EN · 2026-04-03
-  - HUCOVIN Arm Wrestling Battle Table - Black & Orange Strength Training Equipment For Home, Gym, Office, Club aplusme.me
 - [Week 4 Wrist Cupping 225lbs/102kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/6eQ91c_cQ7s) — Monster Michael Todd · 2026-03-31
 - [Janis Amolins NEXT OPPONENT is...](https://www.youtube.com/watch?v=ikC5WbCKH5E) — Voice of Armwrestling · 2026-03-31
   - Follow @armhavoc 
@@ -129,10 +111,3 @@ https://www.instagram.com/voiceof…
   - Official EVW website: https://evwsports.com/
 - [MATT MASK & AYMERIC PRADINES | EVW 23 LIVESTREAM](https://www.youtube.com/watch?v=TFb-5moQOu4) — East vs West Armwrestling · 2026-04-02
   - Official EVW website: https://evwsports.com/
-
-## 📰 Actualités & Annonces
-
-- [Arm wrestling: Assam’s Chetna Sharma in big league - The News Mill](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFRRSGJYNEY4dVBZVFJDVEJwd1dhMkwtV1FoX0c4elQ5Q05mdk5PVHpIX0wxaENuNU9LZDVySFVZMEg4ckdHUERXVmhVei1MYzhkOTQtM2J2QWRhVEd4LVY1Y3M0MEdVenR5ckZOWnZRQWpGbzJiSVZQYTU4M0xjMFcteng5SHVH?oc=5) — Google News Arm Wrestling · 2026-04-05
-  - Arm wrestling: Assam’s Chetna Sharma in big league The News Mill
-- [Pursuit: MacDonald’s eyes, and his pipes, firmly set on armwrestling glory - Sudbury News](https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1pGNUJ1RmluNDZNWDR3VU9oNEZBOWoteDA5U2NlRGx2dlk4V0dvRk5FZUhBRWNUSzJvb3NwYjZlYWlqeUtoLU5tVjl5aXpWaS1HaG4wa3NlU3R6WmZXMlEtSno0NUlUeVhsa1V1RzNtcGc0OThfWHg1S1NaZ19IUm00d0g0YzdsTHNSUTlSbVJ2b0NEOHhCOEdNdmhOT1g2THZ5Y1JDRmRFZkQ5ODhN?oc=5) — Google News Armwrestling EN · 2026-03-31
-  - Pursuit: MacDonald’s eyes, and his pipes, firmly set on armwrestling glory Sudbury News
