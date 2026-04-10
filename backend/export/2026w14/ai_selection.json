@@ -71,7 +71,7 @@
       "title": "Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition - CBC",
       "summary": "Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition CBC",
       "published_ts": 1775408940,
-      "source_name": "Google News Arm Wrestling",
+      "source_name": "Google News Armwrestling EN",
       "score": 58.06002242998643,
       "content_type": "technical",
       "tech_level": 1,
@@ -84,6 +84,17 @@
       "published_ts": 1775400365,
       "source_name": "Monster Michael Todd",
       "score": 56.91588607701388,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
+    },
+    {
+      "url": "https://www.youtube.com/shorts/QFbVW0-vffE",
+      "title": "Week 4 SP 159.75lbs/72.5kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413",
+      "summary": "",
+      "published_ts": 1775245912,
+      "source_name": "Monster Michael Todd",
+      "score": 56.67304862629283,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
@@ -123,19 +134,6 @@
       "published_ts": 1774846523,
       "source_name": "Devon Larratt",
       "score": 59.51540421355854,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    }
-  ],
-  "youtube_media": [
-    {
-      "url": "https://www.youtube.com/watch?v=n9Z-w846f28",
-      "title": "RUSTAM BABAIEV & BETKILI ONIANI | EVW 23 LIVESTREAM",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1775278682,
-      "source_name": "East vs West Armwrestling",
-      "score": 53.51940596645528,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0

@@ -8,8 +8,9 @@
 - [Does Devon Larratt also LOSE to Vitaly Laletin on RIGHT HAND?](https://www.youtube.com/watch?v=CRlE5HgJPp4) — Voice of Armwrestling · 2026-03-30 · **63/100**
 - [PILON'S RAMPAGE](https://www.youtube.com/watch?v=cQAgvoLanAE) — Devon Larratt · 2026-03-31 · **62/100**
 - [Riser Curl & Wrist Cupping #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/jWfMrzoRIMc) — Monster Michael Todd · 2026-04-04 · **61/100**
-- [Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition - CBC](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRE9mekFIVlJqTEhwalZZN1drbklyMkQ0ay12UFFBck1GRk9tWlByMEhUOGpkdXN2MWJSVnZhNk5YWXRFNGJ5N2NnTFdfcFdocndLMkFlVG5UdjE3bmdsRVJGbm01MGFYZ0xCSWlDanEzaFRfdzNhMTJid1FneTZ6V1VSUW5wNnpfLTlHRFJUOUlsTHRBT1ZybHQ1ZTA?oc=5) — Google News Arm Wrestling · 2026-04-05 · **58/100**
+- [Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition - CBC](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRE9mekFIVlJqTEhwalZZN1drbklyMkQ0ay12UFFBck1GRk9tWlByMEhUOGpkdXN2MWJSVnZhNk5YWXRFNGJ5N2NnTFdfcFdocndLMkFlVG5UdjE3bmdsRVJGbm01MGFYZ0xCSWlDanEzaFRfdzNhMTJid1FneTZ6V1VSUW5wNnpfLTlHRFJUOUlsTHRBT1ZybHQ1ZTA?oc=5) — Google News Armwrestling EN · 2026-04-05 · **58/100**
 - [NEW PR 154.75lbs/70.2kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/PlZT2Pv6WIk) — Monster Michael Todd · 2026-04-05 · **57/100**
+- [Week 4 SP 159.75lbs/72.5kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/QFbVW0-vffE) — Monster Michael Todd · 2026-04-03 · **57/100**
 
 ## competitions
 
@@ -22,7 +23,3 @@
 ## training
 
 - [SHOULDER PRESS](https://www.youtube.com/shorts/UwaK85Izqjw) — Devon Larratt · 2026-03-30 · **60/100**
-
-## youtube_media
-
-- [RUSTAM BABAIEV & BETKILI ONIANI | EVW 23 LIVESTREAM](https://www.youtube.com/watch?v=n9Z-w846f28) — East vs West Armwrestling · 2026-04-04 · **54/100**
