@@ -6,7 +6,6 @@
   - Winnipeg a été l’hôte d’une « rare » compétition de bras de fer Radio-Canada
 - [Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition - CBC](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRE9mekFIVlJqTEhwalZZN1drbklyMkQ0ay12UFFBck1GRk9tWlByMEhUOGpkdXN2MWJSVnZhNk5YWXRFNGJ5N2NnTFdfcFdocndLMkFlVG5UdjE3bmdsRVJGbm01MGFYZ0xCSWlDanEzaFRfdzNhMTJid1FneTZ6V1VSUW5wNnpfLTlHRFJUOUlsTHRBT1ZybHQ1ZTA?oc=5) — Google News Armwrestling EN · 2026-04-05
   - Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition CBC
-- [Matt “Wild Horse” Mask vs Aymeric Pradines - EVW 23 in Deutschland 🇩🇪](https://www.youtube.com/shorts/0PkSu_-tqrA) — East vs West Armwrestling · 2026-04-05
 - [Siberian Power Show STRONGMAN Final | New Champion!](https://www.youtube.com/watch?v=6MkukIkbkNE) — Matt Rhodes Sport (Core Sports) · 2026-04-03
   - Siberian Power Show силовой экстрим финальное шоу 2026 - A Canadian winner!
 
@@ -40,12 +39,10 @@ https://nolimitsarmwrestling.com/nolimit…
 
 ## 🌟 Athlètes & Interviews
 
-- [NEW PR 154.75lbs/70.2kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/PlZT2Pv6WIk) — Monster Michael Todd · 2026-04-05
 - [Timothé Béliard, champion de France de bras de fer sportif, vit à Saint-Gibrien - L'Union](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVIxVFhxLXp2SHI3ZG0wdmVMSkNtVDNQcnBTemwzMFhFSXhPVEhKM0dkdThGekh1dE16RU1lbGpYMnNWb3l4dEZOYzRyeTJWM2k3cXZ2ZzZhN0c3aU9GY2phSUxSVjFzZzZfckduRzJocE1uMUtrX2Z0dENuRWl5UzRkcnVwd1N0TUZ0WjV5SWNFMzRKUmQ1MHE4bkxsQlE4MW12UFgwMjBEZHN3bmJDMjhNc3B2MThNblpNUDdZNmI2N3c?oc=5) — Google News Armwrestling FR · 2026-04-04
   - Timothé Béliard, champion de France de bras de fer sportif, vit à Saint-Gibrien L'Union
 - [Sport: Devenez champion de bras de fer: les astuces d’un pro - 20 Minuten](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWdrSkdUZWxxeUh5VHZPMjVOV2pLSGZhT2sycWotdGVkSDhtTjFNNzE1d2xONllTOEM0TmtNYndicDRLUngwSjQ5cHVqMk1lLXNaTjU2b0NoalRvMHpfTC15QjFxTTFfS3RVb0hKckVuVFZDNkRtLW1odWt4ZkRzV0N1MkxoTWNtRmJsMVNzd1RSRDNVTUtmTGZwbm9pNm8?oc=5) — Google News Armwrestling FR · 2026-04-04
   - Sport: Devenez champion de bras de fer: les astuces d’un pro 20 Minuten
-- [Week 4 SP 159.75lbs/72.5kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/QFbVW0-vffE) — Monster Michael Todd · 2026-04-03
 - [SCHOOLBOY VS NATIONAL CHAMPION | ARM WRESTLING SUPER MATCH 2026](https://www.youtube.com/watch?v=o5BYQfvtEJo) — ARMWRESTLING TV (Schoolboy) · 2026-04-03
   - Armwrestling Super Match between Aleksandr SCHOOLBOY and Ruslan Magomedov ( Russian national champion )
 March 29th 2026
@@ -74,7 +71,6 @@ in the pursuit of strength and all good times
 
 ## 💪 Entraînement & Technique
 
-- [Riser Curl & Wrist Cupping #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/jWfMrzoRIMc) — Monster Michael Todd · 2026-04-04
 - [Janis Amolins NEXT OPPONENT is...](https://www.youtube.com/watch?v=ikC5WbCKH5E) — Voice of Armwrestling · 2026-03-31
   - Follow @armhavoc 
 
@@ -85,3 +81,8 @@ in the pursuit of strength and all good times
 📝https://linktr.ee/coach_ray
 https://www.instagram.com/voiceof…
 - [SHOULDER PRESS](https://www.youtube.com/shorts/UwaK85Izqjw) — Devon Larratt · 2026-03-30
+
+## 📰 Actualités & Annonces
+
+- [Pursuit: MacDonald’s eyes, and his pipes, firmly set on armwrestling glory - Sudbury News](https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1pGNUJ1RmluNDZNWDR3VU9oNEZBOWoteDA5U2NlRGx2dlk4V0dvRk5FZUhBRWNUSzJvb3NwYjZlYWlqeUtoLU5tVjl5aXpWaS1HaG4wa3NlU3R6WmZXMlEtSno0NUlUeVhsa1V1RzNtcGc0OThfWHg1S1NaZ19IUm00d0g0YzdsTHNSUTlSbVJ2b0NEOHhCOEdNdmhOT1g2THZ5Y1JDRmRFZkQ5ODhN?oc=5) — Google News Armwrestling EN · 2026-03-31
+  - Pursuit: MacDonald’s eyes, and his pipes, firmly set on armwrestling glory Sudbury News

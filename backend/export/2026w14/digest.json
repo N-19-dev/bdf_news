@@ -1,14 +1,6 @@
 {
   "athletes": [
     {
-      "url": "https://www.youtube.com/shorts/PlZT2Pv6WIk",
-      "title": "NEW PR 154.75lbs/70.2kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1775400365,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVIxVFhxLXp2SHI3ZG0wdmVMSkNtVDNQcnBTemwzMFhFSXhPVEhKM0dkdThGekh1dE16RU1lbGpYMnNWb3l4dEZOYzRyeTJWM2k3cXZ2ZzZhN0c3aU9GY2phSUxSVjFzZzZfckduRzJocE1uMUtrX2Z0dENuRWl5UzRkcnVwd1N0TUZ0WjV5SWNFMzRKUmQ1MHE4bkxsQlE4MW12UFgwMjBEZHN3bmJDMjhNc3B2MThNblpNUDdZNmI2N3c?oc=5",
       "title": "Timothé Béliard, champion de France de bras de fer sportif, vit à Saint-Gibrien - L'Union",
       "summary": "Timothé Béliard, champion de France de bras de fer sportif, vit à Saint-Gibrien L'Union",
@@ -22,14 +14,6 @@
       "summary": "Sport: Devenez champion de bras de fer: les astuces d’un pro 20 Minuten",
       "published_ts": 1775289229,
       "source_name": "Google News Armwrestling FR",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/QFbVW0-vffE",
-      "title": "Week 4 SP 159.75lbs/72.5kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1775245912,
-      "source_name": "Monster Michael Todd",
       "content_type": "technical"
     },
     {
@@ -75,14 +59,6 @@
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/shorts/0PkSu_-tqrA",
-      "title": "Matt “Wild Horse” Mask vs Aymeric Pradines - EVW 23 in Deutschland 🇩🇪",
-      "summary": "",
-      "published_ts": 1775401731,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=6MkukIkbkNE",
       "title": "Siberian Power Show STRONGMAN Final | New Champion!",
       "summary": "Siberian Power Show силовой экстрим финальное шоу 2026 - A Canadian winner!\n\n#силовойэкстрим #siberianpowershow #strongman #jamesjeffers #mateuszkielieskowski #thorbjornsson #deadlift #brianshaw #eddiehall #mitchellhooper #thestoltmans #mattrhodes #mattrhodessport #asc #wsm #worldsstrongestman",
@@ -116,16 +92,17 @@
     }
   ],
   "france": [],
-  "news": [],
-  "training": [
+  "news": [
     {
-      "url": "https://www.youtube.com/shorts/jWfMrzoRIMc",
-      "title": "Riser Curl & Wrist Cupping #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1775332762,
-      "source_name": "Monster Michael Todd",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1pGNUJ1RmluNDZNWDR3VU9oNEZBOWoteDA5U2NlRGx2dlk4V0dvRk5FZUhBRWNUSzJvb3NwYjZlYWlqeUtoLU5tVjl5aXpWaS1HaG4wa3NlU3R6WmZXMlEtSno0NUlUeVhsa1V1RzNtcGc0OThfWHg1S1NaZ19IUm00d0g0YzdsTHNSUTlSbVJ2b0NEOHhCOEdNdmhOT1g2THZ5Y1JDRmRFZkQ5ODhN?oc=5",
+      "title": "Pursuit: MacDonald’s eyes, and his pipes, firmly set on armwrestling glory - Sudbury News",
+      "summary": "Pursuit: MacDonald’s eyes, and his pipes, firmly set on armwrestling glory Sudbury News",
+      "published_ts": 1774990800,
+      "source_name": "Google News Armwrestling EN",
       "content_type": "technical"
-    },
+    }
+  ],
+  "training": [
     {
       "url": "https://www.youtube.com/watch?v=ikC5WbCKH5E",
       "title": "Janis Amolins NEXT OPPONENT is...",
