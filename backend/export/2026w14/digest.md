@@ -4,7 +4,7 @@
 
 - [Winnipeg a été l’hôte d’une « rare » compétition de bras de fer - Radio-Canada](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzE2YkUyUENsYVlFWDZ2dFZ5eFozNlNkM1lnNG5ZcHBfM1h5SE4zclZfZGJNeGs1cm11VW5vZHFka3FvLTlfQXVoQV9sYnh2clNZekFPZDBWRVQyQ3paaG43T1ZHVTdoeGhHUWNTRlpVZjBlaXRhenNKNTZuZjkyOXU2MmxpSXNrWmJuTm5RRklSUGVoZlBJdDUyUQ?oc=5) — Google News Armwrestling FR · 2026-04-05
   - Winnipeg a été l’hôte d’une « rare » compétition de bras de fer Radio-Canada
-- [Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition - CBC](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRE9mekFIVlJqTEhwalZZN1drbklyMkQ0ay12UFFBck1GRk9tWlByMEhUOGpkdXN2MWJSVnZhNk5YWXRFNGJ5N2NnTFdfcFdocndLMkFlVG5UdjE3bmdsRVJGbm01MGFYZ0xCSWlDanEzaFRfdzNhMTJid1FneTZ6V1VSUW5wNnpfLTlHRFJUOUlsTHRBT1ZybHQ1ZTA?oc=5) — Google News Armwrestling EN · 2026-04-05
+- [Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition - CBC](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRE9mekFIVlJqTEhwalZZN1drbklyMkQ0ay12UFFBck1GRk9tWlByMEhUOGpkdXN2MWJSVnZhNk5YWXRFNGJ5N2NnTFdfcFdocndLMkFlVG5UdjE3bmdsRVJGbm01MGFYZ0xCSWlDanEzaFRfdzNhMTJid1FneTZ6V1VSUW5wNnpfLTlHRFJUOUlsTHRBT1ZybHQ1ZTA?oc=5) — Google News Arm Wrestling · 2026-04-05
   - Athletes lock arms in celebration of 'rare' sport at Winnipeg arm-wrestling competition CBC
 - [Siberian Power Show STRONGMAN Final | New Champion!](https://www.youtube.com/watch?v=6MkukIkbkNE) — Matt Rhodes Sport (Core Sports) · 2026-04-03
   - Siberian Power Show силовой экстрим финальное шоу 2026 - A Canadian winner!
