@@ -3,16 +3,16 @@
 ## athletes
 
 - [You SHOULD skip leg day as an ARMWRESTLER!](https://www.youtube.com/watch?v=06XVOwZB4D0) — Voice of Armwrestling · 2026-04-07 · **63/100**
+- [Final workout circuit for vitali](https://www.youtube.com/watch?v=T0gSgdAkVC8) — Devon Larratt · 2026-04-11 · **63/100**
 - [The story of VITALI](https://www.youtube.com/watch?v=1Mw20Pd2-B4) — Devon Larratt · 2026-04-09 · **63/100**
 - [Left Hand SP/Riser Curl/Wrist Cupping #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/GCdSp4zRsdk) — Monster Michael Todd · 2026-04-08 · **62/100**
 - [PEBP & WRIST CUPPING #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/AccZqSvvZfM) — Monster Michael Todd · 2026-04-12 · **60/100**
 - [Week 5 Shoulder Press 177lbs/80.3kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/-tRtEXMgFcg) — Monster Michael Todd · 2026-04-12 · **60/100**
+- [CMU Arm Wrestling Club bulks up for competition - The Tartan](https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2xvZ3RkcXVheTFFc21IZGxIRl9TbFZoaUZRamtmNW5yVk5vN2RrM3ItVTJYMlpuYjg5ZlVtWjIwTXVsZFphYnZiYVFrd3RHTzktTENnTU55ZGFoOUdzTFM4eE5Bb095TGVmY1lLdnIyYmtwUWJrTk5CVlhJWkp1amVBZ0thcTNFMVE?oc=5) — Google News Arm Wrestling · 2026-04-06 · **58/100**
 
 ## competitions
 
 - [ARM WRESTLING CHAMPIONSHIP 2026 SIBERIAN POWER SHOW](https://www.youtube.com/watch?v=V0YOf6Svm0s) — ARMWRESTLING TV (Schoolboy) · 2026-04-10 · **65/100**
-- [Final workout circuit for vitali](https://www.youtube.com/watch?v=T0gSgdAkVC8) — Devon Larratt · 2026-04-11 · **63/100**
-- [Competitive Arm Wrestling Tournament coming to Blair County on Saturday, April 11! Open to all ages & skill levels - Yahoo Sports](https://news.google.com/rss/articles/CBMilwFBVV95cUxONmI3dWFpTmtVT1NTeWRnX3dnVzNUemN2YVRPbjI5clZMTTJvcXEwb3JNamdWXzdQcGRlcHR6Yi1May1xZkdaUHlGMjVUZ2tQUTBtLUZ5YVlJNXQzVW1lZzR4SU5CUTA4NnE0MGZNOEVCTjFXTlBobEpxSFUwWVQ0TGtnTlZFMEt2ZHZ1QW5oNWwzajRCakpJ?oc=5) — Google News Arm Wrestling · 2026-04-09 · **58/100**
 
 ## france
 
@@ -20,7 +20,7 @@
 
 ## training
 
-- [COC Grippers Beginner](https://www.reddit.com/r/GripTraining/comments/1sj97h0/coc_grippers_beginner/) — Reddit GripTraining · 2026-04-12 · **55/100**
+- [Kamil Hook Training](https://www.reddit.com/r/armwrestling/comments/1sjqfn5/kamil_hook_training/) — Reddit Armwrestling (New) · 2026-04-12 · **55/100**
 
 ## youtube_media
 
