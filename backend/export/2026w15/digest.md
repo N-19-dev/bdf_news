@@ -35,7 +35,6 @@ h…
 - [Competitive Arm Wrestling Tournament coming to Blair County on Saturday, April 11! Open to all ages & skill levels - WTAJ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmZSVXMxVkdWdGN1SUNHNmhSM1BJTEtGV3VyWVZZelpOclVRVUpOQlluZktMWDFKLThSZ1Jaa1JNU0lraXlXMXBqbWZNd0VZV1Q0eklOZkx4ZnZBSThYeHRoV0R6ZFY5b2NBam5CLTUwZDBpRHFha0lsSGVBQzEyV1RLSXlYWEZ3WmxIamZ2MmMzZ1FMYlV0STQyY2owQjdWd0M5WEtzeXBZYVRNVGpLbDhacV9sNkpWZjF4aXdvWmR6YkxxUExadTVDUHVxUHZSSGt3bUw5eWd1d9IB3wFBVV95cUxPRzBOQ0gwUlRNdVNnZkMzWnlQRFhSUnJIWXJ6NnFBdEhkUVJVSEdESVZLTG9TUVhfZ0tJQ1VzWlBTN3NDQU5nVzdqWXpUeHRab1pJSjVBd2JzUGFQcjJQOXQtZDVNbHdpQjJlcURTcklJOUMzTEl5SmhjQlNrMkcwNGVCcTlDVHFYSEIxS0NZZ3c5WEtHbTBHRDU4SVp1cXNtZGZuekdmMDQ5a3k4X0piMTE0RFdVN0pCY1NmNml6OF9RdzljZVlNR0FrQXhJNEl5cm1LUjk4Q3Vmb2lhQ1Rz?oc=5) — Google News Armwrestling EN · 2026-04-09
   - Competitive Arm Wrestling Tournament coming to Blair County on Saturday, April 11! Open to all ages & skill levels WTAJ
 - [Artyom Morozov vs Ivan Matyushenko 🔥 KOTT 11 - left arm What a crazy war 😱](https://www.youtube.com/shorts/DbM09LtzvXo) — East vs West Armwrestling · 2026-04-09
-- [Dave Chaffee vs Ivan Matyushenko at EVW 23 #deutschland](https://www.youtube.com/shorts/_xiO_76exG0) — East vs West Armwrestling · 2026-04-08
 - [Habitant près de Dieppe, il sera bientôt aux championnats d'Europe de bras de fer sportif - Actu.fr](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWR4eEp2XzgzWUlueGR4dGRadGlxNU1WekN3Y1VFMnFnaUc2RzhWTnhhVkZzbGVFMzhaekROdFV2TnRuVklLNzJpRmIzc0dOU1F2OUlMd1dUOXVpT2dXSUpIM0x3enAweE5wa3d3S3FGMHM3bWxSVlZkSS1KMU5YLUM3cXYxN1VOUElwVkxjN3plSVlTRi13M25ZWVVUTGY3U0NLWlZ5ZFpucTlVWnctTUpwSnl1T184b0NITlhqTXJCT1lIbXk5UW1acWZCeXRyakUtbW0xQQ?oc=5) — Google News Armwrestling FR · 2026-04-08
   - Habitant près de Dieppe, il sera bientôt aux championnats d'Europe de bras de fer sportif Actu.fr
 - [ALL NATIONS TRIBAL DAYS - 2026](https://www.youtube.com/watch?v=wVXDNK-Y4wA) — Devon Larratt · 2026-04-06
@@ -63,9 +62,6 @@ https://stake.armbet.net/
 - [When you load the wrong weight, you have to do it again! 💯💪 #armwrestling #worldchampion](https://www.youtube.com/shorts/objn1Tp-424) — Monster Michael Todd · 2026-04-11
 - [Very happy to realize that it was 10lbs more than I thought! #armwrestling #worldchampion #comeback](https://www.youtube.com/shorts/TB2_vhwn-QA) — Monster Michael Todd · 2026-04-10
 - [Week 5 Riser Curl 94lbs/42.6kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/aksRUCHUM0w) — Monster Michael Todd · 2026-04-10
-- [Getting in the BLOOD FLOW! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/qC-0IgWPSsw) — Monster Michael Todd · 2026-04-10
-- [PEBP 207.5lbs/94.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/yUDhc5xnEXE) — Monster Michael Todd · 2026-04-09
-- [Seated Pronation 161.5lbs/73.3kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/Ywt5otSf8-s) — Monster Michael Todd · 2026-04-09
 - [The story of VITALI](https://www.youtube.com/watch?v=1Mw20Pd2-B4) — Devon Larratt · 2026-04-09
   - 18th in germany
 go to evwsports.com  use code Devon :)
@@ -121,6 +117,8 @@ Larry Wheels: https://www.instagram.com/…
   - Official EVW website: https://evwsports.com/
 - [DAVE CHAFFEE & IVAN MATYUSHENKO | EVW 23 LIVESTREAM](https://www.youtube.com/watch?v=7Fkwbr-pqgg) — East vs West Armwrestling · 2026-04-09
   - Official EVW website: https://evwsports.com/
+- [World Series of Armwrestling Finals Season 3 (2/16/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdTNJNElzdTktUG5UbXJCd3BadXdDZ19yamZrZjZ6SVprQVdBM3VibTBMdk9Xbm81RE1MUEYzZE43eU5ESGJubklNZ3hNXzh5ekJQR05lNGc1dw?oc=5) — Google News Armwrestling EN · 2026-04-08
+  - World Series of Armwrestling Finals Season 3 (2/16/26) - Live Stream ESPN
 - [World Series of Armwrestling Finals Season 3 (3/22/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sYlFBV0lETndJcTYwcUlQMDVpQlJDajVFekFocDUtenBiS2VpdWxNRjdjdXdWWXdFdHlZZmZqNVRLdDhwNjg1c0k3RGdjYUJaVktJZjhTWjBLUQ?oc=5) — Google News Armwrestling EN · 2026-04-07
   - World Series of Armwrestling Finals Season 3 (3/22/26) - Live Stream ESPN
 - [Testing Ashton Hall Bench and Deadlift Max!](https://www.youtube.com/watch?v=0bl9ABPVJKo) — Larry Wheels · 2026-04-06
@@ -138,8 +136,6 @@ Larry Wheels: https://www.instagram.com/…
 
 ## 📰 Actualités & Annonces
 
-- [Nouveau bras de fer en perspective : le Sénégal lance une offensive juridique contre le Maroc - Yahoo Actualités](https://news.google.com/rss/articles/CBMimAFBVV95cUxObGJmNThteGNZRU11RkM0ejlDc2ZHWjd5bkxTa3pnbDlVeGtaelZISXpxNllEY291T2h1S3dsNWJTQlI4TndmZjV0WDVzLTU5UEh3emVuWldRdTN1Q3VyX21JNjBDSy1pQW9sOHdfUmtudWpUb3pCd3lEOGdrQ0tSVHVfOGpYZ2h3VDBLUkZrc2tDRFlRZ1VZSA?oc=5) — Google News Armwrestling FR · 2026-04-12
-  - Nouveau bras de fer en perspective : le Sénégal lance une offensive juridique contre le Maroc Yahoo Actualités
 - [Thor vs Colton | Which Deadlift Is Best?](https://www.youtube.com/watch?v=vjzAQL8y6Sw) — Matt Rhodes Sport (Core Sports) · 2026-04-10
   - Hafthor Bjornsson and Colton Engelbrecht  are the 2 best Deadlifters in the world but who holds which record? Let's clear it up!
 
