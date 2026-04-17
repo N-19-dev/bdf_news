@@ -12,7 +12,7 @@
 ## competitions
 
 - [ARM WRESTLING CHAMPIONSHIP 2026 SIBERIAN POWER SHOW](https://www.youtube.com/watch?v=V0YOf6Svm0s) — ARMWRESTLING TV (Schoolboy) · 2026-04-10 · **65/100**
-- [Competitive Arm Wrestling Tournament coming to Blair County on Saturday, April 11! Open to all ages & skill levels - WTAJ](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa2dGWC1VZVVWbXZOY0x3cUZ5N2ttWGRZcXpIN0YxdkhGZmZ0SlFGeUpHRVdHTHM4ZnpNRUZrQnp0SnFPMktQeGw1bmJuUTBUOEluUGRIQkRJa2VLMzFic1lDQm5FVVI2NmJPT1pRUXlYUDNvSFREYk0zQng5MnF4aWlIUUtjQWt1cGVnbExQX294dTdVdHQ2aDlRekdFZE53NndCQjA3ZnktYzFtMmJoUmhIX0tYeDctYTNiNmpCa0dyOHVRSHRkOEJoMF9ORlRLRklTT0w1TzBQM2x2OUtnOA?oc=5) — Google News Arm Wrestling · 2026-04-09 · **57/100**
+- [CMU Arm Wrestling Club bulks up for competition - The Tartan](https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2xvZ3RkcXVheTFFc21IZGxIRl9TbFZoaUZRamtmNW5yVk5vN2RrM3ItVTJYMlpuYjg5ZlVtWjIwTXVsZFphYnZiYVFrd3RHTzktTENnTU55ZGFoOUdzTFM4eE5Bb095TGVmY1lLdnIyYmtwUWJrTk5CVlhJWkp1amVBZ0thcTNFMVE?oc=5) — Google News Armwrestling EN · 2026-04-06 · **58/100**
 
 ## france
 
