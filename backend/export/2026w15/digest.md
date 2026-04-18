@@ -27,8 +27,6 @@ https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 Join this channel to get access to perks:
 h…
-- [Competitive Arm Wrestling Tournament coming to Blair County on Saturday, April 11! Open to all ages & skill levels - WTAJ](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa2dGWC1VZVVWbXZOY0x3cUZ5N2ttWGRZcXpIN0YxdkhGZmZ0SlFGeUpHRVdHTHM4ZnpNRUZrQnp0SnFPMktQeGw1bmJuUTBUOEluUGRIQkRJa2VLMzFic1lDQm5FVVI2NmJPT1pRUXlYUDNvSFREYk0zQng5MnF4aWlIUUtjQWt1cGVnbExQX294dTdVdHQ2aDlRekdFZE53NndCQjA3ZnktYzFtMmJoUmhIX0tYeDctYTNiNmpCa0dyOHVRSHRkOEJoMF9ORlRLRklTT0w1TzBQM2x2OUtnOA?oc=5) — Google News Armwrestling EN · 2026-04-09
-  - Competitive Arm Wrestling Tournament coming to Blair County on Saturday, April 11! Open to all ages & skill levels WTAJ
 - [Competitive Arm Wrestling Tournament coming to Blair County on Saturday, April 11! Open to all ages & skill levels - WTAJ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbmZSVXMxVkdWdGN1SUNHNmhSM1BJTEtGV3VyWVZZelpOclVRVUpOQlluZktMWDFKLThSZ1Jaa1JNU0lraXlXMXBqbWZNd0VZV1Q0eklOZkx4ZnZBSThYeHRoV0R6ZFY5b2NBam5CLTUwZDBpRHFha0lsSGVBQzEyV1RLSXlYWEZ3WmxIamZ2MmMzZ1FMYlV0STQyY2owQjdWd0M5WEtzeXBZYVRNVGpLbDhacV9sNkpWZjF4aXdvWmR6YkxxUExadTVDUHVxUHZSSGt3bUw5eWd1d9IB3wFBVV95cUxPRzBOQ0gwUlRNdVNnZkMzWnlQRFhSUnJIWXJ6NnFBdEhkUVJVSEdESVZLTG9TUVhfZ0tJQ1VzWlBTN3NDQU5nVzdqWXpUeHRab1pJSjVBd2JzUGFQcjJQOXQtZDVNbHdpQjJlcURTcklJOUMzTEl5SmhjQlNrMkcwNGVCcTlDVHFYSEIxS0NZZ3c5WEtHbTBHRDU4SVp1cXNtZGZuekdmMDQ5a3k4X0piMTE0RFdVN0pCY1NmNml6OF9RdzljZVlNR0FrQXhJNEl5cm1LUjk4Q3Vmb2lhQ1Rz?oc=5) — Google News Armwrestling EN · 2026-04-09
   - Competitive Arm Wrestling Tournament coming to Blair County on Saturday, April 11! Open to all ages & skill levels WTAJ
 - [Competitive Arm Wrestling Tournament coming to Blair County on Saturday, April 11! Open to all ages & skill levels - Yahoo Sports](https://news.google.com/rss/articles/CBMilwFBVV95cUxONmI3dWFpTmtVT1NTeWRnX3dnVzNUemN2YVRPbjI5clZMTTJvcXEwb3JNamdWXzdQcGRlcHR6Yi1May1xZkdaUHlGMjVUZ2tQUTBtLUZ5YVlJNXQzVW1lZzR4SU5CUTA4NnE0MGZNOEVCTjFXTlBobEpxSFUwWVQ0TGtnTlZFMEt2ZHZ1QW5oNWwzajRCakpJ?oc=5) — Google News Arm Wrestling · 2026-04-09
@@ -49,16 +47,13 @@ https://stake.armbet.net/
 
 ▼ Mer…
 - [Roger Kangingham vs Josh Miller Supermatch at Tampa 2026](https://www.youtube.com/watch?v=x69q1lB1qx4) — ARMSHARK ARMWRESTLING · 2026-04-06
-- [CMU Arm Wrestling Club bulks up for competition - The Tartan](https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2xvZ3RkcXVheTFFc21IZGxIRl9TbFZoaUZRamtmNW5yVk5vN2RrM3ItVTJYMlpuYjg5ZlVtWjIwTXVsZFphYnZiYVFrd3RHTzktTENnTU55ZGFoOUdzTFM4eE5Bb095TGVmY1lLdnIyYmtwUWJrTk5CVlhJWkp1amVBZ0thcTNFMVE?oc=5) — Google News Armwrestling EN · 2026-04-06
+- [CMU Arm Wrestling Club bulks up for competition - The Tartan](https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2xvZ3RkcXVheTFFc21IZGxIRl9TbFZoaUZRamtmNW5yVk5vN2RrM3ItVTJYMlpuYjg5ZlVtWjIwTXVsZFphYnZiYVFrd3RHTzktTENnTU55ZGFoOUdzTFM4eE5Bb095TGVmY1lLdnIyYmtwUWJrTk5CVlhJWkp1amVBZ0thcTNFMVE?oc=5) — Google News Arm Wrestling · 2026-04-06
   - CMU Arm Wrestling Club bulks up for competition The Tartan
 
 ## 🌟 Athlètes & Interviews
 
 - [Working static holds! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/B71fAX8zsEQ) — Monster Michael Todd · 2026-04-12
-- [EVW 23 in Germany Devon Larratt vs Vitaly Laletin right hand](https://www.youtube.com/shorts/AP0yWOo4uac) — East vs West Armwrestling · 2026-04-12
 - [Week 5 Shoulder Press 177lbs/80.3kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/-tRtEXMgFcg) — Monster Michael Todd · 2026-04-12
-- [When you load the wrong weight, you have to do it again! 💯💪 #armwrestling #worldchampion](https://www.youtube.com/shorts/objn1Tp-424) — Monster Michael Todd · 2026-04-11
-- [Very happy to realize that it was 10lbs more than I thought! #armwrestling #worldchampion #comeback](https://www.youtube.com/shorts/TB2_vhwn-QA) — Monster Michael Todd · 2026-04-10
 - [The story of VITALI](https://www.youtube.com/watch?v=1Mw20Pd2-B4) — Devon Larratt · 2026-04-09
   - 18th in germany
 go to evwsports.com  use code Devon :)
@@ -96,8 +91,6 @@ https://nolimitsarmwre…
   - World Series of Armwrestling Finals Season 3 (2/8/26) - Live Stream ESPN
 - [World Series of Armwrestling Finals Season 3 (4/12/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HQTdRbkVfZ0lyaGlTa0JyODZUUnQzeWFQbWNpOGJPNmZmeXBWN1NhQXRxV0VoaTFPNW5yZ0ljMUNCN3pPZnlQbGNFS2t6cXhtaTBYSDZzSm5mUQ?oc=5) — Google News Armwrestling EN · 2026-04-12
   - World Series of Armwrestling Finals Season 3 (4/12/26) - Live Stream ESPN
-- [TAKENAKA & VAITKUTE vs SARI & SAHIN | EVW 23 LIVESTREAM](https://www.youtube.com/watch?v=aLgXOk7dENE) — East vs West Armwrestling · 2026-04-12
-  - Official EVW website: https://evwsports.com/
 - [725 lb Sal Tests His Squat Bench Deadlift!](https://www.youtube.com/watch?v=jbNgzT96_dY) — Larry Wheels · 2026-04-11
   - Visit PR Lifestyle for all my merch
 https://prlifestyle.com
@@ -110,12 +103,10 @@ https://onegengym.com
 https://www.youtube.com/@OnegenPodcast
 
 Larry Wheels: https://www.instagram.com/…
-- [BRIAN SHAW | EVW 23 LIVESTREAM](https://www.youtube.com/watch?v=UmqKbU0V6WM) — East vs West Armwrestling · 2026-04-10
-  - Official EVW website: https://evwsports.com/
 - [World Series of Armwrestling Finals Season 3 (2/16/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYdTNJNElzdTktUG5UbXJCd3BadXdDZ19yamZrZjZ6SVprQVdBM3VibTBMdk9Xbm81RE1MUEYzZE43eU5ESGJubklNZ3hNXzh5ekJQR05lNGc1dw?oc=5) — Google News Armwrestling EN · 2026-04-08
   - World Series of Armwrestling Finals Season 3 (2/16/26) - Live Stream ESPN
-- [World Series of Armwrestling Finals Season 3 (2/22/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SaTNYa2NPVUV4eVc2Nl95dWVEMFNVYUFHTTFYRGV3aTdweHZmQk5yWjU0ZlFpY2VfT1UwRkQyNk54Q1k0bDZfRWZiZXFubkVzWWNDekxQZVNMZw?oc=5) — Google News Armwrestling EN · 2026-04-07
-  - World Series of Armwrestling Finals Season 3 (2/22/26) - Live Stream ESPN
+- [World Series of Armwrestling Finals Season 3 (3/22/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sYlFBV0lETndJcTYwcUlQMDVpQlJDajVFekFocDUtenBiS2VpdWxNRjdjdXdWWXdFdHlZZmZqNVRLdDhwNjg1c0k3RGdjYUJaVktJZjhTWjBLUQ?oc=5) — Google News Armwrestling EN · 2026-04-07
+  - World Series of Armwrestling Finals Season 3 (3/22/26) - Live Stream ESPN
 - [Testing Ashton Hall Bench and Deadlift Max!](https://www.youtube.com/watch?v=0bl9ABPVJKo) — Larry Wheels · 2026-04-06
   - Visit PR Lifestyle for all my merch
 https://prlifestyle.com
