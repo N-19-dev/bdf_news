@@ -78,6 +78,17 @@
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXFuUktyYU40WW0wVlZRS0hxcTFXZG9EUjRkdld0dlM5VHZGeDk5OEt5dUk5ZE5JbXV0ZGFXOFA2dkdzaDFZQmZkY25oblpadFhZb2NKQWI1YVYyZU80V2JlR3FNbzVGRFp2b0poSUd5UVA5WnY4ajZMSU5PMjhSb2dpajQwT1hrYlRNdW94ZW5hLU5v?oc=5",
+      "title": "Arm wrestling championship brings action to Portage - PortageOnline",
+      "summary": "Arm wrestling championship brings action to Portage PortageOnline",
+      "published_ts": 1776878541,
+      "source_name": "Google News Arm Wrestling",
+      "score": 57.92078413746574,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
     }
   ],
   "france": [
@@ -108,34 +119,23 @@
   ],
   "youtube_media": [
     {
-      "url": "https://www.youtube.com/watch?v=XQWxJDQyzjQ",
-      "title": "Maayan Shterengas vs Zurab Tavberidze | East vs West 23 Full Match",
+      "url": "https://www.youtube.com/watch?v=8CQKX0UnfFo",
+      "title": "Egle Vaitkute vs Azra Sari | East vs West 23 Full Match",
       "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1777132806,
+      "published_ts": 1777230006,
       "source_name": "East vs West Armwrestling",
-      "score": 57.63328758153048,
+      "score": 56.141285787929185,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
     },
     {
-      "url": "https://www.youtube.com/watch?v=njMswgvZ_Q8",
-      "title": "Aleksi Zavrashvili vs Artem Samson | East vs West 23 Full Match",
+      "url": "https://www.youtube.com/watch?v=QEpHS1Q8BFQ",
+      "title": "Matt Mask vs Aymeric Pradines | East vs West 23 Full Match",
       "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1777066206,
+      "published_ts": 1777222806,
       "source_name": "East vs West Armwrestling",
-      "score": 57.150981697169215,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=aulhs6sJrrY",
-      "title": "Riekard Bornman vs Lars Rørbakken | East vs West 23 Full Match",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1777140006,
-      "source_name": "East vs West Armwrestling",
-      "score": 57.07772555676373,
+      "score": 55.87318409572948,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0

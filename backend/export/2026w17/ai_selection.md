@@ -12,6 +12,7 @@
 ## competitions
 
 - [India Ready for Worlds 2026](https://www.waf-armwrestling.com/india-ready-for-worlds-2026/) — WAF News · 2026-04-22 · **59/100**
+- [Arm wrestling championship brings action to Portage - PortageOnline](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXFuUktyYU40WW0wVlZRS0hxcTFXZG9EUjRkdld0dlM5VHZGeDk5OEt5dUk5ZE5JbXV0ZGFXOFA2dkdzaDFZQmZkY25oblpadFhZb2NKQWI1YVYyZU80V2JlR3FNbzVGRFp2b0poSUd5UVA5WnY4ajZMSU5PMjhSb2dpajQwT1hrYlRNdW94ZW5hLU5v?oc=5) — Google News Arm Wrestling · 2026-04-22 · **58/100**
 
 ## france
 
@@ -23,6 +24,5 @@
 
 ## youtube_media
 
-- [Maayan Shterengas vs Zurab Tavberidze | East vs West 23 Full Match](https://www.youtube.com/watch?v=XQWxJDQyzjQ) — East vs West Armwrestling · 2026-04-25 · **58/100**
-- [Aleksi Zavrashvili vs Artem Samson | East vs West 23 Full Match](https://www.youtube.com/watch?v=njMswgvZ_Q8) — East vs West Armwrestling · 2026-04-24 · **57/100**
-- [Riekard Bornman vs Lars Rørbakken | East vs West 23 Full Match](https://www.youtube.com/watch?v=aulhs6sJrrY) — East vs West Armwrestling · 2026-04-25 · **57/100**
+- [Egle Vaitkute vs Azra Sari | East vs West 23 Full Match](https://www.youtube.com/watch?v=8CQKX0UnfFo) — East vs West Armwrestling · 2026-04-26 · **56/100**
+- [Matt Mask vs Aymeric Pradines | East vs West 23 Full Match](https://www.youtube.com/watch?v=QEpHS1Q8BFQ) — East vs West Armwrestling · 2026-04-26 · **56/100**

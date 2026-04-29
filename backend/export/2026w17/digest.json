@@ -1,6 +1,14 @@
 {
   "athletes": [
     {
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY25kN21iaFp4VkhNaVEtNzk1bDVZam5IY1NVaG1pU2c4eFJCN1VlV0lhOFhFTmhsNndBZVlEWWl6RWNKcUdwR3BJSExMLWtRNXNYdHd1OVJ2N1dGblBVM0kzcGM1MmQ5SkhqOW5fcGxOc1R4MVVKR2RDa3ZxOEUtd0doQlVUUGhySkVrZVdaX3BBMkVzRGlvS1MteU5IelFHOEZ3?oc=5",
+      "title": "Armwrestling: Africa’s best pullers converge in Accra for a Super Showdown - MyJoyOnline",
+      "summary": "Armwrestling: Africa’s best pullers converge in Accra for a Super Showdown MyJoyOnline",
+      "published_ts": 1777229359,
+      "source_name": "Google News Armwrestling EN",
+      "content_type": "technical"
+    },
+    {
       "url": "https://www.youtube.com/shorts/El_ZEVIfhCY",
       "title": "Week 7 shoulder press 187lbs/84.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
       "summary": "",
@@ -65,27 +73,11 @@
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/shorts/Zx-h4cKEyX8",
-      "title": "Left Hand PEBP 145lbs/65.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1776864654,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/tr4kr1XBzvM",
-      "title": "Top 3 sets from yesterday’s deadlift session 440/485/507 X 2 #armwrestling #worldchampion #comeback",
-      "summary": "",
-      "published_ts": 1776793650,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVV0UUlXQnMxV2IxX0ROSUZLNkNfZk9QaHprZ1VtQXFzUlVBZnBLTTFkZGt0ME5DNzg5dE45WGVrQ1QyaUg1NXZFalVER0xCOS12cHF4b19CNFJRNUZlTFN6TWRjNDZJYjZxQUdRNW1PRWFxOWNUUW1LLU9PeFl4YngxTF95T0pOTmJ5Y0FYWWVyX2E2ZmxpSy1CUHJFeUVvcUVtNXVJMTBPaWxQQzNkMlNicw?oc=5",
       "title": "'I must chase Levan Saginashvili'... Devon Larratt reveals when he wants to face his arch-rival - SPORF",
       "summary": "'I must chase Levan Saginashvili'... Devon Larratt reveals when he wants to face his arch-rival SPORF",
       "published_ts": 1776703316,
-      "source_name": "Google News Levan Saginashvili",
+      "source_name": "Google News Devon Larratt",
       "content_type": "technical"
     }
   ],
@@ -123,46 +115,6 @@
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/watch?v=aulhs6sJrrY",
-      "title": "Riekard Bornman vs Lars Rørbakken | East vs West 23 Full Match",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1777140006,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=XQWxJDQyzjQ",
-      "title": "Maayan Shterengas vs Zurab Tavberidze | East vs West 23 Full Match",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1777132806,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=njMswgvZ_Q8",
-      "title": "Aleksi Zavrashvili vs Artem Samson | East vs West 23 Full Match",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1777066206,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=66r-YIlhxOw",
-      "title": "Duvan Bornman vs André Nykonenko | East vs West 23 Full Match",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1777057206,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=6JoCNbsPg4k",
-      "title": "Devon Larratt vs Vitaly Laletin | East vs West 23 Full Match",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1777049236,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWWWpWaHlka2tiRnZSTVRlaTVlSlE4RmNqcHlVZjhXQmVuMEI5YWUxdHp0VzlyZ0VuUG9qLW1RS1IyOElUOVZIRnZKR0YwWGJwUWt0Q3hrSzduSWt4YmVMRVFVTUF4UlBoWFg3QWZxcFI?oc=5",
       "title": "ARTYOM MOROZOV Vs ALIZHAN MURATOV East Vs West 23 (y9a0F3w9pU) - Fathom Journal",
       "summary": "ARTYOM MOROZOV Vs ALIZHAN MURATOV East Vs West 23 (y9a0F3w9pU) Fathom Journal",
@@ -175,7 +127,7 @@
       "title": "Arm wrestling championship brings action to Portage - PortageOnline",
       "summary": "Arm wrestling championship brings action to Portage PortageOnline",
       "published_ts": 1776878541,
-      "source_name": "Google News Armwrestling EN",
+      "source_name": "Google News Arm Wrestling",
       "content_type": "technical"
     },
     {
@@ -226,7 +178,7 @@
       "title": "Cheyenne Happenings (4/24, 4/25): Dueling Pianos, Amateur Arm Wrestling, more - Cap City News",
       "summary": "Cheyenne Happenings (4/24, 4/25): Dueling Pianos, Amateur Arm Wrestling, more Cap City News",
       "published_ts": 1776990349,
-      "source_name": "Google News Armwrestling EN",
+      "source_name": "Google News Arm Wrestling",
       "content_type": "technical"
     }
   ],
@@ -261,14 +213,6 @@
       "summary": "Saint-Nabord – Le programme de la soirée découverte « bras de fer sportif » remiremontvallees.com",
       "published_ts": 1776726055,
       "source_name": "Google News Armwrestling FR",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORkFncjBXNGw2SEFFVHRyalFjMTJvMXc4Z0llTDV3N09YMVpHR0V1RDd4VVhpR21zdVJVS1c0MGJIZk5ZVjNrcUxXR2Q2cElXeUdJdkpycG9yUVF2NEFlUjNEWHg3bGlxblpiWXNKajNxUWpHN2dlbTRiZUtRbnNBOGFPSUhvYVNnejg4eXZYek9pRXhkWGZ1UUh4V2FuLWlvVnVyTlVsY0hpY0ZkZ0Z5cUlPd05qQmJkdVcwVWdxMHJNbEJFcUdaTDlDZ3l2TzBMR3JfalFfbGJVSFZuMXh6QU5XVi13aThjNEc5cTVENDFRcjVfdHNtbFJB?oc=5",
-      "title": "Belmont Brass Wrists arm wrestling club founded by two high school friends - San Mateo Daily Journal",
-      "summary": "Belmont Brass Wrists arm wrestling club founded by two high school friends San Mateo Daily Journal",
-      "published_ts": 1776690900,
-      "source_name": "Google News Arm Wrestling",
       "content_type": "technical"
     }
   ],
