@@ -1,16 +1,5 @@
 [
   {
-    "title": "Do These 9 Arm Wrestling Exercises To Level Up Fast!",
-    "url": "https://www.youtube.com/watch?v=1HFkD70_E6A",
-    "source": "Monster Michael Todd",
-    "category": "training",
-    "score": 71.6602584990588,
-    "published_ts": 1776943727,
-    "content_type": "technical",
-    "tech_level": 1,
-    "marketing_score": 0.0
-  },
-  {
     "title": "Dubai 2025 Asian Youth Para Games",
     "url": "https://www.waf-armwrestling.com/dubai-2025-asian-youth-para-games/",
     "source": "WAF News",
@@ -28,6 +17,17 @@
     "category": "athletes",
     "score": 63.555048812519416,
     "published_ts": 1777127953,
+    "content_type": "technical",
+    "tech_level": 1,
+    "marketing_score": 0.0
+  },
+  {
+    "title": "evw 23 review",
+    "url": "https://www.youtube.com/watch?v=Es5V9LVPLiQ",
+    "source": "Devon Larratt",
+    "category": "athletes",
+    "score": 61.4701452309435,
+    "published_ts": 1776860200,
     "content_type": "technical",
     "tech_level": 1,
     "marketing_score": 0.0
