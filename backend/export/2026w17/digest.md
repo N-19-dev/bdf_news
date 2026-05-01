@@ -2,14 +2,10 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [Egle Vaitkute vs Azra Sari | East vs West 23 Full Match](https://www.youtube.com/watch?v=8CQKX0UnfFo) — East vs West Armwrestling · 2026-04-26
-  - Official EVW website: https://evwsports.com/
-- [Matt Mask vs Aymeric Pradines | East vs West 23 Full Match](https://www.youtube.com/watch?v=QEpHS1Q8BFQ) — East vs West Armwrestling · 2026-04-26
-  - Official EVW website: https://evwsports.com/
-- [ARTYOM MOROZOV Vs ALIZHAN MURATOV East Vs West 23 (y9a0F3w9pU) - Fathom Journal](https://news.google.com/rss/articles/CBMicEFVX3lxTFBWWWpWaHlka2tiRnZSTVRlaTVlSlE4RmNqcHlVZjhXQmVuMEI5YWUxdHp0VzlyZ0VuUG9qLW1RS1IyOElUOVZIRnZKR0YwWGJwUWt0Q3hrSzduSWt4YmVMRVFVTUF4UlBoWFg3QWZxcFI?oc=5) — Google News Devon Larratt · 2026-04-23
-  - ARTYOM MOROZOV Vs ALIZHAN MURATOV East Vs West 23 (y9a0F3w9pU) Fathom Journal
-- [Arm wrestling championship brings action to Portage - PortageOnline](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXFuUktyYU40WW0wVlZRS0hxcTFXZG9EUjRkdld0dlM5VHZGeDk5OEt5dUk5ZE5JbXV0ZGFXOFA2dkdzaDFZQmZkY25oblpadFhZb2NKQWI1YVYyZU80V2JlR3FNbzVGRFp2b0poSUd5UVA5WnY4ajZMSU5PMjhSb2dpajQwT1hrYlRNdW94ZW5hLU5v?oc=5) — Google News Arm Wrestling · 2026-04-22
-  - Arm wrestling championship brings action to Portage PortageOnline
+- [GAF holds justifier ahead of 15th Africa Armwrestling Championship - MSN](https://news.google.com/rss/articles/CBMi7AJBVV95cUxPazBxekp5RzFoa0QyQlFVVW5rckpFc29ZTzQxZ20yZ3gzUXhxOHF6Vmw2TUQzUHFLTjNFdUtWS0ZUeWpnUnZWUFZPQkF4OGFobUs0U0xDTVdJcnhVcVlmeFE2WUFyZjB5Tjl5T0toSk5yWHBSRHhaLXVYZEFndmZxSWxDd2NxTU92SXdxRW9zQXo4Z0gtZlBhSEU2THgxWVlkVEU3bDM0bWFGS2QzRXpQbGVFMmFKTnd6aXh1MFd1Y2cwcExvVXhhaHB6YkxkNzgwaDdyWG5IdnZ5RmtkVlMwVWNia21sWUN0Q3Z6eWZySVJfOVdEeUNCa2lpTENKUnQ2X1J0dEFjZGFBcjZXcWlxay1jSHZVamZib014QmhDMnNxWGxhb3BFUnJvdENjVmdkbDMzQ01Yb1RNdmVvd0lHd1VwQ0xOc21uT0daRVBoVGljbGdPNmQ2VFhzZEtZZkI5d2d2TDVXSUtPMUpT?oc=5) — Google News Armwrestling EN · 2026-04-26
+  - GAF holds justifier ahead of 15th Africa Armwrestling Championship MSN
+- [ARTYOM MOROZOV Vs ALIZHAN MURATOV East Vs West 23 (y9a0F3w9pU) - fathomjournal.org](https://news.google.com/rss/articles/CBMicEFVX3lxTFBWWWpWaHlka2tiRnZSTVRlaTVlSlE4RmNqcHlVZjhXQmVuMEI5YWUxdHp0VzlyZ0VuUG9qLW1RS1IyOElUOVZIRnZKR0YwWGJwUWt0Q3hrSzduSWt4YmVMRVFVTUF4UlBoWFg3QWZxcFI?oc=5) — Google News Devon Larratt · 2026-04-23
+  - ARTYOM MOROZOV Vs ALIZHAN MURATOV East Vs West 23 (y9a0F3w9pU) fathomjournal.org
 - [evw 23 review](https://www.youtube.com/watch?v=Es5V9LVPLiQ) — Devon Larratt · 2026-04-22
   - ▼ Merch:
 https://nolimitsarmwrestling.com/nolimits/
@@ -31,8 +27,6 @@ in the pursuit of strength and all good times
   - WAF Registration WAF invites WAF members, WAF Continental members, and any armwrestling organizations that represent armwrestling in their country and believe in the WAF core values: Clean Sport, integrity, transparency, respect, and fair p…
 - [Dubai 2025 Asian Youth Para Games](https://www.waf-armwrestling.com/dubai-2025-asian-youth-para-games/) — WAF News · 2026-04-22
   - Para Armwrestling Debuts at Dubai 2025 Asian Youth Para Games The Para Armwrestling competition at the Asian Youth Para Games Dubai 2025 was held on 11 December 2025, marking a historic milestone for the sport. This event represents the fir…
-- [Saskatchewan Arm Wrestling Association Provincials 2026 Results - DiscoverWeyburn](https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3lCNzJPU3RiYXVtUmxlZlVEY1BETjQzX3I0Z20wa0F6V0pTQ1NWamdzUW9TM1ZHUWZjaHR3WmhjRnpSX0xuQzRnUDhoUFRfMmJ4QVRjWVg1akVTOElZOWFFbVZPRWtHem9aQ0h2Ykc1dlZPVWxud0VDSXN4Qzh4M3lhMVAzeEdheEZuaUJNdWRXNkZPNmZhVUhmX25WY0N4QlhINngxYw?oc=5) — Google News Arm Wrestling · 2026-04-20
-  - Saskatchewan Arm Wrestling Association Provincials 2026 Results DiscoverWeyburn
 
 ## 🌟 Athlètes & Interviews
 
@@ -46,18 +40,15 @@ December 13th 2025
 Subscribe for NEW VIDEOS 
 https://www.youtube.com/AlexToproll
 h…
-- [Week 7 Rise Curl 99lbs/44.9kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/2yobcGE2zjU) — Monster Michael Todd · 2026-04-24
-- [Week 7 SP 167.25lbs/75.9kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/2J6dcDmVejM) — Monster Michael Todd · 2026-04-24
-- ['I must chase Levan Saginashvili'... Devon Larratt reveals when he wants to face his arch-rival - SPORF](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVV0UUlXQnMxV2IxX0ROSUZLNkNfZk9QaHprZ1VtQXFzUlVBZnBLTTFkZGt0ME5DNzg5dE45WGVrQ1QyaUg1NXZFalVER0xCOS12cHF4b19CNFJRNUZlTFN6TWRjNDZJYjZxQUdRNW1PRWFxOWNUUW1LLU9PeFl4YngxTF95T0pOTmJ5Y0FYWWVyX2E2ZmxpSy1CUHJFeUVvcUVtNXVJMTBPaWxQQzNkMlNicw?oc=5) — Google News Devon Larratt · 2026-04-20
+- ['I must chase Levan Saginashvili'... Devon Larratt reveals when he wants to face his arch-rival - SPORF](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVV0UUlXQnMxV2IxX0ROSUZLNkNfZk9QaHprZ1VtQXFzUlVBZnBLTTFkZGt0ME5DNzg5dE45WGVrQ1QyaUg1NXZFalVER0xCOS12cHF4b19CNFJRNUZlTFN6TWRjNDZJYjZxQUdRNW1PRWFxOWNUUW1LLU9PeFl4YngxTF95T0pOTmJ5Y0FYWWVyX2E2ZmxpSy1CUHJFeUVvcUVtNXVJMTBPaWxQQzNkMlNicw?oc=5) — Google News Levan Saginashvili · 2026-04-20
   - 'I must chase Levan Saginashvili'... Devon Larratt reveals when he wants to face his arch-rival SPORF
 
 ## 💪 Entraînement & Technique
 
 - [Real Time Armwrestling Robot Machine](https://www.youtube.com/shorts/nw0vWIJ5cwY) — ARMSHARK ARMWRESTLING · 2026-04-24
   - Fueled by https://www.instagram.com/dforce.fit?igsh=cmZldmNieWVyc2dm
-- [Left Hand Wrist Cupping 172.5lbs/78.2kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/PM_fezvNnrw) — Monster Michael Todd · 2026-04-23
-- [Belmont Brass Wrists arm wrestling club founded by two high school friends - San Mateo Daily Journal](https://news.google.com/rss/articles/CBMi-gFBVV95cUxORkFncjBXNGw2SEFFVHRyalFjMTJvMXc4Z0llTDV3N09YMVpHR0V1RDd4VVhpR21zdVJVS1c0MGJIZk5ZVjNrcUxXR2Q2cElXeUdJdkpycG9yUVF2NEFlUjNEWHg3bGlxblpiWXNKajNxUWpHN2dlbTRiZUtRbnNBOGFPSUhvYVNnejg4eXZYek9pRXhkWGZ1UUh4V2FuLWlvVnVyTlVsY0hpY0ZkZ0Z5cUlPd05qQmJkdVcwVWdxMHJNbEJFcUdaTDlDZ3l2TzBMR3JfalFfbGJVSFZuMXh6QU5XVi13aThjNEc5cTVENDFRcjVfdHNtbFJB?oc=5) — Google News Arm Wrestling · 2026-04-20
-  - Belmont Brass Wrists arm wrestling club founded by two high school friends San Mateo Daily Journal
+- [Saint-Nabord – Le programme de la soirée découverte « bras de fer sportif » - remiremontvallees.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmdtVkZUNF9qTG5ZNEc1VUFHaGdxY1lzbmw0Xzl0SEMzdFp1bW5UaFlzOVpwTjZBUnp2el9Tcm1SSlFIb19kVmZheExBRFB3clc0dVg2SUtER1V1QVVSM2VBNFM2RUhkamFIN0dCQVJmVkdOcEkxekpxbWJfUkNLRk9PMU5xTGt0MmxSY082U19fbUR1cGpvS19TSkR6dmdzVnlXZkhJUHQ3NldYa2ZWaw?oc=5) — Google News Armwrestling FR · 2026-04-21
+  - Saint-Nabord – Le programme de la soirée découverte « bras de fer sportif » remiremontvallees.com
 
 ## 📰 Actualités & Annonces
 
