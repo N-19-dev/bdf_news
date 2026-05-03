@@ -6,7 +6,7 @@
 - [SCHOOLBOY VS AFRICA CHAMPION | ARM WRESTLING SUPER MATCH](https://www.youtube.com/watch?v=4mXn9ZJ9z-I) — ARMWRESTLING TV (Schoolboy) · 2026-04-25 · **64/100**
 - [First Step Completed – Road to Brisbane 2032 Paralympics](https://www.waf-armwrestling.com/first-step-completed-road-to-brisbane-2032-paralympics/) — WAF News · 2026-04-22 · **62/100**
 - [evw 23 review](https://www.youtube.com/watch?v=Es5V9LVPLiQ) — Devon Larratt · 2026-04-22 · **61/100**
-- [ARTYOM MOROZOV Vs ALIZHAN MURATOV East Vs West 23 (y9a0F3w9pU) - fathomjournal.org](https://news.google.com/rss/articles/CBMicEFVX3lxTFBWWWpWaHlka2tiRnZSTVRlaTVlSlE4RmNqcHlVZjhXQmVuMEI5YWUxdHp0VzlyZ0VuUG9qLW1RS1IyOElUOVZIRnZKR0YwWGJwUWt0Q3hrSzduSWt4YmVMRVFVTUF4UlBoWFg3QWZxcFI?oc=5) — Google News Devon Larratt · 2026-04-23 · **53/100**
+- [SCHOOLBOY VS Denis CYPLENKOV | ARM WRESTLING MATCHES 2026 (4P3mX4i6Fd) - wir-in-kwald.de](https://news.google.com/rss/articles/CBMidkFVX3lxTE5WQnJZUWd2OTJoQUlaS0ZpcFVVRGY3TlFXWXlwenJZX2RMTnE2ZjJtMWlmYjl5NU1ua3gyMW9rMDdBbExQYkhoNVRLMWY1Y2NwRWRVRXQxTzZwdHVhRHozRUhDZ0xWZ3gzN1dDX2hIYi1Mc05ZZ2c?oc=5) — Google News Armwrestling EN · 2026-04-24 · **59/100**
 - ['I must chase Levan Saginashvili'... Devon Larratt reveals when he wants to face his arch-rival - SPORF](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVV0UUlXQnMxV2IxX0ROSUZLNkNfZk9QaHprZ1VtQXFzUlVBZnBLTTFkZGt0ME5DNzg5dE45WGVrQ1QyaUg1NXZFalVER0xCOS12cHF4b19CNFJRNUZlTFN6TWRjNDZJYjZxQUdRNW1PRWFxOWNUUW1LLU9PeFl4YngxTF95T0pOTmJ5Y0FYWWVyX2E2ZmxpSy1CUHJFeUVvcUVtNXVJMTBPaWxQQzNkMlNicw?oc=5) — Google News Devon Larratt · 2026-04-20 · **51/100**
 
 ## competitions
