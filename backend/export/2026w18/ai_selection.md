@@ -6,9 +6,6 @@
 - [god project q + a](https://www.youtube.com/watch?v=B2qXePiZKNY) — Devon Larratt · 2026-05-03 · **61/100**
 - [Week 8 Wrist Cupping 245lbs/111.1kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/ebOkfoxerow) — Monster Michael Todd · 2026-05-01 · **60/100**
 - [LH Shoulder Press 170lbs/77.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/ghj7x2-vxl4) — Monster Michael Todd · 2026-05-01 · **60/100**
-- [Oleg Cherkasov is returning](https://www.reddit.com/r/armwrestling/comments/1t2regq/oleg_cherkasov_is_returning/) — Reddit Armwrestling (Hot) · 2026-05-03 · **59/100**
-- [Nerve injury](https://www.reddit.com/r/armwrestling/comments/1t2rzli/nerve_injury/) — Reddit Armwrestling (New) · 2026-05-03 · **59/100**
-- [Cheater and fair armwrestlers.](https://www.reddit.com/r/armwrestling/comments/1t2lixx/cheater_and_fair_armwrestlers/) — Reddit Armwrestling (New) · 2026-05-03 · **58/100**
 
 ## competitions
 
@@ -21,8 +18,11 @@
 ## training
 
 - [@fatgripz to maximize forearm and upper arm activation](https://www.youtube.com/shorts/E5xn8GSHPLs) — Larry Wheels · 2026-04-27 · **59/100**
+- [Measurement after training..](https://www.youtube.com/shorts/HDiVgcw1D6U) — Engin Terzi (Enigma of Rage) · 2026-05-01 · **57/100**
 
 ## youtube_media
 
 - [SCHOOLBOY ARM WRESTLING TRAINING 2026 | ROAD TO AMC](https://www.youtube.com/watch?v=dr7LCOMHCC4) — ARMWRESTLING TV (Schoolboy) · 2026-05-02 · **68/100**
 - [SMAEVE](https://www.youtube.com/watch?v=-ZCWSGFyHMI) — Devon Larratt · 2026-04-28 · **63/100**
+- [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 1](https://www.youtube.com/watch?v=XRD7czuvI_U) — WAF (World Armwrestling Federation) · 2026-05-02 · **56/100**
+- [2026 AFRICA ARMWRESTLING CHAMPIONSHIP  LEFT ARM T 3](https://www.youtube.com/watch?v=iKFjPYpwxXc) — WAF (World Armwrestling Federation) · 2026-05-02 · **56/100**
