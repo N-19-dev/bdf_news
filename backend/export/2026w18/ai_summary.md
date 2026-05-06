@@ -1,6 +1,6 @@
 ## Aperçu général de la semaine
 
-Cette semaine, les athlètes de l'armwrestling ont fait preuve de leur force et de leur détermination, avec des compétitions et des entraînements intenses. Les résultats de la Coupe d'Afrique 2026 ont été particulièrement notables, avec des athlètes comme Adedokun Stephen et Nwobodo qui ont remporté des médailles.
+Cette semaine, les athlètes d'arm-wrestling ont fait des progrès notables dans leur entraînement et leurs compétitions. Les résultats de la Coupe d'Afrique 2026 ont été annoncés, avec des athlètes comme Adedokun Stephen et Nwobodo qui ont remporté des médailles.
 
 ## 🏆 Compétitions & Résultats
 
@@ -11,7 +11,7 @@ Cette semaine, les athlètes de l'armwrestling ont fait preuve de leur force et 
 **À creuser :**
 **
 - Les résultats complets de la Coupe d'Afrique 2026
-- Les performances des athlètes qui ont participé à la compétition
+- Les performances des athlètes qui ont remporté des médailles
 
 ## 🌟 Athlètes & Interviews
 
@@ -22,12 +22,12 @@ Cette semaine, les athlètes de l'armwrestling ont fait preuve de leur force et 
 
 **À creuser :**
 **
-- Les stratégies d'entraînement des athlètes
-- Les conseils pour améliorer ses performances
+- Les performances des athlètes qui ont participé aux championnats d'Arkansas
+- Les conseils de Devon Larratt pour les athlètes
 
 ## 💪 Entraînement & Technique
 
-- [@
+_Rien d’important cette semaine._
 
 ## 🎬 YouTube & Médias
 
@@ -39,8 +39,8 @@ _Rien d’important cette semaine._
 
 **À creuser :**
 **
-- Les résultats de la compétition
-- Les performances des équipes françaises
+- Les performances de Bordeaux-Bègles dans le bras de fer
+- Les implications de cette victoire pour la finale de Champions Cup
 
 ## 📰 Actualités & Annonces
 

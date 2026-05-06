@@ -25,6 +25,8 @@ Every opponent. Regardless of how …
   - African Armwrestling Championship 2026: Florence Boakye Mensah Secures Silver, Sets Sights on African Games Glory Sports247 Nigeria
 - [African Armwrestling Championship 2026: Nigeria Wins Six Gold Medals, Reaches Eight Finals on Opening Day - Sports247 Nigeria](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVo2Tm1vWDRtTzNOY2treU9xcHJHZG5wVW80Zmx2aUxSX25oaDA4YU16aXJnQTFXN1FWYm9tZnJ3ZDdISW9fUnlReThKM2pqZFVfeHRmcXlEVVI3RWNBNjFkM3ZPMnRZd0U2OUJFeDdHcTM1bC1oUHUxR0JrZWtDdGlkbjR3elRsYWVZT1JxbW5kSmp0d1FoTUFUaUFWRWo0X2tkbFpjNkQ0YVU3amJNTWZ2SUxqR2tILVBqUU53OVNraXZwTE5ySg?oc=5) — Google News Armwrestling EN · 2026-05-02
   - African Armwrestling Championship 2026: Nigeria Wins Six Gold Medals, Reaches Eight Finals on Opening Day Sports247 Nigeria
+- [Pétanque. Triplette mixte : l’ultime bras de fer entre Vaulx et Bron au championnat du Rhône - Le Progrès](https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1V3cXFodTFhUkJ1bWZNX2twdFgwT2owel9QNzVvLVVwd2tYNy1MZW9KOTJHb3VHX0k4d0FDSHd6a0c0aU9FakI4YncweEJLZS03Tkp1bzZ4eUMxWFV1WFFrTm5pVGYwZFdxNVZNTmkwVUhRTjMzSGJzc1lPYXFONGpmOHUwMkFnckN6Q2FIY0s3LWdUNHNkMlhnckgybklEckRzcTIza0h2ZzMzN05uaTlFRDhJbE9aM3FjTFVvUQ?oc=5) — Google News Armwrestling FR · 2026-05-02
+  - Pétanque. Triplette mixte : l’ultime bras de fer entre Vaulx et Bron au championnat du Rhône Le Progrès
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 1](https://www.youtube.com/watch?v=XRD7czuvI_U) — WAF (World Armwrestling Federation) · 2026-05-02
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 2](https://www.youtube.com/watch?v=eaENhbEpsJQ) — WAF (World Armwrestling Federation) · 2026-05-02
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP  LEFT ARM T 3](https://www.youtube.com/watch?v=iKFjPYpwxXc) — WAF (World Armwrestling Federation) · 2026-05-02
@@ -71,12 +73,8 @@ in the pursuit of strength and all good times
 - [Is Artyom Morozov a threat to Ermes Gasparini?](https://www.youtube.com/shorts/sjTBjA-RmIw) — East vs West Armwrestling · 2026-05-02
 - [What are the plans of Ermes Gasparini?](https://www.youtube.com/shorts/h09E6dU6AGQ) — East vs West Armwrestling · 2026-05-02
 - [Seated Curls 190lbs/86.2kgs X 10 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/0lHC1T4yKcs) — Monster Michael Todd · 2026-05-02
-- [Devon Larratt vs Vitaly Laletin Round 2 at EVW 23](https://www.youtube.com/shorts/--BqJMw1GDE) — East vs West Armwrestling · 2026-05-01
 - [Week 8 Outside SP 267lbs/121.1kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/LUhTuAUjHNA) — Monster Michael Todd · 2026-05-01
 - [LH Shoulder Press 170lbs/77.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/ghj7x2-vxl4) — Monster Michael Todd · 2026-05-01
-- [Week 8 PEBP 240lbs/108.9kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/hzVAExRgGjs) — Monster Michael Todd · 2026-04-30
-- [Week 8 Riser Curl 101.5lbs/46kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/GkapGfbMLSY) — Monster Michael Todd · 2026-04-30
-- [Week 8 Shoulder Press 192lbs/87kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/aEWIuQ0b2hI) — Monster Michael Todd · 2026-04-29
 
 ## 💪 Entraînement & Technique
 
@@ -90,11 +88,6 @@ Join this channel to get acc…
 - [Measurement after training..](https://www.youtube.com/shorts/HDiVgcw1D6U) — Engin Terzi (Enigma of Rage) · 2026-05-01
 - [I vs toproll GOAT](https://www.youtube.com/shorts/S6fwzL-pR0I) — Engin Terzi (Enigma of Rage) · 2026-04-28
 - [@fatgripz to maximize forearm and upper arm activation](https://www.youtube.com/shorts/E5xn8GSHPLs) — Larry Wheels · 2026-04-27
-
-## 🎬 YouTube & Médias
-
-- [TODD HUTCHINGS & BOGDAN STOICA | EVW 24 LIVESTREAM](https://www.youtube.com/watch?v=TnX6wInlufg) — East vs West Armwrestling · 2026-05-01
-  - Official EVW website: https://evwsports.com/
 
 ## 🇫🇷 Bras de Fer France
 

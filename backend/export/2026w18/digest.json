@@ -65,14 +65,6 @@
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/shorts/--BqJMw1GDE",
-      "title": "Devon Larratt vs Vitaly Laletin Round 2 at EVW 23",
-      "summary": "",
-      "published_ts": 1777651598,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
       "url": "https://www.youtube.com/shorts/LUhTuAUjHNA",
       "title": "Week 8 Outside SP 267lbs/121.1kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413",
       "summary": "",
@@ -85,30 +77,6 @@
       "title": "LH Shoulder Press 170lbs/77.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
       "summary": "",
       "published_ts": 1777598977,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/hzVAExRgGjs",
-      "title": "Week 8 PEBP 240lbs/108.9kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1777571727,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/GkapGfbMLSY",
-      "title": "Week 8 Riser Curl 101.5lbs/46kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1777555851,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/aEWIuQ0b2hI",
-      "title": "Week 8 Shoulder Press 192lbs/87kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1777495454,
       "source_name": "Monster Michael Todd",
       "content_type": "technical"
     }
@@ -227,6 +195,14 @@
       "content_type": "technical"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1V3cXFodTFhUkJ1bWZNX2twdFgwT2owel9QNzVvLVVwd2tYNy1MZW9KOTJHb3VHX0k4d0FDSHd6a0c0aU9FakI4YncweEJLZS03Tkp1bzZ4eUMxWFV1WFFrTm5pVGYwZFdxNVZNTmkwVUhRTjMzSGJzc1lPYXFONGpmOHUwMkFnckN6Q2FIY0s3LWdUNHNkMlhnckgybklEckRzcTIza0h2ZzMzN05uaTlFRDhJbE9aM3FjTFVvUQ?oc=5",
+      "title": "Pétanque. Triplette mixte : l’ultime bras de fer entre Vaulx et Bron au championnat du Rhône - Le Progrès",
+      "summary": "Pétanque. Triplette mixte : l’ultime bras de fer entre Vaulx et Bron au championnat du Rhône Le Progrès",
+      "published_ts": 1777694400,
+      "source_name": "Google News Armwrestling FR",
+      "content_type": "technical"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=XRD7czuvI_U",
       "title": "2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 1",
       "summary": "",
@@ -304,7 +280,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPLWlZVzRVaDdtek4xUmtDbGV1UzR5MV9jdklZV21OQWJaWV9ibE9uTzBlcHltY2Q0MGcyUU1Wck91a09DQVpRdUVLMGVaZHNYUWFhYjlVVlRiRG9MUjNpeFljTjJCNHYyYnFzdkNLUGVhNTFiWWxPck42Rkx3M3hZc3FvR3Vmdkt1RklmcXVDeTV0VVgyOTZrX0U1VUdid3JpXzdrSkZZSGZBU2tBR1RFSzZRUXZqemVNUUVna0NtbjN6TFVvZ1hCUHFHaUZTRGtSbTYzR3FXY0UydGhqdjFGRlpzQkRUVmM1b1RiUTFETmNDTEJSYnhxZGFfemktWjJVN01wejZ5VDRiSGZkUFduTQ?oc=5",
       "title": "UBB-Bath (38-26) : Bordeaux-Bègles remporte son bras de fer et s’offre une nouvelle finale de Champions Cup - Le Parisien",
       "summary": "UBB-Bath (38-26) : Bordeaux-Bègles remporte son bras de fer et s’offre une nouvelle finale de Champions Cup Le Parisien",
-      "published_ts": 1777791840,
+      "published_ts": 1777824248,
       "source_name": "Google News Armwrestling FR",
       "content_type": "technical"
     }
@@ -352,14 +328,5 @@
       "content_type": "technical"
     }
   ],
-  "youtube_media": [
-    {
-      "url": "https://www.youtube.com/watch?v=TnX6wInlufg",
-      "title": "TODD HUTCHINGS & BOGDAN STOICA | EVW 24 LIVESTREAM",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1777654451,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    }
-  ]
+  "youtube_media": []
 }
