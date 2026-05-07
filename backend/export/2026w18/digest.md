@@ -5,6 +5,8 @@
 - [EVW 23 - LARRATT VS LALETIN - FULL EVENT](https://www.youtube.com/watch?v=Iomwdk-1PmI) — East vs West Armwrestling · 2026-05-03
   - Official EVW website: https://evwsports.com/
 - [Betkili Oniani vs Rustam Babaiev at EVW 23](https://www.youtube.com/shorts/b9m3q4pHk9U) — East vs West Armwrestling · 2026-05-03
+- [Ghana Tops Medal Table at Home African Armwrestling Championship - News Ghana](https://news.google.com/rss/articles/CBMimgFBVV95cUxPb2VodFh4emt5RGRoRnY5Mi1ZX21wWWJjT2tNaHdvZm90RVI2RWVfR0FWelhBNndkSFU5YlpHcGdGcFpEckFIaklQT1ZiU0NFTXNyRmphLU9JNHFMVkkxYnJXakp6SVNNTExVSkxKYmhqdUxGdG5oZllhbmJmSWJxVWtjT2Z3amVYNW16WW1EYjQxZ2NrNXRncUJB?oc=5) — Google News Armwrestling EN · 2026-05-03
+  - Ghana Tops Medal Table at Home African Armwrestling Championship News Ghana
 - [Azra Sari vs Egle Vaitkute at EVW 23](https://www.youtube.com/shorts/1kEfWUKph3M) — East vs West Armwrestling · 2026-05-03
 - [I Pulled 4 Classes With A 100 Lb Band | Arkansas State Championships](https://www.youtube.com/watch?v=HGwwFKqJ1Ls) — Monster Michael Todd · 2026-05-03
   - I competed in the Arkansas State Armwrestling Championships… but I didn’t want it to be easy. I wanted to put in some good work. 
@@ -23,20 +25,18 @@ Every opponent. Regardless of how …
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 2 FINALS](https://www.youtube.com/watch?v=lsrEIOpOs1A) — WAF (World Armwrestling Federation) · 2026-05-02
 - [African Armwrestling Championship 2026: Florence Boakye Mensah Secures Silver, Sets Sights on African Games Glory - Sports247 Nigeria](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaE9HRzdlWm9UbDBMM1JrNWxXc3JtUFVDUlQwQ0M1OGlwM3NxcDJHRjRRMmxweEZEbk9HZC0tNWkwQ0xfRzVMWjNodzV2TmpHSGlsX29DZlZPUEl0RFNheFlyNDJ0aXZlS1pLLVZRTmUwNGVsUUtBVlJlbmp3bHNqdTBWYnhvYUlGdXNjTEtZR0NyLW1sekJtVzllUjFvd3RaRHZVdm5HbG1mRnpGOHRQbFF6SDltRmdkV3lER251UUFGbGl4QWY3YUx2UUh2ZjFPd1hz?oc=5) — Google News Armwrestling EN · 2026-05-02
   - African Armwrestling Championship 2026: Florence Boakye Mensah Secures Silver, Sets Sights on African Games Glory Sports247 Nigeria
+- [South Africa’s Sebastian Reflects on First International Experience at African Armwrestling Championship - Sports247 Nigeria](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT21kVEhPMDRERTlaeVZxOXdMT25LRTBmWUhyTE1NYWp1eThrSkkxbXgybXlkR053Z1lIXzBvM01yU0UxbjJ3bHRKRjJ4TG9QYnJuWm9HNmdZVl9fejQ4V0ZjbHVLT0Zhb3dsQnVaU25hZHhfa2J6Vnl5dDVVNHpiMnA5dnJsSmtUenhqLVl2WGgyeER3Y3piRHMxQ0dVOGRRbllURTlCU1IzODFMVktLeFY4SUtoTjFvby1VQ2FHWDVXbGdUa0ZfbQ?oc=5) — Google News Armwrestling EN · 2026-05-02
+  - South Africa’s Sebastian Reflects on First International Experience at African Armwrestling Championship Sports247 Nigeria
 - [African Armwrestling Championship 2026: Nigeria Wins Six Gold Medals, Reaches Eight Finals on Opening Day - Sports247 Nigeria](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVo2Tm1vWDRtTzNOY2treU9xcHJHZG5wVW80Zmx2aUxSX25oaDA4YU16aXJnQTFXN1FWYm9tZnJ3ZDdISW9fUnlReThKM2pqZFVfeHRmcXlEVVI3RWNBNjFkM3ZPMnRZd0U2OUJFeDdHcTM1bC1oUHUxR0JrZWtDdGlkbjR3elRsYWVZT1JxbW5kSmp0d1FoTUFUaUFWRWo0X2tkbFpjNkQ0YVU3amJNTWZ2SUxqR2tILVBqUU53OVNraXZwTE5ySg?oc=5) — Google News Armwrestling EN · 2026-05-02
   - African Armwrestling Championship 2026: Nigeria Wins Six Gold Medals, Reaches Eight Finals on Opening Day Sports247 Nigeria
-- [Pétanque. Triplette mixte : l’ultime bras de fer entre Vaulx et Bron au championnat du Rhône - Le Progrès](https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1V3cXFodTFhUkJ1bWZNX2twdFgwT2owel9QNzVvLVVwd2tYNy1MZW9KOTJHb3VHX0k4d0FDSHd6a0c0aU9FakI4YncweEJLZS03Tkp1bzZ4eUMxWFV1WFFrTm5pVGYwZFdxNVZNTmkwVUhRTjMzSGJzc1lPYXFONGpmOHUwMkFnckN6Q2FIY0s3LWdUNHNkMlhnckgybklEckRzcTIza0h2ZzMzN05uaTlFRDhJbE9aM3FjTFVvUQ?oc=5) — Google News Armwrestling FR · 2026-05-02
-  - Pétanque. Triplette mixte : l’ultime bras de fer entre Vaulx et Bron au championnat du Rhône Le Progrès
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 1](https://www.youtube.com/watch?v=XRD7czuvI_U) — WAF (World Armwrestling Federation) · 2026-05-02
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 2](https://www.youtube.com/watch?v=eaENhbEpsJQ) — WAF (World Armwrestling Federation) · 2026-05-02
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP  LEFT ARM T 3](https://www.youtube.com/watch?v=iKFjPYpwxXc) — WAF (World Armwrestling Federation) · 2026-05-02
 - [EVW24 I’M COMING IN HOT! 🔥💯💪 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/2bEQdg-v8dU) — Monster Michael Todd · 2026-05-02
-- [15th Africa Armwrestling Championship secures huge financial deal - GhanaWeb](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWHRhMVFLN25sMnlQN044YnVFNHZoQjF4TGY5ZExta2c1U2h2NG52UEhvaTI0czhhUnhFRGQxNlB0elhVc21JcjhaYW00NjE2NjAydGkwdFNtcGJiTUp4Q1h3Mmd2cjctWkZmeEZaV2hnN1VPOEl4ZXc0YnJYMnQ5TW9McjVMeEExLWhKZ1pvRWFnTkdrRkFUZzUxRnQ5YUlIaXVaOUt4dnpIUEVZNDYtRGwyWXdCM3FiT2Zlek1mSm9KTjFFeGhLU0dSTE5PRXdpOFE?oc=5) — Google News Armwrestling EN · 2026-05-01
-  - 15th Africa Armwrestling Championship secures huge financial deal GhanaWeb
-- [Aleksi Zavrashvili vs Artem Samson Round 1 at EVW 23](https://www.youtube.com/shorts/LlqQA1C7DbI) — East vs West Armwrestling · 2026-05-01
-- [Andre Nykonenko vs Duvan Bornman at EVW 23](https://www.youtube.com/shorts/GUYvTwdMLXE) — East vs West Armwrestling · 2026-05-01
 - [15th Africa Armwrestling Championship secures huge financial deal - GhanaWeb](https://news.google.com/rss/articles/CBMixAFBVV95cUxNc1hZdWRLd05BZ2FfZHIyQ0xNVjFQa0xSUnZRYnU3MUptaDZWeVVyTDdPalFWTFhUcmh1TjFIV2FZVXltLXB4QVN5RDVadzBzS2NhWHhLa0RtMXBWaXEtZzVvR25iSDRVQlR4ZTk5MDhWMTNRSTQ1alpPYUZVOVFjb2szYVN1MWFrWFdHQ2VHaEFhQncyVC13N2dIaHgtN0VkMmNrWUpfRGxQd2psMVo4MVlDSnRCMWRURDFsekpRcWlNd1g0?oc=5) — Google News Armwrestling EN · 2026-04-30
   - 15th Africa Armwrestling Championship secures huge financial deal GhanaWeb
+- [Ghana arranges to organise the significant 15th African Armwrestling Championship - Modern Ghana](https://news.google.com/rss/articles/CBMimwFBVV95cUxOY200dDZ3VmhQaFljY0pzamotMWtNOENqSFBfbnhTSlJEWC1ydEJWQ2pGNy1Ga2FER3NaZENjM1ZBVndoUDN0OFVxMm1VQm4tUXpGZFI1OXNfUTBia3lIUzNrdVYyUjJkSHlFRzliSVBUaHZuN1VhRDF4Um5sYWRnVERfZXNIam5CRkNlX0JxbGlBY2lUdFJudlUwMNIBmgFBVV95cUxQQnFvUFRZSzBuTjM3VGJpelVsTWN2RzNkRFgxbDdhcTR6Q1NZaFBTOVd3VEJqMWh0dFg3QThoejZHaF9ZZ2t3bFoyRFI5d1QwbFgxTk5NZXZHakd6b2JMbjZORFdRdEpTSF9wZlJ0bXdhNmVIMkFNUkEySFRicldRVWJDckdqLVBZeGlDXzBvMk9hMk9OLWdVNHl3?oc=5) — Google News Armwrestling EN · 2026-04-28
+  - Ghana arranges to organise the significant 15th African Armwrestling Championship Modern Ghana
 - [SMAEVE](https://www.youtube.com/watch?v=-ZCWSGFyHMI) — Devon Larratt · 2026-04-28
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -73,8 +73,6 @@ in the pursuit of strength and all good times
 - [Is Artyom Morozov a threat to Ermes Gasparini?](https://www.youtube.com/shorts/sjTBjA-RmIw) — East vs West Armwrestling · 2026-05-02
 - [What are the plans of Ermes Gasparini?](https://www.youtube.com/shorts/h09E6dU6AGQ) — East vs West Armwrestling · 2026-05-02
 - [Seated Curls 190lbs/86.2kgs X 10 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/0lHC1T4yKcs) — Monster Michael Todd · 2026-05-02
-- [Week 8 Outside SP 267lbs/121.1kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/LUhTuAUjHNA) — Monster Michael Todd · 2026-05-01
-- [LH Shoulder Press 170lbs/77.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/ghj7x2-vxl4) — Monster Michael Todd · 2026-05-01
 
 ## 💪 Entraînement & Technique
 
@@ -84,7 +82,6 @@ Subscribe for NEW VIDEOS
 https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 Join this channel to get acc…
-- [Week 8 Wrist Cupping 245lbs/111.1kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/ebOkfoxerow) — Monster Michael Todd · 2026-05-01
 - [Measurement after training..](https://www.youtube.com/shorts/HDiVgcw1D6U) — Engin Terzi (Enigma of Rage) · 2026-05-01
 - [I vs toproll GOAT](https://www.youtube.com/shorts/S6fwzL-pR0I) — Engin Terzi (Enigma of Rage) · 2026-04-28
 - [@fatgripz to maximize forearm and upper arm activation](https://www.youtube.com/shorts/E5xn8GSHPLs) — Larry Wheels · 2026-04-27

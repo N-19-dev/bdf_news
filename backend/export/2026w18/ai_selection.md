@@ -4,8 +4,8 @@
 
 - [I Pulled 4 Classes With A 100 Lb Band | Arkansas State Championships](https://www.youtube.com/watch?v=HGwwFKqJ1Ls) — Monster Michael Todd · 2026-05-03 · **66/100**
 - [god project q + a](https://www.youtube.com/watch?v=B2qXePiZKNY) — Devon Larratt · 2026-05-03 · **61/100**
-- [Week 8 Wrist Cupping 245lbs/111.1kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/ebOkfoxerow) — Monster Michael Todd · 2026-05-01 · **60/100**
-- [LH Shoulder Press 170lbs/77.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/ghj7x2-vxl4) — Monster Michael Todd · 2026-05-01 · **60/100**
+- [Engage your riser while you do the battle ropes! #armwrestling #worldchampion #comeback #letsgo](https://www.youtube.com/shorts/matYRr7YBhg) — Monster Michael Todd · 2026-05-03 · **58/100**
+- [Seated Curls 190lbs/86.2kgs X 10 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/0lHC1T4yKcs) — Monster Michael Todd · 2026-05-02 · **58/100**
 
 ## competitions
 
