@@ -5,8 +5,6 @@
 - [EVW 23 - LARRATT VS LALETIN - FULL EVENT](https://www.youtube.com/watch?v=Iomwdk-1PmI) — East vs West Armwrestling · 2026-05-03
   - Official EVW website: https://evwsports.com/
 - [Betkili Oniani vs Rustam Babaiev at EVW 23](https://www.youtube.com/shorts/b9m3q4pHk9U) — East vs West Armwrestling · 2026-05-03
-- [Ghana Tops Medal Table at Home African Armwrestling Championship - News Ghana](https://news.google.com/rss/articles/CBMimgFBVV95cUxPb2VodFh4emt5RGRoRnY5Mi1ZX21wWWJjT2tNaHdvZm90RVI2RWVfR0FWelhBNndkSFU5YlpHcGdGcFpEckFIaklQT1ZiU0NFTXNyRmphLU9JNHFMVkkxYnJXakp6SVNNTExVSkxKYmhqdUxGdG5oZllhbmJmSWJxVWtjT2Z3amVYNW16WW1EYjQxZ2NrNXRncUJB?oc=5) — Google News Armwrestling EN · 2026-05-03
-  - Ghana Tops Medal Table at Home African Armwrestling Championship News Ghana
 - [Azra Sari vs Egle Vaitkute at EVW 23](https://www.youtube.com/shorts/1kEfWUKph3M) — East vs West Armwrestling · 2026-05-03
 - [I Pulled 4 Classes With A 100 Lb Band | Arkansas State Championships](https://www.youtube.com/watch?v=HGwwFKqJ1Ls) — Monster Michael Todd · 2026-05-03
   - I competed in the Arkansas State Armwrestling Championships… but I didn’t want it to be easy. I wanted to put in some good work. 
@@ -16,22 +14,18 @@ Every opponent. Regardless of how …
   - Geremie Gbegniho Wins Big at African Armwrestling Championship Finale Sports247 Nigeria
 - [Lars Rorbakken vs Riekerd Bornman Round 1 at EVW 23](https://www.youtube.com/shorts/yynUMblYKms) — East vs West Armwrestling · 2026-05-02
 - [Maayan Shterengas vs Zurab Tavberidze Round 1 at EVW 23](https://www.youtube.com/shorts/MldbN7yCzEc) — East vs West Armwrestling · 2026-05-02
-- [Devon Larratt vs Vitaly Laletin | East vs West 23 Full Match (UNCUT + TRANSLATION)](https://www.youtube.com/watch?v=Z2H4K5bojA4) — East vs West Armwrestling · 2026-05-02
-  - Official EVW website: https://evwsports.com/
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 1 FINALS](https://www.youtube.com/watch?v=wZMn6nEKo54) — WAF (World Armwrestling Federation) · 2026-05-02
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 3 FINALS](https://www.youtube.com/watch?v=KhIRM8Jt9_g) — WAF (World Armwrestling Federation) · 2026-05-02
 - [African Armwrestling Championship 2026: Adedokun Stephen Wins Silver, Nwobodo Claims Bronze as Both Qualify for Cairo 2027 - Sports247 Nigeria](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOFdlajl0eHpNNDVmT3g1eXplQTdoRHZCQUYzQklZcFB2ZzhYS2tQMFFDNnM2RHVaazZzVjZVWFFsa0ZBcU5TS1FkZHU4RUdIZzEtZktVZXVsRXdlaHpQb3IxeXlRNzRlV0ViejFoSHo5X1JWWHNCOGctX2NJakNrY2paU1gwOV9kOG9HblA0aEZidWNTSDVYVlF4YXd1QnJzZGhLY1F3VXNvTV9RYlVab1BLODdydVVkd1oxb181emNoLTlpTnR6X3BaaUp4Z2cwNVlTY3F6U2ZWdi1sdVVr?oc=5) — Google News Armwrestling EN · 2026-05-02
   - African Armwrestling Championship 2026: Adedokun Stephen Wins Silver, Nwobodo Claims Bronze as Both Qualify for Cairo 2027 Sports247 Nigeria
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 2 FINALS](https://www.youtube.com/watch?v=lsrEIOpOs1A) — WAF (World Armwrestling Federation) · 2026-05-02
-- [African Armwrestling Championship 2026: Florence Boakye Mensah Secures Silver, Sets Sights on African Games Glory - Sports247 Nigeria](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaE9HRzdlWm9UbDBMM1JrNWxXc3JtUFVDUlQwQ0M1OGlwM3NxcDJHRjRRMmxweEZEbk9HZC0tNWkwQ0xfRzVMWjNodzV2TmpHSGlsX29DZlZPUEl0RFNheFlyNDJ0aXZlS1pLLVZRTmUwNGVsUUtBVlJlbmp3bHNqdTBWYnhvYUlGdXNjTEtZR0NyLW1sekJtVzllUjFvd3RaRHZVdm5HbG1mRnpGOHRQbFF6SDltRmdkV3lER251UUFGbGl4QWY3YUx2UUh2ZjFPd1hz?oc=5) — Google News Armwrestling EN · 2026-05-02
-  - African Armwrestling Championship 2026: Florence Boakye Mensah Secures Silver, Sets Sights on African Games Glory Sports247 Nigeria
-- [African Armwrestling Championship 2026: Nigeria Wins Six Gold Medals, Reaches Eight Finals on Opening Day - Sports247 Nigeria](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVo2Tm1vWDRtTzNOY2treU9xcHJHZG5wVW80Zmx2aUxSX25oaDA4YU16aXJnQTFXN1FWYm9tZnJ3ZDdISW9fUnlReThKM2pqZFVfeHRmcXlEVVI3RWNBNjFkM3ZPMnRZd0U2OUJFeDdHcTM1bC1oUHUxR0JrZWtDdGlkbjR3elRsYWVZT1JxbW5kSmp0d1FoTUFUaUFWRWo0X2tkbFpjNkQ0YVU3amJNTWZ2SUxqR2tILVBqUU53OVNraXZwTE5ySg?oc=5) — Google News Armwrestling EN · 2026-05-02
-  - African Armwrestling Championship 2026: Nigeria Wins Six Gold Medals, Reaches Eight Finals on Opening Day Sports247 Nigeria
 - [Pétanque. Triplette mixte : l’ultime bras de fer entre Vaulx et Bron au championnat du Rhône - Le Progrès](https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1V3cXFodTFhUkJ1bWZNX2twdFgwT2owel9QNzVvLVVwd2tYNy1MZW9KOTJHb3VHX0k4d0FDSHd6a0c0aU9FakI4YncweEJLZS03Tkp1bzZ4eUMxWFV1WFFrTm5pVGYwZFdxNVZNTmkwVUhRTjMzSGJzc1lPYXFONGpmOHUwMkFnckN6Q2FIY0s3LWdUNHNkMlhnckgybklEckRzcTIza0h2ZzMzN05uaTlFRDhJbE9aM3FjTFVvUQ?oc=5) — Google News Armwrestling FR · 2026-05-02
   - Pétanque. Triplette mixte : l’ultime bras de fer entre Vaulx et Bron au championnat du Rhône Le Progrès
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 1](https://www.youtube.com/watch?v=XRD7czuvI_U) — WAF (World Armwrestling Federation) · 2026-05-02
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP LEFT ARM T 2](https://www.youtube.com/watch?v=eaENhbEpsJQ) — WAF (World Armwrestling Federation) · 2026-05-02
 - [2026 AFRICA ARMWRESTLING CHAMPIONSHIP  LEFT ARM T 3](https://www.youtube.com/watch?v=iKFjPYpwxXc) — WAF (World Armwrestling Federation) · 2026-05-02
+- [Armwrestling supermatches return to Bragging Rooster Beer and Mead - The Warren Record](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3RtSDJaX2Zkem1idVBCOG1sTENvXzNMQzlqQTBISkViZ0lVVlg5dk52LUVHNng3RHpaR0ludHpiejhieUZsUW5vaUNjdGJBNnI4NXNWd2FaVUF4Zk9ER2dDOHFMRUZ1OUpHZUs3ZHdUSE9LU0FvZ1VQbmYwWTdfNHZfRm42NUJDaFVn?oc=5) — Google News Armwrestling EN · 2026-04-30
+  - Armwrestling supermatches return to Bragging Rooster Beer and Mead The Warren Record
 - [SMAEVE](https://www.youtube.com/watch?v=-ZCWSGFyHMI) — Devon Larratt · 2026-04-28
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -63,8 +57,6 @@ in the pursuit of strength and all good times
 ► Website → https://www.armbet.com
 
 ▼ Devon Larratt Socia…
-- [Engage your riser while you do the battle ropes! #armwrestling #worldchampion #comeback #letsgo](https://www.youtube.com/shorts/matYRr7YBhg) — Monster Michael Todd · 2026-05-03
-- [Is Artyom Morozov a threat to Ermes Gasparini?](https://www.youtube.com/shorts/sjTBjA-RmIw) — East vs West Armwrestling · 2026-05-02
 
 ## 💪 Entraînement & Technique
 
@@ -77,8 +69,3 @@ Join this channel to get acc…
 - [Measurement after training..](https://www.youtube.com/shorts/HDiVgcw1D6U) — Engin Terzi (Enigma of Rage) · 2026-05-01
 - [I vs toproll GOAT](https://www.youtube.com/shorts/S6fwzL-pR0I) — Engin Terzi (Enigma of Rage) · 2026-04-28
 - [@fatgripz to maximize forearm and upper arm activation](https://www.youtube.com/shorts/E5xn8GSHPLs) — Larry Wheels · 2026-04-27
-
-## 🇫🇷 Bras de Fer France
-
-- [UBB-Bath (38-26) : Bordeaux-Bègles remporte son bras de fer et s’offre une nouvelle finale de Champions Cup - Le Parisien](https://news.google.com/rss/articles/CBMikAJBVV95cUxPLWlZVzRVaDdtek4xUmtDbGV1UzR5MV9jdklZV21OQWJaWV9ibE9uTzBlcHltY2Q0MGcyUU1Wck91a09DQVpRdUVLMGVaZHNYUWFhYjlVVlRiRG9MUjNpeFljTjJCNHYyYnFzdkNLUGVhNTFiWWxPck42Rkx3M3hZc3FvR3Vmdkt1RklmcXVDeTV0VVgyOTZrX0U1VUdid3JpXzdrSkZZSGZBU2tBR1RFSzZRUXZqemVNUUVna0NtbjN6TFVvZ1hCUHFHaUZTRGtSbTYzR3FXY0UydGhqdjFGRlpzQkRUVmM1b1RiUTFETmNDTEJSYnhxZGFfemktWjJVN01wejZ5VDRiSGZkUFduTQ?oc=5) — Google News Armwrestling FR · 2026-05-03
-  - UBB-Bath (38-26) : Bordeaux-Bègles remporte son bras de fer et s’offre une nouvelle finale de Champions Cup Le Parisien
