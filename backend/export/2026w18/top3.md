@@ -1,5 +1,5 @@
 ## 🏆 Top 3 de la semaine
 
-- **1.** [SCHOOLBOY ARM WRESTLING TRAINING 2026 | ROAD TO AMC](https://www.youtube.com/watch?v=dr7LCOMHCC4) — ARMWRESTLING TV (Schoolboy) · 2026-05-02 · **67.59416433897886/100**
-- **2.** [I Pulled 4 Classes With A 100 Lb Band | Arkansas State Championships](https://www.youtube.com/watch?v=HGwwFKqJ1Ls) — Monster Michael Todd · 2026-05-03 · **65.5370571938428/100**
-- **3.** [SMAEVE](https://www.youtube.com/watch?v=-ZCWSGFyHMI) — Devon Larratt · 2026-04-28 · **62.96684224497188/100**
+- **1.** [SCHOOLBOY ARM WRESTLING TRAINING 2026 | ROAD TO AMC](https://www.youtube.com/watch?v=dr7LCOMHCC4) — ARMWRESTLING TV (Schoolboy) · 2026-05-02 · **67.5941670482809/100**
+- **2.** [SMAEVE](https://www.youtube.com/watch?v=-ZCWSGFyHMI) — Devon Larratt · 2026-04-28 · **62.96684495427392/100**
+- **3.** [@fatgripz to maximize forearm and upper arm activation](https://www.youtube.com/shorts/E5xn8GSHPLs) — Larry Wheels · 2026-04-27 · **59.25184810703451/100**

@@ -4,19 +4,8 @@
     "url": "https://www.youtube.com/watch?v=dr7LCOMHCC4",
     "source": "ARMWRESTLING TV (Schoolboy)",
     "category": "youtube_media",
-    "score": 67.59416433897886,
+    "score": 67.5941670482809,
     "published_ts": 1777729796,
-    "content_type": "technical",
-    "tech_level": 1,
-    "marketing_score": 0.0
-  },
-  {
-    "title": "I Pulled 4 Classes With A 100 Lb Band | Arkansas State Championships",
-    "url": "https://www.youtube.com/watch?v=HGwwFKqJ1Ls",
-    "source": "Monster Michael Todd",
-    "category": "athletes",
-    "score": 65.5370571938428,
-    "published_ts": 1777815183,
     "content_type": "technical",
     "tech_level": 1,
     "marketing_score": 0.0
@@ -25,9 +14,20 @@
     "title": "SMAEVE",
     "url": "https://www.youtube.com/watch?v=-ZCWSGFyHMI",
     "source": "Devon Larratt",
-    "category": "athletes",
-    "score": 62.96684224497188,
+    "category": "youtube_media",
+    "score": 62.96684495427392,
     "published_ts": 1777345490,
+    "content_type": "technical",
+    "tech_level": 1,
+    "marketing_score": 0.0
+  },
+  {
+    "title": "@fatgripz to maximize forearm and upper arm activation",
+    "url": "https://www.youtube.com/shorts/E5xn8GSHPLs",
+    "source": "Larry Wheels",
+    "category": "training",
+    "score": 59.25184810703451,
+    "published_ts": 1777296046,
     "content_type": "technical",
     "tech_level": 1,
     "marketing_score": 0.0
