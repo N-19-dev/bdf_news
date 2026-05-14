@@ -5,8 +5,6 @@
 - [Corey West vs Pavlo Derbedenyev is a special match for Alex Kurdecha](https://www.youtube.com/shorts/MG4_k90UJ2o) — East vs West Armwrestling · 2026-05-10
 - [Georgi Tsvetkov vs Michael Todd at EVW 21](https://www.youtube.com/shorts/d9NZSQE5Qgo) — East vs West Armwrestling · 2026-05-10
   - Official EVW website: https://evwsports.com/
-- [Evgeny Prudnik vs Todd Hutchings at EVW 14](https://www.youtube.com/shorts/K2iaNT3G7oY) — East vs West Armwrestling · 2026-05-10
-  - Official EVW website: https://evwsports.com/
 - [2026 EuroARM Budapest](https://www.waf-armwrestling.com/2026-euroarm-budapest/) — WAF News · 2026-05-10
   - 2026 European Armwrestling & Para Armwrestling Championships – Record Numbers, Record Atmosphere! The European Armwrestling Federation (EAF) proudly welcomes more than 1300 athletes from 34 countries to the 35th European Armwrestling Champi…
 - [On the way to Montreal fitlog - Parker vs Larratt](https://www.youtube.com/watch?v=gNzAvU1VSC4) — Devon Larratt · 2026-05-08
@@ -36,24 +34,26 @@ https://stake.armbet.net/
 https://nolimitsarmwrestling.com/nolimit…
 - [MAMA'S BOYS: Local father and son duo seek world championship arm wrestling glory in Japan - Idaho State Journal](https://news.google.com/rss/articles/CBMikAJBVV95cUxPR3hrRkVNNnUzR2pEOU5XaDJFWjlqbllaUE1ETmpzVW81WWdERnhXSEJtaEtVbnhUMmMwLS12cWlXcnc4T1ROR1pXN1MteTVPemR5WWdmV3V2YnJubURXU1gxb2FfNzh2QkhGOHh6akRjTWV0NnhGOHZjUzlIZW40STVnUXdoN2UweDRSRTkxbXBuc2pwbVFtdlhabXQxd3RITzNPQlkwaGFXMHpPQm9jMkFCQ2dJdktVaEpPMDhkQnNmY295anpUeGE2SjFTLW1TSUFjY0JxYXRrNnRwNEVYU1FENTR6eFViM0dMTzEwblI3MXFtNjJyek05WGphYWF2cE5IYmdUWXh0ZllNeE1HU9IBlgJBVV95cUxQVFE1MXB0VVNiSU44czJBY3dCRDFrX1lMaURONDF6MGJoYlJRWEVaSVg0cW5mS21LdHhQeFlRbmU5MHNpZU5tSTFMZW5oeEpCOXZCTXZxdnRnLWlYNENmTzBkYTd3RUxzWlJwVlFQWS1LOURDVXUyUThuMlpwN2hEakMtU1YwUG5mSUxBSW1sMkYyZXBwODhBTkZNWXFNLXVUQkx5NWlRREVDbVNxWm9IYjFFYXdSYmJhTGNWUm9NMnpZR2tybVN2V2RNV3R4ZDBqaXBjZnc1U1RBR053NEhrTHY5NWRidkdkWTNBMFptcVpPX005LUE1SVV0QXFXbVJCLWlBN0x2VHNoLVRxenFoNUlDZmxLUQ?oc=5) — Google News Armwrestling EN · 2026-05-05
   - MAMA'S BOYS: Local father and son duo seek world championship arm wrestling glory in Japan Idaho State Journal
-- [Godwin Sackey shines as Ghana’s Golden Arms dominate African Armwrestling Championship - Modern Ghana](https://news.google.com/rss/articles/CBMingFBVV95cUxOdS03MlVUamtqckJkS2gxdEphcnB6dHZBOWdhanNfaTZMYUJGYWxzTm5tSWFxYlNpbTNrQmNEeUJ0VWxnWWVveG01TEVEZ2lJTHNkSVNsekNVNmxXZXRhQUNpVkJMeVVtN1ZnQzhORjhhU0RRc2tNVjJfZW5FdWw5S2ZTZ1ZIYmNhcjhPVVdCQUFxV1V0MHZZVEVDRDZCUdIBnAFBVV95cUxQV2pva0RielR4S0lGTDhzcEp1cnB5UlNtWHdVS1l3d1laM2F6cXJlaGJBNnY0LW5lZDY2bV9lWWN4UWhlenB1b1ZOWDdvWldtTTFMQnY2eHFzWE0xOUVINHdqOWhCLXBIMWlENzVYdHhEeW1NRlZKY0oyVW5vREJFWkZsd0doMldSdTlqY2VGV2lNOWh6bUVETmxQNFY?oc=5) — Google News Armwrestling EN · 2026-05-05
-  - Godwin Sackey shines as Ghana’s Golden Arms dominate African Armwrestling Championship Modern Ghana
+- [Championnat d'Afrique de Bras de fer: Le Bénin sacré champion en para et vice-champion général - La Nation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFZoX1cxWGpiM3lDNXZ3d3JRMTF1TVdyeG5rMElpMUZtVW9vZWFBR1pwM0EwVmwwLUgwSEFlcS1POVFMR2x1U0g0dW5pd3Q0aGVESUszTnFZMTNSZENibVd4ZUpLUWNzbWZBejhtWHJmcU1BLVNQYm9PdWJ3aHg1Tzg1Ny00OXNLVzNuX0xrVFNLRUVIZDJUOUg4ZzRrRS14NUQzbEI4bWhKWUkwcUNmRE5iVXVJdDBtTFRv?oc=5) — Google News Armwrestling FR · 2026-05-05
+  - Championnat d'Afrique de Bras de fer: Le Bénin sacré champion en para et vice-champion général La Nation
 
 ## 🌟 Athlètes & Interviews
 
 - [LH Riser Curl 93lbs/37.7kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/QoG0OsjyQjU) — Monster Michael Todd · 2026-05-10
 - [Hammer Curl/Up Pressure 167.25lbs/75.9kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/b33Ks3mDdIg) — Monster Michael Todd · 2026-05-10
 - [Outside SP 277lbs/125.7kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/GD-kdiuoZwI) — Monster Michael Todd · 2026-05-09
-- [Is Michael Todd in Big Trouble?](https://www.youtube.com/shorts/u5Ru3Ugm6l4) — East vs West Armwrestling · 2026-05-09
 - [LH SP 120lbs/54.4kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/FKxmxP7kMDA) — Monster Michael Todd · 2026-05-09
 - [Shoulder Press 197lbs/89.4kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/aN1tDfhSbQ4) — Monster Michael Todd · 2026-05-08
 - [t slipped off the knuckle, but I rode with it 🤷🏻‍♂️ 104lbs/47.2kgs #armwrestling #worldchampion](https://www.youtube.com/shorts/NaZOIZEV3cE) — Monster Michael Todd · 2026-05-07
 - [LH Shoulder Press 175lbs/79.4kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/cHgt3UNbjDs) — Monster Michael Todd · 2026-05-07
-- [The cut is going VERY WELL! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/7BcOKSQat_g) — Monster Michael Todd · 2026-05-07
-- [Cape Breton athletes claim titles at Nova Scotia Arm Wrestling Championships - PNI Atlantic News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQcEtvSDdjQWREMDlqMGFuR21ZUUxvRWNrZXJDS1Z5TWdDZUVWWnVwNTJ4LWEtcFlLVjFaZm9KTHNXU205NTdFdjJSRm44SzdvejZLaTNpbXFYS1R1TDJsM1YyN0FwN1FyTHAwVHZRQ0t1b3FZbk52TnlzN3JGc3NuRlA0VldyZXJ4SE43a0RMZ0RoYjFmVjByUXNkak9RSXRieHNsOVI3cUdoTm0xeDZhZFNsOA?oc=5) — Google News Arm Wrestling · 2026-05-07
+- [Cape Breton athletes claim titles at Nova Scotia Arm Wrestling Championships - PNI Atlantic News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQcEtvSDdjQWREMDlqMGFuR21ZUUxvRWNrZXJDS1Z5TWdDZUVWWnVwNTJ4LWEtcFlLVjFaZm9KTHNXU205NTdFdjJSRm44SzdvejZLaTNpbXFYS1R1TDJsM1YyN0FwN1FyTHAwVHZRQ0t1b3FZbk52TnlzN3JGc3NuRlA0VldyZXJ4SE43a0RMZ0RoYjFmVjByUXNkak9RSXRieHNsOVI3cUdoTm0xeDZhZFNsOA?oc=5) — Google News Armwrestling EN · 2026-05-07
   - Cape Breton athletes claim titles at Nova Scotia Arm Wrestling Championships PNI Atlantic News
+- [Canada’s top armwrestlers competing in Sudbury next spring - CTV News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTdrTWpZZjlVR3NMRWZybklnY1dZbkI4UklEamk4dGxrWkJFZlE3cVo5MGoyejJIWW5LU0NLOXRRWVhXbmRzY0RudXBIbzZTSmVhWmhJYmp0d2ltNW1lU2hyZW4wU2NGd1ktYlVqaDQwanR3X0lyYXFvQ3VCWm56WmMwSlJaR0UxMVBIQVluVUZneXY0WXN6Y2hIU3FiQVVVT0IwUTd4NTIxUQ?oc=5) — Google News Armwrestling EN · 2026-05-06
+  - Canada’s top armwrestlers competing in Sudbury next spring CTV News
 - [Bras de fer sportif : Les champions béninois appelés à viser plus haut - La Nation](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkJ5Y1NrTTdWRm5kOWlGRTFIWHBQSmRCSlNLdWpkaVFrRktPOUw0X05BaUlrelVTTGJPVF9iRTYzNVB2TEFYT05Jb3NkY09nT3JNaDczVTNjVjhFdDZ3ZUV1endLNU91WVdIaEdoRzFnUVZITy1OUldBelk1NEtLcExHZTNuQkhEdXUyYkxBNzF2d0dTU0ktNWhHYw?oc=5) — Google News Armwrestling FR · 2026-05-05
   - Bras de fer sportif : Les champions béninois appelés à viser plus haut La Nation
+- [Sport TENNIS. A l’approche de Roland-Garros les champions de tennis poursuivent leur bras de fer à propos des dotations et couvertures sociales [Réd. les Sables-d’Olonne] - Le Reporter sablais](https://news.google.com/rss/articles/CBMipgJBVV95cUxPbjc4U3I3VTZvaFVzdktReUZzdVRUNUFXeWRxN0pNZXlJTHR4cFdmTDdHbVp0ekVmQnVxeGRjbnR1cDRWLU5Rc2FlM3VraVBjMVVDZFF0ZzhKaGxVdVJQTVlFME1hQXFabFpjNVllMkdGTng5bHYwM0NzZlViZV9YWXdLU2dMVUsyZnRwa21MOHdySTdiLXI4M2JLTzZiRFlwbXBGdHBGNDlMSzhqVDk0RWdDOS1wT244ZThkbkVPRklqb2ZtT2Uwbjk3Z2t0NFdNYnRveWFoNEJ3bndEaGJKTnEtMnhhaERWTVhQNXRXSHFvb082M3ZLbURYQURQdEhzOFpwMFljb1d2UmhrdDNKX1V0RVFQdXh2c3dLcEJwWmlsVnlfWVE?oc=5) — Google News Armwrestling FR · 2026-05-04
+  - Sport TENNIS. A l’approche de Roland-Garros les champions de tennis poursuivent leur bras de fer à propos des dotations et couvertures sociales [Réd. les Sables-d’Olonne] Le Reporter sablais
 
 ## 💪 Entraînement & Technique
 

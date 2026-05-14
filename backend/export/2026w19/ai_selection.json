@@ -49,19 +49,19 @@
       "title": "Cape Breton athletes claim titles at Nova Scotia Arm Wrestling Championships - PNI Atlantic News",
       "summary": "Cape Breton athletes claim titles at Nova Scotia Arm Wrestling Championships PNI Atlantic News",
       "published_ts": 1778153330,
-      "source_name": "Google News Arm Wrestling",
+      "source_name": "Google News Armwrestling EN",
       "score": 59.33817852627147,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
     },
     {
-      "url": "https://www.youtube.com/shorts/K2iaNT3G7oY",
-      "title": "Evgeny Prudnik vs Todd Hutchings at EVW 14",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1778435688,
-      "source_name": "East vs West Armwrestling",
-      "score": 56.129754808816045,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR3hrRkVNNnUzR2pEOU5XaDJFWjlqbllaUE1ETmpzVW81WWdERnhXSEJtaEtVbnhUMmMwLS12cWlXcnc4T1ROR1pXN1MteTVPemR5WWdmV3V2YnJubURXU1gxb2FfNzh2QkhGOHh6akRjTWV0NnhGOHZjUzlIZW40STVnUXdoN2UweDRSRTkxbXBuc2pwbVFtdlhabXQxd3RITzNPQlkwaGFXMHpPQm9jMkFCQ2dJdktVaEpPMDhkQnNmY295anpUeGE2SjFTLW1TSUFjY0JxYXRrNnRwNEVYU1FENTR6eFViM0dMTzEwblI3MXFtNjJyek05WGphYWF2cE5IYmdUWXh0ZllNeE1HU9IBlgJBVV95cUxQVFE1MXB0VVNiSU44czJBY3dCRDFrX1lMaURONDF6MGJoYlJRWEVaSVg0cW5mS21LdHhQeFlRbmU5MHNpZU5tSTFMZW5oeEpCOXZCTXZxdnRnLWlYNENmTzBkYTd3RUxzWlJwVlFQWS1LOURDVXUyUThuMlpwN2hEakMtU1YwUG5mSUxBSW1sMkYyZXBwODhBTkZNWXFNLXVUQkx5NWlRREVDbVNxWm9IYjFFYXdSYmJhTGNWUm9NMnpZR2tybVN2V2RNV3R4ZDBqaXBjZnc1U1RBR053NEhrTHY5NWRidkdkWTNBMFptcVpPX005LUE1SVV0QXFXbVJCLWlBN0x2VHNoLVRxenFoNUlDZmxLUQ?oc=5",
+      "title": "MAMA'S BOYS: Local father and son duo seek world championship arm wrestling glory in Japan - Idaho State Journal",
+      "summary": "MAMA'S BOYS: Local father and son duo seek world championship arm wrestling glory in Japan Idaho State Journal",
+      "published_ts": 1778021100,
+      "source_name": "Google News Armwrestling EN",
+      "score": 56.733857880939134,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
@@ -104,7 +104,7 @@
       "marketing_score": 0
     }
   ],
-  "youtube_media": [
+  "training": [
     {
       "url": "https://www.youtube.com/watch?v=baE6wNYeKSc",
       "title": "SCHOOLBOY ARM WRESTLING TRAINING | BACK PRESSURE DAY",
@@ -115,7 +115,9 @@
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
-    },
+    }
+  ],
+  "youtube_media": [
     {
       "url": "https://www.youtube.com/watch?v=WuwgeTaBv0I",
       "title": "WAF 2027",
