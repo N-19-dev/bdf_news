@@ -16,7 +16,7 @@
 
 ## france
 
-- [Championnat d’Afrique des nations de bras de fer sportif: Fervent Sonou, le ferriste bien né ! - Matin Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnE1RUo1Z0pfRktxRVhTNVQxdW9qTnNhTzZBbnY0dzhtMFJwcmU3UVFQRmhmRGxDY0pKSFpTeDZsMjlfMWpqU0hjNkV4WFhmVmdMSS1iOUNDVmN4ckVEV3F1bF9WRU9nUkhmeWgyYVkxSnA4ZUtka1N0aDlJTEpLRUpkUnBLcWVmb1R6UWJQbk9fSjRXd0ZtdGN2aVhsSW5ZY3JrRE1VSXhUT0lVZC1ITjJtU3A4VlJCdFBCSURIMWFnUQ?oc=5) — Google News Armwrestling FR · 2026-05-07 · **54/100**
+- [Silence forcé et menace de suspension contre des footballeuses : au Népal, les féminines prises en otage d’un bras de fer explosif entre l’État et la fédération - ladepeche.fr](https://news.google.com/rss/articles/CBMingJBVV95cUxPaVV5eXBIbDAzZEdKamMwd2hRWnhGLW0xTXFRT3ZCYlcyM1hKUWJNOVR6RlJZTW5GS0NvVzR1QThPdnNSMW1qbDNNdVJicnlHZm5HM0duMjIyRGJ1UGJzRmU0M21pV1haVm1IeFpKd0NyYVZFZkxaOGFQY1ZyaGRVZ2N6WHZYSHV6MEJtSTN3TzZrcDRQT09ENGd1SFk5NmdTeUNtSUFqemZqc3VseVdUa1pnajJVZzg2NlR3NUNVYm1xUzdmVVJrV25lN0NpT2ZlbzU1ZkZnVGpBcTdGX0luOHdXNjUzTVVJeDA5WVpRb2RnMjRweXgyVjJKcGo4Q085Tm56dnR4ZjFLdFc5bzdZQXNEbDJsd2pmX1FxeFZ3?oc=5) — Google News Armwrestling FR · 2026-05-09 · **53/100**
 
 ## youtube_media
 

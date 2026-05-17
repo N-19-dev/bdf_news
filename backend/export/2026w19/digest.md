@@ -15,8 +15,6 @@ get behind your Athlete -
 https://stake.armbet.net/
 
 🪽🗡🧬♾️- https://mi…
-- [Championnat d’Afrique des nations de bras de fer sportif: Fervent Sonou, le ferriste bien né ! - Matin Libre](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnE1RUo1Z0pfRktxRVhTNVQxdW9qTnNhTzZBbnY0dzhtMFJwcmU3UVFQRmhmRGxDY0pKSFpTeDZsMjlfMWpqU0hjNkV4WFhmVmdMSS1iOUNDVmN4ckVEV3F1bF9WRU9nUkhmeWgyYVkxSnA4ZUtka1N0aDlJTEpLRUpkUnBLcWVmb1R6UWJQbk9fSjRXd0ZtdGN2aVhsSW5ZY3JrRE1VSXhUT0lVZC1ITjJtU3A4VlJCdFBCSURIMWFnUQ?oc=5) — Google News Armwrestling FR · 2026-05-07
-  - Championnat d’Afrique des nations de bras de fer sportif: Fervent Sonou, le ferriste bien né ! Matin Libre
 - [WAF 2027](https://www.youtube.com/watch?v=WuwgeTaBv0I) — Devon Larratt · 2026-05-06
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -31,15 +29,14 @@ https://stake.armbet.net/
 https://nolimitsarmwrestling.com/nolimit…
 - [MAMA'S BOYS: Local father and son duo seek world championship arm wrestling glory in Japan - Idaho State Journal](https://news.google.com/rss/articles/CBMikAJBVV95cUxPR3hrRkVNNnUzR2pEOU5XaDJFWjlqbllaUE1ETmpzVW81WWdERnhXSEJtaEtVbnhUMmMwLS12cWlXcnc4T1ROR1pXN1MteTVPemR5WWdmV3V2YnJubURXU1gxb2FfNzh2QkhGOHh6akRjTWV0NnhGOHZjUzlIZW40STVnUXdoN2UweDRSRTkxbXBuc2pwbVFtdlhabXQxd3RITzNPQlkwaGFXMHpPQm9jMkFCQ2dJdktVaEpPMDhkQnNmY295anpUeGE2SjFTLW1TSUFjY0JxYXRrNnRwNEVYU1FENTR6eFViM0dMTzEwblI3MXFtNjJyek05WGphYWF2cE5IYmdUWXh0ZllNeE1HU9IBlgJBVV95cUxQVFE1MXB0VVNiSU44czJBY3dCRDFrX1lMaURONDF6MGJoYlJRWEVaSVg0cW5mS21LdHhQeFlRbmU5MHNpZU5tSTFMZW5oeEpCOXZCTXZxdnRnLWlYNENmTzBkYTd3RUxzWlJwVlFQWS1LOURDVXUyUThuMlpwN2hEakMtU1YwUG5mSUxBSW1sMkYyZXBwODhBTkZNWXFNLXVUQkx5NWlRREVDbVNxWm9IYjFFYXdSYmJhTGNWUm9NMnpZR2tybVN2V2RNV3R4ZDBqaXBjZnc1U1RBR053NEhrTHY5NWRidkdkWTNBMFptcVpPX005LUE1SVV0QXFXbVJCLWlBN0x2VHNoLVRxenFoNUlDZmxLUQ?oc=5) — Google News Arm Wrestling · 2026-05-05
   - MAMA'S BOYS: Local father and son duo seek world championship arm wrestling glory in Japan Idaho State Journal
+- [Godwin Sackey shines as Ghana’s Golden Arms dominate African Armwrestling Championship - Modern Ghana](https://news.google.com/rss/articles/CBMingFBVV95cUxOdS03MlVUamtqckJkS2gxdEphcnB6dHZBOWdhanNfaTZMYUJGYWxzTm5tSWFxYlNpbTNrQmNEeUJ0VWxnWWVveG01TEVEZ2lJTHNkSVNsekNVNmxXZXRhQUNpVkJMeVVtN1ZnQzhORjhhU0RRc2tNVjJfZW5FdWw5S2ZTZ1ZIYmNhcjhPVVdCQUFxV1V0MHZZVEVDRDZCUdIBnAFBVV95cUxQV2pva0RielR4S0lGTDhzcEp1cnB5UlNtWHdVS1l3d1laM2F6cXJlaGJBNnY0LW5lZDY2bV9lWWN4UWhlenB1b1ZOWDdvWldtTTFMQnY2eHFzWE0xOUVINHdqOWhCLXBIMWlENzVYdHhEeW1NRlZKY0oyVW5vREJFWkZsd0doMldSdTlqY2VGV2lNOWh6bUVETmxQNFY?oc=5) — Google News Armwrestling EN · 2026-05-05
+  - Godwin Sackey shines as Ghana’s Golden Arms dominate African Armwrestling Championship Modern Ghana
 
 ## 🌟 Athlètes & Interviews
 
 - [LH Riser Curl 93lbs/37.7kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/QoG0OsjyQjU) — Monster Michael Todd · 2026-05-10
 - [Hammer Curl/Up Pressure 167.25lbs/75.9kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/b33Ks3mDdIg) — Monster Michael Todd · 2026-05-10
 - [Outside SP 277lbs/125.7kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/GD-kdiuoZwI) — Monster Michael Todd · 2026-05-09
-- [LH SP 120lbs/54.4kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/FKxmxP7kMDA) — Monster Michael Todd · 2026-05-09
-- [Canada’s top armwrestlers competing in Sudbury next spring - CTV News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOTdrTWpZZjlVR3NMRWZybklnY1dZbkI4UklEamk4dGxrWkJFZlE3cVo5MGoyejJIWW5LU0NLOXRRWVhXbmRzY0RudXBIbzZTSmVhWmhJYmp0d2ltNW1lU2hyZW4wU2NGd1ktYlVqaDQwanR3X0lyYXFvQ3VCWm56WmMwSlJaR0UxMVBIQVluVUZneXY0WXN6Y2hIU3FiQVVVT0IwUTd4NTIxUQ?oc=5) — Google News Armwrestling EN · 2026-05-06
-  - Canada’s top armwrestlers competing in Sudbury next spring CTV News
 - [Sport TENNIS. A l’approche de Roland-Garros les champions de tennis poursuivent leur bras de fer à propos des dotations et couvertures sociales [Réd. les Sables-d’Olonne] - Le Reporter sablais](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPM0Y3Mm9nS2FxRVg4di1fOWNZSWJVNk53Q0R3UHJQRW1udFJwT1hVejR3UlRKb2pEcVhFRHNidTAxTDlHa3BZdFhxYklfMDQtRkF3STR3anp2UFFrSGFSTGRRbWVDRnc0aGllenl3anF5M3duRmdfZkk4dEI2UmpOeDNONkRmZDhPYnkxQ2RJWVVqY0FSdktrYU1IYlY3ZXp4cjdNSmsyTVZqWUZRMExoeWhtdnRVNXlZUUhDUGwzWktwa1RFbTFkOEZ1OS0tYzNualI2bG85cHp0ekhFZUVHSjRaaFNEMll5Z0VnMnFQelMwT1hranc1X0doeXFrOEU0ZFdmZTMwc0NwYUI1NWJRZ2hCb0ZXc21seFdud3NCaDRvdmxPUkoyeg?oc=5) — Google News Armwrestling FR · 2026-05-04
   - Sport TENNIS. A l’approche de Roland-Garros les champions de tennis poursuivent leur bras de fer à propos des dotations et couvertures sociales [Réd. les Sables-d’Olonne] Le Reporter sablais
 
@@ -68,7 +65,5 @@ Join this channel to get acc…
 
 - [Ukrainian armwrestling master of sport killed in action in Donetsk region - Ukrinform - Ukrainian National News Agency](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkE3eVRjT1M4X3BRR0ZLQklPeVp0NEJWdks1dnJERnNSazhCWVdNa1kwT2hMYXJLUlRWSjlSRWNBUFAxSUJWRGFQbmJqNDNJaTRqaGZzT3lJcW5XaTJIR0NhZlcyVzZ3NUc3cDhZZjZjdTl6MjVhU0VzbUdWTk9NRFNMY0FKdjJrcHNGWU45anZjM2VHQU5lYVVJblNwUUQzOTNpelQwNlZCTUFJd2lYX19zMXRFdWZpcWI1X2Z4VmNmdVFL0gHKAUFVX3lxTE1uSm54S0Rwc3RSVWxFX0syZFFiYUFsd3JXa0FBdWR6ZFZtRkVIMm9QeUFnZkJqaFBpTDlMRmcwVkxheUhMcjVNQTN1S294NU1mekFUcGpNeU4ta2ZlOFRGVElqYVNXOHVHb2lPb3o0ekItS0swRVV5VXNFYzdVZ2lWeDN1VGlPcTRtUGFaU2ZzR3owUFZBd3pENHpBQVk2QW9ieF8xNldrTXRMc003VUNkNkRURmJtdk5kdUVzTTdUS1BDLW9peGs5bGc?oc=5) — Google News Armwrestling EN · 2026-05-10
   - Ukrainian armwrestling master of sport killed in action in Donetsk region Ukrinform - Ukrainian National News Agency
-- [Para Armwrestling Meets IPC’s Worldwide Reach Requirement For Brisbane 2032 - Ommcom News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzJRdnluckxIRmxKaHR4UUhMOFo2RUFvNjRXQVcwdVRPYjAzSnA5aURXMTdkQml3TUZhMHhNcHJObV9TaHpLdk5JeUQtX214U0lkTnItQzZsM2tkdDcyTzVfZ0VRc1AtLTdsYndrSks4RFJNQWI3MDVzaWZseVA3Z3V6Nm15UDNHbEtUbFY1Tk9RNEd0Y2ZjdGR3dGhHNTM0Uloxd3hhbTBzM1N1cHNJ?oc=5) — Google News Armwrestling EN · 2026-05-09
-  - Para Armwrestling Meets IPC’s Worldwide Reach Requirement For Brisbane 2032 Ommcom News
 - [GOLDEN LION 2026, GORNA ORYAHOVITSA 1-3 May](https://armsportfederation.com/golden-lion-2026-gorna-oryahovitsa/) — ArmSport Federation · 2026-05-06
   - Official Team Scores by points (Sub-Junior, Junior U-15, Junior U-18, Junior U-21, Senior, Masters, Disabled – Standing) # Club/Country Gold Silver Bronze Points 1 LOKOMOTIV 96 20 21 12 480 […]
