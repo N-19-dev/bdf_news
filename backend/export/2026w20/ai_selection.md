@@ -14,7 +14,7 @@
 
 ## competitions
 
-- [WELL DONE: Serbia won three medals at the European Armwrestling Championship! - Serbiantimes.info](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGJJZWJqSGI3bV9pZU5tZ0FOLUtYVW0zQWlqZy1POGRMUGNscjRLUkdxMHh0TzdYNWlHMC1tVW5KYXZwSGpXUXZxTGxYMG5mdTNPRWdQRkZxSGJZWjdXa2NMNGlVTHowN2N3cllxTjIyVTNpdW01RE8yQVZ4VzkyeEZKeUxBSGVqSk9PcXMxU1dQMXM5XzRUWnJuMHg1UExnaU1POXN2b3duRzRQT1FHQkpaTQ?oc=5) — Google News Armwrestling EN · 2026-05-14 · **56/100**
+- [Oshkosh hosts Wisconsin State Arm Wrestling Championship - NBC26](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUlMNnluNzNGd080cjVpbzliakJMdjUxNjQ3bkkyQ1VXNHhsYUU4WTNTdk10QlkzTEFSZkh0Rm9HaWVvc1NTSVd6WkpHaWU5RDhNV01iNkZtQXpLR3ZlOXo1N3kycWdLSDdiQ282T05ybUtvLTFNdHFqaEpCLTM5bzVvYVJCSU9vS2lEdmhKRQ?oc=5) — Google News Arm Wrestling · 2026-05-17 · **55/100**
 
 ## france
 
