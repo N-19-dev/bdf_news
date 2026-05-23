@@ -47,10 +47,6 @@ https://nolimitsarmwrestling.com/nolimit…
 
 - [Hammer curl/up pressure 169.75lbs/77kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/vHwrM0pegjw) — Monster Michael Todd · 2026-05-17
 - [Check out barn2door.com for the best beef around! Use code  MONSTER for 10% #beef #getlean](https://www.youtube.com/shorts/IqSnl4SgAMs) — Monster Michael Todd · 2026-05-17
-- [Tight Angle PEBP 130lbs/59kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/VJyrxXZo8Ro) — Monster Michael Todd · 2026-05-16
-- [NEW PR 202lbs/91.6kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/K-8QNiFM0c0) — Monster Michael Todd · 2026-05-15
-- [Top Set 562lbs/255kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/-T2YKED0gM4) — Monster Michael Todd · 2026-05-14
-- [NEW PR! 174.75lbs/79.3kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/Ml0zIK9phRs) — Monster Michael Todd · 2026-05-14
 - [Timothé Béliard, un marnais champion de bras de fer sportif - Puissance Télévision](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEhlanBHUVJDUndMbExYSVFiRkVfRWlQRmJpR3VlRUh5VGF6NTZaS3NkZW9QQWtmU0NCdy1vREVSSFJlY0FyVmh6ZkNqM05DVVo1aEVYQURPbVNtVmpoWVFybmVxZ1BHVnl6OWZhdmFWNkd1clBUbnNLMTRPS1NldkkwWEJ4dC0yQmJxcjlaR0NiNzhNR1FPNFdjc19DRXhoZnIw?oc=5) — Google News Armwrestling FR · 2026-05-11
   - Timothé Béliard, un marnais champion de bras de fer sportif Puissance Télévision
 

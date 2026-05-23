@@ -8,8 +8,8 @@
 - [Evw 24 hype](https://www.youtube.com/watch?v=auwkq5-APq4) — Devon Larratt · 2026-05-15 · **63/100**
 - [Is Bogdan Stoica "THE MAN" at Middleweight?](https://www.youtube.com/watch?v=VWNFahHrPLU) — Voice of Armwrestling · 2026-05-15 · **63/100**
 - [Hammer curl/up pressure 169.75lbs/77kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/vHwrM0pegjw) — Monster Michael Todd · 2026-05-17 · **59/100**
-- [Tight Angle PEBP 130lbs/59kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/VJyrxXZo8Ro) — Monster Michael Todd · 2026-05-16 · **58/100**
-- [Top Set 562lbs/255kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/-T2YKED0gM4) — Monster Michael Todd · 2026-05-14 · **58/100**
+- [Yoshi Kanai vs Todd Hutchings at EVW 15](https://www.youtube.com/shorts/61tvc_XSJQk) — East vs West Armwrestling · 2026-05-17 · **53/100**
+- [Michael Todd vs Frank Lamparelli at EVW 12](https://www.youtube.com/shorts/CtZRa60kPk4) — East vs West Armwrestling · 2026-05-17 · **53/100**
 
 ## competitions
 
