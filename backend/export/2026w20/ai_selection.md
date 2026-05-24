@@ -19,7 +19,3 @@
 ## france
 
 - [Timothé Béliard, un marnais champion de bras de fer sportif - Puissance Télévision](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEhlanBHUVJDUndMbExYSVFiRkVfRWlQRmJpR3VlRUh5VGF6NTZaS3NkZW9QQWtmU0NCdy1vREVSSFJlY0FyVmh6ZkNqM05DVVo1aEVYQURPbVNtVmpoWVFybmVxZ1BHVnl6OWZhdmFWNkd1clBUbnNLMTRPS1NldkkwWEJ4dC0yQmJxcjlaR0NiNzhNR1FPNFdjc19DRXhoZnIw?oc=5) — Google News Armwrestling FR · 2026-05-11 · **54/100**
-
-## youtube_media
-
-- [Adam Wawrzynski vs Artur Makarov at EVW 9](https://www.youtube.com/shorts/MXjzvaCypZg) — East vs West Armwrestling · 2026-05-16 · **53/100**

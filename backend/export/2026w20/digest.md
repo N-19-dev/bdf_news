@@ -10,7 +10,6 @@
   - Oshkosh hosts Wisconsin State Arm Wrestling Championship NBC26
 - [Greater Sudbury Rises as Canada’s Armwrestling Capital: National World Championship Qualifier Ignites Sport Tourism, Elite Competition, and Northern Ontario Pride! - Travel And Tour World](https://news.google.com/rss/articles/CBMisAJBVV95cUxPZG1jUUVzeGg1cXpKYnozd2p6dzRXc2YzeUFONlExSy1BcFB6MUNrM0FkbmdNMWZXOWFmcnBtZUdfd0RJZ0QtWjBBeTNWOGZJTjEtdGFfQTZ2eTVqR2ZyMGM4QTJocUY2cnp3WGVEeVUxQ2k5S0NSLTMydjBhVkdsQ1N0NjNlVENXT3JkdG4ySWVTQklIcWpITWdOTGstU2UycmZBZXpLMFhEYm03eVFfOHF2UV9RQ2ZibEJ0RUZDdExqVGhWLURuM29kQ2tjYUVDRnlva2NtaVNuVHBhZDBVYW9ZcnpvRFdoS3lFd0lreHEyMExjUTkybFZob1BtMWE3RTBCblR2Q1ZjTDk1Q1ZmWF8yRUxXcS1PWmJoSlJDZDA0b0NkZ0Mzdi01Ujl0OEFy?oc=5) — Google News Armwrestling EN · 2026-05-16
   - Greater Sudbury Rises as Canada’s Armwrestling Capital: National World Championship Qualifier Ignites Sport Tourism, Elite Competition, and Northern Ontario Pride! Travel And Tour World
-- [Adam Wawrzynski vs Artur Makarov at EVW 9](https://www.youtube.com/shorts/MXjzvaCypZg) — East vs West Armwrestling · 2026-05-16
 - [Evw 24 hype](https://www.youtube.com/watch?v=auwkq5-APq4) — Devon Larratt · 2026-05-15
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -46,7 +45,6 @@ https://nolimitsarmwrestling.com/nolimit…
 ## 🌟 Athlètes & Interviews
 
 - [Hammer curl/up pressure 169.75lbs/77kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/vHwrM0pegjw) — Monster Michael Todd · 2026-05-17
-- [Check out barn2door.com for the best beef around! Use code  MONSTER for 10% #beef #getlean](https://www.youtube.com/shorts/IqSnl4SgAMs) — Monster Michael Todd · 2026-05-17
 - [Timothé Béliard, un marnais champion de bras de fer sportif - Puissance Télévision](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEhlanBHUVJDUndMbExYSVFiRkVfRWlQRmJpR3VlRUh5VGF6NTZaS3NkZW9QQWtmU0NCdy1vREVSSFJlY0FyVmh6ZkNqM05DVVo1aEVYQURPbVNtVmpoWVFybmVxZ1BHVnl6OWZhdmFWNkd1clBUbnNLMTRPS1NldkkwWEJ4dC0yQmJxcjlaR0NiNzhNR1FPNFdjc19DRXhoZnIw?oc=5) — Google News Armwrestling FR · 2026-05-11
   - Timothé Béliard, un marnais champion de bras de fer sportif Puissance Télévision
 
