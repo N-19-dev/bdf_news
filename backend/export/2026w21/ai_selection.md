@@ -3,7 +3,7 @@
 ## athletes
 
 - [Armwrestler 🚌 vs Bodybuilder 🏎️ #armwrestling #training #bodybuilding](https://www.youtube.com/shorts/R0slobrbiDE) — ARMWRESTLING TV (Schoolboy) · 2026-05-21 · **62/100**
-- [Ranking every move in arm wrestling](https://www.reddit.com/r/armwrestling/comments/1tm9d31/ranking_every_move_in_arm_wrestling/) — Reddit Armwrestling (Top) · 2026-05-24 · **61/100**
+- [OHH day - 25 july](https://www.youtube.com/watch?v=mdhypCvR3WU) — Devon Larratt · 2026-05-23 · **62/100**
 - [New PR Wrist Cupping 257.5lbs/116.8kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/JWeaXBa0XcA) — Monster Michael Todd · 2026-05-21 · **60/100**
 - [PEBP 250lbs/113.4kgs (I only got 8 seconds, but I’m happy with that) #armwrestling #worldchampion](https://www.youtube.com/shorts/Hii_04temw0) — Monster Michael Todd · 2026-05-24 · **58/100**
 - [Tight Angle PEBP 145lb/65.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/CN_QlAhyjhk) — Monster Michael Todd · 2026-05-20 · **58/100**
@@ -11,7 +11,7 @@
 
 ## competitions
 
-- [OHH day - 25 july](https://www.youtube.com/watch?v=mdhypCvR3WU) — Devon Larratt · 2026-05-23 · **62/100**
+- [Arkansas arm-wrestling champ brings competition to Little Rock - KARK](https://news.google.com/rss/articles/CBMipAFBVV95cUxPYlZ2eHhabjNjSWdvRmNTUm5RLXpUX3pGSnZvb0N2TmpUZWZNLWtBcEZaeUd1N2lkbEd0SWVnbzhGcUpMNVlwTmJ5el9PSkE4UGYySEdNMnhQaWRoVEZFTGdwQ2lUdkhndFlRMmVhaS16c0xDTVk4Q3VtNTU1ay15M1NNcnMzbkFPdHp1Y3l0SkVhWnZ6c3pIUVFKN0RGTTZfUWlHMQ?oc=5) — Google News Armwrestling EN · 2026-05-22 · **55/100**
 
 ## france
 
