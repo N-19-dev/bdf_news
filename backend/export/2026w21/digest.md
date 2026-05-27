@@ -2,6 +2,10 @@
 
 ## 🏆 Compétitions & Résultats
 
+- [World's biggest Armwrestling competition coming to Little Rock - KATV](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDFCQy12MDdkQ3NwVERhdHdmNktEdnRjcWNxMkFFMk5aOFVfVF9xUldwUXRPdm9uSVJYUFR0cTAwOFBaRWJlT28wU1VPbGJFb19hcDZWQkZ1LURjTmx4aGFZRFNTZmhUZVlMbFpjWWVTdlhVU1d1eHdYazJfMkdtdF9BVmk2TnRVc3p4d1JxNVI1eDA?oc=5) — Google News Armwrestling EN · 2026-05-24
+  - World's biggest Armwrestling competition coming to Little Rock KATV
+- [Donald Trump doubles down on his arm-wrestling match against Disney - Diari ARA](https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU5QUzB1NzM0eUFxRElhQ0xvd2tELU9hUW42VURDM01LaF9BOGpmSGpwZ1dKWGhyTkNTNnZ6ZExNcExlcHdkN1RzSHVQcl9GNjVKQ1VIM2hmY204RVB4aHlKMS0zd0pvNnFaU3JHZlYtb0MxNzBWcEFTYUt2SUx5bW1KZmJORHVlbWVHSHJOVWhrTWZyOFdHVkNfRXRPd2ZvUWhhQmtwd9IBrAFBVV95cUxObzRlcE9wdWkzZWQ4SFNCT080SW85S2YzM0IwUk9zQXNGcm1QTVg4cVVSQlA3QTNuSXNrUF9lNEZJTDYxRDhhMEswZ1NEZnAyemdnUElSeHBYX0NUbmtyZUtiTnR3SlpWdEttMG1MaUtjZWpBSi1kN19mR0ZxVXZqbF81WnhtVDRYQlpuaXZVekJlWUJGMWdLdlVXSVJLOHRJb2lvU25CV1JXVUE4?oc=5) — Google News Armwrestling EN · 2026-05-24
+  - Donald Trump doubles down on his arm-wrestling match against Disney Diari ARA
 - [Janis Amoliņš 🇱🇻 vs Craig Tullier 🇺🇸 at EVW 24](https://www.youtube.com/shorts/iSzOqHa9Q7c) — East vs West Armwrestling · 2026-05-24
 - [Is Janis Amolins ready for Craig Tullier flying elbows at EVW 24](https://www.youtube.com/shorts/YuCQaRFS75g) — Voice of Armwrestling · 2026-05-24
 - [Yoshi Kanai vs John Brzenk at EVW 17](https://www.youtube.com/shorts/E8dojrOBFmQ) — East vs West Armwrestling · 2026-05-23
@@ -19,16 +23,13 @@ https://stake.armbet.net/
 🪽🗡🧬♾️- https://minicircle.io/
 
 ▼ Me…
+- [Arkansas arm-wrestling champ brings competition to Little Rock - AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxORmpQNnhFT181Z1B4aDM2T28wUXdEUllpQmJUWlU0bnRGWHBCQVFnSlJYS3pPU0FNNzR1bUxlRWZzNXVSdGo5TDl1MExuMnZNSm5FVTloUXAwaTFoZ21ZVTdBNkJFT1o0RmxvRmwxSTRCdDNMTEZsSDgyWG5fc0F1YQ?oc=5) — Google News Armwrestling EN · 2026-05-22
+  - Arkansas arm-wrestling champ brings competition to Little Rock AOL.com
 - [Arkansas arm-wrestling champ brings competition to Little Rock - FOX16.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkdBSl91UGNhZENJRll2YXZCUmhDVHhxZWpFUWo1dG9LQ1dZX2w0NEZmbXY4ekNTRmtrZVpCY2t1YlJ0eXFJY2ZueVpyNnR5ZE1GMDhnQVdPQVRzV0NMQUdiNkhJT1RKWjFyQ3lNaUlSQUdXTHBwWUFvQi1nMzJFVTcwNWhEbUc3eGY2a1FXUUszdVF0NTE5MWNyZWl6ZE3SAaQBQVVfeXFMTklDWXVJTEdKcVFGOUZRa1I0cGx2NlZjV1pwbUI2YnZ5U3hkYzZwSTV5ZHBNM0RDbGlWZjFRNnR1aV93Y3RkaTBDSWtEdWdqTUNVZGdpRzZFaVFxbm9Rc2VodmFscUJMdnV2cFZ3RnMybWJlWUZGamhOckl1UjFFTjBVdTNMZHNTMkVRanhKZU9abG9KczFTc1JXRC05M2RjSVEwVl8?oc=5) — Google News Arm Wrestling · 2026-05-22
   - Arkansas arm-wrestling champ brings competition to Little Rock FOX16.com
 - [Arkansas arm-wrestling champ brings competition to Little Rock - KARK](https://news.google.com/rss/articles/CBMipAFBVV95cUxPYlZ2eHhabjNjSWdvRmNTUm5RLXpUX3pGSnZvb0N2TmpUZWZNLWtBcEZaeUd1N2lkbEd0SWVnbzhGcUpMNVlwTmJ5el9PSkE4UGYySEdNMnhQaWRoVEZFTGdwQ2lUdkhndFlRMmVhaS16c0xDTVk4Q3VtNTU1ay15M1NNcnMzbkFPdHp1Y3l0SkVhWnZ6c3pIUVFKN0RGTTZfUWlHMQ?oc=5) — Google News Armwrestling EN · 2026-05-22
   - Arkansas arm-wrestling champ brings competition to Little Rock KARK
-- [Bras de fer avec les tournois du Grand Chelem : pourquoi les stars du tennis sont-elles si mécontentes avant Roland-Garros ? - CNews](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXRpXzdQVXVJVFU2M1NFSTVoQlo5TEwxMDFuWGRYYzhKTFJBTkZDUUl0d0ZXeW9XRHRScVBtblA5ZlVRbE42UWJhaGJnWkRpRG9Id1BfZ2NFNTlwQXhGR0ZTbm1GT3ZHdUhWN01OX0lEbTh6VXRNeS05aFcwMER4dWlSTFUwRlQ5eDdRZGMxSTAwRDltVFFmN2o2LTRqbXI0TGljMjdFZ3p6NFlyXzRnQVlhM3NWU0Za0gG-AUFVX3lxTE1KTThqQ2p1TGVFcnNuTWxib2dFS29IOWF2QlpLclFndlpLWi1MMkZRTzFmRjNlTHhFV2JyNmxwOHNwN081YWpacW1BYVdpN0RfZ0hQb2FyOEhHdDVTZWYwUXc2NDNHeG9xLWFxUi1lLTZSdGQwRmdKZzVZVmltU3J6TV9qQ2l3Mmg1OGhELU82X2JxQU12dVhNdVVPaHVxaGpMSzY3U0JaTGJsLTQzbXAxV2tzcFhfdTc5dldDOVE?oc=5) — Google News Armwrestling FR · 2026-05-22
-  - Bras de fer avec les tournois du Grand Chelem : pourquoi les stars du tennis sont-elles si mécontentes avant Roland-Garros ? CNews
 - [Auden Larratt vs Korean Hulk at KOTT 12](https://www.youtube.com/shorts/QPDRbt1o81I) — East vs West Armwrestling · 2026-05-21
-- [Auden Larratt vs Jeremy Parker at EVW 24](https://www.youtube.com/shorts/D-nOFMXHFbM) — East vs West Armwrestling · 2026-05-21
-- [Eastern Townships arm wrestlers claim multiple medals at Quebec provincials - The Pulse of the Eastern Townships](https://news.google.com/rss/articles/CBMifEFVX3lxTE5BdGVmWVZRLXh2VFhVX1ZLZHdQajdTcFNWZzZmcjM1WGVVbjZwUFNxMzNLczhGbEZma0I2cS1yLXI0aDA2U09KcjltWjc3ZEV0TXpkaDR1UHo5LVVhNG9zbWZwZUlZdnd2aXZJdUhHQXVfd3JvZWlvcE03Vmk?oc=5) — Google News Arm Wrestling · 2026-05-20
-  - Eastern Townships arm wrestlers claim multiple medals at Quebec provincials The Pulse of the Eastern Townships
 - [Courtney EVW prep](https://www.youtube.com/shorts/n5XtNl_Tq7w) — Devon Larratt · 2026-05-18
   - ▼ Merch:
 https://nolimitsarmwrestling.com/nolimits/
@@ -50,8 +51,6 @@ in the pursuit of strength and all good times
 - [Ermes Gasparini vs Dave Chaffee at EVW 5](https://www.youtube.com/shorts/TPIxOfQudj0) — East vs West Armwrestling · 2026-05-24
 - [Do You want to see Ermes Gasparini vs Artyom Morozov?](https://www.youtube.com/shorts/3u7Ds5P3Txo) — East vs West Armwrestling · 2026-05-24
 - [PEBP 250lbs/113.4kgs (I only got 8 seconds, but I’m happy with that) #armwrestling #worldchampion](https://www.youtube.com/shorts/Hii_04temw0) — Monster Michael Todd · 2026-05-24
-- [Konya athlete claims four titles, European arm wrestling crown - Türkiye Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzVuSWhsYnlxbDJzQm9RbldPMlJoZVJvc1VBckpaOW9mY09mUV9CZHlObDlmdWVsS05aeXYwSFlTNGZhSWVXZlUzbFBWYWtsMkZSck12YkZTbkdmRkg0cWlySEw0REE1cUZ2c1AtSnI2N1BLeVRYdUVqaURDUjRfeElKSGdKSWlDdGNZY3VhVFg5YXVNUzFUaFJwZG00MnhsbElNZER6dVg?oc=5) — Google News Arm Wrestling · 2026-05-24
-  - Konya athlete claims four titles, European arm wrestling crown Türkiye Today
 - [Bodybuilder vs Armwrestler](https://www.youtube.com/shorts/JmeS1MWJM50) — ARMSHARK ARMWRESTLING · 2026-05-24
 - [Static Hold 114.5lbs/51.9kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/HPByXMJoCqQ) — Monster Michael Todd · 2026-05-23
 - [An EXTRA $500 OFF ANY DEAL for mentioning this TRUCK! @markmclartyford #worldchampion #ford #f150](https://www.youtube.com/shorts/mjPowQuuNYM) — Monster Michael Todd · 2026-05-22
@@ -65,7 +64,6 @@ in the pursuit of strength and all good times
 - [NEW PR SP! 180lbs/81.7kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/HnXZfhzqXDs) — Monster Michael Todd · 2026-05-21
 - [Tight Angle PEBP 145lb/65.8kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/CN_QlAhyjhk) — Monster Michael Todd · 2026-05-20
 - [NEW PR SP! 177.25lbs/80.4kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/N7aY6Lz9bRo) — Monster Michael Todd · 2026-05-19
-- [19 Days & COUNTING! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/4FoPayT8nns) — Monster Michael Todd · 2026-05-18
 
 ## 💪 Entraînement & Technique
 
@@ -74,7 +72,7 @@ in the pursuit of strength and all good times
 
 https://youtu.be/SXu5KL10ZC8
 - [New PR Wrist Cupping 257.5lbs/116.8kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/JWeaXBa0XcA) — Monster Michael Todd · 2026-05-21
-- [HULK BODYBUILDER VS SCHOOLBOY | BODYBUILDING WORKOUT 2026](https://www.youtube.com/watch?v=SXu5KL10ZC8) — ARMWRESTLING TV (Schoolboy) · 2026-05-19
+- [SCHOOLBOY GIANT BODYBUILDER | BODYBUILDING WORKOUT 2026](https://www.youtube.com/watch?v=SXu5KL10ZC8) — ARMWRESTLING TV (Schoolboy) · 2026-05-19
   - my first bodybuilding workout with the biggest Russian bodybuilder Sergey Danilov who is on his prep to Olympia show 2026 
 Subscribe for NEW VIDEOS 
 https://www.youtube.com/AlexToproll
@@ -96,8 +94,6 @@ in the pursuit of strength and all good times
 
 ## 🎬 YouTube & Médias
 
-- [PSG : L’Arabie saoudite range son chéquier et fait demi-tour, le Qatar remporte ce gros bras de fer ! - LiveFoot](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeVVwQzdseEJISjNxVzU2ZUdLLUlLdVpFVFJEUG5hQWl1RnlIYlNmSjhCelZwOF9yQW5YQXlHU1JoN1F5aXRZYTNOcTdtZjVobjhWYWRsSUZSSjd4a01BTDZuNkFUdURDRlQzaUpkb01BWnBxcmdDUkxTRl9lVzdDMEYxbG9LckJJaXRDWml1bVIxT0dTclFyNFJGTEtmMS1TSFpNN1EwcFRMcjVsczJfMXVHV0M4YzRqS3FhdWlRTlY3eno0cHU4U1Y0NHREQWVD?oc=5) — Google News Armwrestling FR · 2026-05-24
-  - PSG : L’Arabie saoudite range son chéquier et fait demi-tour, le Qatar remporte ce gros bras de fer ! LiveFoot
 - [JERRY CADORETTE & KODY MERRITT | EVW 24 LIVESTREAM](https://www.youtube.com/watch?v=_hr5eoxwD4Y) — East vs West Armwrestling · 2026-05-23
   - Official EVW website: https://evwsports.com/
 - [PAVLO DERBEDYENYEV & COREY WEST | EVW 24 LIVESTREAM](https://www.youtube.com/watch?v=OHk_xYrEp2U) — East vs West Armwrestling · 2026-05-22
@@ -107,8 +103,6 @@ in the pursuit of strength and all good times
 
 - [Élite. Elie Okobo met fin à son bras de fer contre Monaco et réintègre le groupe avant les quarts de finale - Ouest-France](https://news.google.com/rss/articles/CBMilwJBVV95cUxOcmhJemZMajQ0bl9Oam81RzNsMjdHVjBDS0tEajN6ZXZGWGVHUVFFNlYyamxUbGVNcHBrVEJwb003SU1NcG5NQjBmS0RBMERPWExVM2d4azktMTFnbm9uaGFKZl9mcTYxeGtnUXdUMVl0NGppeFJtMlNxWHp2YWhBeW1Sa1l6TWlHQVROUmNWZFpqdHRIRHJHN0FkTG83S21RTkpoRWNZS2VZLWZJeUhlYUZ3Wjc2VXZsalM3ZjBYR1hfcEZrTVhVcUE0bGVoOVcwaFlsdTE3N1lpQWQ5aTl2QkxvR0djdGdfTXhFSFNQSkNXWUZSQ1JRbXlLaEZLdTdYcHRqYmoyRzJDbEdHS3BVcUUtQm9zNWc?oc=5) — Google News Armwrestling FR · 2026-05-24
   - Élite. Elie Okobo met fin à son bras de fer contre Monaco et réintègre le groupe avant les quarts de finale Ouest-France
-- [Roland-Garros. Vers une fin de bras de fer entre les joueurs et les organisateurs au sujet de la répartition des revenus - Ouest-France](https://news.google.com/rss/articles/CBMitgJBVV95cUxQNUhsRlF6bTJxOHBJVnZiVmdXT0hZZnlZY0h1eTM2djdGMDZqZHNPMjJEQXdwU24tTTBHOHA2NndfTWhYY2lPLXZjdUVNVTVDQ2E0ZDk0RmR4MmJIbEk2cWgtNkhmNXJXN1A0VF9MWks0MG01Ml9jWmlZdXdtMk1VaS00SWVkZmpXYVh0aFpFTnJPejJVbTZLVm1HRGkzX3R2VVdiMEhyZ3lxSFc5b083TkpCSV9KbDVLOWFJbm5ZYXMxWFNtZnFHT3I0OHNkOXRjQ0hDSmg2ejgtODlJMHVZb3VJX2xJajVwc0lMeFJkQlh4VXI4UHNibnVIMnIxT1EyT01fSGw1V0J5Yms4dWtCazd6WkZpVEtnN0JIVGVGVWhqWUYtcEVHOV8wWjFzU2pJdTdMaVV3?oc=5) — Google News Armwrestling FR · 2026-05-23
-  - Roland-Garros. Vers une fin de bras de fer entre les joueurs et les organisateurs au sujet de la répartition des revenus Ouest-France
 
 ## 📰 Actualités & Annonces
 
@@ -116,5 +110,3 @@ in the pursuit of strength and all good times
   - Basket: bras de fer terminé entre Okobo et Monaco, le joueur de retour face à Bourg-en-Bresse RMC Sport
 - [Basket : Elie Okobo stoppe son bras de fer avec l’AS Monaco et fera son retour contre Bourg-en-Bresse - Le Figaro](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXIxRmJqTDRtdm9ndkQ4X2k1aG82WjVoVnY1OHZtRjA5THBvc09VS1NWT25sbkQ3cWdRTnpkSEVFaXd5eFIzR3lON25Fem1pSVFOTUx4dXV6X21namxfMjI5RzRzdXFfM2J2R3lleHlaVEdlUlI3UzRjNm15Q0V4MDhRLU5XRl91NGd0U18zb19fZl9oUHhkUGJ1TF8zT1BlWVBuX191bFpITWhRczBpdGU2YWtVTVV2M3hVUnJiLW51dDRqMkc1OUlmZmFqdDJuY2hTc2t0NnRwelVHcGRF?oc=5) — Google News Armwrestling FR · 2026-05-24
   - Basket : Elie Okobo stoppe son bras de fer avec l’AS Monaco et fera son retour contre Bourg-en-Bresse Le Figaro
-- [« Je veux tirer le meilleur parti de mon contrat » : Harry Kane envoie un message clair au FC Bayern dans le bras de fer autour de la prolongation de son contrat - Yahoo Actualités](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3p1NlpVZkxSYWlITmJxUU5INERYbExQcnNncjRpVlQ4Z3F5MlRuMURxeFlkZlZsQ2ZkazNhb3hjNXVsMjQ4LTg4TG5sMHA1T1pSc1IyRTdFQnVBVmNKT2l3WnNmY0RWbThDOVl5Sy1SNXRMM0hlVXlDSzB0cUJkLXduN0V4ZkE?oc=5) — Google News Armwrestling FR · 2026-05-24
-  - « Je veux tirer le meilleur parti de mon contrat » : Harry Kane envoie un message clair au FC Bayern dans le bras de fer autour de la prolongation de son contrat Yahoo Actualités

@@ -17,12 +17,9 @@
 
 - [Élite. Elie Okobo met fin à son bras de fer contre Monaco et réintègre le groupe avant les quarts de finale - Ouest-France](https://news.google.com/rss/articles/CBMilwJBVV95cUxOcmhJemZMajQ0bl9Oam81RzNsMjdHVjBDS0tEajN6ZXZGWGVHUVFFNlYyamxUbGVNcHBrVEJwb003SU1NcG5NQjBmS0RBMERPWExVM2d4azktMTFnbm9uaGFKZl9mcTYxeGtnUXdUMVl0NGppeFJtMlNxWHp2YWhBeW1Sa1l6TWlHQVROUmNWZFpqdHRIRHJHN0FkTG83S21RTkpoRWNZS2VZLWZJeUhlYUZ3Wjc2VXZsalM3ZjBYR1hfcEZrTVhVcUE0bGVoOVcwaFlsdTE3N1lpQWQ5aTl2QkxvR0djdGdfTXhFSFNQSkNXWUZSQ1JRbXlLaEZLdTdYcHRqYmoyRzJDbEdHS3BVcUUtQm9zNWc?oc=5) — Google News Armwrestling FR · 2026-05-24 · **53/100**
 
-## news
-
-- [Bras de fer à Roland-Garros : les athlètes font du chantage aux médias pour forcer la fédération à leur verser 30 millions d’euros de plus - Midi Libre](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNmk5aWRVTk1aNHNaT2czdFdDWGxsODM5M2tCZFFHc1NuTEFPZlZEQUpOZ2E3NkF1SFduMzB2VWVsdGRBV2VOcUNFZlZMenRKb2lub2p3RTRvaTJTRjZwM015cFRZNC1ES3JYRGlPZGwtYm9FOU9RVnE5R1l3bms2dGRqeWJ1LVowQ0NZLTlYNlE2OUJMVFJyQkF1ZVRYbnpXZmZEdWdrM0J4Z19PdEVoWWJpeENKNHI0VVNjV3lOUU1IdHNpUG9kbzR5U2xoUGtqV0dyc2RlRU5rNTBPWWVjblhNbXEtU0tXcS1Td2FPVjZSaVl6ME1PYkEwVlVMLVBfVW5RQTBsYw?oc=5) — Google News Armwrestling FR · 2026-05-22 · **55/100**
-
 ## youtube_media
 
 - [Training with Courtney](https://www.youtube.com/watch?v=E3qt0-BKHjk) — Devon Larratt · 2026-05-18 · **64/100**
-- [HULK BODYBUILDER VS SCHOOLBOY | BODYBUILDING WORKOUT 2026](https://www.youtube.com/watch?v=SXu5KL10ZC8) — ARMWRESTLING TV (Schoolboy) · 2026-05-19 · **62/100**
+- [SCHOOLBOY GIANT BODYBUILDER | BODYBUILDING WORKOUT 2026](https://www.youtube.com/watch?v=SXu5KL10ZC8) — ARMWRESTLING TV (Schoolboy) · 2026-05-19 · **62/100**
 - [Courtney EVW prep](https://www.youtube.com/shorts/n5XtNl_Tq7w) — Devon Larratt · 2026-05-18 · **61/100**
+- [PAVLO DERBEDYENYEV & COREY WEST | EVW 24 LIVESTREAM](https://www.youtube.com/watch?v=OHk_xYrEp2U) — East vs West Armwrestling · 2026-05-22 · **56/100**
