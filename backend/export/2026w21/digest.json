@@ -1,22 +1,6 @@
 {
   "athletes": [
     {
-      "url": "https://www.youtube.com/shorts/TPIxOfQudj0",
-      "title": "Ermes Gasparini vs Dave Chaffee at EVW 5",
-      "summary": "",
-      "published_ts": 1779644452,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/3u7Ds5P3Txo",
-      "title": "Do You want to see Ermes Gasparini vs Artyom Morozov?",
-      "summary": "",
-      "published_ts": 1779640655,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
       "url": "https://www.youtube.com/shorts/Hii_04temw0",
       "title": "PEBP 250lbs/113.4kgs (I only got 8 seconds, but I’m happy with that) #armwrestling #worldchampion",
       "summary": "",
@@ -71,14 +55,6 @@
       "published_ts": 1779445800,
       "source_name": "Google News Armwrestling FR",
       "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/HnXZfhzqXDs",
-      "title": "NEW PR SP! 180lbs/81.7kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1779385478,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
     }
   ],
   "competitions": [
@@ -115,6 +91,14 @@
       "content_type": "technical"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BdGVmWVZRLXh2VFhVX1ZLZHdQajdTcFNWZzZmcjM1WGVVbjZwUFNxMzNLczhGbEZma0I2cS1yLXI0aDA2U09KcjltWjc3ZEV0TXpkaDR1UHo5LVVhNG9zbWZwZUlZdnd2aXZJdUhHQXVfd3JvZWlvcE03Vmk?oc=5",
+      "title": "Eastern Townships arm wrestlers claim multiple medals at Quebec provincials - The Pulse of the Eastern Townships",
+      "summary": "Eastern Townships arm wrestlers claim multiple medals at Quebec provincials The Pulse of the Eastern Townships",
+      "published_ts": 1779318637,
+      "source_name": "Google News Armwrestling EN",
+      "content_type": "technical"
+    },
+    {
       "url": "https://www.youtube.com/shorts/n5XtNl_Tq7w",
       "title": "Courtney EVW prep",
       "summary": "▼ Merch:\nhttps://nolimitsarmwrestling.com/nolimits/\nhttps://armbet.net\n\n▬▬▬▬▬▬▬ ABOUT DEVON LARRATT  ▬▬▬▬▬▬▬\n\nin the pursuit of strength and all good times\n\n► Website → https://www.armbet.com\n\n▼ Devon Larratt Social Media:\n• Instagram → @devlarratt\n• TikTok → @devonlarratt\n• Tag me on social media: #devonlarratt\n\n▼ ArmBet:\n• Google Play → https://play.google.com/store/apps/details?id=com.armbet.app\n• iPhone https://apps.apple.com/tt/app/armbet/id1525205708\n\n▼ Vets and First Responders: \nhttp://spartanwellness.ca/\n\n▼ Good Times Game: \nhttps://play.google.com/store/apps/details?id=com.quierogames.canadarun2\n\n▼ Fan Mail: \nDevon Larratt\nPO Box 931\nRichmond Ontario\nCanada K0A 2Z0",
@@ -131,26 +115,8 @@
       "content_type": "technical"
     }
   ],
-  "france": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcmhJemZMajQ0bl9Oam81RzNsMjdHVjBDS0tEajN6ZXZGWGVHUVFFNlYyamxUbGVNcHBrVEJwb003SU1NcG5NQjBmS0RBMERPWExVM2d4azktMTFnbm9uaGFKZl9mcTYxeGtnUXdUMVl0NGppeFJtMlNxWHp2YWhBeW1Sa1l6TWlHQVROUmNWZFpqdHRIRHJHN0FkTG83S21RTkpoRWNZS2VZLWZJeUhlYUZ3Wjc2VXZsalM3ZjBYR1hfcEZrTVhVcUE0bGVoOVcwaFlsdTE3N1lpQWQ5aTl2QkxvR0djdGdfTXhFSFNQSkNXWUZSQ1JRbXlLaEZLdTdYcHRqYmoyRzJDbEdHS3BVcUUtQm9zNWc?oc=5",
-      "title": "Élite. Elie Okobo met fin à son bras de fer contre Monaco et réintègre le groupe avant les quarts de finale - Ouest-France",
-      "summary": "Élite. Elie Okobo met fin à son bras de fer contre Monaco et réintègre le groupe avant les quarts de finale Ouest-France",
-      "published_ts": 1779629279,
-      "source_name": "Google News Armwrestling FR",
-      "content_type": "technical"
-    }
-  ],
-  "news": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXIxRmJqTDRtdm9ndkQ4X2k1aG82WjVoVnY1OHZtRjA5THBvc09VS1NWT25sbkQ3cWdRTnpkSEVFaXd5eFIzR3lON25Fem1pSVFOTUx4dXV6X21namxfMjI5RzRzdXFfM2J2R3lleHlaVEdlUlI3UzRjNm15Q0V4MDhRLU5XRl91NGd0U18zb19fZl9oUHhkUGJ1TF8zT1BlWVBuX191bFpITWhRczBpdGU2YWtVTVV2M3hVUnJiLW51dDRqMkc1OUlmZmFqdDJuY2hTc2t0NnRwelVHcGRF?oc=5",
-      "title": "Basket : Elie Okobo stoppe son bras de fer avec l’AS Monaco et fera son retour contre Bourg-en-Bresse - Le Figaro",
-      "summary": "Basket : Elie Okobo stoppe son bras de fer avec l’AS Monaco et fera son retour contre Bourg-en-Bresse Le Figaro",
-      "published_ts": 1779624171,
-      "source_name": "Google News Armwrestling FR",
-      "content_type": "technical"
-    }
-  ],
+  "france": [],
+  "news": [],
   "training": [
     {
       "url": "https://www.youtube.com/shorts/R0slobrbiDE",

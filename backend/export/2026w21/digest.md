@@ -21,6 +21,8 @@ https://stake.armbet.net/
 ▼ Me…
 - [Arkansas arm-wrestling champ brings competition to Little Rock - FOX16.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkdBSl91UGNhZENJRll2YXZCUmhDVHhxZWpFUWo1dG9LQ1dZX2w0NEZmbXY4ekNTRmtrZVpCY2t1YlJ0eXFJY2ZueVpyNnR5ZE1GMDhnQVdPQVRzV0NMQUdiNkhJT1RKWjFyQ3lNaUlSQUdXTHBwWUFvQi1nMzJFVTcwNWhEbUc3eGY2a1FXUUszdVF0NTE5MWNyZWl6ZE3SAaQBQVVfeXFMTklDWXVJTEdKcVFGOUZRa1I0cGx2NlZjV1pwbUI2YnZ5U3hkYzZwSTV5ZHBNM0RDbGlWZjFRNnR1aV93Y3RkaTBDSWtEdWdqTUNVZGdpRzZFaVFxbm9Rc2VodmFscUJMdnV2cFZ3RnMybWJlWUZGamhOckl1UjFFTjBVdTNMZHNTMkVRanhKZU9abG9KczFTc1JXRC05M2RjSVEwVl8?oc=5) — Google News Armwrestling EN · 2026-05-22
   - Arkansas arm-wrestling champ brings competition to Little Rock FOX16.com
+- [Eastern Townships arm wrestlers claim multiple medals at Quebec provincials - The Pulse of the Eastern Townships](https://news.google.com/rss/articles/CBMifEFVX3lxTE5BdGVmWVZRLXh2VFhVX1ZLZHdQajdTcFNWZzZmcjM1WGVVbjZwUFNxMzNLczhGbEZma0I2cS1yLXI0aDA2U09KcjltWjc3ZEV0TXpkaDR1UHo5LVVhNG9zbWZwZUlZdnd2aXZJdUhHQXVfd3JvZWlvcE03Vmk?oc=5) — Google News Armwrestling EN · 2026-05-20
+  - Eastern Townships arm wrestlers claim multiple medals at Quebec provincials The Pulse of the Eastern Townships
 - [Courtney EVW prep](https://www.youtube.com/shorts/n5XtNl_Tq7w) — Devon Larratt · 2026-05-18
   - ▼ Merch:
 https://nolimitsarmwrestling.com/nolimits/
@@ -39,8 +41,6 @@ in the pursuit of strength and all good times
 
 ## 🌟 Athlètes & Interviews
 
-- [Ermes Gasparini vs Dave Chaffee at EVW 5](https://www.youtube.com/shorts/TPIxOfQudj0) — East vs West Armwrestling · 2026-05-24
-- [Do You want to see Ermes Gasparini vs Artyom Morozov?](https://www.youtube.com/shorts/3u7Ds5P3Txo) — East vs West Armwrestling · 2026-05-24
 - [PEBP 250lbs/113.4kgs (I only got 8 seconds, but I’m happy with that) #armwrestling #worldchampion](https://www.youtube.com/shorts/Hii_04temw0) — Monster Michael Todd · 2026-05-24
 - [Bodybuilder vs Armwrestler](https://www.youtube.com/shorts/JmeS1MWJM50) — ARMSHARK ARMWRESTLING · 2026-05-24
 - [Static Hold 114.5lbs/51.9kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/HPByXMJoCqQ) — Monster Michael Todd · 2026-05-23
@@ -49,7 +49,6 @@ in the pursuit of strength and all good times
 - [NEW PR! Up Pressure 174.75lbs/79.3kgs#armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/TnZriho2Z9w) — Monster Michael Todd · 2026-05-22
 - [Bras de fer à Roland-Garros : les athlètes font du chantage aux médias pour forcer la fédération à leur verser 30 millions d’euros de plus - Midi Libre](https://news.google.com/rss/articles/CBMihwJBVV95cUxQNmk5aWRVTk1aNHNaT2czdFdDWGxsODM5M2tCZFFHc1NuTEFPZlZEQUpOZ2E3NkF1SFduMzB2VWVsdGRBV2VOcUNFZlZMenRKb2lub2p3RTRvaTJTRjZwM015cFRZNC1ES3JYRGlPZGwtYm9FOU9RVnE5R1l3bms2dGRqeWJ1LVowQ0NZLTlYNlE2OUJMVFJyQkF1ZVRYbnpXZmZEdWdrM0J4Z19PdEVoWWJpeENKNHI0VVNjV3lOUU1IdHNpUG9kbzR5U2xoUGtqV0dyc2RlRU5rNTBPWWVjblhNbXEtU0tXcS1Td2FPVjZSaVl6ME1PYkEwVlVMLVBfVW5RQTBsYw?oc=5) — Google News Armwrestling FR · 2026-05-22
   - Bras de fer à Roland-Garros : les athlètes font du chantage aux médias pour forcer la fédération à leur verser 30 millions d’euros de plus Midi Libre
-- [NEW PR SP! 180lbs/81.7kgs X 5 #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/HnXZfhzqXDs) — Monster Michael Todd · 2026-05-21
 
 ## 💪 Entraînement & Technique
 
@@ -76,13 +75,3 @@ in the pursuit of strength and all good times
 
 ▼ Devon Larratt Social Media:
 • Instagram → @de…
-
-## 🇫🇷 Bras de Fer France
-
-- [Élite. Elie Okobo met fin à son bras de fer contre Monaco et réintègre le groupe avant les quarts de finale - Ouest-France](https://news.google.com/rss/articles/CBMilwJBVV95cUxOcmhJemZMajQ0bl9Oam81RzNsMjdHVjBDS0tEajN6ZXZGWGVHUVFFNlYyamxUbGVNcHBrVEJwb003SU1NcG5NQjBmS0RBMERPWExVM2d4azktMTFnbm9uaGFKZl9mcTYxeGtnUXdUMVl0NGppeFJtMlNxWHp2YWhBeW1Sa1l6TWlHQVROUmNWZFpqdHRIRHJHN0FkTG83S21RTkpoRWNZS2VZLWZJeUhlYUZ3Wjc2VXZsalM3ZjBYR1hfcEZrTVhVcUE0bGVoOVcwaFlsdTE3N1lpQWQ5aTl2QkxvR0djdGdfTXhFSFNQSkNXWUZSQ1JRbXlLaEZLdTdYcHRqYmoyRzJDbEdHS3BVcUUtQm9zNWc?oc=5) — Google News Armwrestling FR · 2026-05-24
-  - Élite. Elie Okobo met fin à son bras de fer contre Monaco et réintègre le groupe avant les quarts de finale Ouest-France
-
-## 📰 Actualités & Annonces
-
-- [Basket : Elie Okobo stoppe son bras de fer avec l’AS Monaco et fera son retour contre Bourg-en-Bresse - Le Figaro](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSXIxRmJqTDRtdm9ndkQ4X2k1aG82WjVoVnY1OHZtRjA5THBvc09VS1NWT25sbkQ3cWdRTnpkSEVFaXd5eFIzR3lON25Fem1pSVFOTUx4dXV6X21namxfMjI5RzRzdXFfM2J2R3lleHlaVEdlUlI3UzRjNm15Q0V4MDhRLU5XRl91NGd0U18zb19fZl9oUHhkUGJ1TF8zT1BlWVBuX191bFpITWhRczBpdGU2YWtVTVV2M3hVUnJiLW51dDRqMkc1OUlmZmFqdDJuY2hTc2t0NnRwelVHcGRF?oc=5) — Google News Armwrestling FR · 2026-05-24
-  - Basket : Elie Okobo stoppe son bras de fer avec l’AS Monaco et fera son retour contre Bourg-en-Bresse Le Figaro
