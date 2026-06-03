@@ -9,6 +9,7 @@
 - [Fast day 8](https://www.youtube.com/watch?v=TeianyYkn6o) — Devon Larratt · 2026-05-28 · **62/100**
 - [Buppy](https://www.youtube.com/watch?v=WKXx-XYv_cA) — Devon Larratt · 2026-05-27 · **62/100**
 - [Insane TRANSFORMATION! #armwrestling #worldchampion #comeback #transformation #fitness](https://www.youtube.com/shorts/2V7QivjgoEQ) — Monster Michael Todd · 2026-05-27 · **58/100**
+- [Tight Angle PEBP 170lbs/77.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/yoSG5oxTa10) — Monster Michael Todd · 2026-05-25 · **58/100**
 
 ## competitions
 
@@ -16,10 +17,9 @@
 
 ## news
 
-- [Team Canada arm wrestling launches Cortina series in Sudbury - Sudbury News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEg3cGtHN216RDk4bmlYWVR3MTItZXRxVWNHVFM2ZjZQSVNEQnV1YWxCYms1U2l3cWVHcEw0d3hGSHFwYzdPZ1hla3BYcnRJYXRrSXNHX2MtbmtjVExtR016MGlkTkNyVzdTU2ZSeG9nTzFpeUxNbHBGaWVnMzZ3UlpvZGZYendDUW5LNmc2NGJBZ3Jha3RvYXVPRVpFZHFCQTkwT2lNNA?oc=5) — Google News Armwrestling EN · 2026-05-31 · **54/100**
+- [Team Canada arm wrestling launches Cortina series in Sudbury - Sudbury News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEg3cGtHN216RDk4bmlYWVR3MTItZXRxVWNHVFM2ZjZQSVNEQnV1YWxCYms1U2l3cWVHcEw0d3hGSHFwYzdPZ1hla3BYcnRJYXRrSXNHX2MtbmtjVExtR016MGlkTkNyVzdTU2ZSeG9nTzFpeUxNbHBGaWVnMzZ3UlpvZGZYendDUW5LNmc2NGJBZ3Jha3RvYXVPRVpFZHFCQTkwT2lNNA?oc=5) — Google News Arm Wrestling · 2026-05-31 · **54/100**
 
 ## youtube_media
 
 - [EVW 24 full card preview](https://www.youtube.com/watch?v=-N1S0grxeOY) — Devon Larratt · 2026-05-25 · **62/100**
 - [#armwrestling #match #shorts](https://www.youtube.com/shorts/MhUdPh65R8g) — ARMWRESTLING TV (Schoolboy) · 2026-05-31 · **59/100**
-- [Auden Larratt vs Korean Hulk | King Of The Table 12 Full Match](https://www.youtube.com/watch?v=3mW8bPZMbvE) — East vs West Armwrestling · 2026-05-27 · **58/100**

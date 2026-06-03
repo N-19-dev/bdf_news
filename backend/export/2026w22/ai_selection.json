@@ -76,6 +76,17 @@
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
+    },
+    {
+      "url": "https://www.youtube.com/shorts/yoSG5oxTa10",
+      "title": "Tight Angle PEBP 170lbs/77.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
+      "summary": "",
+      "published_ts": 1779728539,
+      "source_name": "Monster Michael Todd",
+      "score": 58.058879646387965,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
     }
   ],
   "competitions": [
@@ -97,7 +108,7 @@
       "title": "Team Canada arm wrestling launches Cortina series in Sudbury - Sudbury News",
       "summary": "Team Canada arm wrestling launches Cortina series in Sudbury Sudbury News",
       "published_ts": 1780253100,
-      "source_name": "Google News Armwrestling EN",
+      "source_name": "Google News Arm Wrestling",
       "score": 53.69543641805649,
       "content_type": "technical",
       "tech_level": 1,
@@ -123,17 +134,6 @@
       "published_ts": 1780191374,
       "source_name": "ARMWRESTLING TV (Schoolboy)",
       "score": 59.388057318600744,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=3mW8bPZMbvE",
-      "title": "Auden Larratt vs Korean Hulk | King Of The Table 12 Full Match",
-      "summary": "Official EVW website: https://evwsports.com/",
-      "published_ts": 1779901217,
-      "source_name": "East vs West Armwrestling",
-      "score": 58.090918497605756,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
