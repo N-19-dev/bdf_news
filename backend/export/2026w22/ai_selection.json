@@ -76,17 +76,6 @@
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
-    },
-    {
-      "url": "https://www.youtube.com/shorts/yoSG5oxTa10",
-      "title": "Tight Angle PEBP 170lbs/77.1kgs #armwrestling #worldchampion #comeback #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1779728539,
-      "source_name": "Monster Michael Todd",
-      "score": 58.058879646387965,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
     }
   ],
   "competitions": [
@@ -102,13 +91,26 @@
       "marketing_score": 0
     }
   ],
+  "france": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdW5pX3ZwaDhIamRhUU5jR2pQbWp4dUVuNi1nRncybFJSd1YzYW5MQmpMZ0psX3YzbmI0azdlWGt1VG50c3BMRm8zdTU4Ui05S0RiUUFPcnBVT2hyWmEyeG1HQ21ybGZaRFdITGxvVC1kWThhd0lEaHN2bTRXRGdpb3Z5V1ljc3JiTTh6NnNNYmlRWDByRmt1SnRVM3JWZFVXcGlrTTFCMXBXM3dNWDNoOHU0ZlBjQjZfbjZHbE5qMFpwQU1HV3pVV0dnMkU?oc=5",
+      "title": "Girondins de Bordeaux : le bras de fer juridique avec la FIFA se joue à Paris - Charente Libre",
+      "summary": "Girondins de Bordeaux : le bras de fer juridique avec la FIFA se joue à Paris Charente Libre",
+      "published_ts": 1779865200,
+      "source_name": "Google News Armwrestling FR",
+      "score": 50.38401442495259,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
+    }
+  ],
   "news": [
     {
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEg3cGtHN216RDk4bmlYWVR3MTItZXRxVWNHVFM2ZjZQSVNEQnV1YWxCYms1U2l3cWVHcEw0d3hGSHFwYzdPZ1hla3BYcnRJYXRrSXNHX2MtbmtjVExtR016MGlkTkNyVzdTU2ZSeG9nTzFpeUxNbHBGaWVnMzZ3UlpvZGZYendDUW5LNmc2NGJBZ3Jha3RvYXVPRVpFZHFCQTkwT2lNNA?oc=5",
       "title": "Team Canada arm wrestling launches Cortina series in Sudbury - Sudbury News",
       "summary": "Team Canada arm wrestling launches Cortina series in Sudbury Sudbury News",
       "published_ts": 1780253100,
-      "source_name": "Google News Arm Wrestling",
+      "source_name": "Google News Armwrestling EN",
       "score": 53.69543641805649,
       "content_type": "technical",
       "tech_level": 1,
