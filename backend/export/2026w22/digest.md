@@ -2,17 +2,13 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [EVW 24: Ermes Gasparini 🇮🇹 vs Artyom Morozov 🇰🇿](https://www.youtube.com/shorts/zVa1R6wWu3I) — East vs West Armwrestling · 2026-05-31
 - [#armwrestling #match #shorts](https://www.youtube.com/shorts/MhUdPh65R8g) — ARMWRESTLING TV (Schoolboy) · 2026-05-31
   - Watch the full tournament video 
 ⬇️⬇️⬇️
 https://youtu.be/P9a4rWLNK7g
 - [Free House 🏡🇺🇸Get EVW 24 PPV and use code: AMOLINS](https://www.youtube.com/shorts/MbPSdB2iuRg) — Voice of Armwrestling · 2026-05-30
-- [4th National Armwrestling & Para Armwrestling Championship inaugurated at Rashtriya Raksha University - PIB](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNGlfYVZzeEVFaldkNkZSTmdTQjRNelhEelpVU0xqMG1rSWZBWklhNE5uYTBUbGJIU3h0RE9IZjkwQ3Z6NHFxVkxTQWF5V0VMNkZMTUp6bmNtcktVWnAtNjlHRFFKclZFWUl4ekdsSFlSY1BYcFlWM3plbFd0X20ybWF3?oc=5) — Google News Armwrestling EN · 2026-05-30
-  - 4th National Armwrestling & Para Armwrestling Championship inaugurated at Rashtriya Raksha University PIB
-- [EVW 24 PREVIEW | DEVON, JOHN, ROBERT & RAY](https://www.youtube.com/watch?v=Ft6Dxrfl7TQ) — East vs West Armwrestling · 2026-05-29
-  - Official EVW website: https://evwsports.com/
-- [Lars Rorbakken vs Michael Todd at KOTT 11](https://www.youtube.com/shorts/5WjSUDlJXwY) — East vs West Armwrestling · 2026-05-29
+- [National Armwrestling Championship Kicks Off at RRU - Devdiscourse](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGFzOWI2bzRBek5LLXhlbXNZVGp4UVlKZ3Zhd2RhZEl3QUZYdmVvaUx5ZnNxOEN2RmtyN0o2aGY4S2JzZDVaRmVSOVNLdTE3U3JwdlZTVEFLVUVrVnYwcmVlWXBPOVJFOFB1aFpYeTk1Vl8xUVRMNm1HMGNuM19GVzAyUV9Na2lNejJMcG9hbGpWSi1GUjJ1NDJUc1dIOUNxXzctS0lsd196ZkJuVkHSAbMBQVVfeXFMTVNUTl9MRTVmYWZaNFlfc3lvallVc1VpQlZvdUdHZGo3dExaaUN3X2NPdllxWXQ5TkgwaW9kd09uWnNhbTMtZUw3cElTLTN6UXhPTjl6TEdoMUZ3b3V0N0Vmc3pLTjY3SlFBQVlCLTd6a0tqWWdvM1VwSk50WHZJdlZGZVYxbmxVZzlXSVd5UTJra1dDNDFidm12anVEY19IN25YbnRtOS1DaTdfZm1DRnl0Tnc?oc=5) — Google News Armwrestling EN · 2026-05-30
+  - National Armwrestling Championship Kicks Off at RRU Devdiscourse
 - [USA 2026 ARM WRESTLING CHAMPIONSHIP | ALL FINALS](https://www.youtube.com/watch?v=P9a4rWLNK7g) — ARMWRESTLING TV (Schoolboy) · 2026-05-29
   - US National Armwrestling Championship 2026
 Team USA Qualifier for the Worlds 2026
@@ -22,11 +18,6 @@ Subscribe for NEW VIDEOS
 https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 Join t…
-- [Chance Shaw vs Oleg Petrenko at EVW 8](https://www.youtube.com/shorts/VwSzfQGBXhM) — East vs West Armwrestling · 2026-05-29
-- [EVW 23 - The Greatest Night in Armwrestling](https://www.youtube.com/watch?v=t1OCdn_8vMs) — East vs West Armwrestling · 2026-05-29
-  - Official EVW website: https://evwsports.com/
-- [Armwrestling series first event set for May 30 - Sudbury News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVlplcXdyNDJSdXVCTGhJc1M0dzVJRDhWZFVTd091czNfR2poaTg4OUFmdldOcGdOS3R2Ujl0OUFXaU5mb1R5dHpuOVNNbHpRS3JWS3dXcDFIcmdHbUM3VGVKdERxbHlOUUFVbVc0eHBPbWRROVFRRS1iSkhvLWxIX29QNjM5S01Nb0p3RlhmMnN0Z0lK?oc=5) — Google News Armwrestling EN · 2026-05-29
-  - Armwrestling series first event set for May 30 Sudbury News
 - [Fast day 8](https://www.youtube.com/watch?v=TeianyYkn6o) — Devon Larratt · 2026-05-28
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -37,9 +28,8 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [North Bay teens wins Ontario Provincial Arm Wrestling Championships - North Bay Nugget](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSTZqY0hGMkREOV85WmJ6YnpDTVRSdVlHWEpicG42djZxeUNqZkxDMUI5WWpNOWNzWHBaR2dPZ1hERGlvVWNvUmZPT09DckZuUkdleGxxMjNmMFI4d1VwZjhrV3ZIcjdLUFI1SHlVSnNzbXN5UFdQMFN2NGV0YmoyelVvQ3NxY0NpUjFxZHBTU01ubjhBRVpPUkVR?oc=5) — Google News Armwrestling EN · 2026-05-28
+- [North Bay teens wins Ontario Provincial Arm Wrestling Championships - North Bay Nugget](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSTZqY0hGMkREOV85WmJ6YnpDTVRSdVlHWEpicG42djZxeUNqZkxDMUI5WWpNOWNzWHBaR2dPZ1hERGlvVWNvUmZPT09DckZuUkdleGxxMjNmMFI4d1VwZjhrV3ZIcjdLUFI1SHlVSnNzbXN5UFdQMFN2NGV0YmoyelVvQ3NxY0NpUjFxZHBTU01ubjhBRVpPUkVR?oc=5) — Google News Arm Wrestling · 2026-05-28
   - North Bay teens wins Ontario Provincial Arm Wrestling Championships North Bay Nugget
-- [EVW 24 Experience will be crazy!](https://www.youtube.com/shorts/AmFxIZBTyOY) — East vs West Armwrestling · 2026-05-27
 - [Buppy](https://www.youtube.com/watch?v=WKXx-XYv_cA) — Devon Larratt · 2026-05-27
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -71,7 +61,6 @@ in the pursuit of strength and all good times
 
 - [Not bad for a little guy!! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/Sqq-F42eLD4) — Monster Michael Todd · 2026-05-31
 - [1 minute SP Static Hold 109.25lbs/49.6kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/7UcOx6vb1a4) — Monster Michael Todd · 2026-05-31
-- [Arkansas! 🇺🇸 Don’t miss this!Oleg Petrenko vs Monster Michael Todd](https://www.youtube.com/shorts/PdpXYlMmFWE) — East vs West Armwrestling · 2026-05-30
 - [I Lost 40lbs | Did It Cost Me My Strength Or Am I More Dangerous?](https://www.youtube.com/watch?v=6DkIoqb6CWQ) — Monster Michael Todd · 2026-05-30
   - Thanks to The Feed for partnering with me! Shop The Feed — the world’s largest sports nutrition marketplace, where athletes get fed. Head to my link https://thefeed.yt.link/7lT4EXt for 40% of your first purchase!
 
@@ -87,8 +76,6 @@ Less than two weeks before…
 - [Back Pressure Static Hold 190lbs/86.2kgs #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/sqE0BxAXMwQ) — Monster Michael Todd · 2026-05-27
 - [ALL TIME PR! SP 200lbs/90.7kgs#armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/iIov2MONHW8) — Monster Michael Todd · 2026-05-26
 - [Calisthenics Champ vs Armwrestler](https://www.youtube.com/shorts/dKJ7rTS3EU0) — ARMSHARK ARMWRESTLING · 2026-05-25
-- [Here’s the full video! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/inQKgJ4SNs8) — Monster Michael Todd · 2026-05-25
-- [Not going to lie, that POP SCARED ME! #armwrestling #worldchampion #comeback #letsgo #phil413](https://www.youtube.com/shorts/alKEGCM8yHY) — Monster Michael Todd · 2026-05-25
 - [Monster Michael Todd brings world’s biggest arm-wrestling showdown to Little Rock - KATV](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDdqVU5pOGxvWC1rNWJheW1XR01KdFRnVWZXcUNNWXdFMVVYQjhJdEZORXgySnNfNGJpZzQ2d3YxR2c0MXFuRVFxZGZVY01mRFg1MUJxd1JuU3pqY25XYTUwc3lZQl9rUk5wLUFHZGdXRy1YN1p5ZDZkdUF5NUFhN1BBZzdfVDBnbFV2REtIRUVxalU4TVhXQTVxNkNyaGdNR1lFQ0lHQzIzWnEzQ1lEd2NzX1NIVmdZTjF4dnp2aW0?oc=5) — Google News Armwrestling EN · 2026-05-25
   - Monster Michael Todd brings world’s biggest arm-wrestling showdown to Little Rock KATV
 
@@ -122,6 +109,8 @@ code: AMOLINS
 📝https://linktr.ee/coach_ray
 https://www.instagram.com/voiceofarmwrestling/
 https…
+- [Rebalancing imbalances in the Digital Economy. The CJEU judgment in Meta C-797/23: a new boost for press publishers? - Wolters Kluwer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYXRqT0FBQnN4djdtZ29KSEd3cDk0ZThlYUsyUUN2OU9PNUZZYm9aUXBla0xYS3JFczJ4aFJGeFAwM3pNUmNqWGp4RExqTDZoajY3cWNSMUxUcm9oZGFqam5lYVZBbC0wVnF0cHBhRXN3NlZrQlNUSGVndjNFNkxoNDhjdEhGR2FnaE54YkN5UkNWLWpUdjhTY0V2RGZ4VFMxWWpBN1dQcXdJajQ5LVczOWg4dDdJMmhlQUxXNUFCcG9GZHFFZ0lDd1ZnaGFBU0F2U29IVXhOdUI2dWtqbGhyV1hZcjlHNUlkV0ZNR1BqYzRaTUROWkZiaw?oc=5) — Google News Arm Wrestling · 2026-05-28
+  - Rebalancing imbalances in the Digital Economy. The CJEU judgment in Meta C-797/23: a new boost for press publishers? Wolters Kluwer
 - [Auden Larratt will face Jeremy Parker at EVW 24](https://www.youtube.com/watch?v=vyMBAGUF090) — Voice of Armwrestling · 2026-05-27
   - Get EVW 24 Extended Pass + Arizona State
 live.evwsports.com
@@ -143,15 +132,6 @@ code: AMOLINS
 ## 🎬 YouTube & Médias
 
 - [They Challenged a Girl… Big Mistake](https://www.youtube.com/shorts/LtSeHdwD8m0) — ARMSHARK ARMWRESTLING · 2026-05-31
-- [SPECIAL ANNOUNCMENT | ALIZHAN VS RIEKERD | EVW 24 LIVESTREAM](https://www.youtube.com/watch?v=5k556kQOVBo) — East vs West Armwrestling · 2026-05-28
-  - Official EVW website: https://evwsports.com/
-- [COURTNEY HUYCKE & NASTASIA PASTORKOVA | EVW 24 LIVESTREAM](https://www.youtube.com/watch?v=xschsFpLFCo) — East vs West Armwrestling · 2026-05-28
-  - Official EVW website: https://evwsports.com/
-
-## 🇫🇷 Bras de Fer France
-
-- [Girondins de Bordeaux : le bras de fer juridique avec la FIFA se joue à Paris - Charente Libre](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdW5pX3ZwaDhIamRhUU5jR2pQbWp4dUVuNi1nRncybFJSd1YzYW5MQmpMZ0psX3YzbmI0azdlWGt1VG50c3BMRm8zdTU4Ui05S0RiUUFPcnBVT2hyWmEyeG1HQ21ybGZaRFdITGxvVC1kWThhd0lEaHN2bTRXRGdpb3Z5V1ljc3JiTTh6NnNNYmlRWDByRmt1SnRVM3JWZFVXcGlrTTFCMXBXM3dNWDNoOHU0ZlBjQjZfbjZHbE5qMFpwQU1HV3pVV0dnMkU?oc=5) — Google News Armwrestling FR · 2026-05-27
-  - Girondins de Bordeaux : le bras de fer juridique avec la FIFA se joue à Paris Charente Libre
 
 ## 📰 Actualités & Annonces
 
