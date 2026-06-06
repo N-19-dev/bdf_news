@@ -9,6 +9,8 @@ https://youtu.be/P9a4rWLNK7g
 - [Free House 🏡🇺🇸Get EVW 24 PPV and use code: AMOLINS](https://www.youtube.com/shorts/MbPSdB2iuRg) — Voice of Armwrestling · 2026-05-30
 - [National Armwrestling Championship Kicks Off at RRU - Devdiscourse](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGFzOWI2bzRBek5LLXhlbXNZVGp4UVlKZ3Zhd2RhZEl3QUZYdmVvaUx5ZnNxOEN2RmtyN0o2aGY4S2JzZDVaRmVSOVNLdTE3U3JwdlZTVEFLVUVrVnYwcmVlWXBPOVJFOFB1aFpYeTk1Vl8xUVRMNm1HMGNuM19GVzAyUV9Na2lNejJMcG9hbGpWSi1GUjJ1NDJUc1dIOUNxXzctS0lsd196ZkJuVkHSAbMBQVVfeXFMTVNUTl9MRTVmYWZaNFlfc3lvallVc1VpQlZvdUdHZGo3dExaaUN3X2NPdllxWXQ5TkgwaW9kd09uWnNhbTMtZUw3cElTLTN6UXhPTjl6TEdoMUZ3b3V0N0Vmc3pLTjY3SlFBQVlCLTd6a0tqWWdvM1VwSk50WHZJdlZGZVYxbmxVZzlXSVd5UTJra1dDNDFidm12anVEY19IN25YbnRtOS1DaTdfZm1DRnl0Tnc?oc=5) — Google News Armwrestling EN · 2026-05-30
   - National Armwrestling Championship Kicks Off at RRU Devdiscourse
+- [Bras de fer : Le Championnat d’Afrique 2027 à Madagascar - Midi Madagasikara](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWxCX1B1Rk9uSHBNY0M2b0FFN1pKSFpkc3NnbVg5dzBibUhYTGM2Z0V3RTAxRzd4YUpsNkxjQ0EwcDNmSzZvbXU1dFk1QlhIU0JsazhXSlhhVGlJakhrdzJDdjJpRFFoWmhPSWFibHlPbVUtX2p4ay1UMjljeTVtMjUyTkc2UElaYllZ?oc=5) — Google News Armwrestling FR · 2026-05-30
+  - Bras de fer : Le Championnat d’Afrique 2027 à Madagascar Midi Madagasikara
 - [USA 2026 ARM WRESTLING CHAMPIONSHIP | ALL FINALS](https://www.youtube.com/watch?v=P9a4rWLNK7g) — ARMWRESTLING TV (Schoolboy) · 2026-05-29
   - US National Armwrestling Championship 2026
 Team USA Qualifier for the Worlds 2026
@@ -18,6 +20,8 @@ Subscribe for NEW VIDEOS
 https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 Join t…
+- [Armwrestling series first event set for May 30 - Sudbury News](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVlplcXdyNDJSdXVCTGhJc1M0dzVJRDhWZFVTd091czNfR2poaTg4OUFmdldOcGdOS3R2Ujl0OUFXaU5mb1R5dHpuOVNNbHpRS3JWS3dXcDFIcmdHbUM3VGVKdERxbHlOUUFVbVc0eHBPbWRROVFRRS1iSkhvLWxIX29QNjM5S01Nb0p3RlhmMnN0Z0lK?oc=5) — Google News Armwrestling EN · 2026-05-29
+  - Armwrestling series first event set for May 30 Sudbury News
 - [Fast day 8](https://www.youtube.com/watch?v=TeianyYkn6o) — Devon Larratt · 2026-05-28
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -132,6 +136,11 @@ code: AMOLINS
 ## 🎬 YouTube & Médias
 
 - [They Challenged a Girl… Big Mistake](https://www.youtube.com/shorts/LtSeHdwD8m0) — ARMSHARK ARMWRESTLING · 2026-05-31
+
+## 🇫🇷 Bras de Fer France
+
+- [Girondins de Bordeaux : le bras de fer juridique avec la FIFA se joue à Paris - Charente Libre](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdW5pX3ZwaDhIamRhUU5jR2pQbWp4dUVuNi1nRncybFJSd1YzYW5MQmpMZ0psX3YzbmI0azdlWGt1VG50c3BMRm8zdTU4Ui05S0RiUUFPcnBVT2hyWmEyeG1HQ21ybGZaRFdITGxvVC1kWThhd0lEaHN2bTRXRGdpb3Z5V1ljc3JiTTh6NnNNYmlRWDByRmt1SnRVM3JWZFVXcGlrTTFCMXBXM3dNWDNoOHU0ZlBjQjZfbjZHbE5qMFpwQU1HV3pVV0dnMkU?oc=5) — Google News Armwrestling FR · 2026-05-27
+  - Girondins de Bordeaux : le bras de fer juridique avec la FIFA se joue à Paris Charente Libre
 
 ## 📰 Actualités & Annonces
 

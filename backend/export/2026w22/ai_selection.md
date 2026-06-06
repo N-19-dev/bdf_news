@@ -13,7 +13,10 @@
 ## competitions
 
 - [USA 2026 ARM WRESTLING CHAMPIONSHIP | ALL FINALS](https://www.youtube.com/watch?v=P9a4rWLNK7g) — ARMWRESTLING TV (Schoolboy) · 2026-05-29 · **66/100**
-- [Raw power on display at the arm wrestling competition - ttownmedia.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS0FoeDd3YkV4S21sLU84X0IwbGVGNXpnOHVSZURMVlJQQ0xzWDEzX3d0X1FOZ3JqUXBrNzhaWndpRUc3RVhEd3BBM2xIdG1fdndMTHlQdWNqVTJHVmtqaHp4RHAwRExXMFF5WmhBZm53b3plLUpBcXFCcGZYTUlYd1lVc3dUTkt3Mk5MVVlsYTE0N0VBYTdoeGhKZF9LUmlJVndmZ2NjeU5qQ1QyRFVMX09MQ2dyYnp0TDNoOE1pRFNDb1V5OWtGVDJySkxRNUJGUUZJaHdGM1NjRTVBVzY5dGNDOXkyZG5RQ1BXdUlZa1d2UlMxT1doUVItWU5CQQ?oc=5) — Google News Armwrestling EN · 2026-05-27 · **58/100**
+
+## france
+
+- [Bras de fer : Le Championnat d’Afrique 2027 à Madagascar - Midi Madagasikara](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWxCX1B1Rk9uSHBNY0M2b0FFN1pKSFpkc3NnbVg5dzBibUhYTGM2Z0V3RTAxRzd4YUpsNkxjQ0EwcDNmSzZvbXU1dFk1QlhIU0JsazhXSlhhVGlJakhrdzJDdjJpRFFoWmhPSWFibHlPbVUtX2p4ay1UMjljeTVtMjUyTkc2UElaYllZ?oc=5) — Google News Armwrestling FR · 2026-05-30 · **52/100**
 
 ## news
 
