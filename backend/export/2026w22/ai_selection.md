@@ -20,7 +20,7 @@
 
 ## news
 
-- [Team Canada arm wrestling launches Cortina series in Sudbury - Sudbury News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUEg3cGtHN216RDk4bmlYWVR3MTItZXRxVWNHVFM2ZjZQSVNEQnV1YWxCYms1U2l3cWVHcEw0d3hGSHFwYzdPZ1hla3BYcnRJYXRrSXNHX2MtbmtjVExtR016MGlkTkNyVzdTU2ZSeG9nTzFpeUxNbHBGaWVnMzZ3UlpvZGZYendDUW5LNmc2NGJBZ3Jha3RvYXVPRVpFZHFCQTkwT2lNNA?oc=5) — Google News Armwrestling EN · 2026-05-31 · **54/100**
+- [Girondins de Bordeaux : le bras de fer juridique avec la FIFA se joue à Paris - Charente Libre](https://news.google.com/rss/articles/CBMizAFBVV95cUxQdW5pX3ZwaDhIamRhUU5jR2pQbWp4dUVuNi1nRncybFJSd1YzYW5MQmpMZ0psX3YzbmI0azdlWGt1VG50c3BMRm8zdTU4Ui05S0RiUUFPcnBVT2hyWmEyeG1HQ21ybGZaRFdITGxvVC1kWThhd0lEaHN2bTRXRGdpb3Z5V1ljc3JiTTh6NnNNYmlRWDByRmt1SnRVM3JWZFVXcGlrTTFCMXBXM3dNWDNoOHU0ZlBjQjZfbjZHbE5qMFpwQU1HV3pVV0dnMkU?oc=5) — Google News Armwrestling FR · 2026-05-27 · **50/100**
 
 ## youtube_media
 
