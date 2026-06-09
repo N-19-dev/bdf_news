@@ -2,8 +2,6 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [Athlete injuries and the implications on betting](https://www.reddit.com/r/armwrestling/comments/1tzoy6r/athlete_injuries_and_the_implications_on_betting/) — Reddit Armwrestling (New) · 2026-06-07
-  - After his recent loss to Morozov, Ermes posted a video where he stated that he got injured before the match. I have never bet on armwrestling but am just curious as to how people who bet on this match feel about this? I understand keeping i…
 - [JERRY CADORETTE v DEVON LARRATT freestyle armwrestling @ evw 24](https://www.youtube.com/watch?v=bPGCUj7Gpzw) — Devon Larratt · 2026-06-07
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -14,8 +12,6 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [Morozov vs Vitaly Right Arm Rematch](https://www.reddit.com/r/armwrestling/comments/1tzoiak/morozov_vs_vitaly_right_arm_rematch/) — Reddit Armwrestling (New) · 2026-06-07
-  - Who wins in a rematch now? View Poll submitted by /u/LordGadeia [link] [comments]
 - [EVW 24: Bogdan Stoica post match interview](https://www.youtube.com/watch?v=7fSJINR4LxQ) — East vs West Armwrestling · 2026-06-07
   - Official EVW website: https://evwsports.com/
 - [EVW 24: Janis Amolins post match interview](https://www.youtube.com/watch?v=oC4arKmSiq8) — East vs West Armwrestling · 2026-06-07
@@ -26,10 +22,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - Official EVW website: https://evwsports.com/
 - [EVW 24: Corey West post match interview](https://www.youtube.com/watch?v=hartqyL7o5k) — East vs West Armwrestling · 2026-06-07
   - Official EVW website: https://evwsports.com/
-- [What was up with reffing in Alizhan vs Riekard match?](https://www.reddit.com/r/armwrestling/comments/1tzm3u8/what_was_up_with_reffing_in_alizhan_vs_riekard/) — Reddit Armwrestling (Top) · 2026-06-07
-  - I do think Riekard would have won but what were those first two rounds? Here is second round setup 1 frame after the "Go" submitted by /u/dual_kami [link] [comments]
-- [How was Devon able to beat Andrey Psuhkar in 2012?](https://www.reddit.com/r/armwrestling/comments/1tzlvyf/how_was_devon_able_to_beat_andrey_psuhkar_in_2012/) — Reddit Armwrestling (Top) · 2026-06-07
-  - From Devons long and Strenuous Career one result that really stands out is Devon win over Andrey Pushkar in 2012.Pushkar was an absolute powerhouse and went on to become one of the most dominant super-heavyweights in the sport. Looking back…
 - [EVW 24: Jerry Cadorette post match interview](https://www.youtube.com/watch?v=_ZzzKB7eRH8) — East vs West Armwrestling · 2026-06-07
   - Official EVW website: https://evwsports.com/
 - [EVW 24: Kody Merritt post match interview](https://www.youtube.com/watch?v=V-zV33Rafwc) — East vs West Armwrestling · 2026-06-07
@@ -42,12 +34,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - Official EVW website: https://evwsports.com/
 - [EVW 24: Ryan Belanger post match interview](https://www.youtube.com/watch?v=2NWWsAbXdEU) — East vs West Armwrestling · 2026-06-07
   - Official EVW website: https://evwsports.com/
-- [Devon vs Morozov is a TERRIBLE idea right now](https://www.reddit.com/r/armwrestling/comments/1tzhxsa/devon_vs_morozov_is_a_terrible_idea_right_now/) — Reddit Armwrestling (Top) · 2026-06-07
-  - I do not want this match at all right now. These two guys look unbelievable right now and Levan needs matches. Pitting them against each other would only ruin the hype for the loser. They should both be Levan's next two matches, and then th…
-- [What should EvW do with Kody and Jerry?](https://www.reddit.com/r/armwrestling/comments/1tzbqk1/what_should_evw_do_with_kody_and_jerry/) — Reddit Armwrestling (Top) · 2026-06-07
-  - I'm not saying they should be banned or anything like that, but also the last thing Baxter should do is let it slide like nothing ever happened. And also us as fans, if we let it go as something acceptable "oh c'mon it was just one round wh…
-- [About Ermes situation](https://www.reddit.com/r/armwrestling/comments/1tzbdb5/about_ermes_situation/) — Reddit Armwrestling (Top) · 2026-06-07
-  - Ermes knew the game and he should have mentioned the elbow problem before the match (something like: I had an elbow issue, but it seems solved and i'm ready). He was the heavy favourite, so that wouldn't have discouraged viewers. Of course,…
 - ['It's going to snap'... Bogdan Stoica battled through incredible adversity to defeat Todd Hutchings at East vs West Armwrestling 24 - SPORF](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaXJFRzVYWVYyVjJVZ2JLaE5GUzFCaUtSa1c4N0FNLVZ2anBEX1JJN0dSNGQ0NWxTcnRaakZiT2QxQm5Fc0NvUE9qaWY2NG0wSTYwX3lDZVQweURnRmc5RHpvNVoxV3h3dUkwN0QxSXd2RUpnYjluTTRNNlBGT3VjVWl4bGFrRVp6SDlrR0FheDEybVpvUVB3bGVCLWVLU3NpN3A5anJNVEYzdi0yQ3ZVRnVyeVdfMGdPc2duVVYtaVdfSTZqREN5cUhnREs1NmF0Y1hzdlVlbVk1Qk5NQnRQOXdn?oc=5) — Google News Armwrestling EN · 2026-06-07
   - 'It's going to snap'... Bogdan Stoica battled through incredible adversity to defeat Todd Hutchings at East vs West Armwrestling 24 SPORF
 - [East vs West 24,  Freaking Amazing!](https://www.youtube.com/watch?v=OCV-s8f9ut8) — Monster Michael Todd · 2026-06-07
@@ -66,6 +52,8 @@ Join this channel to get access to perks:https://www.youtube.com/channel/UCarJKB
 Joining me is Lars Rørbakken as we go match by match, discuss the biggest storylines, and give our predictions for every supermatch at East vs West 24.
 
 Who w…
+- [Two Ukrainian para-armwrestlers fined 250 euros each for walking off a Budapest podium during Russia's anthem — one competed as his father served at the front - Euromaidan Press](https://news.google.com/rss/articles/CBMioAJBVV95cUxPWEZ1aEQtb1AxeTQxWlFnc0NXc3BMMW9kbEg4WGhqZ2hVb0ZBWE1zVnhHR0FqVnppMlljbTJDOHQ1QmNZQU5TSGoxSE5tbDR6dGUzdUtsM21XM3ZlUDNOTnlxemlEcEswckdiMjRza3lEOXZTaHo2VXU0MXBYMWhfbGZhUmE2NFVTRFRPSWRzeHhQZUozbHVlUVNyVmFuOEVuRExQSmVfZE51bms3eDg3WUFqb0xyX0NxYmdvdnlyYVNvRTVyMmpkVENCb0R3bTRMTTFMdXplT2k5UEp6blJWaTBKTGt0NkVaS21aQ0l2Z21hSjh1WmRidjE1UFVKMTZlRlNqbFpfSEZfMkZxalM3MkQ4aDN2SjMyRWlubVdNY0E?oc=5) — Google News Armwrestling EN · 2026-06-05
+  - Two Ukrainian para-armwrestlers fined 250 euros each for walking off a Budapest podium during Russia's anthem — one competed as his father served at the front Euromaidan Press
 - [East vs West 24 MEGATHREAD](https://www.reddit.com/r/armwrestling/comments/1tx947q/east_vs_west_24_megathread/) — Reddit Armwrestling (Hot) · 2026-06-05
   - This is the official megathread. All comments are set to display by newest . While the event is happening, make sure to keep the megathread open and constantly refreshed to view and and participate in live discussion from the reddit communi…
 - [On the way to evw 24](https://www.youtube.com/watch?v=1Au9A7H7hjY) — Devon Larratt · 2026-06-04
@@ -78,13 +66,13 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
+- [World class arm wrestling event - KARK](https://news.google.com/rss/articles/CBMid0FVX3lxTFBsSjM4cWlNZ0VJZHlHeTNqTXBWNllZQVY0TktpVEpqSGZVSTJlV2N0bVB6NTJ6UFNHOGtuV0lHLVBiQ2swR0c1Q2sycW9PNFBsVGNUT3FBU3JmdlJaN2NhXzV5RXFSVlYtTGRkaW1DNkhUd3N2bmFN?oc=5) — Google News Armwrestling EN · 2026-06-01
+  - World class arm wrestling event KARK
 - [2026 Asian Armwrestling & Para-Armwrestling Championships](https://www.waf-armwrestling.com/2026-asian-armwrestling-para-armwrestling-championships/) — WAF News · 2026-06-01
   - Issyk-Kul, Kyrgyzstan 24th Asian Armwrestling Championship & 23rd Asian Para-Armwrestling Championship The Asian Armwrestling Federation (AAF) and the Kyrgyzstan National Federation of Armwrestling (KNFA) are pleased to announce that the 24…
 
 ## 🌟 Athlètes & Interviews
 
-- [JOHN BRZENK V DEVON LARRATT bar pulling @ evw24](https://www.reddit.com/r/armwrestling/comments/1tznhc5/john_brzenk_v_devon_larratt_bar_pulling_evw24/) — Reddit Armwrestling (Top) · 2026-06-07
-  - submitted by /u/xenocea [link] [comments]
 - [JOHN BRZENK V DEVON LARRATT  bar pulling @ evw24](https://www.youtube.com/watch?v=rsrJo86cn7k) — Devon Larratt · 2026-06-07
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -109,8 +97,6 @@ signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 - [Devon Larratt ignites Kandahar Giant legend: 'I saw an 8-foot warlord' | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUjYyM1E2MHppWk5aZW5rYWNNVTdsTi05NWZTcWlueXBoZzhUX3JLal81QWRtQTl4S0FPaDVHWExJS0U4aEdVQ3dhV0ljZW1nVHM5bmdqcG5GRDZpdjQ1T3hMaklLbVlvRkkxNDc1RkFUNHNWSXN2LS1nSWxZSEFCUXFxSzhYWmpVZFpwX0xseHZIQmt2U1V1VmFJUzBSLVhybGs0eDdZRXhCSUJsMkVHVzFVckRNSFVnb2pSQW5qa3NudTlaN0VXUWFJbHhaV055WWfSAdcBQVVfeXFMTmJmc3ViUkttMmNBRGgtMzFLSG9EVTZpZXRTZ3RaY3ZDZnA4QkxMSlVjN2sxWlNxczZQU2FtaEdUVF9uRklJVkVWcVpWbG56anZKdmZxVnAwdHB6bjYtYWU4VVByUXdRQmRqQ0s0VEVZLTQxZHdBVWpMSGp6bWRtTkZ3cWxrSGxtUGRtbHlyODM0eU10ZEVTWElVUlpCUHJjeUZidGNYQ1V5V0tJSUVHei13dUhMWnpLdWFYNmRodGk4VzZTeUY2S1VRZjhBeC1BRG9iRGZvSVU?oc=5) — Google News Devon Larratt · 2026-06-06
   - Devon Larratt ignites Kandahar Giant legend: 'I saw an 8-foot warlord' | Hindustan Times Hindustan Times
-- [Devon Larratt ignites Kandahar Giant legend: 'I saw an 8-foot warlord' | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZzdWJSS20yY0FEaC0zMUtIb0RVNmlldFNndFpjdkNmcDhCTExKVWM3azFaU3FzNlBTYW1oR1RUX25GSUlWRVZxWlZsbnpqdkp2ZnFWcDB0cHpuNi1hZThVUHJRd1FCZGpDSzRURVktNDFkd0FVakxIanptZG1ORndxbGtIbG1QZG1seXI4MzR5TXRkRVNYSVVSWkJQcmN5RmJ0Y1hDVXlXS0lJRUd6LXd1SExaekt1YVg2ZGh0aThXNlN5RjZLVVFmOEF4LUFEb2JEZm9JVdIB1wFBVV95cUxOYmZzdWJSS20yY0FEaC0zMUtIb0RVNmlldFNndFpjdkNmcDhCTExKVWM3azFaU3FzNlBTYW1oR1RUX25GSUlWRVZxWlZsbnpqdkp2ZnFWcDB0cHpuNi1hZThVUHJRd1FCZGpDSzRURVktNDFkd0FVakxIanptZG1ORndxbGtIbG1QZG1seXI4MzR5TXRkRVNYSVVSWkJQcmN5RmJ0Y1hDVXlXS0lJRUd6LXd1SExaekt1YVg2ZGh0aThXNlN5RjZLVVFmOEF4LUFEb2JEZm9JVQ?oc=5) — Google News Devon Larratt · 2026-06-06
-  - Devon Larratt ignites Kandahar Giant legend: 'I saw an 8-foot warlord' | Hindustan Times Hindustan Times
 - ['It was shocking to see Sylvester Stallone'... John Brzenk reveals the truth behind Over the Top - SPORF](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUFJNWczN0dMVDlCcVpCU0h6cEc0UTRkQ19EcFVRMGc1dEFqd1c4dmdSSWtfQnZYaHFWMzBpSTI3TjdXdEZ2WFVWX2lmTEtkRzN5dmF5VWFOWDNaTVljaVdwZXQwbGJhSHEzc0hGZlQ2T0tfbTZmeFpEdkNNRVgwcDhrV2lDVzRNeWdlaWFNZ240ZTIzWDNqcnM4dGVpVXo4RVRDZ1VjZmNheF9aVU5tYUFzMG4?oc=5) — Google News Devon Larratt · 2026-06-06
   - 'It was shocking to see Sylvester Stallone'... John Brzenk reveals the truth behind Over the Top SPORF
 - ['Levan Saginashvili is the target'... Devon Larratt gives update on his East vs West armwrestling return - SPORF](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0tCb2xqZEJjWUNja1dEREtZYWhUT2JlYWlxSHBwY1BtNzJoZEdYWks5TFRES2JXU3JCQ3RjaTliV0VtN3I2UFJkQlFubTJiZ1VwdkR6LWlYbVZEeEJpZHM1UWFIR1UxLXlsTmpLUXhRUThuZVlIMjZ6Wjhka1ByYWQ5aGhFdktfWHF6Y2M5QV9NNDA2RjRKVGQ4T3lwWkNjalgtY2xfc1hHR3B6bWNLWjlSdWJ4VkJEd2ZaZWVsYw?oc=5) — Google News Devon Larratt · 2026-06-06
@@ -133,10 +119,6 @@ Join this chan…
 
 ## 💪 Entraînement & Technique
 
-- [Morozov's Wrist 8 months Ago](https://www.reddit.com/r/armwrestling/comments/1tznzws/morozovs_wrist_8_months_ago/) — Reddit Armwrestling (Top) · 2026-06-07
-  - submitted by /u/Apprehensive-Arm1060 [link] [comments]
-- [Auden Larratt talks about why he lost to Jeremy Parker "Not strong enough"](https://www.reddit.com/r/armwrestling/comments/1tznrkp/auden_larratt_talks_about_why_he_lost_to_jeremy/) — Reddit Armwrestling (Top) · 2026-06-07
-  - He says that he felt comfortable with his hand and wrist during the match, but the lack of bicep power was what did him in. He continues and says he plans to do more bicep training in the future, and in the comments below the video, James E…
 - [EVW 24 REVIEW (SPOILERS*)](https://www.youtube.com/watch?v=DnCOGGHGgdU) — Voice of Armwrestling · 2026-06-07
   - 👕T-SHIRTS & TRAINING PLANS https://voaarmwrestling.com/ 
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
@@ -185,10 +167,3 @@ Vitacell Biologics Stem Cells: https://reb…
 
 - [‘I call out Jon Jones’… Gordon Ryan challenges ‘Bones’ to face him in a thrilling sport - SPORF](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGZTZWRBTE5MX2J4Umk0RVNSX0dXVzlVQ0h5R2ZJc3JQTWZKd0ppN0JxWmp2eVJKTFhQVFB4NDh5V2lnc1lwNUNzMmh5bTl4dHZPVEoydUNKX0t5T0NMdm5LRGRjSktVc1dkNjVfazlhZFp0ZjlhNzVaaEdrbU9Qa3UxM0pBWnViV0c1a2tjdUJFRWJDWTZqdXNYb3A1LTJXbHBzenA0VGo?oc=5) — Google News Devon Larratt · 2026-06-06
   - ‘I call out Jon Jones’… Gordon Ryan challenges ‘Bones’ to face him in a thrilling sport SPORF
-
-## 📰 Actualités & Annonces
-
-- [Menace judiciaire de Manchester City: Valorisé à 227 millions d’euros, Haaland au cœur d’un bras de fer | blue News - blue News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQTRsTDQwVTVGZ05VNWRsaU1SVFhVdVRPOHNCWkhSRVNXV1NqV2tncUJtT0FkdlVpcEt0SDZHYkJWT1RuZVhBRUVLbFdRQkNoRTB1ZFlvejNvWEw4NTZlWXRoaWFxc3B2X2dVWjVTQWFpbmpGaUdINmhKNVpaV2FVT3FibEtQZ042X0FabW80eFhOdlJkazhYZFF4TGxnM01fT1hzRFdVWVY5MktGc3JWdzBDWEs1X3pDZi00Q2NHTDk?oc=5) — Google News Armwrestling FR · 2026-06-04
-  - Menace judiciaire de Manchester City: Valorisé à 227 millions d’euros, Haaland au cœur d’un bras de fer | blue News blue News
-- [Après Madrid, Kostyuk retrouve Andreeva pour un nouveau bras de fer - blue News](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSnNTVEhFMi1DYTJKTUJrU0M0T3VPWnM3eGE2NEFsWDVtSklkeHd3SEI4NmxaRGM2SF9JR2hQaXc3REpSVGpFVDYzR2dfLUo5V012YUVHQUpqTWRETW9EUjBDWjEzZkJfUm5GVmtHQnI2V0lNNVlCSmJadnR6dkV2bFJub1hUbXlOUTBMRA?oc=5) — Google News Armwrestling FR · 2026-06-04
-  - Après Madrid, Kostyuk retrouve Andreeva pour un nouveau bras de fer blue News

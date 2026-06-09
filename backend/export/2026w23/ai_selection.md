@@ -8,14 +8,11 @@
 - [JOHN BRZENK V DEVON LARRATT  bar pulling @ evw24](https://www.youtube.com/watch?v=rsrJo86cn7k) — Devon Larratt · 2026-06-07 · **63/100**
 - [GORDON RYAN VS JOHN BRZENK](https://www.youtube.com/watch?v=JNTXUqs_xFw) — Devon Larratt · 2026-06-07 · **63/100**
 - [Bogdan Stoica Options vs Todd Hutchings](https://www.youtube.com/watch?v=CTCdInTCOgE) — Voice of Armwrestling · 2026-06-02 · **63/100**
+- [The Biggest Bodybuilder You Never Heard of](https://www.youtube.com/watch?v=Z5cev5i-BZE) — Larry Wheels · 2026-06-01 · **60/100**
 
 ## competitions
 
 - [2026 Asian Armwrestling & Para-Armwrestling Championships](https://www.waf-armwrestling.com/2026-asian-armwrestling-para-armwrestling-championships/) — WAF News · 2026-06-01 · **65/100**
-
-## france
-
-- [Après Madrid, Kostyuk retrouve Andreeva pour un nouveau bras de fer - blue News](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSnNTVEhFMi1DYTJKTUJrU0M0T3VPWnM3eGE2NEFsWDVtSklkeHd3SEI4NmxaRGM2SF9JR2hQaXc3REpSVGpFVDYzR2dfLUo5V012YUVHQUpqTWRETW9EUjBDWjEzZkJfUm5GVmtHQnI2V0lNNVlCSmJadnR6dkV2bFJub1hUbXlOUTBMRA?oc=5) — Google News Armwrestling FR · 2026-06-04 · **51/100**
 
 ## training
 
