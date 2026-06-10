@@ -46,14 +46,14 @@ Join this channel to get access to perks:https://www.youtube.com/channel/UCarJKB
   - Auden Larratt opens up about whether he can replicate his dad's achievements ahead of East vs West Armwrestling 24 SPORF
 - ['I fired machine guns with The Undertaker out of a helicopter'... Michael Todd relives crazy moment ahead of East vs West Armwrestling 24 - SPORF](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWEMxSTdPaU9wMDMya2xNMFNXOWxTb1FhNVMyQkp6WjhsQmJDaUtEM0R1WjBXdVBDV01vdmZoZWlaNzhyS3FrVkN5NTlrUjVYQ1lfS2xUVlNtWW9wdVAtVVRsU2ZzZlYwOGNHLWRkaWg3eTRSc3hVU3FEbWIwNEZKMThINnNoZlk5SmdISDJUdWdsOGZrcjRMNWFKNkRERlNMaXdUdUc1alNOYTJfY21IdlJiRy1xRzYyaVp5bUhBNldPeWF3QzdXQlNvTnF6Z2h2blZNbDRfUTA2aUtDZ1NsZW9sZm9HdGNPdnRj?oc=5) — Google News Devon Larratt · 2026-06-06
   - 'I fired machine guns with The Undertaker out of a helicopter'... Michael Todd relives crazy moment ahead of East vs West Armwrestling 24 SPORF
+- [Le bras de fer possède également un championnat national. - Vietnam.vn](https://news.google.com/rss/articles/CBMickFVX3lxTFBmZUxVaVlZY3lhRWptV3hVZ0dhTWZsMm1fQ29YRkZHZkVieGxkODMzZ0RjblkxWUNOQ0dQd2FSdlVHdFExSHBTYWd5aXhpV2Zva3VhLTdpYlNjM0ZjZG5jQ25Kd2NWWXJpc1cwUEZBWkdUQQ?oc=5) — Google News Armwrestling FR · 2026-06-06
+  - Le bras de fer possède également un championnat national. Vietnam.vn
 - [EAST vs WEST 24 Predictions LIVE | Michael Todd & Lars Rørbakken](https://www.youtube.com/watch?v=2sXnFc3lMgQ) — Monster Michael Todd · 2026-06-05
   - East vs West 24 is almost here, and tonight we're breaking down the entire card.
 
 Joining me is Lars Rørbakken as we go match by match, discuss the biggest storylines, and give our predictions for every supermatch at East vs West 24.
 
 Who w…
-- [Two Ukrainian para-armwrestlers fined 250 euros each for walking off a Budapest podium during Russia's anthem — one competed as his father served at the front - Euromaidan Press](https://news.google.com/rss/articles/CBMioAJBVV95cUxPWEZ1aEQtb1AxeTQxWlFnc0NXc3BMMW9kbEg4WGhqZ2hVb0ZBWE1zVnhHR0FqVnppMlljbTJDOHQ1QmNZQU5TSGoxSE5tbDR6dGUzdUtsM21XM3ZlUDNOTnlxemlEcEswckdiMjRza3lEOXZTaHo2VXU0MXBYMWhfbGZhUmE2NFVTRFRPSWRzeHhQZUozbHVlUVNyVmFuOEVuRExQSmVfZE51bms3eDg3WUFqb0xyX0NxYmdvdnlyYVNvRTVyMmpkVENCb0R3bTRMTTFMdXplT2k5UEp6blJWaTBKTGt0NkVaS21aQ0l2Z21hSjh1WmRidjE1UFVKMTZlRlNqbFpfSEZfMkZxalM3MkQ4aDN2SjMyRWlubVdNY0E?oc=5) — Google News Armwrestling EN · 2026-06-05
-  - Two Ukrainian para-armwrestlers fined 250 euros each for walking off a Budapest podium during Russia's anthem — one competed as his father served at the front Euromaidan Press
 - [East vs West 24 MEGATHREAD](https://www.reddit.com/r/armwrestling/comments/1tx947q/east_vs_west_24_megathread/) — Reddit Armwrestling (Hot) · 2026-06-05
   - This is the official megathread. All comments are set to display by newest . While the event is happening, make sure to keep the megathread open and constantly refreshed to view and and participate in live discussion from the reddit communi…
 - [On the way to evw 24](https://www.youtube.com/watch?v=1Au9A7H7hjY) — Devon Larratt · 2026-06-04
@@ -66,8 +66,6 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [World class arm wrestling event - KARK](https://news.google.com/rss/articles/CBMid0FVX3lxTFBsSjM4cWlNZ0VJZHlHeTNqTXBWNllZQVY0TktpVEpqSGZVSTJlV2N0bVB6NTJ6UFNHOGtuV0lHLVBiQ2swR0c1Q2sycW9PNFBsVGNUT3FBU3JmdlJaN2NhXzV5RXFSVlYtTGRkaW1DNkhUd3N2bmFN?oc=5) — Google News Armwrestling EN · 2026-06-01
-  - World class arm wrestling event KARK
 - [2026 Asian Armwrestling & Para-Armwrestling Championships](https://www.waf-armwrestling.com/2026-asian-armwrestling-para-armwrestling-championships/) — WAF News · 2026-06-01
   - Issyk-Kul, Kyrgyzstan 24th Asian Armwrestling Championship & 23rd Asian Para-Armwrestling Championship The Asian Armwrestling Federation (AAF) and the Kyrgyzstan National Federation of Armwrestling (KNFA) are pleased to announce that the 24…
 
@@ -124,10 +122,8 @@ Join this chan…
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
-- [Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout - Yahoo Sports](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXA2R20tdENPTktjQlczdkdGdnZVYml1el9QSjlMOU91ak9ZZTByaGNIX3FmN1NtX0RuQWhtYm9fQndjMV9PTTg4NG10S1NMc203MHFYbTh1X0FBclA2LXhtTnFzbk8tVHdlV0lXX2ZSaGM1aC1Sb0twcjQ1WlpNTVFUYW50aFU?oc=5) — Google News Devon Larratt · 2026-06-06
+- [Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout - Yahoo Sports](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXA2R20tdENPTktjQlczdkdGdnZVYml1el9QSjlMOU91ak9ZZTByaGNIX3FmN1NtX0RuQWhtYm9fQndjMV9PTTg4NG10S1NMc203MHFYbTh1X0FBclA2LXhtTnFzbk8tVHdlV0lXX2ZSaGM1aC1Sb0twcjQ1WlpNTVFUYW50aFU?oc=5) — Google News Arm Wrestling · 2026-06-06
   - Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout Yahoo Sports
-- [Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout - MMA Mania](https://news.google.com/rss/articles/CBMigAJBVV95cUxQU1o2M0R6M0doTXRtaW1vTi1TQlNGYmg0OTFQMFlOc2lOalZiNk85RGplaVU5ZEltWi1ma1BSQzFzWkQ0T3FVcFNkdUdaTGRjWXlwQXVtZzY3WnhSRVdMZXdjdkpKWDBfVWs4RVpVT2ZKTXI1RkUwT3lMN09oaXl4VUt1eGVib2VfblVCcUtibmFqUEJHcVUtZDI2SGRCWXNYNlI5a2VjSUdmVDFod09hTGJGQ29kN3dyamZRamh2R2o0aVMwa3JkdURhaThuMXFPYkFvRElYSzBEX2k1SEJtNzZRVlNJZGxmNTRvdDZnR0hLdWtKd2kwZHN0MGpwRHZO?oc=5) — Google News Armwrestling EN · 2026-06-06
-  - Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout MMA Mania
 - [Oleg Needs Something New vs Michael Todd](https://www.youtube.com/watch?v=q7B34ZUnxmM) — Voice of Armwrestling · 2026-06-03
   - Get EVW 24 Extended Pass + Arizona State
 live.evwsports.com
@@ -167,3 +163,8 @@ Vitacell Biologics Stem Cells: https://reb…
 
 - [‘I call out Jon Jones’… Gordon Ryan challenges ‘Bones’ to face him in a thrilling sport - SPORF](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGZTZWRBTE5MX2J4Umk0RVNSX0dXVzlVQ0h5R2ZJc3JQTWZKd0ppN0JxWmp2eVJKTFhQVFB4NDh5V2lnc1lwNUNzMmh5bTl4dHZPVEoydUNKX0t5T0NMdm5LRGRjSktVc1dkNjVfazlhZFp0ZjlhNzVaaEdrbU9Qa3UxM0pBWnViV0c1a2tjdUJFRWJDWTZqdXNYb3A1LTJXbHBzenA0VGo?oc=5) — Google News Devon Larratt · 2026-06-06
   - ‘I call out Jon Jones’… Gordon Ryan challenges ‘Bones’ to face him in a thrilling sport SPORF
+
+## 📰 Actualités & Annonces
+
+- [Menace judiciaire de Manchester City: Valorisé à 227 millions d’euros, Haaland au cœur d’un bras de fer | blue News - blue News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQTRsTDQwVTVGZ05VNWRsaU1SVFhVdVRPOHNCWkhSRVNXV1NqV2tncUJtT0FkdlVpcEt0SDZHYkJWT1RuZVhBRUVLbFdRQkNoRTB1ZFlvejNvWEw4NTZlWXRoaWFxc3B2X2dVWjVTQWFpbmpGaUdINmhKNVpaV2FVT3FibEtQZ042X0FabW80eFhOdlJkazhYZFF4TGxnM01fT1hzRFdVWVY5MktGc3JWdzBDWEs1X3pDZi00Q2NHTDk?oc=5) — Google News Armwrestling FR · 2026-06-04
+  - Menace judiciaire de Manchester City: Valorisé à 227 millions d’euros, Haaland au cœur d’un bras de fer | blue News blue News

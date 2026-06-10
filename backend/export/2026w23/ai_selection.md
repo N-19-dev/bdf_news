@@ -14,9 +14,9 @@
 
 - [2026 Asian Armwrestling & Para-Armwrestling Championships](https://www.waf-armwrestling.com/2026-asian-armwrestling-para-armwrestling-championships/) — WAF News · 2026-06-01 · **65/100**
 
-## training
+## france
 
-- [Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout - MMA Mania](https://news.google.com/rss/articles/CBMigAJBVV95cUxQU1o2M0R6M0doTXRtaW1vTi1TQlNGYmg0OTFQMFlOc2lOalZiNk85RGplaVU5ZEltWi1ma1BSQzFzWkQ0T3FVcFNkdUdaTGRjWXlwQXVtZzY3WnhSRVdMZXdjdkpKWDBfVWs4RVpVT2ZKTXI1RkUwT3lMN09oaXl4VUt1eGVib2VfblVCcUtibmFqUEJHcVUtZDI2SGRCWXNYNlI5a2VjSUdmVDFod09hTGJGQ29kN3dyamZRamh2R2o0aVMwa3JkdURhaThuMXFPYkFvRElYSzBEX2k1SEJtNzZRVlNJZGxmNTRvdDZnR0hLdWtKd2kwZHN0MGpwRHZO?oc=5) — Google News Armwrestling EN · 2026-06-06 · **57/100**
+- [Le bras de fer possède également un championnat national. - Vietnam.vn](https://news.google.com/rss/articles/CBMickFVX3lxTFBmZUxVaVlZY3lhRWptV3hVZ0dhTWZsMm1fQ29YRkZHZkVieGxkODMzZ0RjblkxWUNOQ0dQd2FSdlVHdFExSHBTYWd5aXhpV2Zva3VhLTdpYlNjM0ZjZG5jQ25Kd2NWWXJpc1cwUEZBWkdUQQ?oc=5) — Google News Armwrestling FR · 2026-06-06 · **53/100**
 
 ## youtube_media
 
