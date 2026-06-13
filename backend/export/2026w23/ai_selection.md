@@ -8,7 +8,7 @@
 - [JOHN BRZENK V DEVON LARRATT  bar pulling @ evw24](https://www.youtube.com/watch?v=rsrJo86cn7k) — Devon Larratt · 2026-06-07 · **63/100**
 - [GORDON RYAN VS JOHN BRZENK](https://www.youtube.com/watch?v=JNTXUqs_xFw) — Devon Larratt · 2026-06-07 · **63/100**
 - [Bogdan Stoica Options vs Todd Hutchings](https://www.youtube.com/watch?v=CTCdInTCOgE) — Voice of Armwrestling · 2026-06-02 · **63/100**
-- [The Biggest Bodybuilder You Never Heard of](https://www.youtube.com/watch?v=Z5cev5i-BZE) — Larry Wheels · 2026-06-01 · **60/100**
+- [My Short List… Who Won’t Back Down?](https://www.youtube.com/watch?v=1L9ZDdfFJks) — Monster Michael Todd · 2026-06-04 · **60/100**
 
 ## competitions
 
@@ -18,8 +18,11 @@
 
 - [Le bras de fer possède également un championnat national. - Vietnam.vn](https://news.google.com/rss/articles/CBMickFVX3lxTFBmZUxVaVlZY3lhRWptV3hVZ0dhTWZsMm1fQ29YRkZHZkVieGxkODMzZ0RjblkxWUNOQ0dQd2FSdlVHdFExSHBTYWd5aXhpV2Zva3VhLTdpYlNjM0ZjZG5jQ25Kd2NWWXJpc1cwUEZBWkdUQQ?oc=5) — Google News Armwrestling FR · 2026-06-06 · **53/100**
 
+## training
+
+- [Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout - Yahoo Sports](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXA2R20tdENPTktjQlczdkdGdnZVYml1el9QSjlMOU91ak9ZZTByaGNIX3FmN1NtX0RuQWhtYm9fQndjMV9PTTg4NG10S1NMc203MHFYbTh1X0FBclA2LXhtTnFzbk8tVHdlV0lXX2ZSaGM1aC1Sb0twcjQ1WlpNTVFUYW50aFU?oc=5) — Google News Arm Wrestling · 2026-06-06 · **58/100**
+
 ## youtube_media
 
 - [Oleg Needs Something New vs Michael Todd](https://www.youtube.com/watch?v=q7B34ZUnxmM) — Voice of Armwrestling · 2026-06-03 · **63/100**
 - [EVW 24 REVIEW (SPOILERS*)](https://www.youtube.com/watch?v=DnCOGGHGgdU) — Voice of Armwrestling · 2026-06-07 · **63/100**
-- [EAST vs WEST 24 Predictions LIVE | Michael Todd & Lars Rørbakken](https://www.youtube.com/watch?v=2sXnFc3lMgQ) — Monster Michael Todd · 2026-06-05 · **60/100**

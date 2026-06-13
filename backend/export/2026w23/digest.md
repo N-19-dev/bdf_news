@@ -28,24 +28,14 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - Official EVW website: https://evwsports.com/
 - [EVW 24: Tobias Sporrong post match interview](https://www.youtube.com/watch?v=d3Fboqc_2Dg) — East vs West Armwrestling · 2026-06-07
   - Official EVW website: https://evwsports.com/
-- [EVW 24: Riekerd Bornman post match interview](https://www.youtube.com/watch?v=jBz6wYt1M9I) — East vs West Armwrestling · 2026-06-07
-  - Official EVW website: https://evwsports.com/
-- [EVW 24: Tom Holland post match interview](https://www.youtube.com/watch?v=PbiwqKfGlu4) — East vs West Armwrestling · 2026-06-07
-  - Official EVW website: https://evwsports.com/
-- [EVW 24: Ryan Belanger post match interview](https://www.youtube.com/watch?v=2NWWsAbXdEU) — East vs West Armwrestling · 2026-06-07
-  - Official EVW website: https://evwsports.com/
 - ['It's going to snap'... Bogdan Stoica battled through incredible adversity to defeat Todd Hutchings at East vs West Armwrestling 24 - SPORF](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaXJFRzVYWVYyVjJVZ2JLaE5GUzFCaUtSa1c4N0FNLVZ2anBEX1JJN0dSNGQ0NWxTcnRaakZiT2QxQm5Fc0NvUE9qaWY2NG0wSTYwX3lDZVQweURnRmc5RHpvNVoxV3h3dUkwN0QxSXd2RUpnYjluTTRNNlBGT3VjVWl4bGFrRVp6SDlrR0FheDEybVpvUVB3bGVCLWVLU3NpN3A5anJNVEYzdi0yQ3ZVRnVyeVdfMGdPc2duVVYtaVdfSTZqREN5cUhnREs1NmF0Y1hzdlVlbVk1Qk5NQnRQOXdn?oc=5) — Google News Armwrestling EN · 2026-06-07
   - 'It's going to snap'... Bogdan Stoica battled through incredible adversity to defeat Todd Hutchings at East vs West Armwrestling 24 SPORF
 - [East vs West 24,  Freaking Amazing!](https://www.youtube.com/watch?v=OCV-s8f9ut8) — Monster Michael Todd · 2026-06-07
   - michael and rebecca todd talk about evw 24 and the amazing night of armwrestling
 Join this channel to get access to perks:https://www.youtube.com/channel/UCarJKBV9GEpXRHrw4bEEhHA/join
 👕https://www.ninelineapparel.com/discount/MONSTER20 for …
-- ['John Brzenk's wife saved my life'... Todd Hutchings tells wild story ahead of East vs West Armwrestling 24 - SPORF](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbm9YSnYwcU1VZlJLdHRGeWJtTERxYU9OWDA3azlKZXdzVzJKMDZ1blhmRGEtZTJSZmhQYzkxMjJ6YTY4b21XYXNpS0QyWkRZOW5VNEw1eUhQd1Vjd1NteUNvVkdCejZHanNDT2RDRzlpR0hZTnJicTNHeWZoNkZoc0o2R2poTnd5Ri1YY3NlWFdDNEFRSjllQTg0anhERXN3Nm5VTnhvOTNxSlFZSWxtczd6ZUYtbGRyZzBrV1RWVVhydw?oc=5) — Google News Armwrestling EN · 2026-06-06
-  - 'John Brzenk's wife saved my life'... Todd Hutchings tells wild story ahead of East vs West Armwrestling 24 SPORF
-- [Auden Larratt opens up about whether he can replicate his dad's achievements ahead of East vs West Armwrestling 24 - SPORF](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFQ4VWdFdEtJTlktSDRueExteHoycXlGV3lsTHBIYXZuSzFBRjdLNDhvdlRTM2xWRUlsb0F2X3U0bGJKTHU3WUtKYzh6ekxwWXVwTVMyQmVWSmVBejd1aVM4Z25LWDluUFNLdkVUM2NReDRWNDB3bzB1WWNPdzY4S0h1T08xaGhZWUVMZXBaQUtjOWwtVjVCV3ZfLWprWGRMREt6Mk1lX3drX3FtWW1SUGVvVVJlRHZZWGFYalNibS1UOExlRFNfdGtSR2ltbEYzRnc?oc=5) — Google News Devon Larratt · 2026-06-06
+- [Auden Larratt opens up about whether he can replicate his dad's achievements ahead of East vs West Armwrestling 24 - SPORF](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUFQ4VWdFdEtJTlktSDRueExteHoycXlGV3lsTHBIYXZuSzFBRjdLNDhvdlRTM2xWRUlsb0F2X3U0bGJKTHU3WUtKYzh6ekxwWXVwTVMyQmVWSmVBejd1aVM4Z25LWDluUFNLdkVUM2NReDRWNDB3bzB1WWNPdzY4S0h1T08xaGhZWUVMZXBaQUtjOWwtVjVCV3ZfLWprWGRMREt6Mk1lX3drX3FtWW1SUGVvVVJlRHZZWGFYalNibS1UOExlRFNfdGtSR2ltbEYzRnc?oc=5) — Google News Armwrestling EN · 2026-06-06
   - Auden Larratt opens up about whether he can replicate his dad's achievements ahead of East vs West Armwrestling 24 SPORF
-- ['I fired machine guns with The Undertaker out of a helicopter'... Michael Todd relives crazy moment ahead of East vs West Armwrestling 24 - SPORF](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWEMxSTdPaU9wMDMya2xNMFNXOWxTb1FhNVMyQkp6WjhsQmJDaUtEM0R1WjBXdVBDV01vdmZoZWlaNzhyS3FrVkN5NTlrUjVYQ1lfS2xUVlNtWW9wdVAtVVRsU2ZzZlYwOGNHLWRkaWg3eTRSc3hVU3FEbWIwNEZKMThINnNoZlk5SmdISDJUdWdsOGZrcjRMNWFKNkRERlNMaXdUdUc1alNOYTJfY21IdlJiRy1xRzYyaVp5bUhBNldPeWF3QzdXQlNvTnF6Z2h2blZNbDRfUTA2aUtDZ1NsZW9sZm9HdGNPdnRj?oc=5) — Google News Devon Larratt · 2026-06-06
-  - 'I fired machine guns with The Undertaker out of a helicopter'... Michael Todd relives crazy moment ahead of East vs West Armwrestling 24 SPORF
 - [Le bras de fer possède également un championnat national. - Vietnam.vn](https://news.google.com/rss/articles/CBMickFVX3lxTFBmZUxVaVlZY3lhRWptV3hVZ0dhTWZsMm1fQ29YRkZHZkVieGxkODMzZ0RjblkxWUNOQ0dQd2FSdlVHdFExSHBTYWd5aXhpV2Zva3VhLTdpYlNjM0ZjZG5jQ25Kd2NWWXJpc1cwUEZBWkdUQQ?oc=5) — Google News Armwrestling FR · 2026-06-06
   - Le bras de fer possède également un championnat national. Vietnam.vn
 - [EAST vs WEST 24 Predictions LIVE | Michael Todd & Lars Rørbakken](https://www.youtube.com/watch?v=2sXnFc3lMgQ) — Monster Michael Todd · 2026-06-05
@@ -64,6 +54,9 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
+- [My Short List… Who Won’t Back Down?](https://www.youtube.com/watch?v=1L9ZDdfFJks) — Monster Michael Todd · 2026-06-04
+  - Back home in the Monster Factory and it’s time to unpack everything that happened at East vs West 24.
+Rebecca and I will be going through the biggest armwrestling matches of the event, the surprises, the stories, and answering the question …
 - [2026 Asian Armwrestling & Para-Armwrestling Championships](https://www.waf-armwrestling.com/2026-asian-armwrestling-para-armwrestling-championships/) — WAF News · 2026-06-01
   - Issyk-Kul, Kyrgyzstan 24th Asian Armwrestling Championship & 23rd Asian Para-Armwrestling Championship The Asian Armwrestling Federation (AAF) and the Kyrgyzstan National Federation of Armwrestling (KNFA) are pleased to announce that the 24…
 
@@ -95,7 +88,7 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - Devon Larratt ignites Kandahar Giant legend: 'I saw an 8-foot warlord' | Hindustan Times Hindustan Times
 - ['It was shocking to see Sylvester Stallone'... John Brzenk reveals the truth behind Over the Top - SPORF](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUFJNWczN0dMVDlCcVpCU0h6cEc0UTRkQ19EcFVRMGc1dEFqd1c4dmdSSWtfQnZYaHFWMzBpSTI3TjdXdEZ2WFVWX2lmTEtkRzN5dmF5VWFOWDNaTVljaVdwZXQwbGJhSHEzc0hGZlQ2T0tfbTZmeFpEdkNNRVgwcDhrV2lDVzRNeWdlaWFNZ240ZTIzWDNqcnM4dGVpVXo4RVRDZ1VjZmNheF9aVU5tYUFzMG4?oc=5) — Google News Devon Larratt · 2026-06-06
   - 'It was shocking to see Sylvester Stallone'... John Brzenk reveals the truth behind Over the Top SPORF
-- ['Levan Saginashvili is the target'... Devon Larratt gives update on his East vs West armwrestling return - SPORF](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0tCb2xqZEJjWUNja1dEREtZYWhUT2JlYWlxSHBwY1BtNzJoZEdYWks5TFRES2JXU3JCQ3RjaTliV0VtN3I2UFJkQlFubTJiZ1VwdkR6LWlYbVZEeEJpZHM1UWFIR1UxLXlsTmpLUXhRUThuZVlIMjZ6Wjhka1ByYWQ5aGhFdktfWHF6Y2M5QV9NNDA2RjRKVGQ4T3lwWkNjalgtY2xfc1hHR3B6bWNLWjlSdWJ4VkJEd2ZaZWVsYw?oc=5) — Google News Devon Larratt · 2026-06-06
+- ['Levan Saginashvili is the target'... Devon Larratt gives update on his East vs West armwrestling return - SPORF](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0tCb2xqZEJjWUNja1dEREtZYWhUT2JlYWlxSHBwY1BtNzJoZEdYWks5TFRES2JXU3JCQ3RjaTliV0VtN3I2UFJkQlFubTJiZ1VwdkR6LWlYbVZEeEJpZHM1UWFIR1UxLXlsTmpLUXhRUThuZVlIMjZ6Wjhka1ByYWQ5aGhFdktfWHF6Y2M5QV9NNDA2RjRKVGQ4T3lwWkNjalgtY2xfc1hHR3B6bWNLWjlSdWJ4VkJEd2ZaZWVsYw?oc=5) — Google News Armwrestling EN · 2026-06-06
   - 'Levan Saginashvili is the target'... Devon Larratt gives update on his East vs West armwrestling return SPORF
 - [SCHOOLBOY VS 6X CHAMPION of EUROPE | ARM WRESTLING 2026](https://www.youtube.com/watch?v=CA53v1WMkFc) — ARMWRESTLING TV (Schoolboy) · 2026-06-04
   - Armwrestling Training Matches with Aleksandr SCHOOLBOY Beziazykov & Sergey Tokarev - 6x european champion in his gym in Moscow
@@ -120,6 +113,8 @@ Join this chan…
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
+- [Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout - MMA Mania](https://news.google.com/rss/articles/CBMigAJBVV95cUxQU1o2M0R6M0doTXRtaW1vTi1TQlNGYmg0OTFQMFlOc2lOalZiNk85RGplaVU5ZEltWi1ma1BSQzFzWkQ0T3FVcFNkdUdaTGRjWXlwQXVtZzY3WnhSRVdMZXdjdkpKWDBfVWs4RVpVT2ZKTXI1RkUwT3lMN09oaXl4VUt1eGVib2VfblVCcUtibmFqUEJHcVUtZDI2SGRCWXNYNlI5a2VjSUdmVDFod09hTGJGQ29kN3dyamZRamh2R2o0aVMwa3JkdURhaThuMXFPYkFvRElYSzBEX2k1SEJtNzZRVlNJZGxmNTRvdDZnR0hLdWtKd2kwZHN0MGpwRHZO?oc=5) — Google News Armwrestling EN · 2026-06-06
+  - Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout MMA Mania
 - [Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout - Yahoo Sports](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXA2R20tdENPTktjQlczdkdGdnZVYml1el9QSjlMOU91ak9ZZTByaGNIX3FmN1NtX0RuQWhtYm9fQndjMV9PTTg4NG10S1NMc203MHFYbTh1X0FBclA2LXhtTnFzbk8tVHdlV0lXX2ZSaGM1aC1Sb0twcjQ1WlpNTVFUYW50aFU?oc=5) — Google News Arm Wrestling · 2026-06-06
   - Joe Rogan Shocked After Arm Wrestling Legend Reveals 10-Hour Wrist Curl Workout Yahoo Sports
 - [Oleg Needs Something New vs Michael Todd](https://www.youtube.com/watch?v=q7B34ZUnxmM) — Voice of Armwrestling · 2026-06-03
