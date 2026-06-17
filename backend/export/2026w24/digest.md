@@ -2,33 +2,21 @@
 
 ## 🏆 Compétitions & Résultats
 
+- [SHP Arm Wrestling Classic Tournament - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXNuVWVuOWVnMkNOY25TUVo2NDlkaUZORWtZM0l2TDlGTnFqT3Z3NlB5UjJTUkRwTmJyYjE5VjdRblBGVUZScWVOczNTejJxVFlKbGdKSXg3d055?oc=5) — Google News Arm Wrestling · 2026-06-14
+  - SHP Arm Wrestling Classic Tournament YouTube
 - [EVW 24: Courtney Huycke vs Nastasia Pastorkova ROUND 1](https://www.youtube.com/shorts/AH_uiVQFc10) — East vs West Armwrestling · 2026-06-14
-- [Corey West vs Pablo Derbedyenyev | East vs West 24 Full Match](https://www.youtube.com/watch?v=-cr0TqDk32Y) — East vs West Armwrestling · 2026-06-14
+- [Corey West vs Pablo Derbedyenyev | EVW 24 Full Match](https://www.youtube.com/watch?v=-cr0TqDk32Y) — East vs West Armwrestling · 2026-06-14
   - Official EVW website: https://evwsports.com/
-- [Janis Amolins vs Craig Tullier | East vs West 24 Full Match](https://www.youtube.com/watch?v=vVmH2rRGyiQ) — East vs West Armwrestling · 2026-06-14
+- [Janis Amolins vs Craig Tullier | EVW 24 Full Match](https://www.youtube.com/watch?v=vVmH2rRGyiQ) — East vs West Armwrestling · 2026-06-14
   - Official EVW website: https://evwsports.com/
 - [EVW 24: Bob Brown 🇺🇸 vs Isaiah Jones 🇺🇸 ROUND 1](https://www.youtube.com/shorts/C5IEg4fPvdo) — East vs West Armwrestling · 2026-06-14
-- [Tom Holland vs Justin Bishop | East vs West 24 Full Match](https://www.youtube.com/watch?v=HgDEWUTMruE) — East vs West Armwrestling · 2026-06-14
+- [Tom Holland vs Justin Bishop | EVW 24 Full Match](https://www.youtube.com/watch?v=HgDEWUTMruE) — East vs West Armwrestling · 2026-06-14
   - Official EVW website: https://evwsports.com/
-- [Peter Celes vs Adam Wawrzynski | East vs West 24 Full Match](https://www.youtube.com/watch?v=AjqNVZK0dnM) — East vs West Armwrestling · 2026-06-13
+- [Peter Celes vs Adam Wawrzynski | EVW 24 Full Match](https://www.youtube.com/watch?v=AjqNVZK0dnM) — East vs West Armwrestling · 2026-06-13
   - Official EVW website: https://evwsports.com/
 - [My Short List… Who Won’t Back Down?](https://www.youtube.com/watch?v=1L9ZDdfFJks) — Monster Michael Todd · 2026-06-13
   - Back home in the Monster Factory and it’s time to unpack everything that happened at East vs West 24.
 Rebecca and I will be going through the biggest armwrestling matches of the event, the surprises, the stories, and answering the question …
-- [Yoshinobu Kanai vs Irakli Zirakashvili | East vs West 24 Full Match](https://www.youtube.com/watch?v=DGuExIVB_VQ) — East vs West Armwrestling · 2026-06-13
-  - Official EVW website: https://evwsports.com/
-- [Auden Larratt vs Jeremy Parker | East vs West 24 Full Match](https://www.youtube.com/watch?v=OGuJ9QcNyJ8) — East vs West Armwrestling · 2026-06-13
-  - Official EVW website: https://evwsports.com/
-- [Jason Merlo vs Ryan Belanger | East vs West 24 Full Match](https://www.youtube.com/watch?v=Lrps-HWKp14) — East vs West Armwrestling · 2026-06-12
-  - Official EVW website: https://evwsports.com/
-- [Courtney Huycke vs Nastasia Pastorkova | East vs West 24 Full Match](https://www.youtube.com/watch?v=kL1LkwQ2vSg) — East vs West Armwrestling · 2026-06-12
-  - Official EVW website: https://evwsports.com/
-- [Isaiah Jones vs Bob Brown | East vs West 24 Full Match](https://www.youtube.com/watch?v=JQ89iCq4sRI) — East vs West Armwrestling · 2026-06-12
-  - Official EVW website: https://evwsports.com/
-- [Cortina 64 in Sudbury to host next event in arm wrestling series June 27 - Sudbury Star](https://news.google.com/rss/articles/CBMirwFBVV95cUxON1JhUE5QU0hHMHRtWmlXamFWcnpscHNDZ051RWwxb0pHdlhDYlJsdnB0TU5NbWwtME9FYldWeEJFSWFIWmx0RWRHV2hPWDk2N2FnN0x6TnNfTEhSc0lsZ1JRWlBLVV9YbWpSQnBQZm1PUFNLdUZWY0ZkQlJPb083UlBYd2J6Q05MNWotWnpjZUVMd3VfN1g1X3QzOWlxM2xrRnM1eU9BVTVjTVVBSENz?oc=5) — Google News Armwrestling EN · 2026-06-10
-  - Cortina 64 in Sudbury to host next event in arm wrestling series June 27 Sudbury Star
-- [Second event in year-long armwrestling series set for June 27 - Sudbury News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3RwY3hobTBLZldZQ1lEMWNycHc2ME4yQjV6Z01FTUlublF0MUk3a0g3aHc4amN2WjFtWG1sbFNYZ2N0a056R0xlWkJtclVieWhEQzEwQ01FVDRFZ25jU3N3LVVSQUtDbGJjU3V6SVFHdlRtX0lCMExFQ3RfbV8wd0k0SGVLMDU2UDR4YnMwbnFrT0E1ckxXN3RUNklhNUFMT18xVld1cEo?oc=5) — Google News Armwrestling EN · 2026-06-10
-  - Second event in year-long armwrestling series set for June 27 Sudbury News
 - [EVW 24 Recap at Monster Factory](https://www.youtube.com/watch?v=aC8ZOJrxAO8) — Voice of Armwrestling · 2026-06-09
 - [Evw 24 afterthoughts](https://www.youtube.com/watch?v=91HG10N5P6Q) — Devon Larratt · 2026-06-09
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
@@ -66,7 +54,5 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 
 ## 💪 Entraînement & Technique
 
-- [Look at your forearm! Joe Rogan shocked after legendary arm wrestler Devon Larratt reveals insane 10-hour wrist curl workout | Video - MSN](https://news.google.com/rss/articles/CBMitgNBVV95cUxNVUpWNmkzb1lGd2dNQVk5YXB5RnpOZkxWVU5kdWczWVFhQnRqaUxWQ0ZDbUF0RnZXcWo2V0I2YnBQRlNyRnA3OTV2WDQ5eGNET0s0d2FJRjFKZTFaNUpYTm02Z2ZRTlpWWjZXSVZxS2RaQmxCUDR3czhiV3VBTmx2YVVhSDJrNHNiLVZ5YUpYcXRJU3FNN2hmZlktOGxBR0tKMV9nMUJBME1PamdTMHNob1F5RWZUdTNiYWJqcXY3WFpfNlcxQ2c1cDU0X092UVNvZzd5eE81RHRRcUJJNnJUUWNVX0M4U2JlVUVZOHd3UGZrMnZNWGRJcVNqSWd2bDVINHZrTWplTG1IZU9CdVhUZXUzREVPM01BTmQ3WU5IY1dGSmpiSTV6TzA0dy0wSDY5UzhJbnpjaktXb3FpUzQwcTNzbURvWmlQQ0Z4UUNNZzlnbjAyV0thMDVwbG44SXZ4RnRDdXlFZmVucDdwUEV4bDkwQk5wc3RYRTZjU092OGNoNjRlT0w5NGttTEUxRnRERDVXeUROY0YxMl9vUVlrRzVLQjljVElmQXc2OUdiX29obDJIX2c?oc=5) — Google News Devon Larratt · 2026-06-13
-  - Look at your forearm! Joe Rogan shocked after legendary arm wrestler Devon Larratt reveals insane 10-hour wrist curl workout | Video MSN
 - [Kensington Queer Circus Fest will bring drag, circus acts and queer arm wrestling to Philadelphia Brewing Co. - PhillyVoice](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUGxtanlHRTluX0oxVTl3amc0UVF4U1ZZZ09faURQLUJxQ05iSTVNSmloNW5UR3ZWck5qT0F5WVM1bkxVUUw5bjFmX0oydFV5VmZoNlVrTTJHWDBEam9SSklNSDVkQjRKZ0Z4X01FdXFVVHNWeTAtdmlHbm5EelhIeXhCRVlkeUJlWG4weVVhUVFyQU1LTkZrby1UX3FHM1lDWVlKbDNfLW4zcklDeFNaSlJvRzNxS0FIaGdadWRBTDVEWl9YcjRDdjFlLURUdw?oc=5) — Google News Arm Wrestling · 2026-06-11
   - Kensington Queer Circus Fest will bring drag, circus acts and queer arm wrestling to Philadelphia Brewing Co. PhillyVoice
