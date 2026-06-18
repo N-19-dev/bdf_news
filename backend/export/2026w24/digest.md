@@ -2,21 +2,16 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [SHP Arm Wrestling Classic Tournament - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jaXNuVWVuOWVnMkNOY25TUVo2NDlkaUZORWtZM0l2TDlGTnFqT3Z3NlB5UjJTUkRwTmJyYjE5VjdRblBGVUZScWVOczNTejJxVFlKbGdKSXg3d055?oc=5) — Google News Arm Wrestling · 2026-06-14
-  - SHP Arm Wrestling Classic Tournament YouTube
 - [EVW 24: Courtney Huycke vs Nastasia Pastorkova ROUND 1](https://www.youtube.com/shorts/AH_uiVQFc10) — East vs West Armwrestling · 2026-06-14
 - [Corey West vs Pablo Derbedyenyev | EVW 24 Full Match](https://www.youtube.com/watch?v=-cr0TqDk32Y) — East vs West Armwrestling · 2026-06-14
   - Official EVW website: https://evwsports.com/
 - [Janis Amolins vs Craig Tullier | EVW 24 Full Match](https://www.youtube.com/watch?v=vVmH2rRGyiQ) — East vs West Armwrestling · 2026-06-14
   - Official EVW website: https://evwsports.com/
-- [EVW 24: Bob Brown 🇺🇸 vs Isaiah Jones 🇺🇸 ROUND 1](https://www.youtube.com/shorts/C5IEg4fPvdo) — East vs West Armwrestling · 2026-06-14
-- [Tom Holland vs Justin Bishop | EVW 24 Full Match](https://www.youtube.com/watch?v=HgDEWUTMruE) — East vs West Armwrestling · 2026-06-14
-  - Official EVW website: https://evwsports.com/
-- [Peter Celes vs Adam Wawrzynski | EVW 24 Full Match](https://www.youtube.com/watch?v=AjqNVZK0dnM) — East vs West Armwrestling · 2026-06-13
-  - Official EVW website: https://evwsports.com/
 - [My Short List… Who Won’t Back Down?](https://www.youtube.com/watch?v=1L9ZDdfFJks) — Monster Michael Todd · 2026-06-13
   - Back home in the Monster Factory and it’s time to unpack everything that happened at East vs West 24.
 Rebecca and I will be going through the biggest armwrestling matches of the event, the surprises, the stories, and answering the question …
+- [Cortina 64 in Sudbury to host next event in arm wrestling series June 27 - Sudbury Star](https://news.google.com/rss/articles/CBMirwFBVV95cUxON1JhUE5QU0hHMHRtWmlXamFWcnpscHNDZ051RWwxb0pHdlhDYlJsdnB0TU5NbWwtME9FYldWeEJFSWFIWmx0RWRHV2hPWDk2N2FnN0x6TnNfTEhSc0lsZ1JRWlBLVV9YbWpSQnBQZm1PUFNLdUZWY0ZkQlJPb083UlBYd2J6Q05MNWotWnpjZUVMd3VfN1g1X3QzOWlxM2xrRnM1eU9BVTVjTVVBSENz?oc=5) — Google News Armwrestling EN · 2026-06-10
+  - Cortina 64 in Sudbury to host next event in arm wrestling series June 27 Sudbury Star
 - [EVW 24 Recap at Monster Factory](https://www.youtube.com/watch?v=aC8ZOJrxAO8) — Voice of Armwrestling · 2026-06-09
 - [Evw 24 afterthoughts](https://www.youtube.com/watch?v=91HG10N5P6Q) — Devon Larratt · 2026-06-09
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
@@ -28,11 +23,11 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
+- [Second event in year-long armwrestling series set for June 27 - Sudbury News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3RwY3hobTBLZldZQ1lEMWNycHc2ME4yQjV6Z01FTUlublF0MUk3a0g3aHc4amN2WjFtWG1sbFNYZ2N0a056R0xlWkJtclVieWhEQzEwQ01FVDRFZ25jU3N3LVVSQUtDbGJjU3V6SVFHdlRtX0lCMExFQ3RfbV8wd0k0SGVLMDU2UDR4YnMwbnFrT0E1ckxXN3RUNklhNUFMT18xVld1cEo?oc=5) — Google News Armwrestling EN · 2026-06-09
+  - Second event in year-long armwrestling series set for June 27 Sudbury News
 
 ## 🌟 Athlètes & Interviews
 
-- [WATCH | Monster move: Hot Springs’ Michael Todd claims 24th world title - Hot Springs Sentinel Record](https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUlpSW1LU3J6TGxpZ1h4TkI3cVVlY2diemRGYkl2a3UwallNaTFxTHR5d2wyMWVnZmxwVFp5MDQyTVlVOWR6WjhjY0otQ09DbkRkYjdnRl96RE9jczFBMlBmNzZockVGRGlXbllUaUo0eWJveW4xNFctUy1VYXZwQ18wMVhSd1h6bXZYcU5mZGhmakU?oc=5) — Google News Armwrestling EN · 2026-06-14
-  - WATCH | Monster move: Hot Springs’ Michael Todd claims 24th world title Hot Springs Sentinel Record
 - [My short interview after I defeated Artur](https://www.youtube.com/watch?v=w3xIPxK2GiQ) — Engin Terzi (Enigma of Rage) · 2026-06-13
 - [SNC: Live From Vienna W/ Devon Larratt & Luke Pulscher | 2 Mar 2026 See No Evil Bafta (KL0ssx2cnr) - Fathom Journal](https://news.google.com/rss/articles/CBMiakFVX3lxTE1EYW82OFAwSjJqSFBUZzhLY0N3TnJ2WVktdUd0Rm5GSWZlcjk1U0FWY0pXXy1HLXVGMzY4VXVwOW11ZkxCVHVpaVVWQVBVdmJmNVNObjRJOWw2UDJZYUVFMWdQWWk2Z3BBZ2c?oc=5) — Google News Devon Larratt · 2026-06-13
   - SNC: Live From Vienna W/ Devon Larratt & Luke Pulscher | 2 Mar 2026 See No Evil Bafta (KL0ssx2cnr) Fathom Journal
