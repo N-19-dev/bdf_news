@@ -2,7 +2,6 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [EVW 24: Courtney Huycke vs Nastasia Pastorkova ROUND 1](https://www.youtube.com/shorts/AH_uiVQFc10) — East vs West Armwrestling · 2026-06-14
 - [My Short List… Who Won’t Back Down?](https://www.youtube.com/watch?v=1L9ZDdfFJks) — Monster Michael Todd · 2026-06-13
   - Back home in the Monster Factory and it’s time to unpack everything that happened at East vs West 24.
 Rebecca and I will be going through the biggest armwrestling matches of the event, the surprises, the stories, and answering the question …
