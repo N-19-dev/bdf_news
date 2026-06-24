@@ -35,7 +35,7 @@ https:…
 - [EVW 24: Oleg Petrenko vs Michael Todd](https://www.youtube.com/shorts/H7OC7A910Cg) — East vs West Armwrestling · 2026-06-19
 - [EVW 24: Ermes Gasparini vs Artyom Morozov](https://www.youtube.com/shorts/RgAMHcnbjkA) — East vs West Armwrestling · 2026-06-19
 - [EVW 24: Bogdan Stoica vs Todd Hutchings](https://www.youtube.com/shorts/uEuRLheBivs) — East vs West Armwrestling · 2026-06-19
-- [Assam's Chani Saikia Clinches Silver at National Arm Wrestling Championship - Prag News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkM1ekdIS2hacUhyTkF1VXZGeXdCdlRldTNQejFzY3ViaXV5bkZGX1VOUExwdUdSM1NJZ3JieUhGUGhBbzlFRE9mclRZWU1vNXhkdFdISG44elFwbHJ0OU11X0liVXR3cTcxZGdMTHF5RHdRbnJfb2trVXRRZXRObUk4dzZJaHQ4cGhfSnpQZWRGVENXMEVPelBVaVg0N28?oc=5) — Google News Armwrestling EN · 2026-06-19
+- [Assam's Chani Saikia Clinches Silver at National Arm Wrestling Championship - Prag News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkM1ekdIS2hacUhyTkF1VXZGeXdCdlRldTNQejFzY3ViaXV5bkZGX1VOUExwdUdSM1NJZ3JieUhGUGhBbzlFRE9mclRZWU1vNXhkdFdISG44elFwbHJ0OU11X0liVXR3cTcxZGdMTHF5RHdRbnJfb2trVXRRZXRObUk4dzZJaHQ4cGhfSnpQZWRGVENXMEVPelBVaVg0N28?oc=5) — Google News Arm Wrestling · 2026-06-19
   - Assam's Chani Saikia Clinches Silver at National Arm Wrestling Championship Prag News
 - [armwrestling vs the sabah headhunters](https://www.youtube.com/shorts/PKFkmkvi--Y) — Devon Larratt · 2026-06-19
   - https://www.instagram.com/sabahtourism?igsh=MWtpdDZrbGtnOGQ5aQ==
@@ -95,28 +95,27 @@ signed merch
 https://www.radtkesport…
 - [Riekerd Bornman vs Alizhan Muratov | EVW 24 Full Match](https://www.youtube.com/watch?v=qOin6KD0ZxU) — East vs West Armwrestling · 2026-06-16
   - Official EVW website: https://evwsports.com/
-- [Devon Larratt VS Jerry Cadorette REMATCH!? | East Vs West 24 Lego Minas Tirith (gn4jGkoWkt) - Fathom Journal](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vRVA2bEFDUlZMRWhLTlNDOWRLaFZNbkE4WTQ0QjVFYmNFRDlXY0hBdGNEaXZIb25CMFBRZnd2VTU0NzNEVnpyZFJkZzIxUlJiRHIyRi0wb0xrNDRvNTJrVHBVWVI?oc=5) — Google News Devon Larratt · 2026-06-15
-  - Devon Larratt VS Jerry Cadorette REMATCH!? | East Vs West 24 Lego Minas Tirith (gn4jGkoWkt) Fathom Journal
 - [10 000$ Armwrestling match](https://www.youtube.com/shorts/4zWa1_edqlw) — Voice of Armwrestling · 2026-06-15
 
 ## 🌟 Athlètes & Interviews
 
 - [Gordon Ryan vs John Brzenk Armwrestling](https://www.youtube.com/shorts/CTZgv1TQePw) — Voice of Armwrestling · 2026-06-21
+- [Arm wrestling can shape competitive youth and build strong communities – Devon Larratt - Sabah Media](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnc3TDRBY215SWlKeHVSb1l4cE8wMHA3bWdJVlVqTlgzUG1LSU1yMXhGeWRzU3l6a0E4bnpud1RtMzBCOWFOQ1JkMmg5b1ZadTdVWE0xNlBGUjNfdHRKMjRCYVZ2dUo1Z05RUEU2bThmb2U2eE1vSHdqUTlMcm9nWXd2OUpQdjN1RVFDNW5EaXI0VEpOeE9Jakk4V0VlNm9lM1Q3bjJ2c2tQeUE0bjJ6RFJ4ZjdqY2c5d1ZJ?oc=5) — Google News Armwrestling EN · 2026-06-20
+  - Arm wrestling can shape competitive youth and build strong communities – Devon Larratt Sabah Media
 - [New PR attempt! I have it my best 🤷🏻‍♂️#armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/49fSvgBJFfQ) — Monster Michael Todd · 2026-06-20
 - [Pronation LIFE!! #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/v2prXloZp5c) — Monster Michael Todd · 2026-06-20
 - [Thank you @markmclartyford for your support! #armwrestling #worldchampion #ford #f150](https://www.youtube.com/shorts/zwjLmSXNNjU) — Monster Michael Todd · 2026-06-19
 - [Not bad for 53! That being said, stretching routine begins tomorrow! #armwrestling #worldchampion](https://www.youtube.com/shorts/2xS7425fu_w) — Monster Michael Todd · 2026-06-19
 - [Devon Larratt vs Lars Rorbakken 2026](https://www.youtube.com/shorts/XZ7n4olWP00) — Voice of Armwrestling · 2026-06-19
 - [Athlete test! Can you do this? #armwrestling #worldchampion #letsgo #phil413 #athlete](https://www.youtube.com/shorts/Kmzsw2yibLY) — Monster Michael Todd · 2026-06-19
-- [Arm wrestling champion Devon Larratt discovers Sabah - Daily Express Malaysia](https://news.google.com/rss/articles/CBMingFBVV95cUxQZklMLVE2M216eDNCbEJEMnVqVlJZaTEwdWFxblNXMThXZEdLM1NNSkNMWmFDVzYyT0ZxLWtPMmk3Wk4xYzBuamFFLWFkMTl1dkxqQVU5TXM0cWdtcUc3WVlrZ2NXLXF2M3FyZEVxbTlxOXBGeGV4ZDc3c3FQNFNSSVJXSklLZDk1NjZCLWZ5cnZiUXVaMU5IckE0SmtLQQ?oc=5) — Google News Devon Larratt · 2026-06-19
+- [Arm wrestling champion Devon Larratt discovers Sabah - Daily Express Malaysia](https://news.google.com/rss/articles/CBMingFBVV95cUxQZklMLVE2M216eDNCbEJEMnVqVlJZaTEwdWFxblNXMThXZEdLM1NNSkNMWmFDVzYyT0ZxLWtPMmk3Wk4xYzBuamFFLWFkMTl1dkxqQVU5TXM0cWdtcUc3WVlrZ2NXLXF2M3FyZEVxbTlxOXBGeGV4ZDc3c3FQNFNSSVJXSklLZDk1NjZCLWZ5cnZiUXVaMU5IckE0SmtLQQ?oc=5) — Google News Arm Wrestling · 2026-06-19
   - Arm wrestling champion Devon Larratt discovers Sabah Daily Express Malaysia
 - [WORLD RANKING ARM WRESTLER DEVON LARRATT AND WIFE EXPERIENCE SABAH’S TOURISM ATTRACTIONS - Nabalu News](https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2gwV04yLXlCVXZpYUdoNVJPWnZoenMtbTctOXhyQl9lSUo3aTVoYW4ycUVrdHFvRnJiY1JMVHNuVVBSdFVabHZrWW1ZdmNOVmgyc2F1bVRCMVVCU1NaMmU5MG02RzNXNmJFbGN4MW9LZlhfVkpqSGRYcWd0SVl1QWxNT1c0aWlxdkNhU1dpU1cxZFpCU3lQNXhLN0V1N29QZzE5ZnMtSUNvWmdWbTdjSHZiNHRkWXpmd0NZUw?oc=5) — Google News Devon Larratt · 2026-06-19
   - WORLD RANKING ARM WRESTLER DEVON LARRATT AND WIFE EXPERIENCE SABAH’S TOURISM ATTRACTIONS Nabalu News
 - [NEW PR! 180lbs/81.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/pKAsgjr9Ono) — Monster Michael Todd · 2026-06-18
 - ['It's more than just strength': Talking arm-wrestling with Gisborne champion - NZ Herald](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdVVXenlaeXJPN3k4eWVTRnRpVGlSX2t0elg3WHBrTmUxTHJtRzBjclZ0VDV0TVI5dEthYnNpd1I4UEpUQ3NMSVB4bjZjQ1NkZkpPZUdVRFI1QVFxM3JsNGtCS3FSeENobmVhZ1R3RlpEZVFJSGhTZkdDV2h4R19RcENlVzFmenJWaXV1SnhCOEpLY0F4eFpRb3RabnVKVVkzbG85T0F3emJSOUUzSGFXMkFzY3ItejltX1RRanlmcEpRWHA3WXlEU2lpYTVaOUQ3MXpZXy05WnVhd29h?oc=5) — Google News Armwrestling EN · 2026-06-18
   - 'It's more than just strength': Talking arm-wrestling with Gisborne champion NZ Herald
-- [NEW OUTSIDE SP PR! 307lbs/139.3kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/KDmwVR1N1Zo) — Monster Michael Todd · 2026-06-17
-- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Armwrestling EN · 2026-06-17
+- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Arm Wrestling · 2026-06-17
   - Ukrainian defense forces killed Russian arm-wrestling champion Makayev UA.NEWS
 - [Devon Larratt vs John Brzenka 2026](https://www.youtube.com/shorts/mo7yICbiMVo) — Voice of Armwrestling · 2026-06-15
 
@@ -131,8 +130,6 @@ https://www.radtkesport…
 
 ## 🎬 YouTube & Médias
 
-- [Bras de fer Leipzig-Liverpool pour Yan Diomande - AfricaFoot](https://news.google.com/rss/articles/CBMie0FVX3lxTE96ZkdlLXF5UWpWeF9RbjJ6Zi1vZDRkTGJsdlJrMHhJQ3Z5eXJVYzNNU0I2cXY3T0wwdlpUTkhUY2lKV0FOT1RRVzRsRVg5Y3RydVFqVWhCZE5mVU5HZVZjeU5RbGpIU1ZPOEZ6ZEg5Yzd1OU9RNHhoYlpPZw?oc=5) — Google News Armwrestling FR · 2026-06-21
-  - Bras de fer Leipzig-Liverpool pour Yan Diomande AfricaFoot
 - [I got crushed by 64 years old armwrestling legend #shorts #shortvideo](https://www.youtube.com/shorts/b5eKbkUMnw4) — ARMWRESTLING TV (Schoolboy) · 2026-06-19
   - Watch the full video here 
 
@@ -140,8 +137,6 @@ https://youtu.be/c5GbDnW3Ens
 
 ## 🇫🇷 Bras de Fer France
 
-- [Montpellier : « On a gagné le bras de fer », Caudullo après avoir écarté le Stade Français - Quinze Mondial](https://news.google.com/rss/articles/CBMixgFBVV95cUxPelllQUlXR3RVYkNLalJNVnpqdm1NWlg4ODNwVU4teHBYRWRLcUNmWUVNVG9wZmRYdXRLekRNQzllYXptb0REWWtEZTlDRnE1WVN0eldVQ0huWXJWdkNZcFdTTjVkczhfUWFBNE5CbVFab0JLN3p2RjZKUmNjMXp4dmFhcEQ2Mkk2eWd4Q0xsQWh5TXVBV3BjRmtjN285eDZHTExXdjRrQzJqSzlJX0NVbU1QY0JYM0J6VDBwWmRQTHVueFRDLUE?oc=5) — Google News Armwrestling FR · 2026-06-21
-  - Montpellier : « On a gagné le bras de fer », Caudullo après avoir écarté le Stade Français Quinze Mondial
 - [Demi-finale de Top 14 : entre Montpellier et le Stade Français, une promesse de bras de fer dans la revanche des mal-aimés - Sud Ouest](https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ01GZEdfcVU4VU0xUUE1SVZCR3IzdXJCb3kwaWtQVUFMUkV0LVZlWlhyczBMZEVJWl9OLWdvSExkSUd4S1pVNUpteHcwdFVmNkFxajhFYkl5UER3aU92ODBlQXlsSUQwNW54LUtIdGlQZXl5U0t6SE1IWGNTbFZzZUd4YWxDa3BuWWNFRUs2ZG54ckFLMlhSZm8xZ2VYcGNuYTZ3M0FJRDZpT29QU0F3cnRiY1U1UWhUUzJGbDc2NTVQRDVFcTVmTTBMLWtIQk1jcVJWTTl0MTR6cVFIdlgzN0NSa1oySmdsQjBFakRnOGphOEFIdkZoUVFtNzV0UlBDeTBZSQ?oc=5) — Google News Armwrestling FR · 2026-06-20
   - Demi-finale de Top 14 : entre Montpellier et le Stade Français, une promesse de bras de fer dans la revanche des mal-aimés Sud Ouest
 - [[Podcasts] Top 14 - Demi-finales : Montpellier-Stade Français, le bras de fer pour une place en finale - RMC](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdlB1eHFYQW00LVcxRTBYNk02VVFOWmdtLU9uaElzX05YY3o0ZjU4VmctWjZEd3JTZ0I5SldaYXZMY1J2N3I2OXRJOWdzRGl4bGpUSXVjejNlcW9odkhMQWJRazZmdm9NVThTTG51WHg0NmplS0E5aUpMNXdGdjFjM0JIbUpDVDQ5TmpvUEdVVEdWdHpjQzlVZnVDdTdnbHIxdk4tVFVzNmcwYkdxbEVQSFBqSEhrWlpVQTZWcFBlVGtfVHBRc1NWSW8xcGxmNXJEZk1tVDM5WUVLbmhvT1Q1V0l4QlR6NndQX2c?oc=5) — Google News Armwrestling FR · 2026-06-19
