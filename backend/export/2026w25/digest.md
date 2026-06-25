@@ -108,25 +108,24 @@ https://www.radtkesport…
 - [Not bad for 53! That being said, stretching routine begins tomorrow! #armwrestling #worldchampion](https://www.youtube.com/shorts/2xS7425fu_w) — Monster Michael Todd · 2026-06-19
 - [Devon Larratt vs Lars Rorbakken 2026](https://www.youtube.com/shorts/XZ7n4olWP00) — Voice of Armwrestling · 2026-06-19
 - [Athlete test! Can you do this? #armwrestling #worldchampion #letsgo #phil413 #athlete](https://www.youtube.com/shorts/Kmzsw2yibLY) — Monster Michael Todd · 2026-06-19
-- [Arm wrestling champion Devon Larratt discovers Sabah - Daily Express Malaysia](https://news.google.com/rss/articles/CBMingFBVV95cUxQZklMLVE2M216eDNCbEJEMnVqVlJZaTEwdWFxblNXMThXZEdLM1NNSkNMWmFDVzYyT0ZxLWtPMmk3Wk4xYzBuamFFLWFkMTl1dkxqQVU5TXM0cWdtcUc3WVlrZ2NXLXF2M3FyZEVxbTlxOXBGeGV4ZDc3c3FQNFNSSVJXSklLZDk1NjZCLWZ5cnZiUXVaMU5IckE0SmtLQQ?oc=5) — Google News Arm Wrestling · 2026-06-19
+- [Arm wrestling champion Devon Larratt discovers Sabah - Daily Express Malaysia](https://news.google.com/rss/articles/CBMingFBVV95cUxQZklMLVE2M216eDNCbEJEMnVqVlJZaTEwdWFxblNXMThXZEdLM1NNSkNMWmFDVzYyT0ZxLWtPMmk3Wk4xYzBuamFFLWFkMTl1dkxqQVU5TXM0cWdtcUc3WVlrZ2NXLXF2M3FyZEVxbTlxOXBGeGV4ZDc3c3FQNFNSSVJXSklLZDk1NjZCLWZ5cnZiUXVaMU5IckE0SmtLQQ?oc=5) — Google News Devon Larratt · 2026-06-19
   - Arm wrestling champion Devon Larratt discovers Sabah Daily Express Malaysia
 - [WORLD RANKING ARM WRESTLER DEVON LARRATT AND WIFE EXPERIENCE SABAH’S TOURISM ATTRACTIONS - Nabalu News](https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2gwV04yLXlCVXZpYUdoNVJPWnZoenMtbTctOXhyQl9lSUo3aTVoYW4ycUVrdHFvRnJiY1JMVHNuVVBSdFVabHZrWW1ZdmNOVmgyc2F1bVRCMVVCU1NaMmU5MG02RzNXNmJFbGN4MW9LZlhfVkpqSGRYcWd0SVl1QWxNT1c0aWlxdkNhU1dpU1cxZFpCU3lQNXhLN0V1N29QZzE5ZnMtSUNvWmdWbTdjSHZiNHRkWXpmd0NZUw?oc=5) — Google News Devon Larratt · 2026-06-19
   - WORLD RANKING ARM WRESTLER DEVON LARRATT AND WIFE EXPERIENCE SABAH’S TOURISM ATTRACTIONS Nabalu News
-- [NEW PR! 180lbs/81.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/pKAsgjr9Ono) — Monster Michael Todd · 2026-06-18
 - ['It's more than just strength': Talking arm-wrestling with Gisborne champion - NZ Herald](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdVVXenlaeXJPN3k4eWVTRnRpVGlSX2t0elg3WHBrTmUxTHJtRzBjclZ0VDV0TVI5dEthYnNpd1I4UEpUQ3NMSVB4bjZjQ1NkZkpPZUdVRFI1QVFxM3JsNGtCS3FSeENobmVhZ1R3RlpEZVFJSGhTZkdDV2h4R19RcENlVzFmenJWaXV1SnhCOEpLY0F4eFpRb3RabnVKVVkzbG85T0F3emJSOUUzSGFXMkFzY3ItejltX1RRanlmcEpRWHA3WXlEU2lpYTVaOUQ3MXpZXy05WnVhd29h?oc=5) — Google News Armwrestling EN · 2026-06-18
   - 'It's more than just strength': Talking arm-wrestling with Gisborne champion NZ Herald
-- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Arm Wrestling · 2026-06-17
+- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Armwrestling EN · 2026-06-17
   - Ukrainian defense forces killed Russian arm-wrestling champion Makayev UA.NEWS
 - [Devon Larratt vs John Brzenka 2026](https://www.youtube.com/shorts/mo7yICbiMVo) — Voice of Armwrestling · 2026-06-15
 
 ## 💪 Entraînement & Technique
 
 - [Day 2 PEBP/Up Pressure/Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/SAhnxZUp6hk) — Monster Michael Todd · 2026-06-21
+- [NFLers flex their muscle at Las Vegas arm wrestling competi… - theScore](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1NvUHRwbzM4SlVSLWRqZFg1eGV5M2RUZGNFR2U4TGdPUDRPUzdjeHBlR2tQSU9oLUNTNm9PTkhLbmJhVUFpY09TRHJEQmxqczlVUnp1NFFKY29QMUF0MW1CUm83aXFteWJ6S1JRYnBNTjlheENCMFFEMnlkaG5SdVNXeG1ZbmxlUGh2aHdzQ2QwMTRlUWhDNlFZYkZBb01WU2FONllRd3d3UQ?oc=5) — Google News Arm Wrestling · 2026-06-21
+  - NFLers flex their muscle at Las Vegas arm wrestling competi… theScore
 - [Day 1 SP/Shoulder Press/Side Pressure #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/dPWIq19R1Mw) — Monster Michael Todd · 2026-06-20
 - [Road to EVW 26: Waiting Was A HUGE Mistake](https://www.youtube.com/watch?v=MY03x1bAhx4) — Monster Michael Todd · 2026-06-20
   - Claim your 10 Free Meals + Free Breakfast for Life by using code MMTHF at https://hellofresh.yt.link/jGbo97a ! One free meal per box with active subscription. Free meals applied as discount on first box, new or returning subscribers only, v…
-- [“If you’ve got an arm, anyone can do it” - PressReader](https://news.google.com/rss/articles/CBMid0FVX3lxTFBfZFpoWG5EcGl4WGp5VDFKRDVpcThRanZ0emtSVE9xbjB6MFBoaUU4WEp5VlZzXzk4NWY3dmxuYVBNX2FtUGU3a1RjaVp5ZnBQMXZZTW1odTRxUmxhS3plYzFyMF9IWXJjcDRVdjNaeFRGSEt0SU9N?oc=5) — Google News Armwrestling EN · 2026-06-19
-  - “If you’ve got an arm, anyone can do it” PressReader
 
 ## 🎬 YouTube & Médias
 
@@ -137,7 +136,5 @@ https://youtu.be/c5GbDnW3Ens
 
 ## 🇫🇷 Bras de Fer France
 
-- [Demi-finale de Top 14 : entre Montpellier et le Stade Français, une promesse de bras de fer dans la revanche des mal-aimés - Sud Ouest](https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ01GZEdfcVU4VU0xUUE1SVZCR3IzdXJCb3kwaWtQVUFMUkV0LVZlWlhyczBMZEVJWl9OLWdvSExkSUd4S1pVNUpteHcwdFVmNkFxajhFYkl5UER3aU92ODBlQXlsSUQwNW54LUtIdGlQZXl5U0t6SE1IWGNTbFZzZUd4YWxDa3BuWWNFRUs2ZG54ckFLMlhSZm8xZ2VYcGNuYTZ3M0FJRDZpT29QU0F3cnRiY1U1UWhUUzJGbDc2NTVQRDVFcTVmTTBMLWtIQk1jcVJWTTl0MTR6cVFIdlgzN0NSa1oySmdsQjBFakRnOGphOEFIdkZoUVFtNzV0UlBDeTBZSQ?oc=5) — Google News Armwrestling FR · 2026-06-20
-  - Demi-finale de Top 14 : entre Montpellier et le Stade Français, une promesse de bras de fer dans la revanche des mal-aimés Sud Ouest
-- [[Podcasts] Top 14 - Demi-finales : Montpellier-Stade Français, le bras de fer pour une place en finale - RMC](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdlB1eHFYQW00LVcxRTBYNk02VVFOWmdtLU9uaElzX05YY3o0ZjU4VmctWjZEd3JTZ0I5SldaYXZMY1J2N3I2OXRJOWdzRGl4bGpUSXVjejNlcW9odkhMQWJRazZmdm9NVThTTG51WHg0NmplS0E5aUpMNXdGdjFjM0JIbUpDVDQ5TmpvUEdVVEdWdHpjQzlVZnVDdTdnbHIxdk4tVFVzNmcwYkdxbEVQSFBqSEhrWlpVQTZWcFBlVGtfVHBRc1NWSW8xcGxmNXJEZk1tVDM5WUVLbmhvT1Q1V0l4QlR6NndQX2c?oc=5) — Google News Armwrestling FR · 2026-06-19
-  - [Podcasts] Top 14 - Demi-finales : Montpellier-Stade Français, le bras de fer pour une place en finale RMC
+- [Montpellier : « On a gagné le bras de fer », Caudullo après avoir écarté le Stade Français - Quinze Mondial](https://news.google.com/rss/articles/CBMixgFBVV95cUxPelllQUlXR3RVYkNLalJNVnpqdm1NWlg4ODNwVU4teHBYRWRLcUNmWUVNVG9wZmRYdXRLekRNQzllYXptb0REWWtEZTlDRnE1WVN0eldVQ0huWXJWdkNZcFdTTjVkczhfUWFBNE5CbVFab0JLN3p2RjZKUmNjMXp4dmFhcEQ2Mkk2eWd4Q0xsQWh5TXVBV3BjRmtjN285eDZHTExXdjRrQzJqSzlJX0NVbU1QY0JYM0J6VDBwWmRQTHVueFRDLUE?oc=5) — Google News Armwrestling FR · 2026-06-21
+  - Montpellier : « On a gagné le bras de fer », Caudullo après avoir écarté le Stade Français Quinze Mondial

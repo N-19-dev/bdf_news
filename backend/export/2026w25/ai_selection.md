@@ -11,18 +11,18 @@
 
 ## competitions
 
+- [KING OF THE TABLE ARM WRESTLING CHAMPIONSHIP 2026 at EVW 24](https://www.youtube.com/watch?v=c5GbDnW3Ens) — ARMWRESTLING TV (Schoolboy) · 2026-06-17 · **66/100**
 - [5th IFA European Armwrestling ChampionshipsCodlea, Romania 2026-06-12](https://armsportfederation.com/1515-2/) — ArmSport Federation · 2026-06-20 · **61/100**
+- [NFLers flex their muscle at Las Vegas arm wrestling competi… - theScore](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1NvUHRwbzM4SlVSLWRqZFg1eGV5M2RUZGNFR2U4TGdPUDRPUzdjeHBlR2tQSU9oLUNTNm9PTkhLbmJhVUFpY09TRHJEQmxqczlVUnp1NFFKY29QMUF0MW1CUm83aXFteWJ6S1JRYnBNTjlheENCMFFEMnlkaG5SdVNXeG1ZbmxlUGh2aHdzQ2QwMTRlUWhDNlFZYkZBb01WU2FONllRd3d3UQ?oc=5) — Google News Arm Wrestling · 2026-06-21 · **58/100**
 
 ## france
 
-- [Demi-finale de Top 14 : entre Montpellier et le Stade Français, une promesse de bras de fer dans la revanche des mal-aimés - Sud Ouest](https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ01GZEdfcVU4VU0xUUE1SVZCR3IzdXJCb3kwaWtQVUFMUkV0LVZlWlhyczBMZEVJWl9OLWdvSExkSUd4S1pVNUpteHcwdFVmNkFxajhFYkl5UER3aU92ODBlQXlsSUQwNW54LUtIdGlQZXl5U0t6SE1IWGNTbFZzZUd4YWxDa3BuWWNFRUs2ZG54ckFLMlhSZm8xZ2VYcGNuYTZ3M0FJRDZpT29QU0F3cnRiY1U1UWhUUzJGbDc2NTVQRDVFcTVmTTBMLWtIQk1jcVJWTTl0MTR6cVFIdlgzN0NSa1oySmdsQjBFakRnOGphOEFIdkZoUVFtNzV0UlBDeTBZSQ?oc=5) — Google News Armwrestling FR · 2026-06-20 · **51/100**
+- [Montpellier : « On a gagné le bras de fer », Caudullo après avoir écarté le Stade Français - Quinze Mondial](https://news.google.com/rss/articles/CBMixgFBVV95cUxPelllQUlXR3RVYkNLalJNVnpqdm1NWlg4ODNwVU4teHBYRWRLcUNmWUVNVG9wZmRYdXRLekRNQzllYXptb0REWWtEZTlDRnE1WVN0eldVQ0huWXJWdkNZcFdTTjVkczhfUWFBNE5CbVFab0JLN3p2RjZKUmNjMXp4dmFhcEQ2Mkk2eWd4Q0xsQWh5TXVBV3BjRmtjN285eDZHTExXdjRrQzJqSzlJX0NVbU1QY0JYM0J6VDBwWmRQTHVueFRDLUE?oc=5) — Google News Armwrestling FR · 2026-06-21 · **50/100**
 
 ## news
 
-- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Arm Wrestling · 2026-06-17 · **52/100**
+- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Armwrestling EN · 2026-06-17 · **52/100**
 
 ## youtube_media
 
-- [KING OF THE TABLE ARM WRESTLING CHAMPIONSHIP 2026 at EVW 24](https://www.youtube.com/watch?v=c5GbDnW3Ens) — ARMWRESTLING TV (Schoolboy) · 2026-06-17 · **66/100**
 - [MIKE FORD VS JI HYUN MIN main event evw asia](https://www.youtube.com/watch?v=gXA60Ad6el4) — Devon Larratt · 2026-06-20 · **63/100**
-- [10 000$ Armwrestling match](https://www.youtube.com/shorts/4zWa1_edqlw) — Voice of Armwrestling · 2026-06-15 · **57/100**

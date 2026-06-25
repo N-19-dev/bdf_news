@@ -69,45 +69,6 @@
   ],
   "competitions": [
     {
-      "url": "https://armsportfederation.com/1515-2/",
-      "title": "5th IFA European Armwrestling ChampionshipsCodlea, Romania 2026-06-12",
-      "summary": "Official Team Scores by medals(Senior) 5th IFA European Armwrestling ChampionshipsCodlea, Romania2026-06-12 Official Team Scores by medals(Junior U-15, Junior U-18, Junior U-21) 5th IFA European Armwrestling ChampionshipsCodlea, Romania2026-06-12 Official Team Scores […]",
-      "published_ts": 1781965878,
-      "source_name": "ArmSport Federation",
-      "score": 61.083305044607684,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    }
-  ],
-  "france": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ01GZEdfcVU4VU0xUUE1SVZCR3IzdXJCb3kwaWtQVUFMUkV0LVZlWlhyczBMZEVJWl9OLWdvSExkSUd4S1pVNUpteHcwdFVmNkFxajhFYkl5UER3aU92ODBlQXlsSUQwNW54LUtIdGlQZXl5U0t6SE1IWGNTbFZzZUd4YWxDa3BuWWNFRUs2ZG54ckFLMlhSZm8xZ2VYcGNuYTZ3M0FJRDZpT29QU0F3cnRiY1U1UWhUUzJGbDc2NTVQRDVFcTVmTTBMLWtIQk1jcVJWTTl0MTR6cVFIdlgzN0NSa1oySmdsQjBFakRnOGphOEFIdkZoUVFtNzV0UlBDeTBZSQ?oc=5",
-      "title": "Demi-finale de Top 14 : entre Montpellier et le Stade Français, une promesse de bras de fer dans la revanche des mal-aimés - Sud Ouest",
-      "summary": "Demi-finale de Top 14 : entre Montpellier et le Stade Français, une promesse de bras de fer dans la revanche des mal-aimés Sud Ouest",
-      "published_ts": 1781929980,
-      "source_name": "Google News Armwrestling FR",
-      "score": 51.029806706038386,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    }
-  ],
-  "news": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5",
-      "title": "Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS",
-      "summary": "Ukrainian defense forces killed Russian arm-wrestling champion Makayev UA.NEWS",
-      "published_ts": 1781700048,
-      "source_name": "Google News Arm Wrestling",
-      "score": 52.00689285993576,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    }
-  ],
-  "youtube_media": [
-    {
       "url": "https://www.youtube.com/watch?v=c5GbDnW3Ens",
       "title": "KING OF THE TABLE ARM WRESTLING CHAMPIONSHIP 2026 at EVW 24",
       "summary": "King of the Table Armwrestling Tournament at EvW24 in Little Rock , Arkansas \nRight & Left hand matches \nJune 5th 2026 \nSubscribe for NEW VIDEOS \nhttps://www.youtube.com/AlexToproll\nhttps://www.instagram.com/alex_toproll\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/alextoproll/join\n\nYOU CAN SUPPORT MY CHANNEL BY BUYING MERCH\nhttps://toproll.creator-spring.com\n\n#armwrestling #championship #usa",
@@ -119,23 +80,62 @@
       "marketing_score": 0
     },
     {
+      "url": "https://armsportfederation.com/1515-2/",
+      "title": "5th IFA European Armwrestling ChampionshipsCodlea, Romania 2026-06-12",
+      "summary": "Official Team Scores by medals(Senior) 5th IFA European Armwrestling ChampionshipsCodlea, Romania2026-06-12 Official Team Scores by medals(Junior U-15, Junior U-18, Junior U-21) 5th IFA European Armwrestling ChampionshipsCodlea, Romania2026-06-12 Official Team Scores […]",
+      "published_ts": 1781965878,
+      "source_name": "ArmSport Federation",
+      "score": 61.083305044607684,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1NvUHRwbzM4SlVSLWRqZFg1eGV5M2RUZGNFR2U4TGdPUDRPUzdjeHBlR2tQSU9oLUNTNm9PTkhLbmJhVUFpY09TRHJEQmxqczlVUnp1NFFKY29QMUF0MW1CUm83aXFteWJ6S1JRYnBNTjlheENCMFFEMnlkaG5SdVNXeG1ZbmxlUGh2aHdzQ2QwMTRlUWhDNlFZYkZBb01WU2FONllRd3d3UQ?oc=5",
+      "title": "NFLers flex their muscle at Las Vegas arm wrestling competi… - theScore",
+      "summary": "NFLers flex their muscle at Las Vegas arm wrestling competi… theScore",
+      "published_ts": 1782050564,
+      "source_name": "Google News Arm Wrestling",
+      "score": 57.643207149072126,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
+    }
+  ],
+  "france": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPelllQUlXR3RVYkNLalJNVnpqdm1NWlg4ODNwVU4teHBYRWRLcUNmWUVNVG9wZmRYdXRLekRNQzllYXptb0REWWtEZTlDRnE1WVN0eldVQ0huWXJWdkNZcFdTTjVkczhfUWFBNE5CbVFab0JLN3p2RjZKUmNjMXp4dmFhcEQ2Mkk2eWd4Q0xsQWh5TXVBV3BjRmtjN285eDZHTExXdjRrQzJqSzlJX0NVbU1QY0JYM0J6VDBwWmRQTHVueFRDLUE?oc=5",
+      "title": "Montpellier : « On a gagné le bras de fer », Caudullo après avoir écarté le Stade Français - Quinze Mondial",
+      "summary": "Montpellier : « On a gagné le bras de fer », Caudullo après avoir écarté le Stade Français Quinze Mondial",
+      "published_ts": 1782040311,
+      "source_name": "Google News Armwrestling FR",
+      "score": 50.23839773779565,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
+    }
+  ],
+  "news": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5",
+      "title": "Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS",
+      "summary": "Ukrainian defense forces killed Russian arm-wrestling champion Makayev UA.NEWS",
+      "published_ts": 1781700048,
+      "source_name": "Google News Armwrestling EN",
+      "score": 52.00689285993576,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
+    }
+  ],
+  "youtube_media": [
+    {
       "url": "https://www.youtube.com/watch?v=gXA60Ad6el4",
       "title": "MIKE FORD VS JI HYUN MIN main event evw asia",
       "summary": "https://www.youtube.com/live/XHLp8m1TawM\n\nfor full event ^^\n\nContact/bookings - https://nolimitsarmwrestling.com/contact-devon/\n\nEvent links - https://EVWsports.com/\n\nget behind your Athlete - \nhttps://stake.armbet.net/\n\nsigned merch\nhttps://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_type=product\n\nhttps://godproject.life/\n\n▼ Merch:\nhttps://nolimitsarmwrestling.com/nolimits/\nhttps://armbet.net\n\n▬▬▬▬▬▬▬ ABOUT DEVON LARRATT  ▬▬▬▬▬▬▬\n\nin the pursuit of strength and all good times\n\n► Website → https://www.armbet.com\n\n▼ Devon Larratt Social Media:\n• Instagram → @devlarratt\n• TikTok → @devonlarratt\n• Tag me on social media: #devonlarratt\n\n▼ ArmBet:\n• Google Play → https://play.google.com/store/apps/details?id=com.armbet.app\n• iPhone https://apps.apple.com/tt/app/armbet/id1525205708\n\n▼ Vets and First Responders: \nhttp://spartanwellness.ca/\n\n▼ Good Times Game: \nhttps://play.google.com/store/apps/details?id=com.quierogames.canadarun2\n\n▼ Fan Mail: \nDevon Larratt\nPO Box 931\nRichmond Ontario\nCanada K0A 2Z0",
       "published_ts": 1781962878,
       "source_name": "Devon Larratt",
       "score": 63.3538254011761,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
-      "url": "https://www.youtube.com/shorts/4zWa1_edqlw",
-      "title": "10 000$ Armwrestling match",
-      "summary": "",
-      "published_ts": 1781527999,
-      "source_name": "Voice of Armwrestling",
-      "score": 57.09302680058913,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
