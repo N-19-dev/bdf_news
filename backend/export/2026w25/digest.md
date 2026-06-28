@@ -64,8 +64,6 @@ h…
 - [Michael Todd vs Oleg Petrenko | EVW 24 Full Match](https://www.youtube.com/watch?v=Q7O62eQTYPM) — East vs West Armwrestling · 2026-06-17
   - Official EVW website: https://evwsports.com/
 - [EVW 24: Pavlo Derbedyenyev vs Corey West](https://www.youtube.com/shorts/Rw7gqKUMR_U) — East vs West Armwrestling · 2026-06-17
-- [Artyom Morozov vs Ermes Gasparini  | EVW 24 Full Match](https://www.youtube.com/watch?v=DL0fEGGKyew) — East vs West Armwrestling · 2026-06-17
-  - Official EVW website: https://evwsports.com/
 - [WAF PARA-ARMWRESTLING](https://www.youtube.com/watch?v=51t6uErCkRQ) — WAF (World Armwrestling Federation) · 2026-06-17
 - [KING OF THE TABLE ARM WRESTLING CHAMPIONSHIP 2026 at EVW 24](https://www.youtube.com/watch?v=c5GbDnW3Ens) — ARMWRESTLING TV (Schoolboy) · 2026-06-17
   - King of the Table Armwrestling Tournament at EvW24 in Little Rock , Arkansas 
@@ -75,9 +73,6 @@ Subscribe for NEW VIDEOS
 https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 Join this channel t…
-- [EVW 24: Jānis Amoliņš vs Craig Tullier](https://www.youtube.com/shorts/P1IDzaKv_Zw) — East vs West Armwrestling · 2026-06-16
-- [Bogdan Stoica vs Todd Hutchings | EVW 24 Full Match](https://www.youtube.com/watch?v=LHC5z3LyN9E) — East vs West Armwrestling · 2026-06-16
-  - Official EVW website: https://evwsports.com/
 - [Ohh day - touring with WT outfitters (party spot)](https://www.youtube.com/watch?v=rrw93Cj5AKs) — Devon Larratt · 2026-06-16
   - https://www.facebook.com/share/1KxS1YFY64/
 
@@ -95,20 +90,19 @@ https://www.radtkesport…
 ## 🌟 Athlètes & Interviews
 
 - [Gordon Ryan vs John Brzenk Armwrestling](https://www.youtube.com/shorts/CTZgv1TQePw) — Voice of Armwrestling · 2026-06-21
-- [Arm wrestling can shape competitive youth and build strong communities – Devon Larratt - Sabah Media](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnc3TDRBY215SWlKeHVSb1l4cE8wMHA3bWdJVlVqTlgzUG1LSU1yMXhGeWRzU3l6a0E4bnpud1RtMzBCOWFOQ1JkMmg5b1ZadTdVWE0xNlBGUjNfdHRKMjRCYVZ2dUo1Z05RUEU2bThmb2U2eE1vSHdqUTlMcm9nWXd2OUpQdjN1RVFDNW5EaXI0VEpOeE9Jakk4V0VlNm9lM1Q3bjJ2c2tQeUE0bjJ6RFJ4ZjdqY2c5d1ZJ?oc=5) — Google News Armwrestling EN · 2026-06-20
+- [Arm wrestling can shape competitive youth and build strong communities – Devon Larratt - Sabah Media](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnc3TDRBY215SWlKeHVSb1l4cE8wMHA3bWdJVlVqTlgzUG1LSU1yMXhGeWRzU3l6a0E4bnpud1RtMzBCOWFOQ1JkMmg5b1ZadTdVWE0xNlBGUjNfdHRKMjRCYVZ2dUo1Z05RUEU2bThmb2U2eE1vSHdqUTlMcm9nWXd2OUpQdjN1RVFDNW5EaXI0VEpOeE9Jakk4V0VlNm9lM1Q3bjJ2c2tQeUE0bjJ6RFJ4ZjdqY2c5d1ZJ?oc=5) — Google News Arm Wrestling · 2026-06-20
   - Arm wrestling can shape competitive youth and build strong communities – Devon Larratt Sabah Media
 - [New PR attempt! I have it my best 🤷🏻‍♂️#armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/49fSvgBJFfQ) — Monster Michael Todd · 2026-06-20
 - [Pronation LIFE!! #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/v2prXloZp5c) — Monster Michael Todd · 2026-06-20
 - [Thank you @markmclartyford for your support! #armwrestling #worldchampion #ford #f150](https://www.youtube.com/shorts/zwjLmSXNNjU) — Monster Michael Todd · 2026-06-19
-- [Not bad for 53! That being said, stretching routine begins tomorrow! #armwrestling #worldchampion](https://www.youtube.com/shorts/2xS7425fu_w) — Monster Michael Todd · 2026-06-19
 - [Devon Larratt vs Lars Rorbakken 2026](https://www.youtube.com/shorts/XZ7n4olWP00) — Voice of Armwrestling · 2026-06-19
-- [Arm wrestling champion Devon Larratt discovers Sabah - Daily Express Malaysia](https://news.google.com/rss/articles/CBMizwFBVV95cUxPT0F3TjhEQkFwOU5RUEc0MGhHd29wbTRJRTM3YjZmc0o3Y3lxZGNmMXdKSXJEOFdGaXMwZjFwTEc4c2E2amNOUEg1UmMxNXFkVm9vbXJVQVFjMG1tTkh2UE1Qb0RDUEJSc2NnaDVJVmlUbV9ITnlXak03VlJza1NDbW8xdlJVcDR2clByYndxTVdUQVlKNGNBOTdGZGpmeFpEa2hOMUNLVW16NVFqbGlMczdQQ0ZHUE9DRzI5ZGp0enktV3BXZ0FsY2ZneEF3Sjg?oc=5) — Google News Devon Larratt · 2026-06-19
+- [Arm wrestling champion Devon Larratt discovers Sabah - Daily Express Malaysia](https://news.google.com/rss/articles/CBMingFBVV95cUxQZklMLVE2M216eDNCbEJEMnVqVlJZaTEwdWFxblNXMThXZEdLM1NNSkNMWmFDVzYyT0ZxLWtPMmk3Wk4xYzBuamFFLWFkMTl1dkxqQVU5TXM0cWdtcUc3WVlrZ2NXLXF2M3FyZEVxbTlxOXBGeGV4ZDc3c3FQNFNSSVJXSklLZDk1NjZCLWZ5cnZiUXVaMU5IckE0SmtLQQ?oc=5) — Google News Devon Larratt · 2026-06-19
   - Arm wrestling champion Devon Larratt discovers Sabah Daily Express Malaysia
 - [WORLD RANKING ARM WRESTLER DEVON LARRATT AND WIFE EXPERIENCE SABAH’S TOURISM ATTRACTIONS - Nabalu News](https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2gwV04yLXlCVXZpYUdoNVJPWnZoenMtbTctOXhyQl9lSUo3aTVoYW4ycUVrdHFvRnJiY1JMVHNuVVBSdFVabHZrWW1ZdmNOVmgyc2F1bVRCMVVCU1NaMmU5MG02RzNXNmJFbGN4MW9LZlhfVkpqSGRYcWd0SVl1QWxNT1c0aWlxdkNhU1dpU1cxZFpCU3lQNXhLN0V1N29QZzE5ZnMtSUNvWmdWbTdjSHZiNHRkWXpmd0NZUw?oc=5) — Google News Devon Larratt · 2026-06-19
   - WORLD RANKING ARM WRESTLER DEVON LARRATT AND WIFE EXPERIENCE SABAH’S TOURISM ATTRACTIONS Nabalu News
-- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Armwrestling EN · 2026-06-17
+- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Arm Wrestling · 2026-06-17
   - Ukrainian defense forces killed Russian arm-wrestling champion Makayev UA.NEWS
-- ['It's more than just strength': Talking arm-wrestling with Gisborne champion - NZ Herald](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdVVXenlaeXJPN3k4eWVTRnRpVGlSX2t0elg3WHBrTmUxTHJtRzBjclZ0VDV0TVI5dEthYnNpd1I4UEpUQ3NMSVB4bjZjQ1NkZkpPZUdVRFI1QVFxM3JsNGtCS3FSeENobmVhZ1R3RlpEZVFJSGhTZkdDV2h4R19RcENlVzFmenJWaXV1SnhCOEpLY0F4eFpRb3RabnVKVVkzbG85T0F3emJSOUUzSGFXMkFzY3ItejltX1RRanlmcEpRWHA3WXlEU2lpYTVaOUQ3MXpZXy05WnVhd29h?oc=5) — Google News Armwrestling EN · 2026-06-17
+- ['It's more than just strength': Talking arm-wrestling with Gisborne champion - NZ Herald](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdVVXenlaeXJPN3k4eWVTRnRpVGlSX2t0elg3WHBrTmUxTHJtRzBjclZ0VDV0TVI5dEthYnNpd1I4UEpUQ3NMSVB4bjZjQ1NkZkpPZUdVRFI1QVFxM3JsNGtCS3FSeENobmVhZ1R3RlpEZVFJSGhTZkdDV2h4R19RcENlVzFmenJWaXV1SnhCOEpLY0F4eFpRb3RabnVKVVkzbG85T0F3emJSOUUzSGFXMkFzY3ItejltX1RRanlmcEpRWHA3WXlEU2lpYTVaOUQ3MXpZXy05WnVhd29h?oc=5) — Google News Arm Wrestling · 2026-06-17
   - 'It's more than just strength': Talking arm-wrestling with Gisborne champion NZ Herald
 - [Devon Larratt vs John Brzenka 2026](https://www.youtube.com/shorts/mo7yICbiMVo) — Voice of Armwrestling · 2026-06-15
 
@@ -120,13 +114,9 @@ https://www.radtkesport…
 - [Day 1 SP/Shoulder Press/Side Pressure #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/dPWIq19R1Mw) — Monster Michael Todd · 2026-06-20
 - [Road to EVW 26: Waiting Was A HUGE Mistake](https://www.youtube.com/watch?v=MY03x1bAhx4) — Monster Michael Todd · 2026-06-20
   - Claim your 10 Free Meals + Free Breakfast for Life by using code MMTHF at https://hellofresh.yt.link/jGbo97a ! One free meal per box with active subscription. Free meals applied as discount on first box, new or returning subscribers only, v…
-- [“If you’ve got an arm, anyone can do it” - PressReader](https://news.google.com/rss/articles/CBMid0FVX3lxTFBfZFpoWG5EcGl4WGp5VDFKRDVpcThRanZ0emtSVE9xbjB6MFBoaUU4WEp5VlZzXzk4NWY3dmxuYVBNX2FtUGU3a1RjaVp5ZnBQMXZZTW1odTRxUmxhS3plYzFyMF9IWXJjcDRVdjNaeFRGSEt0SU9N?oc=5) — Google News Devon Larratt · 2026-06-19
-  - “If you’ve got an arm, anyone can do it” PressReader
 
 ## 🎬 YouTube & Médias
 
-- [Can You BEAT This BODYBUILDER at ARM WRESTLING? - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XaVZuSTNYZ3RMbWh5TkZnUnp6NWIzTFV2aGc1cFN3VHg3cjJOZ1lkLWZNd1g3dFEteXJnclpDRUpGWW5OTXRDUmhJX0VPTnluRTB6M1JZckRWTHRv?oc=5) — Google News Armwrestling EN · 2026-06-20
-  - Can You BEAT This BODYBUILDER at ARM WRESTLING? YouTube
 - [I got crushed by 64 years old armwrestling legend #shorts #shortvideo](https://www.youtube.com/shorts/b5eKbkUMnw4) — ARMWRESTLING TV (Schoolboy) · 2026-06-19
   - Watch the full video here 
 

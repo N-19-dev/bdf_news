@@ -6,7 +6,7 @@
 - [Ohh day - touring with WT outfitters (party spot)](https://www.youtube.com/watch?v=rrw93Cj5AKs) — Devon Larratt · 2026-06-16 · **62/100**
 - [Day 1 SP/Shoulder Press/Side Pressure #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/dPWIq19R1Mw) — Monster Michael Todd · 2026-06-20 · **60/100**
 - [Road to EVW 26: Waiting Was A HUGE Mistake](https://www.youtube.com/watch?v=MY03x1bAhx4) — Monster Michael Todd · 2026-06-20 · **59/100**
-- [Arm wrestling can shape competitive youth and build strong communities – Devon Larratt - Sabah Media](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnc3TDRBY215SWlKeHVSb1l4cE8wMHA3bWdJVlVqTlgzUG1LSU1yMXhGeWRzU3l6a0E4bnpud1RtMzBCOWFOQ1JkMmg5b1ZadTdVWE0xNlBGUjNfdHRKMjRCYVZ2dUo1Z05RUEU2bThmb2U2eE1vSHdqUTlMcm9nWXd2OUpQdjN1RVFDNW5EaXI0VEpOeE9Jakk4V0VlNm9lM1Q3bjJ2c2tQeUE0bjJ6RFJ4ZjdqY2c5d1ZJ?oc=5) — Google News Armwrestling EN · 2026-06-20 · **59/100**
+- [Arm wrestling can shape competitive youth and build strong communities – Devon Larratt - Sabah Media](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnc3TDRBY215SWlKeHVSb1l4cE8wMHA3bWdJVlVqTlgzUG1LSU1yMXhGeWRzU3l6a0E4bnpud1RtMzBCOWFOQ1JkMmg5b1ZadTdVWE0xNlBGUjNfdHRKMjRCYVZ2dUo1Z05RUEU2bThmb2U2eE1vSHdqUTlMcm9nWXd2OUpQdjN1RVFDNW5EaXI0VEpOeE9Jakk4V0VlNm9lM1Q3bjJ2c2tQeUE0bjJ6RFJ4ZjdqY2c5d1ZJ?oc=5) — Google News Arm Wrestling · 2026-06-20 · **59/100**
 - [Day 2 PEBP/Up Pressure/Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/SAhnxZUp6hk) — Monster Michael Todd · 2026-06-21 · **58/100**
 
 ## competitions
@@ -17,7 +17,7 @@
 
 ## news
 
-- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Armwrestling EN · 2026-06-17 · **52/100**
+- [Ukrainian defense forces killed Russian arm-wrestling champion Makayev - UA.NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVlpZZ3VFV1lySEgtU0FOU0JZU1V1MlFsb1hVVmxrSjJWXzNGM0xQSnpjWkE1Q25yZjhoV2hZVDlFN1hOSVVnOGRQdHE4SHAtVVZ2bXJMcmpVVWRXeV9BSGxsSjM1UW9Qb3BESlZBVlRfU01fRk9BWXBEZVJBTWNRN3o1dzYyZzNleGY3dXliak1CLVEzV05GMWFOMlg4dGlvLTE5bG90MHhnQQ?oc=5) — Google News Arm Wrestling · 2026-06-17 · **52/100**
 
 ## youtube_media
 
