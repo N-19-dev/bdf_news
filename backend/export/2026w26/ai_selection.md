@@ -2,7 +2,6 @@
 
 ## athletes
 
-- [What is this defence called?](https://www.reddit.com/r/armwrestling/comments/1ui8tvq/what_is_this_defence_called/) — Reddit Armwrestling (Top) · 2026-06-28 · **62/100**
 - [Gaya st market walk - Sabah](https://www.youtube.com/watch?v=7_-_S0i2ZV8) — Devon Larratt · 2026-06-22 · **62/100**
 - [Is Janis Amolins brave enough to hook?](https://www.youtube.com/shorts/DRwLUpNaRdo) — Voice of Armwrestling · 2026-06-28 · **61/100**
 - [Day 2 Shoulder Press & PEBP 150lbs/68kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/QE9cgO-VlFY) — Monster Michael Todd · 2026-06-23 · **60/100**
@@ -16,6 +15,10 @@
 ## france
 
 - [Elle bat un homme au bras de fer et la vidéo divise les internautes - The Body Optimist](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDFoZU5uTnNjRnBpbmN4SkVKWmJfdmQwYnlwa2dwRWlndGUtWjloNUVkMHFmdW82eDBkTlVxbmcydW1XSU11VzVLVXA2NmhFVUQ0U2FBbTludzh3eXVaanpYZ1dKRzRmVjRrekxVOGVaYlRRRzFCa0J2X29ka2FMX3pydnM1RGxRTWF0MWI4WW9UZjJYTlVlU2toMGNyS1hz?oc=5) — Google News Armwrestling FR · 2026-06-28 · **55/100**
+
+## news
+
+- [She beats a man at arm wrestling and the video divides internet users - The Body Optimist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXM4OUpaSjFvS0s2R3Nwb2RLcmhocmV3UXFfNGpJYnRRMG5CaE1ZSHRlRFFjS1g5MFJXeG1nVUpZbFV4eDVfWUFHcnVoWHE4RjRQUjRBcF9tRzdSY2tPUzJaMzhDRWxnN09aWEZfTENMRWVWWl9QODZlRkh6eVFILURTVHJzdjdOTm1Eay1sYXJrQlFPSkRsYXQ4TEtWUndrUkJyc3FuYWV2bEhJNmtJQ3Z4MFY4RWtMYXQ4ZA?oc=5) — Google News Arm Wrestling · 2026-06-28 · **55/100**
 
 ## training
 
