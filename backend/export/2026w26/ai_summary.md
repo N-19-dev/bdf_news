@@ -1,12 +1,12 @@
 ## Aperçu général de la semaine
 
-Cette semaine a été marquée par l'annonce de la prochaine compétition de bras de fer à Miami et la publication de vidéos de entraînement et d'interviews avec des athlètes de renom. Les athlètes ont partagé leurs séances d'entraînement et leurs préparatifs pour les prochaines compétitions.
+Cette semaine a été marquée par l'annonce de la prochaine compétition majeure, le 2026 MIAMI ARM WRESTLING CHAMPIONSHIP, ainsi que par des vidéos de entraînement et de compétitions qui ont divisé les internautes.
 
 ## 🏆 Compétitions & Résultats
 
 - [2026 MIAMI ARM WRESTLING CHAMPIONSHIP](https://www.youtube.com/watch?v=7EBFz6AXkpI) — ARMWRESTLING TV (Schoolboy) · 2026-06-23
 - [The Biggest Left Arm Match in a Decade](https://www.youtube.com/watch?v=enurP-JtS54) — Voice of Armwrestling · 2026-06-25
-- [Krasimir: Nugo be a man and hook!](https://www.youtube.com/shorts/v3mXjCLLoRM) — East vs West Armwrestling · 2026-06-28
+- [She beats a man at arm wrestling and the video divides internet users - The Body Optimist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXM4OUpaSjFvS0s2R3Nwb2RLcmhocmV3UXFfNGpJYnRRMG5CaE1ZSHRlRFFjS1g5MFJXeG1nVUpZbFV4eDVfWUFHcnVoWHE4RjRQUjRBcF9tRzdSY2tPUzJaMzhDRWxnN09aWEZfTENMRWVWWl9QODZlRkh6eVFILURTVHJzdjdOTm1Eay1sYXJrQlFPSkRsYXQ4TEtWUndrUkJyc3FuYWV2bEhJNmtJQ3Z4MFY4RWtMYXQ4ZA?oc=5) — Google News Arm Wrestling · 2026-06-28
 
 ## 🌟 Athlètes & Interviews
 
@@ -18,13 +18,11 @@ Cette semaine a été marquée par l'annonce de la prochaine compétition de bra
 
 ## 💪 Entraînement & Technique
 
-- [Finger training..](https://www.youtube.com/shorts/Ck17t8rQ8V4) — Engin Terzi (Enigma of Rage) · 2026-06-27
-- [Table training](https://www.youtube.com/watch?v=Y-8HOj6-ryQ) — Engin Terzi (Enigma of Rage) · 2026-06-28
+- [Finger training..](https://www.youtube.com/shorts/Ck17
 
 ## 🎬 YouTube & Médias
 
-- [The Biggest Left Arm Match in a Decade](https://www.youtube.com/watch?v=enurP-JtS54) — Voice of Armwrestling · 2026-06-25
-- [Hollywood Matt Connelly Live! Episode 90 - Ryan  Bowen and Cvetan Gashevski](https://www.youtube.com/watch?v=No45xd4SOjk) — Pound for Pound Armwrestling · 2026-06-28
+_Rien d’important cette semaine._
 
 ## 🇫🇷 Bras de Fer France
 
@@ -32,4 +30,4 @@ Cette semaine a été marquée par l'annonce de la prochaine compétition de bra
 
 ## 📰 Actualités & Annonces
 
-_Rien d’important cette semaine._
+- [She beats a man at arm wrestling and the video divides internet users - The Body Optimist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXM4OUpaSjFvS0s2R3Nwb2RLcmhocmV3UXFfNGpJYnRRMG5CaE1ZSHRlRFFjS1g5MFJXeG1nVUpZbFV4eDVfWUFHcnVoWHE4RjRQUjRBcF9tRzdSY2tPUzJaMzhDRWxnN09aWEZfTENMRWVWWl9QODZlRkh6eVFILURTVHJzdjdOTm1Eay1sYXJrQlFPSkRsYXQ4TEtWUndrUkJyc3FuYWV2bEhJNmtJQ3Z4MFY4RWtMYXQ4ZA?oc=5) — Google News Arm Wrestling · 2026-06-28

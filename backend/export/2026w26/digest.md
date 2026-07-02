@@ -60,8 +60,11 @@ h…
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
 - [Table training](https://www.youtube.com/watch?v=Y-8HOj6-ryQ) — Engin Terzi (Enigma of Rage) · 2026-06-28
-- [Krasimir: Nugo be a man and hook!](https://www.youtube.com/shorts/v3mXjCLLoRM) — East vs West Armwrestling · 2026-06-28
 - [Finger training..](https://www.youtube.com/shorts/Ck17t8rQ8V4) — Engin Terzi (Enigma of Rage) · 2026-06-27
+- [Arm Wrestling: The Sport That Looks Like Strength and Plays Like Chess - AOL.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZlFkaExkS2dHLTVObm9od2hURGZ0dU5oNmhhaktGS01fZ1BlTmQ0NExLUUVnbGx2SlUwb2ROd09VVk9ub0NzdUZaTzZrRnpDWThOR0x5cTNiX1FmczF0VWlZcENFd2l5U2hMLWJVTnM2NFBmZDVUMzFYaVd4X3UxUWtlcnZSUQ?oc=5) — Google News Arm Wrestling · 2026-06-27
+  - Arm Wrestling: The Sport That Looks Like Strength and Plays Like Chess AOL.com
+- [Arm Wrestling: The Sport That Looks Like Strength and Plays Like Chess - Men's Fitness](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnZ6aWdMTHpYRUVFQ3V3VDFpZ3RueXg0WGI0d3ZmdVRXWDVsQjhDZk1DRE02UG9kR3lMZGJOZlp2QXplZFFMRFBNeVJnck9QMWdkM2JTY212OXdLcjB0YXV6eG95YXdjRU51UFN5OGZKOVV5ZDVsa0xOclFyWXJUd1J3RnhGNEdNZzFCbDdDd00wOHp5THF3?oc=5) — Google News Arm Wrestling · 2026-06-26
+  - Arm Wrestling: The Sport That Looks Like Strength and Plays Like Chess Men's Fitness
 - [Day 2 side pressure & up pressure! #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/e3NDpSbNhy8) — Monster Michael Todd · 2026-06-25
 - [Pronation at all times](https://www.youtube.com/shorts/o8rUcyCYQPE) — Engin Terzi (Enigma of Rage) · 2026-06-25
 - [isometric pronation..](https://www.youtube.com/shorts/Muh0JtzMUE4) — Engin Terzi (Enigma of Rage) · 2026-06-23
@@ -70,5 +73,7 @@ h…
 
 ## 🎬 YouTube & Médias
 
+- [She beats a man at arm wrestling and the video divides internet users - The Body Optimist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXM4OUpaSjFvS0s2R3Nwb2RLcmhocmV3UXFfNGpJYnRRMG5CaE1ZSHRlRFFjS1g5MFJXeG1nVUpZbFV4eDVfWUFHcnVoWHE4RjRQUjRBcF9tRzdSY2tPUzJaMzhDRWxnN09aWEZfTENMRWVWWl9QODZlRkh6eVFILURTVHJzdjdOTm1Eay1sYXJrQlFPSkRsYXQ4TEtWUndrUkJyc3FuYWV2bEhJNmtJQ3Z4MFY4RWtMYXQ4ZA?oc=5) — Google News Arm Wrestling · 2026-06-28
+  - She beats a man at arm wrestling and the video divides internet users The Body Optimist
 - [Yan Diomandé, le bras de fer entre Paris et Liverpool s’intensifie - Sport.fr](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVFCVWc3Ynl5Vm9GMkZJQmVGMGRocHVZZlMyMDBWVExRUnVVMTZDaXpGcFprZnQtS29YWkJwUFZicVlRUmd4WkpsZldNcjJRSFpvRGhTTy1zN2tySm9XMWF4X0lJdkhVaUM5QmhUUzcybWhxT044WkdVQ0p3dVI0YWdzWHlXcm5KZkNTek5TVWotcG1ucEI5czVLWGFDdndjZTQ1TGRjTm9tX0k?oc=5) — Google News Armwrestling FR · 2026-06-22
   - Yan Diomandé, le bras de fer entre Paris et Liverpool s’intensifie Sport.fr
