@@ -1,12 +1,11 @@
 ## Aperçu général de la semaine
 
-Cette semaine a été marquée par l'annonce de la prochaine compétition majeure, le 2026 MIAMI ARM WRESTLING CHAMPIONSHIP, ainsi que par des vidéos de entraînement et de compétitions qui ont divisé les internautes.
+Cette semaine, la communauté du bras de fer a été active avec plusieurs compétitions, entraînements et interviews. La vidéo de Yan Diomandé, le bras de fer entre Paris et Liverpool, a été partagée sur les réseaux sociaux, créant une grande attention autour de l'événement.
 
 ## 🏆 Compétitions & Résultats
 
 - [2026 MIAMI ARM WRESTLING CHAMPIONSHIP](https://www.youtube.com/watch?v=7EBFz6AXkpI) — ARMWRESTLING TV (Schoolboy) · 2026-06-23
 - [The Biggest Left Arm Match in a Decade](https://www.youtube.com/watch?v=enurP-JtS54) — Voice of Armwrestling · 2026-06-25
-- [She beats a man at arm wrestling and the video divides internet users - The Body Optimist](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXM4OUpaSjFvS0s2R3Nwb2RLcmhocmV3UXFfNGpJYnRRMG5CaE1ZSHRlRFFjS1g5MFJXeG1nVUpZbFV4eDVfWUFHcnVoWHE4RjRQUjRBcF9tRzdSY2tPUzJaMzhDRWxnN09aWEZfTENMRWVWWl9QODZlRkh6eVFILURTVHJzdjdOTm1Eay1sYXJrQlFPSkRsYXQ4TEtWUndrUkJyc3FuYWV2bEhJNmtJQ3Z4MFY4RWtMYXQ4ZA?oc=5) — Google News Arm Wrestling · 2026-06-28
 
 ## 🌟 Athlètes & Interviews
 
@@ -18,11 +17,20 @@ Cette semaine a été marquée par l'annonce de la prochaine compétition majeur
 
 ## 💪 Entraînement & Technique
 
-- [Finger training..](https://www.youtube.com/shorts/Ck17
+- [Finger training..](https://www.youtube.com/shorts/Ck17t8rQ8V4) — Engin Terzi (Enigma of Rage) · 2026-06-27
 
 ## 🎬 YouTube & Médias
 
-_Rien d’important cette semaine._
+- [The Biggest Left Arm Match in a Decade](https://www.youtube.com/watch?v=enurP-JtS54) — Voice of Armwrestling · 2026-06-25
+- [Table training](https://www.youtube.com/watch?v=Y-8HOj6-ryQ) — Engin Terzi (Enigma of Rage) · 2026-06-28
+- [Hollywood Matt Connelly Live! Episode 90 - Ryan  Bowen and Cvetan Gashevski](https://www.youtube.com/watch?v=No45xd4SOjk) — Pound for Pound Armwrestling · 2026-06-28
+
+**À creuser :**
+**
+
+- Les vidéos de Monster Michael Todd sur son entraînement et ses compétitions.
+- L'interview de Yan Diomandé sur son bras de fer entre Paris et Liverpool.
+- Les commentaires de la communauté
 
 ## 🇫🇷 Bras de Fer France
 
