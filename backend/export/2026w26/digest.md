@@ -45,12 +45,11 @@ h…
 - [Burey-en-Vaux. À 22 ans, Romain Dal Borgo est champion d’Europe de bras de fer - L'Est Républicain](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHB2QkdPc0Z6VWt4WG1haUprb1E3REpUSnlURE1fMGxiNUVvdXBFSlVORVhsUzZobVRJU05lYlM3V3B4QVgtWlJ1V2t5MXdKUkhteUpzNVY3SU5qVkkzZ0RnalNMNk9teWUxdDYwcXVlMGJGNlBseTJ0NmlfaGQ0YjdsVTAwSmh2Y1hZMmd3Z1B5aEZnbmlPYXlYZlpNb3BpZFk3SWd4YVgwc0Y3aTdDV0JXckZWdTdSZnZZ?oc=5) — Google News Armwrestling FR · 2026-06-27
   - Burey-en-Vaux. À 22 ans, Romain Dal Borgo est champion d’Europe de bras de fer L'Est Républicain
 - [Day SP & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/6FyWIlAxGXU) — Monster Michael Todd · 2026-06-26
-- [Jewish athlete wins European arm wrestling silver after taking on younger rivals - Jewish News](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVNuMl9yR29wTFd5dVVOaEFzeFpFUGttNVRVZWN6YUUtZ1RCaXRkMlJKVXJtcVc3MTVvWnVGanZKekxqLWN0SHY0QTRxVDlGT3RzVVFXNmNIY0VxR29BdGNITm5LSTlwS0xoZ1pNNjNyRVl2cnpRc1llTXNIWlBJZ1M0Q2liRTh4TzNXSFVXWV9qSmxDTlVFMGdsWlJXLXROQ0k2VGJSVW9sbk8taDM40gG0AUFVX3lxTE1wZEdlWlRVQkZ3MnNCdUNLZnFzYzZXZ2NGc2dxZEZGVVVha1gwM0pQZDd5OGswTWNfV0ZGcHA5NS13UXNPbXZ4QTRIR0dSQ3dEQWlBM2JVYXJLZTZFOUl5Q19xc2lCWjBjclhQT1ZTaS0zT2FBRGxYUXI5cHhQVE04M2FMSTU4OXN2dTdfcU9nVEZsSndYQXBFMHRpN1pBM2lqck5GN0U2TmVrdWtGa1hCY2RCSA?oc=5) — Google News Arm Wrestling · 2026-06-25
+- [Jewish athlete wins European arm wrestling silver after taking on younger rivals - Jewish News](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVNuMl9yR29wTFd5dVVOaEFzeFpFUGttNVRVZWN6YUUtZ1RCaXRkMlJKVXJtcVc3MTVvWnVGanZKekxqLWN0SHY0QTRxVDlGT3RzVVFXNmNIY0VxR29BdGNITm5LSTlwS0xoZ1pNNjNyRVl2cnpRc1llTXNIWlBJZ1M0Q2liRTh4TzNXSFVXWV9qSmxDTlVFMGdsWlJXLXROQ0k2VGJSVW9sbk8taDM40gG0AUFVX3lxTE1wZEdlWlRVQkZ3MnNCdUNLZnFzYzZXZ2NGc2dxZEZGVVVha1gwM0pQZDd5OGswTWNfV0ZGcHA5NS13UXNPbXZ4QTRIR0dSQ3dEQWlBM2JVYXJLZTZFOUl5Q19xc2lCWjBjclhQT1ZTaS0zT2FBRGxYUXI5cHhQVE04M2FMSTU4OXN2dTdfcU9nVEZsSndYQXBFMHRpN1pBM2lqck5GN0U2TmVrdWtGa1hCY2RCSA?oc=5) — Google News Armwrestling EN · 2026-06-25
   - Jewish athlete wins European arm wrestling silver after taking on younger rivals Jewish News
 - [Back to deadlift training! Body weight 238lbs/108kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/yvjDkzI_HR0) — Monster Michael Todd · 2026-06-24
 - [Day 2 Shoulder Press & PEBP 150lbs/68kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/QE9cgO-VlFY) — Monster Michael Todd · 2026-06-23
 - [Day 2 Riser Curl 88lbs/39.9kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/dZz-Wsg4mgs) — Monster Michael Todd · 2026-06-22
-- [Day 2 SP 139.5lbs/63.3kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/5FqmnGjCndo) — Monster Michael Todd · 2026-06-22
 
 ## 💪 Entraînement & Technique
 
@@ -61,6 +60,8 @@ h…
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
 - [Table training](https://www.youtube.com/watch?v=Y-8HOj6-ryQ) — Engin Terzi (Enigma of Rage) · 2026-06-28
 - [Finger training..](https://www.youtube.com/shorts/Ck17t8rQ8V4) — Engin Terzi (Enigma of Rage) · 2026-06-27
+- [Arm Wrestling: The Sport That Looks Like Strength and Plays Like Chess - AOL.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZlFkaExkS2dHLTVObm9od2hURGZ0dU5oNmhhaktGS01fZ1BlTmQ0NExLUUVnbGx2SlUwb2ROd09VVk9ub0NzdUZaTzZrRnpDWThOR0x5cTNiX1FmczF0VWlZcENFd2l5U2hMLWJVTnM2NFBmZDVUMzFYaVd4X3UxUWtlcnZSUQ?oc=5) — Google News Arm Wrestling · 2026-06-27
+  - Arm Wrestling: The Sport That Looks Like Strength and Plays Like Chess AOL.com
 - [Arm Wrestling: The Sport That Looks Like Strength and Plays Like Chess - Men's Fitness](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnZ6aWdMTHpYRUVFQ3V3VDFpZ3RueXg0WGI0d3ZmdVRXWDVsQjhDZk1DRE02UG9kR3lMZGJOZlp2QXplZFFMRFBNeVJnck9QMWdkM2JTY212OXdLcjB0YXV6eG95YXdjRU51UFN5OGZKOVV5ZDVsa0xOclFyWXJUd1J3RnhGNEdNZzFCbDdDd00wOHp5THF3?oc=5) — Google News Arm Wrestling · 2026-06-26
   - Arm Wrestling: The Sport That Looks Like Strength and Plays Like Chess Men's Fitness
 - [Day 2 side pressure & up pressure! #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/e3NDpSbNhy8) — Monster Michael Todd · 2026-06-25
