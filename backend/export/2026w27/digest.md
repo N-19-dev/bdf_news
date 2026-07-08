@@ -2,8 +2,10 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [This 16-year-old N.L. arm wrestler was more than a handful at national championships - CBC](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHNjSVVFVHE1NzItMW1fWTRRdXJfT21aNElQb1dyLVNtQnBjcmgyYTdhQlN1QXJ4Q2dFcTRFN3pHeW1keXQ0eDBUY0ZNWm9oTUlreEdkaXE3cXAwSmF1QlVFVUZtMlBncktfSVFTQjVQeVY0QkhGSDdFYUJPYV9COGNmV1I1WDIydHloRg?oc=5) — Google News Armwrestling EN · 2026-07-05
+- [This 16-year-old N.L. arm wrestler was more than a handful at national championships - CBC](https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHNjSVVFVHE1NzItMW1fWTRRdXJfT21aNElQb1dyLVNtQnBjcmgyYTdhQlN1QXJ4Q2dFcTRFN3pHeW1keXQ0eDBUY0ZNWm9oTUlreEdkaXE3cXAwSmF1QlVFVUZtMlBncktfSVFTQjVQeVY0QkhGSDdFYUJPYV9COGNmV1I1WDIydHloRg?oc=5) — Google News Arm Wrestling · 2026-07-05
   - This 16-year-old N.L. arm wrestler was more than a handful at national championships CBC
+- [Arm wrestling champ brings home gold in national championship - MSN](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaEdKZzVkQ0M4ckNJWVJjemp6QzBtOE1hUVNyRFE2NXNVbkRVa3dCNktYNHdtSmI0ZXdFUTE2MHYyUmY4MnMzUmJwOHp0OEdZT3hfSlNKTzhEN1lHbW9raG5SZms2ZHVMTkdkWENCVXpCd2pMekxvYWswaWRkTk5hWnlpZUxZUFpLaUZLS1hyb1VJR28wQVRFVUY5WmVYVTBVWlNHclN1ZG1WOVhZUkxEU08teXpRVS1LN2dsR0xQMTk?oc=5) — Google News Armwrestling EN · 2026-07-04
+  - Arm wrestling champ brings home gold in national championship MSN
 - [Gabriela Vasconcelos vs Jocelyne Brisson at EVW 19](https://www.youtube.com/shorts/3jF2_Q1BakI) — East vs West Armwrestling · 2026-07-04
 - [Arm wrestling champ brings home gold in national championship - CBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCNzBsMlZyTXlSbzkxbkc4Y3N2OUJ2bjNRc0g1c2Ftc3NXUlNSdUtENGt3WVdoNkdDV1BEbEdBYy1mdmRGRk91SEFtMllKcTcxWGlVSGJyZjBxUQ?oc=5) — Google News Arm Wrestling · 2026-07-04
   - Arm wrestling champ brings home gold in national championship CBC
@@ -23,8 +25,6 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [World Series of Arm Wrestling Launches the World’s First Fully Holographic Athletic Tournament with Soapbox - EIN Presswire](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTGc1bFhyeDdQZFhIR0tuSDhZMUVPS1BuMWc1WU5faW9jOFBWbzNJUlVaYXB4NDNoa25aWnNjZEFSck9FR1p0THF4QTBhYlc5ZHVkLVlOellUT0JWUkFDVHFMdzRNTXc1a3RoMktVVHZpQWVHcnQ4QWpUc2x1OXlsekFZa2g0RUdYbUFzeXd6b2tMM1dJUXRsTGt5ZHhBZDl5VVRHd0RaUlBhX0diclc2aGhGdm9RbXY2UEdvT2lNQ0pKTTVpMjFUZXlueWpEa1F0aUpDQ0FFckV5eUdSY0cxMHpJTU90V21xT2c?oc=5) — Google News Arm Wrestling · 2026-07-02
-  - World Series of Arm Wrestling Launches the World’s First Fully Holographic Athletic Tournament with Soapbox EIN Presswire
 - [Lightning storm - ottawa canada](https://www.youtube.com/watch?v=PNCZEk3Nbas) — Devon Larratt · 2026-07-01
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -45,7 +45,6 @@ Eliza Cup explodes onto the scene this weekend on the 5th of July and brings pro
 
 Featuring many World Champions against India’s best, a…
 - [Georgi Tsvetkov vs Dave Chaffee at EVW 17](https://www.youtube.com/shorts/5GychOnusek) — East vs West Armwrestling · 2026-06-30
-- [Paul Linn vs Sasho Andreev at EVW 7](https://www.youtube.com/shorts/20zHmUOHgik) — East vs West Armwrestling · 2026-06-30
 - [looking forward and recap](https://www.youtube.com/watch?v=rSQDp77cUB4) — Devon Larratt · 2026-06-30
   - https://www.facebook.com/share/194iNDMoHi/
 
@@ -100,9 +99,7 @@ https://www.instagra…
 - [ADAM WAWRZYNSKI & NURDAULET AIDARKHAN | EVW 25 LIVESTREAM](https://www.youtube.com/watch?v=dbYyFexqhRQ) — East vs West Armwrestling · 2026-07-04
   - EVW 25 - 1st of August, Batumi, Georgia
 Official EVW website: https://evwsports.com/
-- [Koo Sung-hwan Injures Ligament in Arm Wrestling on 'I Live Alone' - 조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2UwaWRjTzFBY0NpTHlVb1BOUUQ2TTBJR2RJNEk3TlhMWTVKV2dhYTdDV1ZSMS1JSXo2UW5KYjdWeUtnWmJoWG5YWngzTHNkYl9EXzBvMVByN2hsNzUyc2VLYy1YTExKVVlCVEE4WFFBdXY2WFVRZGZCNTdQd2xSZVBMYWd4Q1pHeGVfWWRB?oc=5) — Google News Arm Wrestling · 2026-07-03
-  - Koo Sung-hwan Injures Ligament in Arm Wrestling on 'I Live Alone' 조선일보
-- [Ku Sung-hwan injures ligament after arm wrestling on I Live Alone - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalZPMTE2QWhLdEs0MTBiMVJacWMwMDI0RGptTzRtRUw0eGpmMzJJSnA0UUhrV3pmOGtEQm8xSkx5TVI3R0VWekRaZ1F3aFcwY1hQcjlQOEJYaEZMcVFKRVQ4ODBCVjZvQXUyLXpfT0Q0cUQweVpOTm1odE53Q0Fwc2RxNVZvdE9I0gGcAUFVX3lxTE9qMHZRY1hmWHhVVVQyTkJqclBsNmdsWDhXaWw2NmlTRURmcmF1VHFEVkVPdlZsSlpGMVQ2RTQ5TVlTWXo1S2xMWEJDelFaNmtZVUJOd1h1LTY4ZU9oaVVMNm9qRURlYXF5aUtOOGdjTGVkTkpHdTJabWNuZ2sxWGdzWnF0V1pzaUZVMHZpUGhXRzUxckxRMi05X3VBNA?oc=5) — Google News Armwrestling EN · 2026-07-03
+- [Ku Sung-hwan injures ligament after arm wrestling on I Live Alone - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalZPMTE2QWhLdEs0MTBiMVJacWMwMDI0RGptTzRtRUw0eGpmMzJJSnA0UUhrV3pmOGtEQm8xSkx5TVI3R0VWekRaZ1F3aFcwY1hQcjlQOEJYaEZMcVFKRVQ4ODBCVjZvQXUyLXpfT0Q0cUQweVpOTm1odE53Q0Fwc2RxNVZvdE9I0gGcAUFVX3lxTE9qMHZRY1hmWHhVVVQyTkJqclBsNmdsWDhXaWw2NmlTRURmcmF1VHFEVkVPdlZsSlpGMVQ2RTQ5TVlTWXo1S2xMWEJDelFaNmtZVUJOd1h1LTY4ZU9oaVVMNm9qRURlYXF5aUtOOGdjTGVkTkpHdTJabWNuZ2sxWGdzWnF0V1pzaUZVMHZpUGhXRzUxckxRMi05X3VBNA?oc=5) — Google News Arm Wrestling · 2026-07-03
   - Ku Sung-hwan injures ligament after arm wrestling on I Live Alone - CHOSUNBIZ Chosunbiz
 - [DANIEL PROCOPCIUC & VACHAGAN HOVHANNISYAN | EVW 25 LIVESTREAM](https://www.youtube.com/watch?v=w0OtXggW34w) — East vs West Armwrestling · 2026-07-03
   - EVW 25 - 1st of August, Batumi, Georgia
@@ -115,7 +112,5 @@ Official EVW website: https://evwsports.com/
 
 ## 📰 Actualités & Annonces
 
-- [Koo Sung-hwan, boasted about his arm wrestling strength and suffered a ligament injury... "Really foolish," criticized [I Live Alone][★Night TView] - starnewskorea.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTlRMVhIekR5bVZMUi1BT21aODB3M3djdVJhdFVNQWhLYWpPNHB5OXM4Y1Zhc3RWYWNkaHUtenhFNE9MV3FwaE9zX1dHZTQwZkRCUkp4T3hWcnVrQ3JfUi1OQUd3V2VjRHkybjRNQnJWYnJhR3lDZXlzRFhNcUs4QUY3SVc?oc=5) — Google News Arm Wrestling · 2026-07-03
-  - Koo Sung-hwan, boasted about his arm wrestling strength and suffered a ligament injury... "Really foolish," criticized [I Live Alone][★Night TView] starnewskorea.com
-- ['Big, blokey guys' who need to talk find brotherhood in arm wrestling - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFA4LXczYTMtVzVweVF1czVSaGFMVHU5bTdkUkJONHNrYUo3ZGw4OGk0Y0c1c3NpbXcxc2JickNVZnNUclVwWkc1dF9rb1MyR0ljMDE3X1J2TkF6LS1TbTFkRFpZNXltMExHSl9tUUFvMGJNeld6bUtlYUVtUXlRY3JtN25KZ2Qwc09sR0phdnlEa1hCTUpSTA?oc=5) — Google News Armwrestling EN · 2026-07-02
+- ['Big, blokey guys' who need to talk find brotherhood in arm wrestling - ABC News & Headlines – Australian Broadcasting Corporation](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFA4LXczYTMtVzVweVF1czVSaGFMVHU5bTdkUkJONHNrYUo3ZGw4OGk0Y0c1c3NpbXcxc2JickNVZnNUclVwWkc1dF9rb1MyR0ljMDE3X1J2TkF6LS1TbTFkRFpZNXltMExHSl9tUUFvMGJNeld6bUtlYUVtUXlRY3JtN25KZ2Qwc09sR0phdnlEa1hCTUpSTA?oc=5) — Google News Arm Wrestling · 2026-07-02
   - 'Big, blokey guys' who need to talk find brotherhood in arm wrestling ABC News & Headlines – Australian Broadcasting Corporation
