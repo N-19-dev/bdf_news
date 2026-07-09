@@ -1,6 +1,6 @@
 ## Aperçu général de la semaine
 
-Cette semaine a été marquée par l'annonce de plusieurs compétitions importantes, notamment le 33rd SENEC HAND IFA Armwrestling World Cup et le Kraków Open Cup 2026. Les athlètes ont également partagé des vidéos sur leurs entraînements et leurs performances.
+Cette semaine, les athlètes de l'arm-wrestling ont été actifs sur les réseaux sociaux, partageant leurs entraînements, leurs compétitions et leurs interviews. Les événements importants de la semaine incluent la 33ème édition du SENEC HAND IFA Armwrestling World Cup et le Kraków Open Cup 2026.
 
 ## 🏆 Compétitions & Résultats
 
@@ -9,7 +9,6 @@ Cette semaine a été marquée par l'annonce de plusieurs compétitions importan
 
 **À creuser :**
 **
-- [UST Rehab Sciences valedictorian wins silver in int’l arm wrestling tournament - The Varsitarian](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXRSMFJjcjBjdklTREdUMmZxUzNObFIxcUVPWWQ1SHN6THhoQVdhMEsyUGJ1UDVfb0xTT2cyZ0JWTmxmNUJReWZGLUl1c1BzSHBJMmtKS3QxbWdpNUR6M205eWN0OHdSc1hDZG1URjhaVVRVdU1yTUlnZEdVTlQ5UWh0TkRjRXg3NVd4RlZnQmpWOVJhamY4Q0Rhdm9tTWVUTjU5QndQVklQZDlOQk94dGFPcUx1ekg3Zkw4OUNEeVd0N2g2?oc=5) — Google News Armwrestling EN · 2026-07-04
 
 ## 🌟 Athlètes & Interviews
 
@@ -21,7 +20,7 @@ Cette semaine a été marquée par l'annonce de plusieurs compétitions importan
 
 **À creuser :**
 **
-- [UST Rehab Sciences valedictorian wins silver in int’l arm wrestling tournament - The Varsitarian](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXRSMFJjcjBjdklTREdUMmZxUzNObFIxcUVPWWQ1SHN6THhoQVdhMEsyUGJ1UDVfb0xTT2cyZ0JWTmxmNUJReWZGLUl1c1BzSHBJMmtKS3QxbWdpNUR6M205eWN0OHdSc1hDZG1URjhaVVRVdU1yTUlnZEdVTlQ5UWh0TkRjRXg3NVd4RlZnQmpWOVJhamY4Q0Rhdm9tTWVUTjU5QndQVklQZDlOQk94dGFPcUx1ekg3Zkw4OUNEeVd0N2g2?oc=5) — Google News Armwrestling EN · 2026-07-04
+- [UST Rehab Sciences valedictorian wins silver in int’l arm wrestling tournament - The Varsitarian](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXRSMFJjcjBjdklTREdUMmZxUzNObFIxcUVPWWQ1SHN6THhoQVdhMEsyUGJ1UDVfb0xTT2cyZ0JWTmxmNUJReWZGLUl1c1BzSHBJMmtKS3QxbWdpNUR6M205eWN0OHdSc1hDZG1URjhaVVRVdU1yTUlnZEdVTlQ5UWh0TkRjRXg3NVd4RlZnQmpWOVJhamY4Q0Rhdm9tTWVUTjU5QndQVklQZDlOQk94dGFPcUx1ekg3Zkw4OUNEeVd0N2g2?oc=5) — Google News Arm Wrestling · 2026-07-04
 
 ## 💪 Entraînement & Technique
 
@@ -36,12 +35,11 @@ Cette semaine a été marquée par l'annonce de plusieurs compétitions importan
 
 **À creuser :**
 **
-- [UST Rehab Sciences valedictorian wins silver in
 
 ## 🇫🇷 Bras de Fer France
 
-_Rien d’important cette semaine._
+- Aucun article spécifique à cette section
 
 ## 📰 Actualités & Annonces
 
-_Rien d’important cette semaine._
+- Aucun article spécifique à cette section
