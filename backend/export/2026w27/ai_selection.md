@@ -3,6 +3,7 @@
 ## athletes
 
 - [Ray & Janis Armwrestling vs Corey West](https://www.youtube.com/watch?v=L8szqqeCEEY) — Voice of Armwrestling · 2026-06-30 · **63/100**
+- [Quebec unboxing - Matt Bigras](https://www.youtube.com/watch?v=ygUmz8BHGss) — Devon Larratt · 2026-07-03 · **62/100**
 - [looking forward and recap](https://www.youtube.com/watch?v=rSQDp77cUB4) — Devon Larratt · 2026-06-30 · **62/100**
 - [Day 4 Shoulder Press & PEBP 155lbs/70.3kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/4E6H2JTi-6I) — Monster Michael Todd · 2026-07-02 · **60/100**
 - [Checking to see if my arm wrestling strength is still there](https://www.youtube.com/shorts/EQAtsolsl10) — Larry Wheels · 2026-06-30 · **60/100**
@@ -17,6 +18,5 @@
 ## youtube_media
 
 - [SCHOOLBOY TRIES TO BEAT DEVON LARRATT LIFT ft AKIMBO 69](https://www.youtube.com/watch?v=zck4LuOuerM) — ARMWRESTLING TV (Schoolboy) · 2026-07-02 · **65/100**
-- [Quebec unboxing - Matt Bigras](https://www.youtube.com/watch?v=ygUmz8BHGss) — Devon Larratt · 2026-07-03 · **62/100**
 - [Lightning storm - ottawa canada](https://www.youtube.com/watch?v=PNCZEk3Nbas) — Devon Larratt · 2026-07-01 · **62/100**
 - [Can Sarah Bäckman & Tina Survive Jānis Amoliņš's Training?](https://www.youtube.com/watch?v=iK-U2ckRRD8) — Voice of Armwrestling · 2026-07-04 · **61/100**

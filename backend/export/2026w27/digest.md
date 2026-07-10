@@ -23,8 +23,8 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [World Series of Arm Wrestling Launches the World’s First Fully Holographic Athletic Tournament with Soapbox - EIN Presswire](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTGc1bFhyeDdQZFhIR0tuSDhZMUVPS1BuMWc1WU5faW9jOFBWbzNJUlVaYXB4NDNoa25aWnNjZEFSck9FR1p0THF4QTBhYlc5ZHVkLVlOellUT0JWUkFDVHFMdzRNTXc1a3RoMktVVHZpQWVHcnQ4QWpUc2x1OXlsekFZa2g0RUdYbUFzeXd6b2tMM1dJUXRsTGt5ZHhBZDl5VVRHd0RaUlBhX0diclc2aGhGdm9RbXY2UEdvT2lNQ0pKTTVpMjFUZXlueWpEa1F0aUpDQ0FFckV5eUdSY0cxMHpJTU90V21xT2c?oc=5) — Google News Arm Wrestling · 2026-07-02
-  - World Series of Arm Wrestling Launches the World’s First Fully Holographic Athletic Tournament with Soapbox EIN Presswire
+- [World Series of Arm Wrestling Launches the World’s First Fully Holographic Athletic Tournament with Soapbox - EIN News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOekxIc2dMcGhwY0FsY3lpSWlPTnNPV0paTFBJWXp4dktTYmd4dWQxWFdIS01hcHVXUXNwTXRiRW9IeFdveGNCaHpoZFBCTGNSTE1tSGg1ZFNFd1JvaTY3TDd3M0l4ejFCZC1rbFI4MEVSXzFzaW5wNGd3bUg5c1dfcG95ZWl3d3JOa3o1LXFhT002bHlaUTBKZXBidUdyVlU1Z3pDVTM0dmxLRnJCcUtXcU9QbUpmSjdZQllkZmY5SXVFRVBRcXhLRUo5Vmk4azZoS0Nrdzk1QkVzWHlSVUpuMWU5TdIB6AFBVV95cUxOTXZtU2EzZXhGNmdma3hON0FTaUFaSF9vaFBxUlFTNkNIWmlFUDU4S3JSTEtPYW5hNDhBUUJVSWdrSU1HVU91WlNBU0xhNkVzUTltNFJfR2xnOUh4NE9zQlVSYmtVN21qMGktbHB0Z292VEd2V2RVX3NkWWlhMlpRRnM5VWxfVGhtVDlEbUxLV0s2Q2NZb2hNemRJTmRIU2hudFpOSzVWWlo0TFQxdEZra2pGaENrSG9WQ3lmNllOaFUyVEZ1UHc2bjFYWXhPVjc0a2w4R1dIbTVvdmRCc1g2WThIU25DM3Jq?oc=5) — Google News Arm Wrestling · 2026-07-02
+  - World Series of Arm Wrestling Launches the World’s First Fully Holographic Athletic Tournament with Soapbox EIN News
 - [Lightning storm - ottawa canada](https://www.youtube.com/watch?v=PNCZEk3Nbas) — Devon Larratt · 2026-07-01
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -35,7 +35,6 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [Is EVW protecting athletes from Kamil and Georgi?](https://www.youtube.com/shorts/CKPku1x3eIc) — East vs West Armwrestling · 2026-07-01
 - [The THRILL OF VICTORY, especially when you do what they say can’t be done! #armwrestling #worldchamp](https://www.youtube.com/shorts/QMVL0T-Ke6g) — Monster Michael Todd · 2026-07-01
 - [The Eliza Cup 2026](https://www.youtube.com/watch?v=ekuTQ09zVos) — Pound for Pound Armwrestling · 2026-06-30
   - GUWAHATI, ASSAM! ARE YOU READY?
@@ -65,12 +64,7 @@ https://stake.arm…
 - [Day 4 Wrist Wrench WC 77lbs/34.9kgs X 5 #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/9cTUINqKEGc) — Monster Michael Todd · 2026-07-03
 - [Waterloo’s Brent Wakeling wins national arm-wrestling silver after beating defending champion - The Pulse of the Eastern Townships](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxcXFmUVZKNlVWT3NCYjZMWlNMRlZkVWlvN1B3QkExQzdTeVd3U0RWMXlfQmdrMlNwb0VDUHlNZWc3RW5Bdmx3WnBsUlNjSjAwa3MzcnNIdnpzd0JqcUkxakMzdm54bVJPS1dTUkV0S204bXBUNXZzcV9UY2hOUQ?oc=5) — Google News Arm Wrestling · 2026-07-02
   - Waterloo’s Brent Wakeling wins national arm-wrestling silver after beating defending champion The Pulse of the Eastern Townships
-- [Monster cleans up at nationals, eyes heavyweight title this fall - Hot Springs Sentinel Record](https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzNpMkRxR2NpanRYTG1TSWpiR3BFUnRmczZUaVFKcno5SDFfRHplYmRES0RaWEJ5TE1rdGY1bzdqRFE0WWlITjRNWWl1T1lLNTB4cDEtajBqT0NMZUlrYjZFaDJZZklvZlRiaXpySDYwajNZQXZLazlORDBDbG0zMTVEY28xTm9HZ2xjZ1hydnA?oc=5) — Google News Armwrestling EN · 2026-07-02
-  - Monster cleans up at nationals, eyes heavyweight title this fall Hot Springs Sentinel Record
 - [Day 4 Shoulder Press & PEBP 155lbs/70.3kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/4E6H2JTi-6I) — Monster Michael Todd · 2026-07-02
-- [Georgi Tsvetkov thinks Vitaly Laletin is Overrated](https://www.youtube.com/shorts/lDe4RATAUZQ) — East vs West Armwrestling · 2026-07-01
-- [Day 4 SP & RC 144.5lbs/65.5kgs & 91lbs/41.3kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/_tB3cWpVk_Y) — Monster Michael Todd · 2026-07-01
-- [Wrist Wrench WC 74.5lbs/33.8kgs X 5 #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/1Tkw9hG-71g) — Monster Michael Todd · 2026-06-30
 
 ## 💪 Entraînement & Technique
 
@@ -101,8 +95,6 @@ https://www.instagra…
 Official EVW website: https://evwsports.com/
 - [Koo Sung-hwan Injures Ligament in Arm Wrestling on 'I Live Alone' - 조선일보](https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2UwaWRjTzFBY0NpTHlVb1BOUUQ2TTBJR2RJNEk3TlhMWTVKV2dhYTdDV1ZSMS1JSXo2UW5KYjdWeUtnWmJoWG5YWngzTHNkYl9EXzBvMVByN2hsNzUyc2VLYy1YTExKVVlCVEE4WFFBdXY2WFVRZGZCNTdQd2xSZVBMYWd4Q1pHeGVfWWRB?oc=5) — Google News Arm Wrestling · 2026-07-03
   - Koo Sung-hwan Injures Ligament in Arm Wrestling on 'I Live Alone' 조선일보
-- [Ku Sung-hwan injures ligament after arm wrestling on I Live Alone - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalZPMTE2QWhLdEs0MTBiMVJacWMwMDI0RGptTzRtRUw0eGpmMzJJSnA0UUhrV3pmOGtEQm8xSkx5TVI3R0VWekRaZ1F3aFcwY1hQcjlQOEJYaEZMcVFKRVQ4ODBCVjZvQXUyLXpfT0Q0cUQweVpOTm1odE53Q0Fwc2RxNVZvdE9I0gGcAUFVX3lxTE9qMHZRY1hmWHhVVVQyTkJqclBsNmdsWDhXaWw2NmlTRURmcmF1VHFEVkVPdlZsSlpGMVQ2RTQ5TVlTWXo1S2xMWEJDelFaNmtZVUJOd1h1LTY4ZU9oaVVMNm9qRURlYXF5aUtOOGdjTGVkTkpHdTJabWNuZ2sxWGdzWnF0V1pzaUZVMHZpUGhXRzUxckxRMi05X3VBNA?oc=5) — Google News Arm Wrestling · 2026-07-03
-  - Ku Sung-hwan injures ligament after arm wrestling on I Live Alone - CHOSUNBIZ Chosunbiz
 - [DANIEL PROCOPCIUC & VACHAGAN HOVHANNISYAN | EVW 25 LIVESTREAM](https://www.youtube.com/watch?v=w0OtXggW34w) — East vs West Armwrestling · 2026-07-03
   - EVW 25 - 1st of August, Batumi, Georgia
 Official EVW website: https://evwsports.com/
