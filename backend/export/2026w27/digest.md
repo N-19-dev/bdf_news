@@ -59,7 +59,6 @@ https://stake.arm…
 - [Day 4 Wrist Wrench WC 77lbs/34.9kgs X 5 #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/9cTUINqKEGc) — Monster Michael Todd · 2026-07-03
 - [Waterloo’s Brent Wakeling wins national arm-wrestling silver after beating defending champion - The Pulse of the Eastern Townships](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxcXFmUVZKNlVWT3NCYjZMWlNMRlZkVWlvN1B3QkExQzdTeVd3U0RWMXlfQmdrMlNwb0VDUHlNZWc3RW5Bdmx3WnBsUlNjSjAwa3MzcnNIdnpzd0JqcUkxakMzdm54bVJPS1dTUkV0S204bXBUNXZzcV9UY2hOUQ?oc=5) — Google News Arm Wrestling · 2026-07-02
   - Waterloo’s Brent Wakeling wins national arm-wrestling silver after beating defending champion The Pulse of the Eastern Townships
-- [Day 4 Shoulder Press & PEBP 155lbs/70.3kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/4E6H2JTi-6I) — Monster Michael Todd · 2026-07-02
 
 ## 💪 Entraînement & Technique
 
