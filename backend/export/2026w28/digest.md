@@ -26,8 +26,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 - [Adam Wawrzynski is ready for a rematch vs Nurdaulet](https://www.youtube.com/shorts/w5x9qMkpGws) — East vs West Armwrestling · 2026-07-10
 - [Nurdaulet has an insane achievent in Armwrestling](https://www.youtube.com/shorts/4-FoVho_D8E) — East vs West Armwrestling · 2026-07-10
 - [Who will win at EVW 25: Oleg Zhokh vs Luka Tsinadze](https://www.youtube.com/shorts/4FfMu_ScbpM) — East vs West Armwrestling · 2026-07-09
-- [Newcastle pub host's North East's first-ever arm wrestling championships - Chronicle Live](https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUJxRUFlUkdmYkJfVi1UbFZiamxTdGRmbVdWQzZ4MkVaNENURW5JaXZ2Z25nbzl0Y1dIenFPRzJYUUdNbEtMSE40YzI4WFFOYTBrQnNSY2NUMEdXU0xmTnd6MUp3N3F0Z25keHhzRzNPRG1KODVLWjJaUDdpcDB2bHZNMDI1YWk0WTItbkFwa1M5aVlJN21TWThCVF9qWTVaeldCZ1pB0gGrAUFVX3lxTE02MTZ2RmR6djhKeFNoQnVtSnpEYVhsdlN6N0VjTTVzZ1BqQ013Ukh1QW1SQjN4Wks3OUZ3c0RZVExBZkJ3TUFPcWZYSGFnSm0wM2RXbmdtcl9SRjFSVXpzT25RUU1pVFVQVW5jT2JJTnNkN25jTDFITW8tV0szeFFpOWZoQXpNTUFvdEdWUlotRGM2MUNBTFB0UmIxUVZycUZSVTNlNVl4dDk2cw?oc=5) — Google News Armwrestling EN · 2026-07-09
-  - Newcastle pub host's North East's first-ever arm wrestling championships Chronicle Live
 - [They Put a $100 Bounty on My Right Arm!](https://www.youtube.com/watch?v=RRFFmnwaOls) — Monster Michael Todd · 2026-07-07
   - When Sean Hancock announced there would be a $100 bounty on my right arm at AUA ArmWrestling Nationals, I had two choices...
 Take it easy...Or make it even harder.
@@ -85,7 +83,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 - [Day 7 SP & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/wA6I2QeMjis) — Monster Michael Todd · 2026-07-08
 - [Day 6 Up Pressure 130.5lbs/59.2kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/e7EzD9evfCk) — Monster Michael Todd · 2026-07-08
 - [Day 6 Shoulder Press & PEBP 160lbs/72.6kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/EYrlub0Fpoc) — Monster Michael Todd · 2026-07-07
-- [Vitaly Laletin vs Devon Larratt at EVW 22](https://www.youtube.com/shorts/DAAi2kWU34Y) — East vs West Armwrestling · 2026-07-06
 - [Day 6 SP & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/ytj7rDQHfpI) — Monster Michael Todd · 2026-07-06
 
 ## 💪 Entraînement & Technique
@@ -98,7 +95,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
 - [Side Pressure 149.5lbs/67.8kgs X 5 #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/XAcpahK4Fl4) — Monster Michael Todd · 2026-07-07
-- [Side Pressure & Up Pressure 147lbs/66.7kgs & 128lbs/58kgs #armwrestling #worldchampion #phil413](https://www.youtube.com/shorts/cxZ8a6uHejg) — Monster Michael Todd · 2026-07-06
 
 ## 🎬 YouTube & Médias
 
@@ -110,20 +106,12 @@ Official EVW website: https://evwsports.com/
 - [VLADISLAVS KRASOVSKIS & ARTEM POPOV | EVW 25 LIVESTREAM](https://www.youtube.com/watch?v=nURUMFbMsZs) — East vs West Armwrestling · 2026-07-09
   - EVW 25 - 1st of August, Batumi, Georgia
 Official EVW website: https://evwsports.com/
-- [OLEG ZHOKH & LUKA TSINADZE | EVW 25 LIVESTREAM](https://www.youtube.com/watch?v=zD1KExHxaGM) — East vs West Armwrestling · 2026-07-08
-  - EVW 25 - 1st of August, Batumi, Georgia
-Official EVW website: https://evwsports.com/
-
-## 🇫🇷 Bras de Fer France
-
-- [Montpellier : « On a gagné le bras de fer », Caudullo après avoir écarté le Stade Français - MSN](https://news.google.com/rss/articles/CBMixwNBVV95cUxNTUpFazRXN3lWZ3U0Mzc0OXEwRmxISjJzMzk5eEVWV2p3WlBNYll5QmJFZlJ1dGEwZGFIUUxJR2UwZUhnVm95TmRTVHpRbWN0OGVJb21oMi1CLWZHVFcwbURkcks2SFN3Umgwb28zdDJXN3ZqNWhyNkl1RTdsdVhuZGEwVVdVQ3ZNZml4VW5NTHRLUzJuZnF4MXQ4S240NzRFWFZXcnVkNnQ2b1FuY25sSVpvLWUyV1lSekZ0UDBBRFNkMTFpc0FBQWJjU3NsNmVzZUdydC1KYVFOTjVFb194ZzQtUHB1alFCUHlfQUlVR0NVQkNuZ1hDMUNUU2t0SUc2N3JmRU54alY0LXdqN2w3bC1rMGJ3OTRzNE5ieUtTaUcwaUF6RDd3a09hT1ZOUkxudXYwZW5FbHR1WWFtWGJLSVphVHVMQThUR3JPZjdONkZkRGlIRW5tRTd4TmJ1eXNMZ2hCbTVoOEFqWURYdHJ4LVo0aUZ4dGJMc2Z5dk80OUVBa3daUGlVc003WENQaDJCVnpoVncwcHhZOC1faFRqakZkZHc2TUhOSTJFNGpuNUdub3R3RE14WWpUVFdMenJRSzFYa0NrYw?oc=5) — Google News Armwrestling FR · 2026-07-12
-  - Montpellier : « On a gagné le bras de fer », Caudullo après avoir écarté le Stade Français MSN
 
 ## 📰 Actualités & Annonces
 
-- [Decorated Nebraska arm wrestler comes full circle at Cornhusker State games - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkpIUHBOU2xGTmxfdWF4NHprZEtsU1NJNC00WTY1R2thTHBPNE5nWkpHQVlRSDNZdU53UGlISVNFVmgxQUdOa0tzdVU4Y1ctV2RyYkpfbFJ2d1RSWmNqYk9OWlRjZTVxaFNJSjQ4N05iNWtWa1lOSFc0ODJNbzN3RTAyTWh4RXgydTVMX0Z6el9TeVBEQXVtVGdPOW9BXzh1UWhCQW9LQXBCMFB00gHAAUFVX3lxTE5jUWhrSk5yV0NhQ3RZMzFya1kyUmI2MWtyM2tQc1c5c0VtN3daeXpvZUtEVXY0Qms2SmpERW0yN1RuZmNEQmpnMk9WRVFmcUUtTjV6SkJNNnJNTDN3QnVzNDNGYWNiMnU2OVB4blVHZG1SaVd5ZDdlYzk0YUJoMGZNUl9hTUFMb0NyZUhvcU9GZDM3eGtBNzZsdXNCLU5WQ004MFFLcGhYMzc3NEUxOFFQOVlMVm9PVFVEUk9MWXk0Qw?oc=5) — Google News Arm Wrestling · 2026-07-12
+- [Decorated Nebraska arm wrestler comes full circle at Cornhusker State games - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkpIUHBOU2xGTmxfdWF4NHprZEtsU1NJNC00WTY1R2thTHBPNE5nWkpHQVlRSDNZdU53UGlISVNFVmgxQUdOa0tzdVU4Y1ctV2RyYkpfbFJ2d1RSWmNqYk9OWlRjZTVxaFNJSjQ4N05iNWtWa1lOSFc0ODJNbzN3RTAyTWh4RXgydTVMX0Z6el9TeVBEQXVtVGdPOW9BXzh1UWhCQW9LQXBCMFB00gHAAUFVX3lxTE5jUWhrSk5yV0NhQ3RZMzFya1kyUmI2MWtyM2tQc1c5c0VtN3daeXpvZUtEVXY0Qms2SmpERW0yN1RuZmNEQmpnMk9WRVFmcUUtTjV6SkJNNnJNTDN3QnVzNDNGYWNiMnU2OVB4blVHZG1SaVd5ZDdlYzk0YUJoMGZNUl9hTUFMb0NyZUhvcU9GZDM3eGtBNzZsdXNCLU5WQ004MFFLcGhYMzc3NEUxOFFQOVlMVm9PVFVEUk9MWXk0Qw?oc=5) — Google News Armwrestling EN · 2026-07-12
   - Decorated Nebraska arm wrestler comes full circle at Cornhusker State games KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE
 - [Cape Breton girl to represent Canada in arm wrestling in Japan - PNI Atlantic News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXEzMUxZNDFTanFRRlozeHUxUG1JcW1UNUM2VzF5SE4xOEpaWjV1RUF0VW84Wk1leTVxb21Oa3FVMmJJYXpWaTVXLUVFdnZWemZfeFhvSDJjbWpaWWhWajNxaXRtOHFxZnhuY0NDY1JKeGhxOVhjWVVIZUJvTzVERFZRUUJpNnl4cUplZUFQV3JhTUNGdGxYal9XbGFDZTNC?oc=5) — Google News Armwrestling EN · 2026-07-06
   - Cape Breton girl to represent Canada in arm wrestling in Japan PNI Atlantic News
-- [Arm wrestlers are pulling above their weight across Ohio - The Statehouse News Bureau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFc0bklKUUVYekEzMFhMbzFfbEhZNmxjc0hMbGpjaC1MQmJCbm1EM2NocjlNelRhSEMzS3RKTk81QzVrWHBjaHFRdjMtRWZHZ1h1VWg0QzhUUEliVzZUbURXQ0ZIeWhSTU1qNW51N1YxT1ltaXhKMm92ZTdtQlZOWXFSVk1kZnVLNW1VUmhMN3hnSThMMk50X1JVUmIybjUtcW15bGo4MWZyRXBHYmVIak55dk9XbnVCNFlv?oc=5) — Google News Arm Wrestling · 2026-07-06
+- [Arm wrestlers are pulling above their weight across Ohio - The Statehouse News Bureau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFc0bklKUUVYekEzMFhMbzFfbEhZNmxjc0hMbGpjaC1MQmJCbm1EM2NocjlNelRhSEMzS3RKTk81QzVrWHBjaHFRdjMtRWZHZ1h1VWg0QzhUUEliVzZUbURXQ0ZIeWhSTU1qNW51N1YxT1ltaXhKMm92ZTdtQlZOWXFSVk1kZnVLNW1VUmhMN3hnSThMMk50X1JVUmIybjUtcW15bGo4MWZyRXBHYmVIak55dk9XbnVCNFlv?oc=5) — Google News Armwrestling EN · 2026-07-06
   - Arm wrestlers are pulling above their weight across Ohio The Statehouse News Bureau
