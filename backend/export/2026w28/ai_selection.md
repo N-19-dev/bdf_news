@@ -3,11 +3,10 @@
 ## athletes
 
 - [Levan Saginashvili Ranks the BEST Armwrestlers of All Time! (Tier List)](https://www.youtube.com/watch?v=A_MT2GMXTQs) — Levan Saginashvili · 2026-07-11 · **63/100**
-- [Living here is easy](https://www.youtube.com/watch?v=4ev8rJ0xi_U) — Devon Larratt · 2026-07-06 · **62/100**
+- [Can Jānis Amoliņš Find Sarah Bäckman’s Weakness?](https://www.youtube.com/watch?v=0HfBQeGcALY) — Voice of Armwrestling · 2026-07-08 · **62/100**
 - [Obedjiwan](https://www.youtube.com/watch?v=NpwufH1iLjs) — Devon Larratt · 2026-07-10 · **62/100**
+- [Living here is easy](https://www.youtube.com/watch?v=4ev8rJ0xi_U) — Devon Larratt · 2026-07-06 · **62/100**
 - [Obitchiwan](https://www.youtube.com/watch?v=6kFdG4fV3mc) — Devon Larratt · 2026-07-11 · **62/100**
-- [Can Jānis Amoliņš Find Sarah Bäckman’s Weakness?](https://www.youtube.com/watch?v=0HfBQeGcALY) — Voice of Armwrestling · 2026-07-08 · **61/100**
-- [Day 6 Shoulder Press & PEBP 160lbs/72.6kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/EYrlub0Fpoc) — Monster Michael Todd · 2026-07-07 · **60/100**
 - [Day 7 Shoulder Press & PEBP 162.5lbs/73.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/0TNUlBpR7E4) — Monster Michael Todd · 2026-07-09 · **59/100**
 - [Nurdaulet has an insane achievent in Armwrestling](https://www.youtube.com/shorts/4-FoVho_D8E) — East vs West Armwrestling · 2026-07-10 · **58/100**
 
@@ -26,3 +25,4 @@
 ## youtube_media
 
 - [They Put a $100 Bounty on My Right Arm!](https://www.youtube.com/watch?v=RRFFmnwaOls) — Monster Michael Todd · 2026-07-07 · **62/100**
+- [Live chat with Pradeep](https://www.youtube.com/watch?v=_6MyMJueQzg) — Engin Terzi (Enigma of Rage) · 2026-07-10 · **57/100**

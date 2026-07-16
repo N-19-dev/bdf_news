@@ -79,22 +79,6 @@
       "published_ts": 1783526168,
       "source_name": "Monster Michael Todd",
       "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/EYrlub0Fpoc",
-      "title": "Day 6 Shoulder Press & PEBP 160lbs/72.6kgs #armwrestling #worldchampion #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1783386218,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/ytj7rDQHfpI",
-      "title": "Day 6 SP & Riser Curl #armwrestling #worldchampion #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1783357208,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
     }
   ],
   "competitions": [
@@ -135,14 +119,6 @@
       "title": "Nurdaulet has an insane achievent in Armwrestling",
       "summary": "",
       "published_ts": 1783704710,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/4FfMu_ScbpM",
-      "title": "Who will win at EVW 25: Oleg Zhokh vs Luka Tsinadze",
-      "summary": "",
-      "published_ts": 1783621383,
       "source_name": "East vs West Armwrestling",
       "content_type": "technical"
     },
@@ -190,18 +166,18 @@
       "content_type": "technical"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXEzMUxZNDFTanFRRlozeHUxUG1JcW1UNUM2VzF5SE4xOEpaWjV1RUF0VW84Wk1leTVxb21Oa3FVMmJJYXpWaTVXLUVFdnZWemZfeFhvSDJjbWpaWWhWajNxaXRtOHFxZnhuY0NDY1JKeGhxOVhjWVVIZUJvTzVERFZRUUJpNnl4cUplZUFQV3JhTUNGdGxYal9XbGFDZTNC?oc=5",
-      "title": "Cape Breton girl to represent Canada in arm wrestling in Japan - PNI Atlantic News",
-      "summary": "Cape Breton girl to represent Canada in arm wrestling in Japan PNI Atlantic News",
-      "published_ts": 1783340298,
-      "source_name": "Google News Armwrestling EN",
-      "content_type": "technical"
-    },
-    {
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFc0bklKUUVYekEzMFhMbzFfbEhZNmxjc0hMbGpjaC1MQmJCbm1EM2NocjlNelRhSEMzS3RKTk81QzVrWHBjaHFRdjMtRWZHZ1h1VWg0QzhUUEliVzZUbURXQ0ZIeWhSTU1qNW51N1YxT1ltaXhKMm92ZTdtQlZOWXFSVk1kZnVLNW1VUmhMN3hnSThMMk50X1JVUmIybjUtcW15bGo4MWZyRXBHYmVIak55dk9XbnVCNFlv?oc=5",
       "title": "Arm wrestlers are pulling above their weight across Ohio - The Statehouse News Bureau",
       "summary": "Arm wrestlers are pulling above their weight across Ohio The Statehouse News Bureau",
       "published_ts": 1783328400,
+      "source_name": "Google News Armwrestling EN",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXEzMUxZNDFTanFRRlozeHUxUG1JcW1UNUM2VzF5SE4xOEpaWjV1RUF0VW84Wk1leTVxb21Oa3FVMmJJYXpWaTVXLUVFdnZWemZfeFhvSDJjbWpaWWhWajNxaXRtOHFxZnhuY0NDY1JKeGhxOVhjWVVIZUJvTzVERFZRUUJpNnl4cUplZUFQV3JhTUNGdGxYal9XbGFDZTNC?oc=5",
+      "title": "Cape Breton girl to represent Canada in arm wrestling in Japan - PNI Atlantic News",
+      "summary": "Cape Breton girl to represent Canada in arm wrestling in Japan PNI Atlantic News",
+      "published_ts": 1783321200,
       "source_name": "Google News Armwrestling EN",
       "content_type": "technical"
     }
@@ -247,22 +223,6 @@
       "summary": "#armwrestling #enginterzi #strong",
       "published_ts": 1783714094,
       "source_name": "Engin Terzi (Enigma of Rage)",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=GYP0e6_Zw2o",
-      "title": "GABRIELA VASCONCELOS & IRINA DRIAEVA | EVW 25 LIVESTREAM",
-      "summary": "EVW 25 - 1st of August, Batumi, Georgia\nOfficial EVW website: https://evwsports.com/",
-      "published_ts": 1783580474,
-      "source_name": "East vs West Armwrestling",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=nURUMFbMsZs",
-      "title": "VLADISLAVS KRASOVSKIS & ARTEM POPOV | EVW 25 LIVESTREAM",
-      "summary": "EVW 25 - 1st of August, Batumi, Georgia\nOfficial EVW website: https://evwsports.com/",
-      "published_ts": 1783575157,
-      "source_name": "East vs West Armwrestling",
       "content_type": "technical"
     }
   ]

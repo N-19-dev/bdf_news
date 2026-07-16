@@ -4,19 +4,8 @@
     "url": "https://www.youtube.com/watch?v=A_MT2GMXTQs",
     "source": "Levan Saginashvili",
     "category": "athletes",
-    "score": 62.97884152694182,
+    "score": 62.97883881763978,
     "published_ts": 1783777914,
-    "content_type": "technical",
-    "tech_level": 1,
-    "marketing_score": 0.0
-  },
-  {
-    "title": "Living here is easy",
-    "url": "https://www.youtube.com/watch?v=4ev8rJ0xi_U",
-    "source": "Devon Larratt",
-    "category": "athletes",
-    "score": 62.37230894240466,
-    "published_ts": 1783303942,
     "content_type": "technical",
     "tech_level": 1,
     "marketing_score": 0.0
@@ -26,8 +15,19 @@
     "url": "https://www.youtube.com/watch?v=RRFFmnwaOls",
     "source": "Monster Michael Todd",
     "category": "youtube_media",
-    "score": 61.9296978820454,
+    "score": 62.244081903587684,
     "published_ts": 1783445947,
+    "content_type": "technical",
+    "tech_level": 1,
+    "marketing_score": 0.0
+  },
+  {
+    "title": "Can Jānis Amoliņš Find Sarah Bäckman’s Weakness?",
+    "url": "https://www.youtube.com/watch?v=0HfBQeGcALY",
+    "source": "Voice of Armwrestling",
+    "category": "athletes",
+    "score": 61.90632616931742,
+    "published_ts": 1783519031,
     "content_type": "technical",
     "tech_level": 1,
     "marketing_score": 0.0
