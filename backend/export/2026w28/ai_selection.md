@@ -3,12 +3,12 @@
 ## athletes
 
 - [Levan Saginashvili Ranks the BEST Armwrestlers of All Time! (Tier List)](https://www.youtube.com/watch?v=A_MT2GMXTQs) — Levan Saginashvili · 2026-07-11 · **63/100**
-- [Can Jānis Amoliņš Find Sarah Bäckman’s Weakness?](https://www.youtube.com/watch?v=0HfBQeGcALY) — Voice of Armwrestling · 2026-07-08 · **62/100**
-- [Obedjiwan](https://www.youtube.com/watch?v=NpwufH1iLjs) — Devon Larratt · 2026-07-10 · **62/100**
 - [Living here is easy](https://www.youtube.com/watch?v=4ev8rJ0xi_U) — Devon Larratt · 2026-07-06 · **62/100**
+- [Obedjiwan](https://www.youtube.com/watch?v=NpwufH1iLjs) — Devon Larratt · 2026-07-10 · **62/100**
 - [Obitchiwan](https://www.youtube.com/watch?v=6kFdG4fV3mc) — Devon Larratt · 2026-07-11 · **62/100**
+- [Can Jānis Amoliņš Find Sarah Bäckman’s Weakness?](https://www.youtube.com/watch?v=0HfBQeGcALY) — Voice of Armwrestling · 2026-07-08 · **61/100**
 - [Day 7 Shoulder Press & PEBP 162.5lbs/73.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/0TNUlBpR7E4) — Monster Michael Todd · 2026-07-09 · **59/100**
-- [Nurdaulet has an insane achievent in Armwrestling](https://www.youtube.com/shorts/4-FoVho_D8E) — East vs West Armwrestling · 2026-07-10 · **58/100**
+- [Levan Saginashvili Ranks the BEST Armwrestlers of All Time! (Tier List) - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE10ZFpPTHhlaERZR1BXcGVPM1RWZlR6a3pmV1M5UWtfTUFiQm9heFF1bFlseS1YU0RzWkM2ZWpGNmR5UkdMNGsyRkJxalYza2dKUkE1VUh3Wk1tc0Uy?oc=5) — Google News Levan Saginashvili · 2026-07-11 · **56/100**
 
 ## competitions
 

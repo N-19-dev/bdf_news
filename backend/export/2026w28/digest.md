@@ -23,8 +23,6 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [Adam Wawrzynski is ready for a rematch vs Nurdaulet](https://www.youtube.com/shorts/w5x9qMkpGws) — East vs West Armwrestling · 2026-07-10
-- [Nurdaulet has an insane achievent in Armwrestling](https://www.youtube.com/shorts/4-FoVho_D8E) — East vs West Armwrestling · 2026-07-10
 - [They Put a $100 Bounty on My Right Arm!](https://www.youtube.com/watch?v=RRFFmnwaOls) — Monster Michael Todd · 2026-07-07
   - When Sean Hancock announced there would be a $100 bounty on my right arm at AUA ArmWrestling Nationals, I had two choices...
 Take it easy...Or make it even harder.
@@ -91,7 +89,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
-- [Side Pressure 149.5lbs/67.8kgs X 5 #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/XAcpahK4Fl4) — Monster Michael Todd · 2026-07-07
 
 ## 🎬 YouTube & Médias
 

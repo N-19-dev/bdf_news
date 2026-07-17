@@ -1,6 +1,6 @@
 ## Aperçu général de la semaine
 
-Cette semaine, l'armwrestling a été marqué par plusieurs vidéos intéressantes sur YouTube, notamment des entraînements et des compétitions. Levan Saginashvili a également partagé son classement des meilleurs armwrestlers de tous les temps.
+Cette semaine, Levan Saginashvili a révélé son classement des meilleurs armurieurs de tous les temps, tandis que Devon Larratt a partagé des vidéos de ses entraînements et de ses compétitions.
 
 ## 🏆 Compétitions & Résultats
 
@@ -11,12 +11,12 @@ Cette semaine, l'armwrestling a été marqué par plusieurs vidéos intéressant
 ## 🌟 Athlètes & Interviews
 
 - [Levan Saginashvili Ranks the BEST Armwrestlers of All Time! (Tier List)](https://www.youtube.com/watch?v=A_MT2GMXTQs) — Levan Saginashvili · 2026-07-11
-- [Can Jānis Amoliņš Find Sarah Bäckman’s Weakness?](https://www.youtube.com/watch?v=0HfBQeGcALY) — Voice of Armwrestling · 2026-07-08
-- [Obedjiwan](https://www.youtube.com/watch?v=NpwufH1iLjs) — Devon Larratt · 2026-07-10
 - [Living here is easy](https://www.youtube.com/watch?v=4ev8rJ0xi_U) — Devon Larratt · 2026-07-06
+- [Obedjiwan](https://www.youtube.com/watch?v=NpwufH1iLjs) — Devon Larratt · 2026-07-10
 - [Obitchiwan](https://www.youtube.com/watch?v=6kFdG4fV3mc) — Devon Larratt · 2026-07-11
+- [Can Jānis Amoliņš Find Sarah Bäckman’s Weakness?](https://www.youtube.com/watch?v=0HfBQeGcALY) — Voice of Armwrestling · 2026-07-08
 **À creuser :**
-** [They Put a $100 Bounty on My Right Arm!](https://www.youtube.com/watch?v=RRFFmnwaOls) — Monster Michael Todd · 2026-07-07
+** [Levan Saginashvili Ranks the BEST Armwrestlers of All Time! (Tier List) - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE10ZFpPTHhlaERZR1BXcGVPM1RWZlR6a3pmV1M5UWtfTUFiQm9heFF1bFlseS1YU0RzWkM2ZWpGNmR5UkdMNGsyRkJxalYza2dKUkE1VUh3Wk1tc0Uy?oc=5) — Google News Levan Saginashvili · 2026-07-11
 
 ## 💪 Entraînement & Technique
 
@@ -31,8 +31,8 @@ Cette semaine, l'armwrestling a été marqué par plusieurs vidéos intéressant
 
 ## 🇫🇷 Bras de Fer France
 
-Aucun article n'a été trouvé pour cette section.
+Aucun article pertinent trouvé.
 
 ## 📰 Actualités & Annonces
 
-- [Decorated Nebraska arm wrestler comes full circle at Cornhusker State games - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkpIUHBOU2xGTmxfdWF4NHprZEtsU1NJNC00WTY1R2thTHBPNE5nWkpHQVlRSDNZdU53UGlISVNFVmgxQUdOa0tzdVU
+- [Decorated Nebraska arm wrestler comes full
