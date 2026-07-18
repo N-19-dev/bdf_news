@@ -9,10 +9,8 @@
 - [Can Jānis Amoliņš Find Sarah Bäckman’s Weakness?](https://www.youtube.com/watch?v=0HfBQeGcALY) — Voice of Armwrestling · 2026-07-08 · **61/100**
 - [Day 7 Shoulder Press & PEBP 162.5lbs/73.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/0TNUlBpR7E4) — Monster Michael Todd · 2026-07-09 · **59/100**
 - [Levan Saginashvili Ranks the BEST Armwrestlers of All Time! (Tier List) - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE10ZFpPTHhlaERZR1BXcGVPM1RWZlR6a3pmV1M5UWtfTUFiQm9heFF1bFlseS1YU0RzWkM2ZWpGNmR5UkdMNGsyRkJxalYza2dKUkE1VUh3Wk1tc0Uy?oc=5) — Google News Levan Saginashvili · 2026-07-11 · **56/100**
-
-## competitions
-
-- [Who will win at EVW 25: Vitaly Laletin vs Alizhan Muratov](https://www.youtube.com/shorts/hl1uTxEA8lc) — East vs West Armwrestling · 2026-07-12 · **53/100**
+- [Day 8 Riser Curl 95lbs/43lbs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/SN0yR4aAkv0) — Monster Michael Todd · 2026-07-12 · **56/100**
+- [Day 7 Side Pressure 152lbs/69kgs X 5 #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/TXU2c1yRsuM) — Monster Michael Todd · 2026-07-10 · **56/100**
 
 ## news
 
@@ -24,5 +22,4 @@
 
 ## youtube_media
 
-- [They Put a $100 Bounty on My Right Arm!](https://www.youtube.com/watch?v=RRFFmnwaOls) — Monster Michael Todd · 2026-07-07 · **62/100**
 - [Live chat with Pradeep](https://www.youtube.com/watch?v=_6MyMJueQzg) — Engin Terzi (Enigma of Rage) · 2026-07-10 · **57/100**

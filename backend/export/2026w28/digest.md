@@ -2,7 +2,6 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [Who will win at EVW 25: Vitaly Laletin vs Alizhan Muratov](https://www.youtube.com/shorts/hl1uTxEA8lc) — East vs West Armwrestling · 2026-07-12
 - [Obitchiwan](https://www.youtube.com/watch?v=6kFdG4fV3mc) — Devon Larratt · 2026-07-11
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -23,11 +22,6 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [They Put a $100 Bounty on My Right Arm!](https://www.youtube.com/watch?v=RRFFmnwaOls) — Monster Michael Todd · 2026-07-07
-  - When Sean Hancock announced there would be a $100 bounty on my right arm at AUA ArmWrestling Nationals, I had two choices...
-Take it easy...Or make it even harder.
-
-Instead of pulling one or two classes like most competitors, I entered ever…
 - [Vs porky part 2](https://www.youtube.com/watch?v=WUYO37YYKGk) — Devon Larratt · 2026-07-07
   - https://www.instagram.com/pork_chop_86?igsh=bjRocDByOHo2cHVz
 
@@ -78,7 +72,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - Levan Saginashvili shares his honest thoughts on who is taking home the trophy from the quarter-finals onwards. Does he have a favorite, or is he backing an underdog?
 - [Day 7 Shoulder Press & PEBP 162.5lbs/73.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/0TNUlBpR7E4) — Monster Michael Todd · 2026-07-09
 - [Day 7 SP & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/wA6I2QeMjis) — Monster Michael Todd · 2026-07-08
-- [Day 6 Up Pressure 130.5lbs/59.2kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/e7EzD9evfCk) — Monster Michael Todd · 2026-07-08
 
 ## 💪 Entraînement & Technique
 
