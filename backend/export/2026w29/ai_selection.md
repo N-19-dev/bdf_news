@@ -6,7 +6,6 @@
 - [WORLD TITLE - 115KG - China - Hungary](https://www.youtube.com/watch?v=VGs7h-FuZSE) — Devon Larratt · 2026-07-15 · **63/100**
 - [July 16](https://www.youtube.com/watch?v=g2k_R2DXeJY) — Devon Larratt · 2026-07-16 · **62/100**
 - [Matyushenko - Levan - change of plans](https://www.youtube.com/watch?v=QimHHfw8iiU) — Devon Larratt · 2026-07-13 · **61/100**
-- [Day 8 Shoulder Press 165lbs/74.8kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/HtxopLNUf8g) — Monster Michael Todd · 2026-07-12 · **60/100**
 - [Speed vs Strength in Armwrestling](https://www.youtube.com/shorts/MrUIGk1wf9c) — East vs West Armwrestling · 2026-07-17 · **60/100**
 - [Day 9 Shoulder Press 167.5lbs/76kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/EvPb67Vz-wE) — Monster Michael Todd · 2026-07-15 · **59/100**
 - [Luka Tsinadzes most important armwrestling match!](https://www.youtube.com/shorts/zXuNGXcLneA) — East vs West Armwrestling · 2026-07-17 · **58/100**
@@ -15,6 +14,10 @@
 ## competitions
 
 - [World Series of Armwrestling Finals Season 3 (7/18/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE04blRtdUlMOVBPRXF5NEtrZjJ3LTZGMEotTDNTMWJtSGJvRUxsU1RuZndFZGw1VUh4LUlPM2xPQ3NtcXdVa25qYm5lLWJuakdoVXpVcE52TmhkQQ?oc=5) — Google News Armwrestling EN · 2026-07-18 · **54/100**
+
+## news
+
+- [Theo Von Has Priceless Reaction To Viral Video Of Riley Green Breaking A Guy’s Arm At Flora-Bama - Whiskey Riff](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUJ4S29SQ2J5R2JTUWE1MVFiSkowWlpVb1I3aHhxbHVtQTJDQ2pJWTJvMFNrbEQtOG5uWHBEV0VEYVB4RE9GRGlZXzNDUWlvVTZJQ1BKdkszajNyNTBsa3ZBcVFVckhhalJmR09GS0JBYWFNQThkZmY3cDdRUmV6U3VJWWluQVdrNy1Td3F2ekJyZDAzV3k2R24wTzRSUS1yRkhNcm9oNkQzdXRmTS1PUU1PM2lwcVgwVEFuaTZKRVNQbTNfbzUtYXFhWGNFTDNNUTRTYg?oc=5) — Google News Arm Wrestling · 2026-07-15 · **49/100**
 
 ## youtube_media
 
