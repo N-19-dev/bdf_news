@@ -10,14 +10,11 @@
 - [Day 9 Shoulder Press 167.5lbs/76kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/EvPb67Vz-wE) — Monster Michael Todd · 2026-07-15 · **59/100**
 - [Luka Tsinadzes most important armwrestling match!](https://www.youtube.com/shorts/zXuNGXcLneA) — East vs West Armwrestling · 2026-07-17 · **58/100**
 - [Maintaining a Lean & Healthy body is about consistency with your training & nutrition! #armwrestling](https://www.youtube.com/shorts/iZcJEC4aplM) — Monster Michael Todd · 2026-07-17 · **57/100**
+- [Day 10 Wrist Wrench 82lbs/37.2kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/7AN1zoKyWgE) — Monster Michael Todd · 2026-07-18 · **57/100**
 
 ## competitions
 
 - [World Series of Armwrestling Finals Season 3 (7/18/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE04blRtdUlMOVBPRXF5NEtrZjJ3LTZGMEotTDNTMWJtSGJvRUxsU1RuZndFZGw1VUh4LUlPM2xPQ3NtcXdVa25qYm5lLWJuakdoVXpVcE52TmhkQQ?oc=5) — Google News Armwrestling EN · 2026-07-18 · **54/100**
-
-## news
-
-- [Theo Von Has Priceless Reaction To Viral Video Of Riley Green Breaking A Guy’s Arm At Flora-Bama - Whiskey Riff](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUJ4S29SQ2J5R2JTUWE1MVFiSkowWlpVb1I3aHhxbHVtQTJDQ2pJWTJvMFNrbEQtOG5uWHBEV0VEYVB4RE9GRGlZXzNDUWlvVTZJQ1BKdkszajNyNTBsa3ZBcVFVckhhalJmR09GS0JBYWFNQThkZmY3cDdRUmV6U3VJWWluQVdrNy1Td3F2ekJyZDAzV3k2R24wTzRSUS1yRkhNcm9oNkQzdXRmTS1PUU1PM2lwcVgwVEFuaTZKRVNQbTNfbzUtYXFhWGNFTDNNUTRTYg?oc=5) — Google News Arm Wrestling · 2026-07-15 · **49/100**
 
 ## youtube_media
 

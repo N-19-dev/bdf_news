@@ -23,8 +23,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - 2023-02-25
 
 Official EVW website: https://evwsports.com/
-- [Who will win at EVW 25: Gabriela Vasconcelos vs Irina Driaeva](https://www.youtube.com/shorts/3g3qTUSb8aA) — East vs West Armwrestling · 2026-07-16
-- [Who will win at EVW 25: Kamil Jablonski vs Georgi Tsvetkov](https://www.youtube.com/shorts/B7agZ6yF4z0) — East vs West Armwrestling · 2026-07-15
 - [WORLD TITLE - 115KG - China - Hungary](https://www.youtube.com/watch?v=VGs7h-FuZSE) — Devon Larratt · 2026-07-15
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -54,7 +52,6 @@ Event links - https://EVWsp…
 - [Day 9 Shoulder Press 167.5lbs/76kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/EvPb67Vz-wE) — Monster Michael Todd · 2026-07-15
 - [Day 9 SP 157.25lbs/71.3kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/8oDMdmFxL7I) — Monster Michael Todd · 2026-07-15
 - [Day 8 Up Pressure 135.5lbs/61.5kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/7kcCLPuEc90) — Monster Michael Todd · 2026-07-14
-- [Day 8 PEBP 165lbs/74.8kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/68owMmmVrrc) — Monster Michael Todd · 2026-07-13
 
 ## 💪 Entraînement & Technique
 
@@ -67,7 +64,6 @@ https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 SCHOOLBOY https://www.instagram.com/aleksand…
 - [Gym training shouldn't shape your pulling style (Türkçe alt yazılı)](https://www.youtube.com/watch?v=vcO2wXQV-eg) — Engin Terzi (Enigma of Rage) · 2026-07-15
-- [Day 8 Side Pressure 154.5lbs/70.1kgs X 5 #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/di9kVPnNyaI) — Monster Michael Todd · 2026-07-14
 
 ## 🎬 YouTube & Médias
 
@@ -80,8 +76,6 @@ https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 Join this channel to get access to perks:
 https://www…
-- [Theo Von Has Priceless Reaction To Viral Video Of Riley Green Breaking A Guy’s Arm At Flora-Bama - Whiskey Riff](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUJ4S29SQ2J5R2JTUWE1MVFiSkowWlpVb1I3aHhxbHVtQTJDQ2pJWTJvMFNrbEQtOG5uWHBEV0VEYVB4RE9GRGlZXzNDUWlvVTZJQ1BKdkszajNyNTBsa3ZBcVFVckhhalJmR09GS0JBYWFNQThkZmY3cDdRUmV6U3VJWWluQVdrNy1Td3F2ekJyZDAzV3k2R24wTzRSUS1yRkhNcm9oNkQzdXRmTS1PUU1PM2lwcVgwVEFuaTZKRVNQbTNfbzUtYXFhWGNFTDNNUTRTYg?oc=5) — Google News Arm Wrestling · 2026-07-15
-  - Theo Von Has Priceless Reaction To Viral Video Of Riley Green Breaking A Guy’s Arm At Flora-Bama Whiskey Riff
 
 ## 🇫🇷 Bras de Fer France
 

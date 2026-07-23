@@ -87,6 +87,17 @@
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
+    },
+    {
+      "url": "https://www.youtube.com/shorts/7AN1zoKyWgE",
+      "title": "Day 10 Wrist Wrench 82lbs/37.2kgs #armwrestling #worldchampion #letsgo #phil413",
+      "summary": "",
+      "published_ts": 1784411695,
+      "source_name": "Monster Michael Todd",
+      "score": 56.92660562016747,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
     }
   ],
   "competitions": [
@@ -97,19 +108,6 @@
       "published_ts": 1784388750,
       "source_name": "Google News Armwrestling EN",
       "score": 53.55149932883002,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    }
-  ],
-  "news": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUJ4S29SQ2J5R2JTUWE1MVFiSkowWlpVb1I3aHhxbHVtQTJDQ2pJWTJvMFNrbEQtOG5uWHBEV0VEYVB4RE9GRGlZXzNDUWlvVTZJQ1BKdkszajNyNTBsa3ZBcVFVckhhalJmR09GS0JBYWFNQThkZmY3cDdRUmV6U3VJWWluQVdrNy1Td3F2ekJyZDAzV3k2R24wTzRSUS1yRkhNcm9oNkQzdXRmTS1PUU1PM2lwcVgwVEFuaTZKRVNQbTNfbzUtYXFhWGNFTDNNUTRTYg?oc=5",
-      "title": "Theo Von Has Priceless Reaction To Viral Video Of Riley Green Breaking A Guy’s Arm At Flora-Bama - Whiskey Riff",
-      "summary": "Theo Von Has Priceless Reaction To Viral Video Of Riley Green Breaking A Guy’s Arm At Flora-Bama Whiskey Riff",
-      "published_ts": 1784132565,
-      "source_name": "Google News Arm Wrestling",
-      "score": 48.79445684227076,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
