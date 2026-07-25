@@ -6,10 +6,10 @@
 - [WORLD TITLE - 115KG - China - Hungary](https://www.youtube.com/watch?v=VGs7h-FuZSE) — Devon Larratt · 2026-07-15 · **63/100**
 - [July 16](https://www.youtube.com/watch?v=g2k_R2DXeJY) — Devon Larratt · 2026-07-16 · **62/100**
 - [Matyushenko - Levan - change of plans](https://www.youtube.com/watch?v=QimHHfw8iiU) — Devon Larratt · 2026-07-13 · **61/100**
-- [Speed vs Strength in Armwrestling](https://www.youtube.com/shorts/MrUIGk1wf9c) — East vs West Armwrestling · 2026-07-17 · **60/100**
 - [Maintaining a Lean & Healthy body is about consistency with your training & nutrition! #armwrestling](https://www.youtube.com/shorts/iZcJEC4aplM) — Monster Michael Todd · 2026-07-17 · **57/100**
 - [Day 10 Wrist Wrench 82lbs/37.2kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/7AN1zoKyWgE) — Monster Michael Todd · 2026-07-18 · **57/100**
 - [Day 10 Riser Curl 97lbs/44kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/q-Drg5hHMeM) — Monster Michael Todd · 2026-07-19 · **57/100**
+- [Gym training shouldn't shape your pulling style (Türkçe alt yazılı)](https://www.youtube.com/watch?v=vcO2wXQV-eg) — Engin Terzi (Enigma of Rage) · 2026-07-15 · **56/100**
 
 ## competitions
 

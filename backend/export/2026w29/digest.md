@@ -5,7 +5,6 @@
 - [EvW chat with Pradeep](https://www.youtube.com/watch?v=xlebEL1D5Mk) — Engin Terzi (Enigma of Rage) · 2026-07-19
   - #armwrestling #enginterzi #strong
 - [Who will win at EVW? Zurab Tavberidze vs Ryan Belanger](https://www.youtube.com/shorts/pqXJKtRQKT4) — East vs West Armwrestling · 2026-07-19
-- [Who will win at EVW 25? Vladislavs Krasovskis vs Artem Popov](https://www.youtube.com/shorts/-oNOkX9yD0s) — East vs West Armwrestling · 2026-07-18
 - [July 16](https://www.youtube.com/watch?v=g2k_R2DXeJY) — Devon Larratt · 2026-07-16
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -40,13 +39,10 @@ Event links - https://EVWsp…
 - [Day 10 Wrist Wrench 82lbs/37.2kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/7AN1zoKyWgE) — Monster Michael Todd · 2026-07-18
 - [Day 10 SP 159.75lbs/72.5kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/Dt17omiIGAc) — Monster Michael Todd · 2026-07-18
 - [Vitaly Laletin vs Alizhan Muratov](https://www.youtube.com/watch?v=ZT89y01Ip6g) — Engin Terzi (Enigma of Rage) · 2026-07-18
-- [Day 9 Up Pressure 138lbs/62.6kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/N2r0bV1W118) — Monster Michael Todd · 2026-07-17
-- [Day 9 PEBP 167.5lbs/76kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/fkvHAF-OMVg) — Monster Michael Todd · 2026-07-16
 
 ## 💪 Entraînement & Technique
 
 - [Maintaining a Lean & Healthy body is about consistency with your training & nutrition! #armwrestling](https://www.youtube.com/shorts/iZcJEC4aplM) — Monster Michael Todd · 2026-07-17
-- [Speed vs Strength in Armwrestling](https://www.youtube.com/shorts/MrUIGk1wf9c) — East vs West Armwrestling · 2026-07-17
 - [SCHOOLBOY VS AKIMBO 69 | NEW ARM WRESTLING TRAINING 2026](https://www.youtube.com/watch?v=a1GfJHCx6hA) — ARMWRESTLING TV (Schoolboy) · 2026-07-15
   - ARMWRESTLING TRAINING WITH ALEKSANDR SCHOOLBOY , AKIMBO 69 AND DARIA PLUZHNIKOVA IN JULY 2026!
 Subscribe for NEW VIDEOS 

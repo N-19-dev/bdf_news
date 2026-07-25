@@ -45,17 +45,6 @@
       "marketing_score": 0
     },
     {
-      "url": "https://www.youtube.com/shorts/MrUIGk1wf9c",
-      "title": "Speed vs Strength in Armwrestling",
-      "summary": "",
-      "published_ts": 1784318549,
-      "source_name": "East vs West Armwrestling",
-      "score": 59.8087087815458,
-      "content_type": "technical",
-      "tech_level": 1,
-      "marketing_score": 0
-    },
-    {
       "url": "https://www.youtube.com/shorts/iZcJEC4aplM",
       "title": "Maintaining a Lean & Healthy body is about consistency with your training & nutrition! #armwrestling",
       "summary": "",
@@ -84,6 +73,17 @@
       "published_ts": 1784467795,
       "source_name": "Monster Michael Todd",
       "score": 56.802811324596405,
+      "content_type": "technical",
+      "tech_level": 1,
+      "marketing_score": 0
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vcO2wXQV-eg",
+      "title": "Gym training shouldn't shape your pulling style (Türkçe alt yazılı)",
+      "summary": "",
+      "published_ts": 1784112396,
+      "source_name": "Engin Terzi (Enigma of Rage)",
+      "score": 56.480515734715894,
       "content_type": "technical",
       "tech_level": 1,
       "marketing_score": 0
