@@ -84,8 +84,6 @@ Official EVW website: https://evwsports.com/
   - Can Devon Larratt EVER Beat Me? (My Honest Thoughts)
 - [Will I reach my goal of 615lbs/279kgs by 10/5! #armwrestling #worldchampion #letsgo](https://www.youtube.com/shorts/PGSETkqoxos) — Monster Michael Todd · 2026-07-22
 - [Day 10 Up Pressure 140.5lbs/63.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/I7XohWXZOds) — Monster Michael Todd · 2026-07-22
-- [Day 10 PEBP 170lbs/77.1kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/ogl0LFlTjgs) — Monster Michael Todd · 2026-07-20
-- [Day 10 Shoulder Press 170lbs/77.1kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/lEnkeOWWcDs) — Monster Michael Todd · 2026-07-20
 
 ## 💪 Entraînement & Technique
 

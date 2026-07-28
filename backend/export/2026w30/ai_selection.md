@@ -5,9 +5,9 @@
 - [KAMIL VS GEORGI: A POSSIBLE MISMATCH… BUT FOR WHO?](https://www.youtube.com/watch?v=oL0TnxkaHqQ) — Voice of Armwrestling · 2026-07-26 · **63/100**
 - [Nugo vs Krasimir: Revenge or Repeat? | Ray & Janis Breakdown](https://www.youtube.com/watch?v=iDebqQ_VnQY) — Voice of Armwrestling · 2026-07-24 · **62/100**
 - [Unboxing 33](https://www.youtube.com/watch?v=Yxl8DOQKWRM) — Devon Larratt · 2026-07-20 · **62/100**
-- [Day 10 Shoulder Press 170lbs/77.1kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/lEnkeOWWcDs) — Monster Michael Todd · 2026-07-20 · **60/100**
 - [Day 11 Shoulder Press 172.5lbs/78.2kgs #armwrestling #worldchampion #letsgo #comeback](https://www.youtube.com/shorts/oiIJam4RUzw) — Monster Michael Todd · 2026-07-24 · **59/100**
 - [What If I Armwrestled John Brzenk? (Prime vs Peak)](https://www.youtube.com/shorts/iQgHRr9Ng78) — Levan Saginashvili · 2026-07-24 · **57/100**
+- [Day 10 Up Pressure 140.5lbs/63.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/I7XohWXZOds) — Monster Michael Todd · 2026-07-22 · **57/100**
 
 ## competitions
 
