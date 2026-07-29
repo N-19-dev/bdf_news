@@ -2,8 +2,6 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [CONTENDER FOR BEST MATCH OF 2025!! - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mbHoxeXhLX01fMmk5RnJBajl0TDRqdmlJc01mRi1WdGZIb2plbDNiVkFVaW92Zms2U0w1RllLdEFhTWMxS2ItTVo4amZtcmkyM1l5TnBnRU5uS0RE?oc=5) — Google News Devon Larratt · 2026-07-26
-  - CONTENDER FOR BEST MATCH OF 2025!! YouTube
 - [KAMIL VS GEORGI: A POSSIBLE MISMATCH… BUT FOR WHO?](https://www.youtube.com/watch?v=oL0TnxkaHqQ) — Voice of Armwrestling · 2026-07-26
   - PPV: evwsports.com
 
@@ -21,6 +19,8 @@ In this video, I'm br…
   - Official EVW website: https://evwsports.com/
 - [Engin Terzi vs Raimonds Liepins | King Of The Table 7 Full Match 2023](https://www.youtube.com/watch?v=v88WXzyZh-0) — East vs West Armwrestling · 2026-07-24
   - Official EVW website: https://evwsports.com/
+- [Arm wrestling brothers capture more gold medals - peicanada.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2VxeFFNWGpIOTFOcE5wdGJYUWxNWVpyOGFmeDhLbTZqeXJTS2RNVnYxcUYtdTkyUXdfaTl0djJqeXRQUUJpZXdZbGZ0LXhwTTA4UFBweUJ2X2pGNmlueXdieWx0akw0czYxMV9Ta0pRZkpRLWRDUHdNUlRoM3ZUZ2NPdW1JbHBNQ3ZOTlRWOU9VOElFQ2Q4REIzM2lobHZDc2lkQ3B5VC1iVFpCMXVkejRWY2Z6VDlkYVY1ZVltRlBlZWJHSHVpMS1md1J5aklmeDRqV3lTUllSUE0?oc=5) — Google News Arm Wrestling · 2026-07-24
+  - Arm wrestling brothers capture more gold medals peicanada.com
 - [EVW 25 PREVIEW | DEVON, ROBERT, NEIL & RAY](https://www.youtube.com/watch?v=M1PaZLymOx8) — East vs West Armwrestling · 2026-07-23
   - EVW 25 - 1st of August, Batumi, Georgia
 Official EVW website: https://evwsports.com/
@@ -30,15 +30,11 @@ Official EVW website: https://evwsports.com/
   - Official EVW website: https://evwsports.com/
 - [Vitaly Laletin vs Tobias Sporrong at EVW 7](https://www.youtube.com/shorts/pZ8BpXHLcV8) — East vs West Armwrestling · 2026-07-23
   - Official EVW website: https://evwsports.com/
-- [Arm wrestling brothers capture more gold medals - peicanada.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2VxeFFNWGpIOTFOcE5wdGJYUWxNWVpyOGFmeDhLbTZqeXJTS2RNVnYxcUYtdTkyUXdfaTl0djJqeXRQUUJpZXdZbGZ0LXhwTTA4UFBweUJ2X2pGNmlueXdieWx0akw0czYxMV9Ta0pRZkpRLWRDUHdNUlRoM3ZUZ2NPdW1JbHBNQ3ZOTlRWOU9VOElFQ2Q4REIzM2lobHZDc2lkQ3B5VC1iVFpCMXVkejRWY2Z6VDlkYVY1ZVltRlBlZWJHSHVpMS1md1J5aklmeDRqV3lTUllSUE0?oc=5) — Google News Arm Wrestling · 2026-07-23
-  - Arm wrestling brothers capture more gold medals peicanada.com
 - [Gerogi Tsvetkov vs Jerry Cadorette at EVW 6](https://www.youtube.com/shorts/9QOtzyeweOI) — East vs West Armwrestling · 2026-07-22
   - Official EVW website: https://evwsports.com/
 - [Ryan Belanger vs Allen Ford at EVW 18](https://www.youtube.com/shorts/Kr75upW_sdE) — East vs West Armwrestling · 2026-07-22
   - Official EVW website: https://evwsports.com/
 - [🇬🇪 Are you ready, Georgia? EVW is coming to Batumi!](https://www.youtube.com/shorts/3dT1yKu7Z5E) — East vs West Armwrestling · 2026-07-22
-- [Third event in year-long armwrestling series set for July 25 - Sudbury News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnZHYlhXYmlCVi0yTnFMTk9OVDdxbll3OGN6bjN0N0xOQkh5cDJxdFo2dmo5WllBR21NU250SVVJcnVCWFNKNUt0ZzlrT1dQVVhIU0xITzlmU0tYYXdMTXhhRjdHNXF1Ykg2b3g3cUdsZnRLdDhSeUhvQmQ1ckdBdFR2dlZoOHkyOERhNlNSVVpfT0U5Tll0cVZNb1JNdk1IWG41UlVTOA?oc=5) — Google News Armwrestling EN · 2026-07-22
-  - Third event in year-long armwrestling series set for July 25 Sudbury News
 - [Welcome to the 2026 World Championships](https://www.waf-armwrestling.com/welcome-to-the-2026-world-championships/) — WAF News · 2026-07-22
   - Welcome to the 2026 WAF World Championships The World Armwrestling Federation is proud to officially invite all WAF Member Federations to participate in the 47th World Armwrestling Championship and the 28th World Para Armwrestling Champions…
 - [WAF Joins the International Sport for All Federation](https://www.waf-armwrestling.com/waf-joins-the-international-sport-for-all-federation/) — WAF News · 2026-07-22
@@ -65,7 +61,6 @@ Official EVW website: https://evwsports.com/
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
-- [Who will in at EVW 25? Daniel Procopcuic 👑 vs Vachagan Havhannisyan](https://www.youtube.com/shorts/C8g51rnsqnI) — East vs West Armwrestling · 2026-07-20
 
 ## 🌟 Athlètes & Interviews
 
@@ -83,7 +78,6 @@ Official EVW website: https://evwsports.com/
 - [Can Devon Larratt EVER Beat Me? (My Honest Thoughts)](https://www.youtube.com/shorts/Rmv8cbMJonE) — Levan Saginashvili · 2026-07-23
   - Can Devon Larratt EVER Beat Me? (My Honest Thoughts)
 - [Will I reach my goal of 615lbs/279kgs by 10/5! #armwrestling #worldchampion #letsgo](https://www.youtube.com/shorts/PGSETkqoxos) — Monster Michael Todd · 2026-07-22
-- [Day 10 Up Pressure 140.5lbs/63.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/I7XohWXZOds) — Monster Michael Todd · 2026-07-22
 
 ## 💪 Entraînement & Technique
 
@@ -120,19 +114,11 @@ highhookersottawa…
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWR…
-- [Day 10 Side Pressure 159.5lbs/72.4kgs X 5 #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/otmkdWlUvJo) — Monster Michael Todd · 2026-07-21
 - [Armwrestling Mega Practice (Jānis, Vladislavs, Sandris, Toms & More)](https://www.youtube.com/watch?v=BhcJKNCO2q8) — Voice of Armwrestling · 2026-07-21
   - 👕T-SHIRTS & TRAINING PLANS https://voaarmwrestling.com/ 
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
-- [Cochrane’s arm-wrestling scene gains strength - CochraneNow](https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWNyQzRkTklHSng5QkpPQnBieWt0LXItV2pWZkZBTWxQZmZyalpVVlRydndaLW15Vy1oanhTNF9yTzdTYVdiejY1SlJtUU1sUi16T3VNNUJLRkFteVBXX3RoM2xkcnhaRGRrR0NfQmpxYVdLNFpna2p6am9fMklHcl9jaw?oc=5) — Google News Arm Wrestling · 2026-07-21
-  - Cochrane’s arm-wrestling scene gains strength CochraneNow
-
-## 🎬 YouTube & Médias
-
-- [World Series of Armwrestling Finals Season 3 (7/19/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tampuT1ZDMm1ORVhvMDJuR3QyMmhNME9BSzkxUTFNUS1Sa05OZTVBbjN2T1dDdmNaOUVjclJucllIMmlTRWZLYndKWW12TFZHYmlIRUZDQjJpZw?oc=5) — Google News Armwrestling EN · 2026-07-19
-  - World Series of Armwrestling Finals Season 3 (7/19/26) - Live Stream ESPN
 
 ## 📰 Actualités & Annonces
 

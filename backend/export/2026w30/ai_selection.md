@@ -7,7 +7,6 @@
 - [Unboxing 33](https://www.youtube.com/watch?v=Yxl8DOQKWRM) — Devon Larratt · 2026-07-20 · **62/100**
 - [Day 11 Shoulder Press 172.5lbs/78.2kgs #armwrestling #worldchampion #letsgo #comeback](https://www.youtube.com/shorts/oiIJam4RUzw) — Monster Michael Todd · 2026-07-24 · **59/100**
 - [What If I Armwrestled John Brzenk? (Prime vs Peak)](https://www.youtube.com/shorts/iQgHRr9Ng78) — Levan Saginashvili · 2026-07-24 · **57/100**
-- [Day 10 Up Pressure 140.5lbs/63.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/I7XohWXZOds) — Monster Michael Todd · 2026-07-22 · **57/100**
 
 ## competitions
 
@@ -18,5 +17,6 @@
 
 - [Armwrestling Mega Practice (Jānis, Vladislavs, Sandris, Toms & More)](https://www.youtube.com/watch?v=BhcJKNCO2q8) — Voice of Armwrestling · 2026-07-21 · **64/100**
 - [EVW 25 Picks | Some Huge Implications For Future Battles](https://www.youtube.com/watch?v=E9SrE5oS12Y) — Monster Michael Todd · 2026-07-25 · **61/100**
+- [Pretty good shoulder PUMP for a 5 minute 5 sets of 30 workout 💪💯 #armwrestling #worldchampion](https://www.youtube.com/shorts/21gg53yrHlU) — Monster Michael Todd · 2026-07-24 · **59/100**
 - [John Brzenk vs Denis Cyplenkov | King Of The Table 6 Full Match 2023](https://www.youtube.com/watch?v=hjcCXVWIgbc) — East vs West Armwrestling · 2026-07-21 · **58/100**
 - [Daniel Procopciuc vs Emil Amirsadyan at EVW 9](https://www.youtube.com/shorts/j-5DA8BUBgk) — East vs West Armwrestling · 2026-07-23 · **57/100**
