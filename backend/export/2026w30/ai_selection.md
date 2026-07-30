@@ -7,6 +7,9 @@
 - [Unboxing 33](https://www.youtube.com/watch?v=Yxl8DOQKWRM) — Devon Larratt · 2026-07-20 · **62/100**
 - [Day 11 Shoulder Press 172.5lbs/78.2kgs #armwrestling #worldchampion #letsgo #comeback](https://www.youtube.com/shorts/oiIJam4RUzw) — Monster Michael Todd · 2026-07-24 · **59/100**
 - [What If I Armwrestled John Brzenk? (Prime vs Peak)](https://www.youtube.com/shorts/iQgHRr9Ng78) — Levan Saginashvili · 2026-07-24 · **57/100**
+- [Started a Strict Curl program with a goal of 210lbs/95.3kgs by 10/5! #armwrestling #worldchampion](https://www.youtube.com/shorts/WmPze_INYDM) — Monster Michael Todd · 2026-07-23 · **56/100**
+- [How HARD Is It To Beat Vitaly Laletin? (My Honest Breakdown)](https://www.youtube.com/shorts/ttBQaoN89bM) — Levan Saginashvili · 2026-07-26 · **55/100**
+- [Can Devon Larratt EVER Beat Me? (My Honest Thoughts)](https://www.youtube.com/shorts/Rmv8cbMJonE) — Levan Saginashvili · 2026-07-23 · **54/100**
 
 ## competitions
 
@@ -17,6 +20,3 @@
 
 - [Armwrestling Mega Practice (Jānis, Vladislavs, Sandris, Toms & More)](https://www.youtube.com/watch?v=BhcJKNCO2q8) — Voice of Armwrestling · 2026-07-21 · **64/100**
 - [EVW 25 Picks | Some Huge Implications For Future Battles](https://www.youtube.com/watch?v=E9SrE5oS12Y) — Monster Michael Todd · 2026-07-25 · **61/100**
-- [Pretty good shoulder PUMP for a 5 minute 5 sets of 30 workout 💪💯 #armwrestling #worldchampion](https://www.youtube.com/shorts/21gg53yrHlU) — Monster Michael Todd · 2026-07-24 · **59/100**
-- [John Brzenk vs Denis Cyplenkov | King Of The Table 6 Full Match 2023](https://www.youtube.com/watch?v=hjcCXVWIgbc) — East vs West Armwrestling · 2026-07-21 · **58/100**
-- [Daniel Procopciuc vs Emil Amirsadyan at EVW 9](https://www.youtube.com/shorts/j-5DA8BUBgk) — East vs West Armwrestling · 2026-07-23 · **57/100**

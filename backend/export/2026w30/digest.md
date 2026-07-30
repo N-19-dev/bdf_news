@@ -15,33 +15,13 @@
   - East vs West 25 is one of the most stacked cards we've seen in a long time. 
 Some of these matches could completely reshape the rankings, create new title contenders, and even influence my own path in the months ahead.
 In this video, I'm br…
-- [Artyom Morozov vs Corey West | KOTT 7 Full Match 2023](https://www.youtube.com/watch?v=aM29SPoVhmM) — East vs West Armwrestling · 2026-07-24
-  - Official EVW website: https://evwsports.com/
-- [Engin Terzi vs Raimonds Liepins | King Of The Table 7 Full Match 2023](https://www.youtube.com/watch?v=v88WXzyZh-0) — East vs West Armwrestling · 2026-07-24
-  - Official EVW website: https://evwsports.com/
 - [Arm wrestling brothers capture more gold medals - peicanada.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2VxeFFNWGpIOTFOcE5wdGJYUWxNWVpyOGFmeDhLbTZqeXJTS2RNVnYxcUYtdTkyUXdfaTl0djJqeXRQUUJpZXdZbGZ0LXhwTTA4UFBweUJ2X2pGNmlueXdieWx0akw0czYxMV9Ta0pRZkpRLWRDUHdNUlRoM3ZUZ2NPdW1JbHBNQ3ZOTlRWOU9VOElFQ2Q4REIzM2lobHZDc2lkQ3B5VC1iVFpCMXVkejRWY2Z6VDlkYVY1ZVltRlBlZWJHSHVpMS1md1J5aklmeDRqV3lTUllSUE0?oc=5) — Google News Arm Wrestling · 2026-07-24
   - Arm wrestling brothers capture more gold medals peicanada.com
-- [EVW 25 PREVIEW | DEVON, ROBERT, NEIL & RAY](https://www.youtube.com/watch?v=M1PaZLymOx8) — East vs West Armwrestling · 2026-07-23
-  - EVW 25 - 1st of August, Batumi, Georgia
-Official EVW website: https://evwsports.com/
-- [Levan Saginashvili vs Ermes Gasparini | King Of The Table 6 Full Match 2023](https://www.youtube.com/watch?v=MTetAUzX1MM) — East vs West Armwrestling · 2026-07-23
-  - Official EVW website: https://evwsports.com/
-- [Daniel Procopciuc vs Emil Amirsadyan at EVW 9](https://www.youtube.com/shorts/j-5DA8BUBgk) — East vs West Armwrestling · 2026-07-23
-  - Official EVW website: https://evwsports.com/
-- [Vitaly Laletin vs Tobias Sporrong at EVW 7](https://www.youtube.com/shorts/pZ8BpXHLcV8) — East vs West Armwrestling · 2026-07-23
-  - Official EVW website: https://evwsports.com/
-- [Gerogi Tsvetkov vs Jerry Cadorette at EVW 6](https://www.youtube.com/shorts/9QOtzyeweOI) — East vs West Armwrestling · 2026-07-22
-  - Official EVW website: https://evwsports.com/
-- [Ryan Belanger vs Allen Ford at EVW 18](https://www.youtube.com/shorts/Kr75upW_sdE) — East vs West Armwrestling · 2026-07-22
-  - Official EVW website: https://evwsports.com/
-- [🇬🇪 Are you ready, Georgia? EVW is coming to Batumi!](https://www.youtube.com/shorts/3dT1yKu7Z5E) — East vs West Armwrestling · 2026-07-22
 - [Welcome to the 2026 World Championships](https://www.waf-armwrestling.com/welcome-to-the-2026-world-championships/) — WAF News · 2026-07-22
   - Welcome to the 2026 WAF World Championships The World Armwrestling Federation is proud to officially invite all WAF Member Federations to participate in the 47th World Armwrestling Championship and the 28th World Para Armwrestling Champions…
 - [WAF Joins the International Sport for All Federation](https://www.waf-armwrestling.com/waf-joins-the-international-sport-for-all-federation/) — WAF News · 2026-07-22
   - The World Armwrestling Federation (WAF) is proud to announce that has joined the International Sport for All Federation (FISpT) as a new Committee Member. Within FISpT, each unique sport is represented by a single global governing body, and…
 - [Valdislavs training for EVW 25](https://www.youtube.com/shorts/6kC4pKnu0kE) — Voice of Armwrestling · 2026-07-21
-- [John Brzenk vs Denis Cyplenkov | King Of The Table 6 Full Match 2023](https://www.youtube.com/watch?v=hjcCXVWIgbc) — East vs West Armwrestling · 2026-07-21
-  - Official EVW website: https://evwsports.com/
 - [Unboxing 33](https://www.youtube.com/watch?v=Yxl8DOQKWRM) — Devon Larratt · 2026-07-20
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -52,10 +32,6 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [Matt Mask vs Frank Lamparelli | East vs West X Full Match 2023](https://www.youtube.com/watch?v=U3zucBQeM4A) — East vs West Armwrestling · 2026-07-20
-  - November 11, 2023
-
-Official EVW website: https://evwsports.com/
 - [Kamil Jablosnki predicts EVW 25 MAIN EVENT](https://www.youtube.com/watch?v=aglYx3aW-2w) — Voice of Armwrestling · 2026-07-20
   - 👕T-SHIRTS & TRAINING PLANS https://voaarmwrestling.com/ 
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
@@ -77,7 +53,6 @@ Official EVW website: https://evwsports.com/
 - [Started a Strict Curl program with a goal of 210lbs/95.3kgs by 10/5! #armwrestling #worldchampion](https://www.youtube.com/shorts/WmPze_INYDM) — Monster Michael Todd · 2026-07-23
 - [Can Devon Larratt EVER Beat Me? (My Honest Thoughts)](https://www.youtube.com/shorts/Rmv8cbMJonE) — Levan Saginashvili · 2026-07-23
   - Can Devon Larratt EVER Beat Me? (My Honest Thoughts)
-- [Will I reach my goal of 615lbs/279kgs by 10/5! #armwrestling #worldchampion #letsgo](https://www.youtube.com/shorts/PGSETkqoxos) — Monster Michael Todd · 2026-07-22
 
 ## 💪 Entraînement & Technique
 
