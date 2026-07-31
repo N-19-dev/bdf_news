@@ -65,14 +65,6 @@
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/shorts/WmPze_INYDM",
-      "title": "Started a Strict Curl program with a goal of 210lbs/95.3kgs by 10/5! #armwrestling #worldchampion",
-      "summary": "",
-      "published_ts": 1784814880,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
       "url": "https://www.youtube.com/shorts/Rmv8cbMJonE",
       "title": "Can Devon Larratt EVER Beat Me? (My Honest Thoughts)",
       "summary": "Can Devon Larratt EVER Beat Me? (My Honest Thoughts)",
@@ -95,6 +87,14 @@
       "title": "Professional Arm Wrestling Championships - ESPN",
       "summary": "Professional Arm Wrestling Championships ESPN",
       "published_ts": 1785012633,
+      "source_name": "Google News Arm Wrestling",
+      "content_type": "technical"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JaTRvNW1RNjk5dWoxV1pZYzZWbVc0UWtTdXpGRUZFQjJFUzRuUUxKSzhWVGI5NE94T3pRdjNwSjVUVTE5bkEtejdocjJOTEFsNFBnQzNpZw?oc=5",
+      "title": "Professional Arm Wrestling Championships - ESPN",
+      "summary": "Professional Arm Wrestling Championships ESPN",
+      "published_ts": 1785011400,
       "source_name": "Google News Arm Wrestling",
       "content_type": "technical"
     },
