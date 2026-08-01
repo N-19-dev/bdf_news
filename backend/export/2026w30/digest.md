@@ -17,7 +17,7 @@
   - East vs West 25 is one of the most stacked cards we've seen in a long time. 
 Some of these matches could completely reshape the rankings, create new title contenders, and even influence my own path in the months ahead.
 In this video, I'm br…
-- [Arm wrestling brothers capture more gold medals - peicanada.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2VxeFFNWGpIOTFOcE5wdGJYUWxNWVpyOGFmeDhLbTZqeXJTS2RNVnYxcUYtdTkyUXdfaTl0djJqeXRQUUJpZXdZbGZ0LXhwTTA4UFBweUJ2X2pGNmlueXdieWx0akw0czYxMV9Ta0pRZkpRLWRDUHdNUlRoM3ZUZ2NPdW1JbHBNQ3ZOTlRWOU9VOElFQ2Q4REIzM2lobHZDc2lkQ3B5VC1iVFpCMXVkejRWY2Z6VDlkYVY1ZVltRlBlZWJHSHVpMS1md1J5aklmeDRqV3lTUllSUE0?oc=5) — Google News Arm Wrestling · 2026-07-24
+- [Arm wrestling brothers capture more gold medals - peicanada.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2VxeFFNWGpIOTFOcE5wdGJYUWxNWVpyOGFmeDhLbTZqeXJTS2RNVnYxcUYtdTkyUXdfaTl0djJqeXRQUUJpZXdZbGZ0LXhwTTA4UFBweUJ2X2pGNmlueXdieWx0akw0czYxMV9Ta0pRZkpRLWRDUHdNUlRoM3ZUZ2NPdW1JbHBNQ3ZOTlRWOU9VOElFQ2Q4REIzM2lobHZDc2lkQ3B5VC1iVFpCMXVkejRWY2Z6VDlkYVY1ZVltRlBlZWJHSHVpMS1md1J5aklmeDRqV3lTUllSUE0?oc=5) — Google News Armwrestling EN · 2026-07-24
   - Arm wrestling brothers capture more gold medals peicanada.com
 - [Welcome to the 2026 World Championships](https://www.waf-armwrestling.com/welcome-to-the-2026-world-championships/) — WAF News · 2026-07-22
   - Welcome to the 2026 WAF World Championships The World Armwrestling Federation is proud to officially invite all WAF Member Federations to participate in the 47th World Armwrestling Championship and the 28th World Para Armwrestling Champions…
@@ -46,12 +46,8 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - How HARD Is It To Beat Vitaly Laletin? (My Honest Breakdown)
 - [Day 11 Up Pressure 143lbs/64.9kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/TcM9xvBahsg) — Monster Michael Todd · 2026-07-26
 - [Day 11 PEBP 172.5lbs/78.2kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/JiP07CB4ZJo) — Monster Michael Todd · 2026-07-25
-- [Pretty good shoulder PUMP for a 5 minute 5 sets of 30 workout 💪💯 #armwrestling #worldchampion](https://www.youtube.com/shorts/21gg53yrHlU) — Monster Michael Todd · 2026-07-24
 - [What If I Armwrestled John Brzenk? (Prime vs Peak)](https://www.youtube.com/shorts/iQgHRr9Ng78) — Levan Saginashvili · 2026-07-24
   - What If I Armwrestled John Brzenk? (Prime vs Peak)
-- [Day 11 Shoulder Press 172.5lbs/78.2kgs #armwrestling #worldchampion #letsgo #comeback](https://www.youtube.com/shorts/oiIJam4RUzw) — Monster Michael Todd · 2026-07-24
-- [Day 11 Riser Curl 98lbs/44.5kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/rordiTcOpF4) — Monster Michael Todd · 2026-07-23
-- [Day 11 162.25lbs/73.6kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/PSBXSiTaZbg) — Monster Michael Todd · 2026-07-23
 - [Can Devon Larratt EVER Beat Me? (My Honest Thoughts)](https://www.youtube.com/shorts/Rmv8cbMJonE) — Levan Saginashvili · 2026-07-23
   - Can Devon Larratt EVER Beat Me? (My Honest Thoughts)
 
