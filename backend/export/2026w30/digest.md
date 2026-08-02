@@ -13,16 +13,6 @@
   - Professional Arm Wrestling Championships ESPN
 - [Professional Arm Wrestling Championships - ESPN](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JaTRvNW1RNjk5dWoxV1pZYzZWbVc0UWtTdXpGRUZFQjJFUzRuUUxKSzhWVGI5NE94T3pRdjNwSjVUVTE5bkEtejdocjJOTEFsNFBnQzNpZw?oc=5) — Google News Arm Wrestling · 2026-07-25
   - Professional Arm Wrestling Championships ESPN
-- [EVW 25 Picks | Some Huge Implications For Future Battles](https://www.youtube.com/watch?v=E9SrE5oS12Y) — Monster Michael Todd · 2026-07-25
-  - East vs West 25 is one of the most stacked cards we've seen in a long time. 
-Some of these matches could completely reshape the rankings, create new title contenders, and even influence my own path in the months ahead.
-In this video, I'm br…
-- [Arm wrestling brothers capture more gold medals - peicanada.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ2VxeFFNWGpIOTFOcE5wdGJYUWxNWVpyOGFmeDhLbTZqeXJTS2RNVnYxcUYtdTkyUXdfaTl0djJqeXRQUUJpZXdZbGZ0LXhwTTA4UFBweUJ2X2pGNmlueXdieWx0akw0czYxMV9Ta0pRZkpRLWRDUHdNUlRoM3ZUZ2NPdW1JbHBNQ3ZOTlRWOU9VOElFQ2Q4REIzM2lobHZDc2lkQ3B5VC1iVFpCMXVkejRWY2Z6VDlkYVY1ZVltRlBlZWJHSHVpMS1md1J5aklmeDRqV3lTUllSUE0?oc=5) — Google News Armwrestling EN · 2026-07-24
-  - Arm wrestling brothers capture more gold medals peicanada.com
-- [Welcome to the 2026 World Championships](https://www.waf-armwrestling.com/welcome-to-the-2026-world-championships/) — WAF News · 2026-07-22
-  - Welcome to the 2026 WAF World Championships The World Armwrestling Federation is proud to officially invite all WAF Member Federations to participate in the 47th World Armwrestling Championship and the 28th World Para Armwrestling Champions…
-- [WAF Joins the International Sport for All Federation](https://www.waf-armwrestling.com/waf-joins-the-international-sport-for-all-federation/) — WAF News · 2026-07-22
-  - The World Armwrestling Federation (WAF) is proud to announce that has joined the International Sport for All Federation (FISpT) as a new Committee Member. Within FISpT, each unique sport is represented by a single global governing body, and…
 - [Valdislavs training for EVW 25](https://www.youtube.com/shorts/6kC4pKnu0kE) — Voice of Armwrestling · 2026-07-21
 - [Unboxing 33](https://www.youtube.com/watch?v=Yxl8DOQKWRM) — Devon Larratt · 2026-07-20
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
@@ -91,8 +81,3 @@ highhookersottawa…
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
-
-## 📰 Actualités & Annonces
-
-- [Behind the Story: 2026 Heynoski Memorial Armwrestling - Erie News Now](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSTg1dXpEMW5rcWkzNVdOR1FWNmlSd2E1QXc1UERfMXczN2h3R0NSb2JZWEJtVGV4OHRvdU5wREMwUmI3ejNNN0IwMFNhYzZkM3l0SDdaR1BfZ2ZtZzdOMTQzSjZZTExjR19TWGZaOGhxSzNtSkQxT3FsMFNIZVNjenlWRDRRUTVZMy1GelBaR180Q1RSbmJGRUs4WXZCQUZ2QTVaU3ZvVUd6U3F6U05MeWR1eHZjRHF5bXg2c0ZIWlBqem43ZGxnM3FVX1V0QjFBb2tOUkg1dw?oc=5) — Google News Armwrestling EN · 2026-07-24
-  - Behind the Story: 2026 Heynoski Memorial Armwrestling Erie News Now

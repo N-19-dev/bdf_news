@@ -1,16 +1,5 @@
 [
   {
-    "title": "WAF Joins the International Sport for All Federation",
-    "url": "https://www.waf-armwrestling.com/waf-joins-the-international-sport-for-all-federation/",
-    "source": "WAF News",
-    "category": "hors_sujet",
-    "score": 67.03024772080508,
-    "published_ts": 1784690878,
-    "content_type": "technical",
-    "tech_level": 1,
-    "marketing_score": 0.0
-  },
-  {
     "title": "Kamil Couldn’t Believe Ray’s Side Pressure!",
     "url": "https://www.youtube.com/watch?v=A0RCiA_waIs",
     "source": "Voice of Armwrestling",
@@ -28,6 +17,17 @@
     "category": "athletes",
     "score": 61.77812310782346,
     "published_ts": 1784581497,
+    "content_type": "technical",
+    "tech_level": 1,
+    "marketing_score": 0.0
+  },
+  {
+    "title": "Professional Arm Wrestling Championships - ESPN",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCNE5wSXhITUlPWnZBV182dlZiSEZaTTVsTDV0YkFPb2I1TzZ4UHRlcGNEU1YtZVVxWC1kWEVvSUoxNkxvVU5KRlhkczZmWjhVMTVURk9OSQ?oc=5",
+    "source": "Google News Arm Wrestling",
+    "category": "competitions",
+    "score": 59.0447042205117,
+    "published_ts": 1785012633,
     "content_type": "technical",
     "tech_level": 1,
     "marketing_score": 0.0
