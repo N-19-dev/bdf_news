@@ -2,30 +2,6 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [Zurab Tavberidze Post Match Interview | EVW25](https://www.youtube.com/watch?v=EcmuXEKZzxQ) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Tim Tallmadge Post Match Interview | EVW25](https://www.youtube.com/watch?v=ZQT5KJn6qmk) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Artem Popov Post Match Interview | EVW25](https://www.youtube.com/watch?v=LZT7NceCCKE) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Vladislavs Krasovskis Post Match Interview | EVW25](https://www.youtube.com/watch?v=gfrp2fiL044) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Manifestor Post Match Interview | EVW25](https://www.youtube.com/watch?v=qN2H2lhs6fw) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Omer Dror Post Match Interview | EVW25](https://www.youtube.com/watch?v=IpC_wpN4oB4) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Grigorii Liashchuk Post Match Interview | EVW25](https://www.youtube.com/watch?v=oUJmPUxADtc) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Daniyar Roman Post Match Interview | EVW25](https://www.youtube.com/watch?v=IeYHUKHIej0) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Zhuo Xiaohai Post Match Interview | EVW25](https://www.youtube.com/watch?v=gl-SQI_ElFs) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Alex Koshadze Post Match Interview | EVW25](https://www.youtube.com/watch?v=epFPfpHHiBE) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Georgi Tsvetkov Post Match Interview | EVW25](https://www.youtube.com/watch?v=InoyxtW8Qn0) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
-- [Alizhan Muratov Post Match Interview | EVW25](https://www.youtube.com/watch?v=uXPSXkX0Q2E) — East vs West Armwrestling · 2026-08-02
-  - Official EVW website: https://evwsports.com/
 - [UK's first competitive arm wrestler with Down syndrome is already winning medals - liveaction.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxQczNSTG10NjdOSmNFR2tKNHltNU8zUThsS3Q1TFNDOU0zSHB3V2V1dVRLcFgxc1U2dGZQUlQ2WE1RVlpMU29ONVZmT1hWTXlGSExQc19SdUdFYk0yVDRFMlFCTlJtckVfUWhic05EYlJvenZ3MXhPNlVOZXpFSW9GTW9UcHo5NTA?oc=5) — Google News Arm Wrestling · 2026-08-02
   - UK's first competitive arm wrestler with Down syndrome is already winning medals liveaction.org
 - [Arm wrestling, a 'Gilded Age' star, headline Newport County events - AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE9QZmp5UWhPT2RLS0J4QmFsVkRGNVh3VVVkMUU1cXFzYjdlT05GV1c4a0RLbFVQN3NoOXpwMTNaQUprN0JpdzhsdUc3TVVEMy1JQ2pIZ3pRa053b19ta2lMYTF6RGpqaU1fYmg3VXBSZmZrR1YwQ3RzN3IyaTQxUQ?oc=5) — Google News Arm Wrestling · 2026-08-02
@@ -36,10 +12,10 @@ X: @ryanbluebowen
 Instagram @ryanbluebowen
 TikTok @ryanbluebowen
 Facebook @RyanblueBowen
-- [East vs West Armwrestling 25 - SPORF](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RNU82d0VJLWJKZlEycHNKM2FiM3VGZU4xbExtR2x4QTN0eHp2VXMxUnlrdUs2ckk1QTg0S0VDaVpVS2pBYjhxcy1SY0pzMG9kRG5qa25jWTVoUzF6VXRXaWtPMHVGQQ?oc=5) — Google News Armwrestling EN · 2026-08-02
-  - East vs West Armwrestling 25 SPORF
-- [Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 - SPORF](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXZwZVRKc19OajRzaTVIeXJwYVJ3cGZEMlhkWVNISG8td0o5Q3ZXVEctSUlaSUN3ck55Y3pQNmRCWUxERjRySHdaUVY0ZXc3bHFzaUNEUlRjdFg0LVBZZTh2SDB2QVk4VndVVzcxSk1HbXRwVWhCRE9iYmw2WGlQM3RtekpadFI1dDl0NlJHRUI1UjhkZUhMNHE4TQ?oc=5) — Google News Devon Larratt · 2026-08-01
-  - Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 SPORF
+- [East vs West Armwrestling 25 - sporf.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RNU82d0VJLWJKZlEycHNKM2FiM3VGZU4xbExtR2x4QTN0eHp2VXMxUnlrdUs2ckk1QTg0S0VDaVpVS2pBYjhxcy1SY0pzMG9kRG5qa25jWTVoUzF6VXRXaWtPMHVGQQ?oc=5) — Google News Armwrestling EN · 2026-08-02
+  - East vs West Armwrestling 25 sporf.com
+- [Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 - sporf.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXZwZVRKc19OajRzaTVIeXJwYVJ3cGZEMlhkWVNISG8td0o5Q3ZXVEctSUlaSUN3ck55Y3pQNmRCWUxERjRySHdaUVY0ZXc3bHFzaUNEUlRjdFg0LVBZZTh2SDB2QVk4VndVVzcxSk1HbXRwVWhCRE9iYmw2WGlQM3RtekpadFI1dDl0NlJHRUI1UjhkZUhMNHE4TQ?oc=5) — Google News Armwrestling EN · 2026-08-01
+  - Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 sporf.com
 - [batumi georgia backstage](https://www.youtube.com/shorts/1u0CRZrF0ng) — Devon Larratt · 2026-08-01
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -80,8 +56,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - Armwrestling event draws athletes in boost for tourism Khmer Times
 - [Projet de Gianni Infantino de vendre la Fifa : l'UEFA et l'Union européenne prêtes au bras de fer - parismatch.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUlXTmUzbENwdURyX3k4SVRIVEZ3Y3VVQVNzcGdtcVRzaHdwM0kxUGtYeWVHbG5uNXJNNXRRN3p1MVdhSEN0M3ZiNndzNnotVkR5V0Q1WjJlTWZfU1dSbDZIU0VlNDRaVjJIQ3Vtbkx2VHpEQzNHZ2FKWldrWkhfOVg4dmxwNE52UWhCRG5HY0d6eFNGeWVFNXVCOTBoR2ktTGhUUHYwY2Z3TmNYOFlCcTRNOVViRFR0M3cycFBTVmlPWkg5SG1Kc0QtMlFXcWJzTm9pWQ?oc=5) — Google News Armwrestling FR · 2026-07-29
   - Projet de Gianni Infantino de vendre la Fifa : l'UEFA et l'Union européenne prêtes au bras de fer parismatch.com
-- [Rivière-du-Loup brille au Championnat national de bras de fer - infodimanche.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXg2LVVUSHZnNU91aHRiVFJMTWctZjROc1puSlNYdnRqdFkwdGZobktEQnNNbFBVYjZ3T1NrV1lodUlxX3FGeXBSa2N4Q1g3V0I0YVY5LTlqYzZsNmJYMGxFemVtcXNQVThvZ2tnZ2IzcmRDYVFtSWsya3FIM2ZHTjAzaHRaX0dRQzNsSzZuTUJOUDlVLTUxZmx3SjZaMTQ?oc=5) — Google News Armwrestling FR · 2026-07-29
-  - Rivière-du-Loup brille au Championnat national de bras de fer infodimanche.com
 - [10 days in sakartvelo](https://www.youtube.com/watch?v=_o9bTGkWsB8) — Devon Larratt · 2026-07-27
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -110,7 +84,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 👕https://www.ninelineapparel.com/discount/MONSTER20 for a discount. Support the company that gives back to those who give all.
 💪Visit htt…
 - [Day 12 Shoulder Press & PEBP 175lbs/79.4kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/xkwmVGtwLbY) — Monster Michael Todd · 2026-07-27
-- [Week 2 of 13 week program, PR goal 210lbs! #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/vfDvTrAgP_0) — Monster Michael Todd · 2026-07-27
 - [Devon Larratt vs Gabriele Giurdanella Left Hand Sparring #armwrestling](https://www.youtube.com/shorts/UpHH2xnPlYA) — ARMSHARK ARMWRESTLING · 2026-07-27
 
 ## 💪 Entraînement & Technique
@@ -121,8 +94,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 - [Why Training Heavy Doesn’t Make You Jacked](https://www.youtube.com/shorts/1Pov40jT78Q) — Larry Wheels · 2026-08-01
 - [Day 13 Side Pressure 167lbs/75.8kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/LAbfQTtgHXU) — Monster Michael Todd · 2026-08-01
 - [Day 13 Riser Curl & Up Pressure #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/tYLt3lQ76j8) — Monster Michael Todd · 2026-07-31
-- [Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport - 98.5 Montréal](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVgtVEpmUWwyU0dvemRiVDlkVzJxX2NkWU9Gb1VGa3BlMExvQzYzYWNHUUtDVF9kMFhmbE81MW9zeVdDM1hXakhXYW84Z294bVhzOUdzV1pLWUxCeHZfWHVRR0VDSjdIZG13ZEl5WDFQMWh6RHo1VEFPOFl6QWlCSnVucFBnVERPRG9sRE1R?oc=5) — Google News Armwrestling FR · 2026-07-31
-  - Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport 98.5 Montréal
 - [Day 13 Wrist Wrench 84.5lbs/38.3kgs X 5 #armwrestling #armwrestling #letsgo #phil413](https://www.youtube.com/shorts/p64jlPyhHog) — Monster Michael Todd · 2026-07-29
 - [Day 13 Seated Pronation & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/NW3GPuZDNyI) — Monster Michael Todd · 2026-07-28
 - [Day 12 Side Pressure & Up Pressure #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/PGlQAM6NADk) — Monster Michael Todd · 2026-07-28
@@ -131,7 +102,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
 ✅ ARMWRESTLING ODYSSEY PROJECT patreon.com/voiceofarmwrestling
 ▲ BEST ARMWRESTLING EQUIPMENT https://titangrip-shop.com…
-- [Day 12 Seated Pronation & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/1ywNMUU7lw4) — Monster Michael Todd · 2026-07-27
 - [CAN VACHAGAN SHOCK THE MOST DOMINANT LIGHTWEIGHT?](https://www.youtube.com/watch?v=Up_Zs8TLR2E) — Voice of Armwrestling · 2026-07-27
   - PPV: evwsports.com
 
@@ -153,8 +123,6 @@ Join this channel to get acces…
 
 ## 🎬 YouTube & Médias
 
-- [[Podcasts] Real Madrid contre Vinicius : qui va gagner le bras de fer ? – 01/08 - RMC Sport](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNGVGSlpFTzc0ZVZsWXl5Q0o3SHh6THdBVnpvTzZMNEhDLTNpLU8yYlVLWXVNdm9uNkJINHZjNHF2ZGVqTHR2cDRfRXZVaThINXBzSFVxMTBNaElJTXI5WGp0TDVhODl2dTYxd3pQRHVwbmRUVVN5N1Q5aVM3YTNiYnZSb2VxQ3ZZU0c5RW81WEM2b3NweEJCRTZMZGVWeGJ0OWNLNV9nMC1lMDhLTWxJSEtSTmhHdE1LQ0N6THVucURGZWxoWXFPSFd4ZGpQS3QxcGd6Vg?oc=5) — Google News Armwrestling FR · 2026-08-01
-  - [Podcasts] Real Madrid contre Vinicius : qui va gagner le bras de fer ? – 01/08 RMC Sport
 - [THE STRONGEST WOMAN VS SCHOOLBOY ARM WRESTLING 2026](https://www.youtube.com/watch?v=q5UKZCzhwnE) — ARMWRESTLING TV (Schoolboy) · 2026-07-31
   - Armwrestling sparring Aleksandr Schoolboy vs Russian Dua Lipa - Daria Pluzhnikova feat. Akimbo 69 and Alex Toproll
 Subscribe for NEW VIDEOS 
