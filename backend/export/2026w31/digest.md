@@ -12,10 +12,8 @@ X: @ryanbluebowen
 Instagram @ryanbluebowen
 TikTok @ryanbluebowen
 Facebook @RyanblueBowen
-- [East vs West Armwrestling 25 - sporf.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RNU82d0VJLWJKZlEycHNKM2FiM3VGZU4xbExtR2x4QTN0eHp2VXMxUnlrdUs2ckk1QTg0S0VDaVpVS2pBYjhxcy1SY0pzMG9kRG5qa25jWTVoUzF6VXRXaWtPMHVGQQ?oc=5) — Google News Armwrestling EN · 2026-08-02
-  - East vs West Armwrestling 25 sporf.com
-- [Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 - sporf.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXZwZVRKc19OajRzaTVIeXJwYVJ3cGZEMlhkWVNISG8td0o5Q3ZXVEctSUlaSUN3ck55Y3pQNmRCWUxERjRySHdaUVY0ZXc3bHFzaUNEUlRjdFg0LVBZZTh2SDB2QVk4VndVVzcxSk1HbXRwVWhCRE9iYmw2WGlQM3RtekpadFI1dDl0NlJHRUI1UjhkZUhMNHE4TQ?oc=5) — Google News Armwrestling EN · 2026-08-01
-  - Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 sporf.com
+- [Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 - SPORF](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXZwZVRKc19OajRzaTVIeXJwYVJ3cGZEMlhkWVNISG8td0o5Q3ZXVEctSUlaSUN3ck55Y3pQNmRCWUxERjRySHdaUVY0ZXc3bHFzaUNEUlRjdFg0LVBZZTh2SDB2QVk4VndVVzcxSk1HbXRwVWhCRE9iYmw2WGlQM3RtekpadFI1dDl0NlJHRUI1UjhkZUhMNHE4TQ?oc=5) — Google News Levan Saginashvili · 2026-08-01
+  - Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 SPORF
 - [batumi georgia backstage](https://www.youtube.com/shorts/1u0CRZrF0ng) — Devon Larratt · 2026-08-01
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
 
@@ -52,8 +50,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - Denis Cyplenkov: Career, Key Matches, and Armwrestling Legacy Fitness Volt
 - [Denis Cyplenkov: Career, Key Matches, and Armwrestling Legacy](https://fitnessvolt.com/denis-cyplenkov-profile/) — Fitness Volt Armwrestling · 2026-07-29
   - From the tournament circuit to blockbuster supermatches, the results and rivals that built one of armwrestling's most recognizable careers.
-- [Armwrestling event draws athletes in boost for tourism - Khmer Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVdvVUVwV2NaVjJtVksxbVk5cTBsUTV0RzhYTU5TVElBSHJ0VE02OGo5R1ZsQTZOQk1yaXp4aGU2VnZ6eVFPRUtzVWJwSVJRdXN3Mnc1YkJpdk84dEFrSTQwbkRuUy1tUERFX0xIZ2tvV19lMnRralZ1NTYzNVJPUTZnaFdQM095QkZFN21TcC14NjZ2ZnZObFl3?oc=5) — Google News Armwrestling EN · 2026-07-29
-  - Armwrestling event draws athletes in boost for tourism Khmer Times
 - [Projet de Gianni Infantino de vendre la Fifa : l'UEFA et l'Union européenne prêtes au bras de fer - parismatch.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUlXTmUzbENwdURyX3k4SVRIVEZ3Y3VVQVNzcGdtcVRzaHdwM0kxUGtYeWVHbG5uNXJNNXRRN3p1MVdhSEN0M3ZiNndzNnotVkR5V0Q1WjJlTWZfU1dSbDZIU0VlNDRaVjJIQ3Vtbkx2VHpEQzNHZ2FKWldrWkhfOVg4dmxwNE52UWhCRG5HY0d6eFNGeWVFNXVCOTBoR2ktTGhUUHYwY2Z3TmNYOFlCcTRNOVViRFR0M3cycFBTVmlPWkg5SG1Kc0QtMlFXcWJzTm9pWQ?oc=5) — Google News Armwrestling FR · 2026-07-29
   - Projet de Gianni Infantino de vendre la Fifa : l'UEFA et l'Union européenne prêtes au bras de fer parismatch.com
 - [10 days in sakartvelo](https://www.youtube.com/watch?v=_o9bTGkWsB8) — Devon Larratt · 2026-07-27
@@ -83,7 +79,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
   - Join this channel to get access to perks:https://www.youtube.com/channel/UCarJKBV9GEpXRHrw4bEEhHA/join
 👕https://www.ninelineapparel.com/discount/MONSTER20 for a discount. Support the company that gives back to those who give all.
 💪Visit htt…
-- [Day 12 Shoulder Press & PEBP 175lbs/79.4kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/xkwmVGtwLbY) — Monster Michael Todd · 2026-07-27
 - [Devon Larratt vs Gabriele Giurdanella Left Hand Sparring #armwrestling](https://www.youtube.com/shorts/UpHH2xnPlYA) — ARMSHARK ARMWRESTLING · 2026-07-27
 
 ## 💪 Entraînement & Technique
@@ -94,6 +89,8 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 - [Why Training Heavy Doesn’t Make You Jacked](https://www.youtube.com/shorts/1Pov40jT78Q) — Larry Wheels · 2026-08-01
 - [Day 13 Side Pressure 167lbs/75.8kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/LAbfQTtgHXU) — Monster Michael Todd · 2026-08-01
 - [Day 13 Riser Curl & Up Pressure #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/tYLt3lQ76j8) — Monster Michael Todd · 2026-07-31
+- [Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport - 98.5 Montréal](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVgtVEpmUWwyU0dvemRiVDlkVzJxX2NkWU9Gb1VGa3BlMExvQzYzYWNHUUtDVF9kMFhmbE81MW9zeVdDM1hXakhXYW84Z294bVhzOUdzV1pLWUxCeHZfWHVRR0VDSjdIZG13ZEl5WDFQMWh6RHo1VEFPOFl6QWlCSnVucFBnVERPRG9sRE1R?oc=5) — Google News Armwrestling FR · 2026-07-31
+  - Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport 98.5 Montréal
 - [Day 13 Wrist Wrench 84.5lbs/38.3kgs X 5 #armwrestling #armwrestling #letsgo #phil413](https://www.youtube.com/shorts/p64jlPyhHog) — Monster Michael Todd · 2026-07-29
 - [Day 13 Seated Pronation & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/NW3GPuZDNyI) — Monster Michael Todd · 2026-07-28
 - [Day 12 Side Pressure & Up Pressure #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/PGlQAM6NADk) — Monster Michael Todd · 2026-07-28
@@ -129,8 +126,8 @@ Subscribe for NEW VIDEOS
 https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 Join this channel to get…
-- [Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE - BroadwayWorld](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFRVV3BPN2VtOFlWVmFYaVhOQ3hORExjc3pxVTZmQl93OXZpcGtpV1QtNWM1emJyclBUa0Raa1cteFN6aHFZcVc1X3o2eHpXN1ZYTHJJQXJZQzA0MjRmN0R6SmM4S3FlR1ZDYWRpYzdXb3FrUFZ3X2o5dUpUbzFyUzc2UDhmdnRGU1Z1ZXR3NGFtZVdUeUNYM3l2MC1PQy0tMlhDOTRFZnhtdzNiWm52d09UOFdiS3VldnRLVG5GUTlheXYt?oc=5) — Google News Arm Wrestling · 2026-07-27
-  - Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE BroadwayWorld
+- [Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE - broadwayworld.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFRVV3BPN2VtOFlWVmFYaVhOQ3hORExjc3pxVTZmQl93OXZpcGtpV1QtNWM1emJyclBUa0Raa1cteFN6aHFZcVc1X3o2eHpXN1ZYTHJJQXJZQzA0MjRmN0R6SmM4S3FlR1ZDYWRpYzdXb3FrUFZ3X2o5dUpUbzFyUzc2UDhmdnRGU1Z1ZXR3NGFtZVdUeUNYM3l2MC1PQy0tMlhDOTRFZnhtdzNiWm52d09UOFdiS3VldnRLVG5GUTlheXYt?oc=5) — Google News Arm Wrestling · 2026-07-27
+  - Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE broadwayworld.com
 
 ## 📰 Actualités & Annonces
 
