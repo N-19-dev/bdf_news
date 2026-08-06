@@ -2,17 +2,13 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [UK's first competitive arm wrestler with Down syndrome is already winning medals - liveaction.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxQczNSTG10NjdOSmNFR2tKNHltNU8zUThsS3Q1TFNDOU0zSHB3V2V1dVRLcFgxc1U2dGZQUlQ2WE1RVlpMU29ONVZmT1hWTXlGSExQc19SdUdFYk0yVDRFMlFCTlJtckVfUWhic05EYlJvenZ3MXhPNlVOZXpFSW9GTW9UcHo5NTA?oc=5) — Google News Arm Wrestling · 2026-08-02
-  - UK's first competitive arm wrestler with Down syndrome is already winning medals liveaction.org
-- [Arm wrestling, a 'Gilded Age' star, headline Newport County events - AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE9QZmp5UWhPT2RLS0J4QmFsVkRGNVh3VVVkMUU1cXFzYjdlT05GV1c4a0RLbFVQN3NoOXpwMTNaQUprN0JpdzhsdUc3TVVEMy1JQ2pIZ3pRa053b19ta2lMYTF6RGpqaU1fYmg3VXBSZmZrR1YwQ3RzN3IyaTQxUQ?oc=5) — Google News Arm Wrestling · 2026-08-02
-  - Arm wrestling, a 'Gilded Age' star, headline Newport County events AOL.com
 - [EVW MAIN EVENT COMMENTARY LIVE.](https://www.youtube.com/watch?v=G1yUExONGhc) — Pound for Pound Armwrestling · 2026-08-02
   - Follow me at:
 X: @ryanbluebowen
 Instagram @ryanbluebowen
 TikTok @ryanbluebowen
 Facebook @RyanblueBowen
-- [Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 - SPORF](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXZwZVRKc19OajRzaTVIeXJwYVJ3cGZEMlhkWVNISG8td0o5Q3ZXVEctSUlaSUN3ck55Y3pQNmRCWUxERjRySHdaUVY0ZXc3bHFzaUNEUlRjdFg0LVBZZTh2SDB2QVk4VndVVzcxSk1HbXRwVWhCRE9iYmw2WGlQM3RtekpadFI1dDl0NlJHRUI1UjhkZUhMNHE4TQ?oc=5) — Google News Levan Saginashvili · 2026-08-01
+- [Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 - SPORF](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXZwZVRKc19OajRzaTVIeXJwYVJ3cGZEMlhkWVNISG8td0o5Q3ZXVEctSUlaSUN3ck55Y3pQNmRCWUxERjRySHdaUVY0ZXc3bHFzaUNEUlRjdFg0LVBZZTh2SDB2QVk4VndVVzcxSk1HbXRwVWhCRE9iYmw2WGlQM3RtekpadFI1dDl0NlJHRUI1UjhkZUhMNHE4TQ?oc=5) — Google News Armwrestling EN · 2026-08-01
   - Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 SPORF
 - [batumi georgia backstage](https://www.youtube.com/shorts/1u0CRZrF0ng) — Devon Larratt · 2026-08-01
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
@@ -84,16 +80,10 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 ## 💪 Entraînement & Technique
 
 - [Day 14 Seated Pronation & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/F6YE5q_aeDY) — Monster Michael Todd · 2026-08-01
-- [Vinicius attiré par Arsenal et force son départ du Real... qui va gagner le bras de fer ? - Yahoo Actualités](https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTBJN1lJdVBzRjlpVjhnVVpQWU1kLUI5OVhLSE8tTEx4LUhDTzdNMU5JR1BBcE12MnRPdnBLbXVTX2U2aVIxM0IzdndObmdHZFVWTmNCbE9TTkxGOFczd2swM1BmRjhwTktWMEdSMmIyMmZCb0Y4X1J4UTFBTkk0UWFidlRXUEgxbkRwMmVob1YwRTYxYjZ4dA?oc=5) — Google News Armwrestling FR · 2026-08-01
-  - Vinicius attiré par Arsenal et force son départ du Real... qui va gagner le bras de fer ? Yahoo Actualités
 - [Why Training Heavy Doesn’t Make You Jacked](https://www.youtube.com/shorts/1Pov40jT78Q) — Larry Wheels · 2026-08-01
 - [Day 13 Side Pressure 167lbs/75.8kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/LAbfQTtgHXU) — Monster Michael Todd · 2026-08-01
 - [Day 13 Riser Curl & Up Pressure #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/tYLt3lQ76j8) — Monster Michael Todd · 2026-07-31
-- [Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport - 98.5 Montréal](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVgtVEpmUWwyU0dvemRiVDlkVzJxX2NkWU9Gb1VGa3BlMExvQzYzYWNHUUtDVF9kMFhmbE81MW9zeVdDM1hXakhXYW84Z294bVhzOUdzV1pLWUxCeHZfWHVRR0VDSjdIZG13ZEl5WDFQMWh6RHo1VEFPOFl6QWlCSnVucFBnVERPRG9sRE1R?oc=5) — Google News Armwrestling FR · 2026-07-31
-  - Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport 98.5 Montréal
 - [Day 13 Wrist Wrench 84.5lbs/38.3kgs X 5 #armwrestling #armwrestling #letsgo #phil413](https://www.youtube.com/shorts/p64jlPyhHog) — Monster Michael Todd · 2026-07-29
-- [Day 13 Seated Pronation & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/NW3GPuZDNyI) — Monster Michael Todd · 2026-07-28
-- [Day 12 Side Pressure & Up Pressure #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/PGlQAM6NADk) — Monster Michael Todd · 2026-07-28
 - [CAN ALIZHAN MURATOV SHOCK VITALY LALETIN? | THE BIGGEST LEFT-HAND MATCH EVER?](https://www.youtube.com/watch?v=vN2_5zvIJ_0) — Voice of Armwrestling · 2026-07-28
   - 👕T-SHIRTS & TRAINING PLANS https://voaarmwrestling.com/ 
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
@@ -120,16 +110,18 @@ Join this channel to get acces…
 
 ## 🎬 YouTube & Médias
 
+- [[Podcasts] Real Madrid contre Vinicius : qui va gagner le bras de fer ? – 01/08 - RMC Sport](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNGVGSlpFTzc0ZVZsWXl5Q0o3SHh6THdBVnpvTzZMNEhDLTNpLU8yYlVLWXVNdm9uNkJINHZjNHF2ZGVqTHR2cDRfRXZVaThINXBzSFVxMTBNaElJTXI5WGp0TDVhODl2dTYxd3pQRHVwbmRUVVN5N1Q5aVM3YTNiYnZSb2VxQ3ZZU0c5RW81WEM2b3NweEJCRTZMZGVWeGJ0OWNLNV9nMC1lMDhLTWxJSEtSTmhHdE1LQ0N6THVucURGZWxoWXFPSFd4ZGpQS3QxcGd6Vg?oc=5) — Google News Armwrestling FR · 2026-08-01
+  - [Podcasts] Real Madrid contre Vinicius : qui va gagner le bras de fer ? – 01/08 RMC Sport
 - [THE STRONGEST WOMAN VS SCHOOLBOY ARM WRESTLING 2026](https://www.youtube.com/watch?v=q5UKZCzhwnE) — ARMWRESTLING TV (Schoolboy) · 2026-07-31
   - Armwrestling sparring Aleksandr Schoolboy vs Russian Dua Lipa - Daria Pluzhnikova feat. Akimbo 69 and Alex Toproll
 Subscribe for NEW VIDEOS 
 https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 Join this channel to get…
-- [Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE - broadwayworld.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFRVV3BPN2VtOFlWVmFYaVhOQ3hORExjc3pxVTZmQl93OXZpcGtpV1QtNWM1emJyclBUa0Raa1cteFN6aHFZcVc1X3o2eHpXN1ZYTHJJQXJZQzA0MjRmN0R6SmM4S3FlR1ZDYWRpYzdXb3FrUFZ3X2o5dUpUbzFyUzc2UDhmdnRGU1Z1ZXR3NGFtZVdUeUNYM3l2MC1PQy0tMlhDOTRFZnhtdzNiWm52d09UOFdiS3VldnRLVG5GUTlheXYt?oc=5) — Google News Arm Wrestling · 2026-07-27
-  - Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE broadwayworld.com
+- [Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE - BroadwayWorld](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFRVV3BPN2VtOFlWVmFYaVhOQ3hORExjc3pxVTZmQl93OXZpcGtpV1QtNWM1emJyclBUa0Raa1cteFN6aHFZcVc1X3o2eHpXN1ZYTHJJQXJZQzA0MjRmN0R6SmM4S3FlR1ZDYWRpYzdXb3FrUFZ3X2o5dUpUbzFyUzc2UDhmdnRGU1Z1ZXR3NGFtZVdUeUNYM3l2MC1PQy0tMlhDOTRFZnhtdzNiWm52d09UOFdiS3VldnRLVG5GUTlheXYt?oc=5) — Google News Arm Wrestling · 2026-07-27
+  - Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE BroadwayWorld
 
 ## 📰 Actualités & Annonces
 
-- [2PM Ok Taecyeon rushed to emergency room after arm wrestling injury - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMllhZ3c1dzZxYkp6WFUyOFFMUTlZdUNsZXhGMEVPcGFJc0hYbnpvbnI5NEJxeW1RMjlFc2lQNG43U2twU2Nmeko5UHp0Tk9ucGwzM0dQeWMwSm1LNW9HLVZLMGc2VkJVdU1WUmx6eFNCLWh0Z083dU92eHpVamV2Ulh0RmI1R0Z30gGcAUFVX3lxTE5EaWJ3c3o0Wm54amg0U2hOOFZEdHAtaXV6aWN1Q2xwMDZ5a3dhbUpjdmdnT3UzanVfS1RLZFF0dkRNVXhDMzNubF9YSEZVMFAtYmVwamNhbEIzMHhtM1dzenhSbTM4djZhUlBEVlkwQUJuV244VW1OSUczWXo4b2lLOVhWRlFIcjVKb184WXk4S0dSZHNXODRydkQxZw?oc=5) — Google News Armwrestling EN · 2026-08-01
-  - 2PM Ok Taecyeon rushed to emergency room after arm wrestling injury - CHOSUNBIZ Chosunbiz
+- [2PM Ok Taecyeon rushed to emergency room after arm wrestling injury - CHOSUNBIZ - biz.chosun.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMllhZ3c1dzZxYkp6WFUyOFFMUTlZdUNsZXhGMEVPcGFJc0hYbnpvbnI5NEJxeW1RMjlFc2lQNG43U2twU2Nmeko5UHp0Tk9ucGwzM0dQeWMwSm1LNW9HLVZLMGc2VkJVdU1WUmx6eFNCLWh0Z083dU92eHpVamV2Ulh0RmI1R0Z30gGcAUFVX3lxTE5EaWJ3c3o0Wm54amg0U2hOOFZEdHAtaXV6aWN1Q2xwMDZ5a3dhbUpjdmdnT3UzanVfS1RLZFF0dkRNVXhDMzNubF9YSEZVMFAtYmVwamNhbEIzMHhtM1dzenhSbTM4djZhUlBEVlkwQUJuV244VW1OSUczWXo4b2lLOVhWRlFIcjVKb184WXk4S0dSZHNXODRydkQxZw?oc=5) — Google News Armwrestling EN · 2026-08-01
+  - 2PM Ok Taecyeon rushed to emergency room after arm wrestling injury - CHOSUNBIZ biz.chosun.com
