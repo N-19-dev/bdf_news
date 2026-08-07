@@ -11,10 +11,7 @@
 - [If I can’t have Matyushenko, then give me Vitaly! I’m taking bets! #armwrestling #worldchampion](https://www.youtube.com/shorts/TRS5sHwq8lY) — Monster Michael Todd · 2026-08-01 · **61/100**
 - [Day 14 Shoulder Press & PEBP 180lbs/81.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/W5mSmi0hAt0) — Monster Michael Todd · 2026-08-02 · **60/100**
 - [Absolutely LOVE my new commemorative belt from @armchampionshipbelts They CRUSHED the design! 💯💪](https://www.youtube.com/shorts/GWd-qw3zNRM) — Monster Michael Todd · 2026-07-31 · **60/100**
-
-## france
-
-- [Projet de Gianni Infantino de vendre la Fifa : l'UEFA et l'Union européenne prêtes au bras de fer - parismatch.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUlXTmUzbENwdURyX3k4SVRIVEZ3Y3VVQVNzcGdtcVRzaHdwM0kxUGtYeWVHbG5uNXJNNXRRN3p1MVdhSEN0M3ZiNndzNnotVkR5V0Q1WjJlTWZfU1dSbDZIU0VlNDRaVjJIQ3Vtbkx2VHpEQzNHZ2FKWldrWkhfOVg4dmxwNE52UWhCRG5HY0d6eFNGeWVFNXVCOTBoR2ktTGhUUHYwY2Z3TmNYOFlCcTRNOVViRFR0M3cycFBTVmlPWkg5SG1Kc0QtMlFXcWJzTm9pWQ?oc=5) — Google News Armwrestling FR · 2026-07-29 · **54/100**
+- [Is this the MOST dangerous Martial Art?](https://www.youtube.com/watch?v=-t_6rtlBRv4) — Larry Wheels · 2026-07-26 · **60/100**
 
 ## news
 
