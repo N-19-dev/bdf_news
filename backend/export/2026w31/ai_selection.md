@@ -10,8 +10,11 @@
 - [10 days in sakartvelo](https://www.youtube.com/watch?v=_o9bTGkWsB8) — Devon Larratt · 2026-07-27 · **62/100**
 - [If I can’t have Matyushenko, then give me Vitaly! I’m taking bets! #armwrestling #worldchampion](https://www.youtube.com/shorts/TRS5sHwq8lY) — Monster Michael Todd · 2026-08-01 · **61/100**
 - [Day 14 Shoulder Press & PEBP 180lbs/81.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/W5mSmi0hAt0) — Monster Michael Todd · 2026-08-02 · **60/100**
-- [Absolutely LOVE my new commemorative belt from @armchampionshipbelts They CRUSHED the design! 💯💪](https://www.youtube.com/shorts/GWd-qw3zNRM) — Monster Michael Todd · 2026-07-31 · **60/100**
 - [Is this the MOST dangerous Martial Art?](https://www.youtube.com/watch?v=-t_6rtlBRv4) — Larry Wheels · 2026-07-26 · **60/100**
+
+## france
+
+- [Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport - 98.5 Montréal](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVgtVEpmUWwyU0dvemRiVDlkVzJxX2NkWU9Gb1VGa3BlMExvQzYzYWNHUUtDVF9kMFhmbE81MW9zeVdDM1hXakhXYW84Z294bVhzOUdzV1pLWUxCeHZfWHVRR0VDSjdIZG13ZEl5WDFQMWh6RHo1VEFPOFl6QWlCSnVucFBnVERPRG9sRE1R?oc=5) — Google News Armwrestling FR · 2026-07-30 · **55/100**
 
 ## news
 

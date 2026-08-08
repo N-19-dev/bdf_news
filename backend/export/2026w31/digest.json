@@ -33,22 +33,6 @@
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/shorts/hP8L_K8SiOE",
-      "title": "Day 13 Shoulder Press & PEBP 177.5lbs/80.5kgs #armwrestling #worldchampion #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1785531091,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
-      "url": "https://www.youtube.com/shorts/GWd-qw3zNRM",
-      "title": "Absolutely LOVE my new commemorative belt from @armchampionshipbelts They CRUSHED the design! 💯💪",
-      "summary": "Join this channel to get access to perks:https://www.youtube.com/channel/UCarJKBV9GEpXRHrw4bEEhHA/join\n👕https://www.ninelineapparel.com/discount/MONSTER20 for a discount. Support the company that gives back to those who give all.\n💪Visit https://monstermichaeltodd.com for all your training tools, apparel, social media links, and partner links",
-      "published_ts": 1785509776,
-      "source_name": "Monster Michael Todd",
-      "content_type": "technical"
-    },
-    {
       "url": "https://www.youtube.com/shorts/UpHH2xnPlYA",
       "title": "Devon Larratt vs Gabriele Giurdanella Left Hand Sparring #armwrestling",
       "summary": "",
@@ -58,6 +42,14 @@
     }
   ],
   "competitions": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQczNSTG10NjdOSmNFR2tKNHltNU8zUThsS3Q1TFNDOU0zSHB3V2V1dVRLcFgxc1U2dGZQUlQ2WE1RVlpMU29ONVZmT1hWTXlGSExQc19SdUdFYk0yVDRFMlFCTlJtckVfUWhic05EYlJvenZ3MXhPNlVOZXpFSW9GTW9UcHo5NTA?oc=5",
+      "title": "UK's first competitive arm wrestler with Down syndrome is already winning medals - liveaction.org",
+      "summary": "UK's first competitive arm wrestler with Down syndrome is already winning medals liveaction.org",
+      "published_ts": 1785686402,
+      "source_name": "Google News Armwrestling EN",
+      "content_type": "technical"
+    },
     {
       "url": "https://www.youtube.com/watch?v=G1yUExONGhc",
       "title": "EVW MAIN EVENT COMMENTARY LIVE.",
@@ -71,7 +63,7 @@
       "title": "Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 - SPORF",
       "summary": "Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 SPORF",
       "published_ts": 1785626559,
-      "source_name": "Google News Levan Saginashvili",
+      "source_name": "Google News Armwrestling EN",
       "content_type": "technical"
     },
     {
@@ -140,16 +132,7 @@
     }
   ],
   "france": [],
-  "news": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMllhZ3c1dzZxYkp6WFUyOFFMUTlZdUNsZXhGMEVPcGFJc0hYbnpvbnI5NEJxeW1RMjlFc2lQNG43U2twU2Nmeko5UHp0Tk9ucGwzM0dQeWMwSm1LNW9HLVZLMGc2VkJVdU1WUmx6eFNCLWh0Z083dU92eHpVamV2Ulh0RmI1R0Z30gGcAUFVX3lxTE5EaWJ3c3o0Wm54amg0U2hOOFZEdHAtaXV6aWN1Q2xwMDZ5a3dhbUpjdmdnT3UzanVfS1RLZFF0dkRNVXhDMzNubF9YSEZVMFAtYmVwamNhbEIzMHhtM1dzenhSbTM4djZhUlBEVlkwQUJuV244VW1OSUczWXo4b2lLOVhWRlFIcjVKb184WXk4S0dSZHNXODRydkQxZw?oc=5",
-      "title": "2PM Ok Taecyeon rushed to emergency room after arm wrestling injury - CHOSUNBIZ - Chosunbiz",
-      "summary": "2PM Ok Taecyeon rushed to emergency room after arm wrestling injury - CHOSUNBIZ Chosunbiz",
-      "published_ts": 1785566400,
-      "source_name": "Google News Armwrestling EN",
-      "content_type": "technical"
-    }
-  ],
+  "news": [],
   "training": [
     {
       "url": "https://www.youtube.com/shorts/F6YE5q_aeDY",
@@ -168,11 +151,11 @@
       "content_type": "technical"
     },
     {
-      "url": "https://www.youtube.com/shorts/LAbfQTtgHXU",
-      "title": "Day 13 Side Pressure 167lbs/75.8kgs #armwrestling #worldchampion #letsgo #phil413",
-      "summary": "",
-      "published_ts": 1785543550,
-      "source_name": "Monster Michael Todd",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVgtVEpmUWwyU0dvemRiVDlkVzJxX2NkWU9Gb1VGa3BlMExvQzYzYWNHUUtDVF9kMFhmbE81MW9zeVdDM1hXakhXYW84Z294bVhzOUdzV1pLWUxCeHZfWHVRR0VDSjdIZG13ZEl5WDFQMWh6RHo1VEFPOFl6QWlCSnVucFBnVERPRG9sRE1R?oc=5",
+      "title": "Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport - 98.5 Montréal",
+      "summary": "Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport 98.5 Montréal",
+      "published_ts": 1785394800,
+      "source_name": "Google News Armwrestling FR",
       "content_type": "technical"
     },
     {
