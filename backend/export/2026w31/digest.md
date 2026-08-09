@@ -2,15 +2,13 @@
 
 ## 🏆 Compétitions & Résultats
 
-- [UK's first competitive arm wrestler with Down syndrome is already winning medals - liveaction.org](https://news.google.com/rss/articles/CBMihwFBVV95cUxQczNSTG10NjdOSmNFR2tKNHltNU8zUThsS3Q1TFNDOU0zSHB3V2V1dVRLcFgxc1U2dGZQUlQ2WE1RVlpMU29ONVZmT1hWTXlGSExQc19SdUdFYk0yVDRFMlFCTlJtckVfUWhic05EYlJvenZ3MXhPNlVOZXpFSW9GTW9UcHo5NTA?oc=5) — Google News Armwrestling EN · 2026-08-02
-  - UK's first competitive arm wrestler with Down syndrome is already winning medals liveaction.org
 - [EVW MAIN EVENT COMMENTARY LIVE.](https://www.youtube.com/watch?v=G1yUExONGhc) — Pound for Pound Armwrestling · 2026-08-02
   - Follow me at:
 X: @ryanbluebowen
 Instagram @ryanbluebowen
 TikTok @ryanbluebowen
 Facebook @RyanblueBowen
-- [Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 - SPORF](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXZwZVRKc19OajRzaTVIeXJwYVJ3cGZEMlhkWVNISG8td0o5Q3ZXVEctSUlaSUN3ck55Y3pQNmRCWUxERjRySHdaUVY0ZXc3bHFzaUNEUlRjdFg0LVBZZTh2SDB2QVk4VndVVzcxSk1HbXRwVWhCRE9iYmw2WGlQM3RtekpadFI1dDl0NlJHRUI1UjhkZUhMNHE4TQ?oc=5) — Google News Armwrestling EN · 2026-08-01
+- [Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 - SPORF](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXZwZVRKc19OajRzaTVIeXJwYVJ3cGZEMlhkWVNISG8td0o5Q3ZXVEctSUlaSUN3ck55Y3pQNmRCWUxERjRySHdaUVY0ZXc3bHFzaUNEUlRjdFg0LVBZZTh2SDB2QVk4VndVVzcxSk1HbXRwVWhCRE9iYmw2WGlQM3RtekpadFI1dDl0NlJHRUI1UjhkZUhMNHE4TQ?oc=5) — Google News Levan Saginashvili · 2026-08-01
   - Vitaly Laletin dominates Alizhan Muratov at East vs West Armwrestling 25 SPORF
 - [batumi georgia backstage](https://www.youtube.com/shorts/1u0CRZrF0ng) — Devon Larratt · 2026-08-01
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
@@ -46,6 +44,8 @@ signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 - [Denis Cyplenkov: Career, Key Matches, and Armwrestling Legacy](https://fitnessvolt.com/denis-cyplenkov-profile/) — Fitness Volt Armwrestling · 2026-07-29
   - From the tournament circuit to blockbuster supermatches, the results and rivals that built one of armwrestling's most recognizable careers.
+- [Projet de Gianni Infantino de vendre la Fifa : l'UEFA et l'Union européenne prêtes au bras de fer - parismatch.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUlXTmUzbENwdURyX3k4SVRIVEZ3Y3VVQVNzcGdtcVRzaHdwM0kxUGtYeWVHbG5uNXJNNXRRN3p1MVdhSEN0M3ZiNndzNnotVkR5V0Q1WjJlTWZfU1dSbDZIU0VlNDRaVjJIQ3Vtbkx2VHpEQzNHZ2FKWldrWkhfOVg4dmxwNE52UWhCRG5HY0d6eFNGeWVFNXVCOTBoR2ktTGhUUHYwY2Z3TmNYOFlCcTRNOVViRFR0M3cycFBTVmlPWkg5SG1Kc0QtMlFXcWJzTm9pWQ?oc=5) — Google News Armwrestling FR · 2026-07-29
+  - Projet de Gianni Infantino de vendre la Fifa : l'UEFA et l'Union européenne prêtes au bras de fer parismatch.com
 - [Denis Cyplenkov: Career, Key Matches, and Armwrestling Legacy - Fitness Volt](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rQ2hzbWloejJvUno3RDF3WEZqU0g2aXBnSmZGZnY5R195ZzhnaDlCZ2VqclZGdGc3UnNmcnB1M2VHMFd5QVZJbjJEZWYxVTVxZnNVZHUtQTFXMTNw?oc=5) — Google News Armwrestling EN · 2026-07-29
   - Denis Cyplenkov: Career, Key Matches, and Armwrestling Legacy Fitness Volt
 - [10 days in sakartvelo](https://www.youtube.com/watch?v=_o9bTGkWsB8) — Devon Larratt · 2026-07-27
@@ -62,10 +62,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 ## 🌟 Athlètes & Interviews
 
 - [Day 14 Shoulder Press & PEBP 180lbs/81.7kgs #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/W5mSmi0hAt0) — Monster Michael Todd · 2026-08-02
-- [If I can’t have Matyushenko, then give me Vitaly! I’m taking bets! #armwrestling #worldchampion](https://www.youtube.com/shorts/TRS5sHwq8lY) — Monster Michael Todd · 2026-08-01
-  - Join this channel to get access to perks:https://www.youtube.com/channel/UCarJKBV9GEpXRHrw4bEEhHA/join
-👕https://www.ninelineapparel.com/discount/MONSTER20 for a discount. Support the company that gives back to those who give all.
-💪Visit htt…
 - [World Armwrestling Federation lifts all restrictions on Russian athletes - Türkiye Today](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlNwaHdkS1pXMmp5OExxQWZQM19FeHBseHlIUlRwd1QyN1d0aGgzdVNLdEdOMTRPcjdoVnVEQ1pwbXIzLVZIVVNGR1ZFVVo1TEdnRHBOYnJMX3JKSUFycmR0d0JrN05pWF81TmNhNnk4UVpfdnM1bW9JYU03RzAySHpwci13Yk5YUTFCRmd4VzRfUHpILV9md2h2U0IyaEJKa1docUZHV3ZVb3dpeG16YTQ4TG4zb1E?oc=5) — Google News Armwrestling EN · 2026-08-01
   - World Armwrestling Federation lifts all restrictions on Russian athletes Türkiye Today
 - [Interview: Aroostook Armwrestling Club Showcases Their Skills at Rockin on Riverside - WAGM](https://news.google.com/rss/articles/CBMisgFBVV95cUxPamlrZUQ3Z0h5NzBpM1ltQzQyczhHRF9Oc2lOd3RBaEJYdElBTTdzdHFCVlpsSm9uMV8za1k4ZlBOUnB0Y1Q0dzUycERhWFpjTjBQSmZjcFVLbDVLU3ZFbWdacldRZnhzVHotWWFBck85dnJXbXF1NjlLOGpJU3ktS0NyNzlrVnpjR2s3YkszaFB5Z2xkUnM5d3kwVE9DMzJwNkFER0lESUpWeFpoRHVjemRR0gHGAUFVX3lxTE5vd0JZWXdHREtBWDhoT2FhU25QLU1WeVpfU3VJRkctYk5TRnI3TE9wMmdJT3Q4cmQxNDExbTROeERwZHlPSzdhTFZ4NlVPQlotYkhqR3Q3NWpKSm9zeXFsazV1UENmUm9yZFQwNS1Ed0pzNDVRVWRCZGMzZkVTbVlQTG5GOGt0T0o3U25fX3ZpRDlQTklHMENDLUFkZHZVR3F3RUdiUTZQMTNkQW13aDZtSW9abzdWV0I1SUl2VGU4VjJVNXBoQQ?oc=5) — Google News Armwrestling EN · 2026-07-31
@@ -76,8 +72,6 @@ https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
 
 - [Day 14 Seated Pronation & Riser Curl #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/F6YE5q_aeDY) — Monster Michael Todd · 2026-08-01
 - [Why Training Heavy Doesn’t Make You Jacked](https://www.youtube.com/shorts/1Pov40jT78Q) — Larry Wheels · 2026-08-01
-- [Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport - 98.5 Montréal](https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVgtVEpmUWwyU0dvemRiVDlkVzJxX2NkWU9Gb1VGa3BlMExvQzYzYWNHUUtDVF9kMFhmbE81MW9zeVdDM1hXakhXYW84Z294bVhzOUdzV1pLWUxCeHZfWHVRR0VDSjdIZG13ZEl5WDFQMWh6RHo1VEFPOFl6QWlCSnVucFBnVERPRG9sRE1R?oc=5) — Google News Armwrestling FR · 2026-07-30
-  - Clubs organisés de tir de poignets | On vise à reconnaître le bras de fer comme un sport 98.5 Montréal
 - [CAN ALIZHAN MURATOV SHOCK VITALY LALETIN? | THE BIGGEST LEFT-HAND MATCH EVER?](https://www.youtube.com/watch?v=vN2_5zvIJ_0) — Voice of Armwrestling · 2026-07-28
   - 👕T-SHIRTS & TRAINING PLANS https://voaarmwrestling.com/ 
 📚 ARMWRESTLING ACADEMY COURSE https://armwrestling-academy.com 
@@ -112,3 +106,8 @@ https://www.instagram.com/alex_toproll
 Join this channel to get…
 - [Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE - BroadwayWorld](https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFRVV3BPN2VtOFlWVmFYaVhOQ3hORExjc3pxVTZmQl93OXZpcGtpV1QtNWM1emJyclBUa0Raa1cteFN6aHFZcVc1X3o2eHpXN1ZYTHJJQXJZQzA0MjRmN0R6SmM4S3FlR1ZDYWRpYzdXb3FrUFZ3X2o5dUpUbzFyUzc2UDhmdnRGU1Z1ZXR3NGFtZVdUeUNYM3l2MC1PQy0tMlhDOTRFZnhtdzNiWm52d09UOFdiS3VldnRLVG5GUTlheXYt?oc=5) — Google News Arm Wrestling · 2026-07-27
   - Mary Beth Barone Challenges Mark Consuelos to Arm-Wrestling Match on LIVE BroadwayWorld
+
+## 📰 Actualités & Annonces
+
+- [NewsSource 8: The Late Edition - VOD - clipped version - WAGM](https://news.google.com/rss/articles/CBMijwFBVV95cUxOLS1UQVF3R0J0aGJDUHlhQVFkcy1wT2ZwZEhvMFh3NHlmTFVMUjhqWFVWekdtVjFqbVJYdTdpenZOYy1UVkZNRWFLaXNROEItS0NNM3BFZTd2eWdhdW5RSW1TZGs0LXJMT1drMU9CQUp6WU9pazhPckZRcWNRR1drTmJNQndIcVllVzlGLWpXMA?oc=5) — Google News Armwrestling EN · 2026-07-31
+  - NewsSource 8: The Late Edition - VOD - clipped version WAGM
