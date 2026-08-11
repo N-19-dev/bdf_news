@@ -11,11 +11,11 @@
 
 ## competitions
 
-- [Jue. 8/6 - En Español-World Series of Armwrestling Season 4 Finals (6/8/26) - Stream en vivo - espndeportes.espn.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnJ4NVhMME9iVXNXWXNDc0I4SUpSRXJFd0M1U3p6b0xHSmZNemFvMDdwU2VUemRiYThNSWpDUzkwcHozeXByTmVmSExMNzVabUdQUzRyWDc1V3c0MVJNT29MTDUxSGFVNkV2S21VdXJpQkJkU0FYMi1mWk9IdVMyMDJWcTI3RGhtVG1Ebw?oc=5) — Google News Armwrestling EN · 2026-08-07 · **52/100**
+- [Jue. 8/6 - En Español-World Series of Armwrestling Season 4 Finals (6/8/26) - Stream en vivo - ESPN Deportes](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnJ4NVhMME9iVXNXWXNDc0I4SUpSRXJFd0M1U3p6b0xHSmZNemFvMDdwU2VUemRiYThNSWpDUzkwcHozeXByTmVmSExMNzVabUdQUzRyWDc1V3c0MVJNT29MTDUxSGFVNkV2S21VdXJpQkJkU0FYMi1mWk9IdVMyMDJWcTI3RGhtVG1Ebw?oc=5) — Google News Armwrestling EN · 2026-08-07 · **52/100**
 
 ## france
 
-- [Programme sportif - Le Championnat d’Afrique de bras de fer avancé à mai 2027 - Moov.Mg](https://news.google.com/rss/articles/CBMirgFBVV95cUxQR05ndGNmWE9pd2d3WFBTdGtwWVpVazd4djZ3emNtMkdJRElhdm5ldjJabjBxbnpWS3VjaGhEWnlBWnVZb3ZLYVpLbDZQc2h3UUlGZzZySVp1Z2p0dC1ENFh0cnlJTWx4YWJTb0JMZGVWU3VrQmt4YkEwU204dlJZZGJmWUlHQ21OQkdTdkQ4blhMNUd1ektBMEZKV2pVU2xSZTBnWWg0bXJUX0U5aEE?oc=5) — Google News Armwrestling FR · 2026-08-05 · **56/100**
+- [Programme sportif - Le Championnat d’Afrique de bras de fer avancé à mai 2027 - moov.mg](https://news.google.com/rss/articles/CBMirgFBVV95cUxQR05ndGNmWE9pd2d3WFBTdGtwWVpVazd4djZ3emNtMkdJRElhdm5ldjJabjBxbnpWS3VjaGhEWnlBWnVZb3ZLYVpLbDZQc2h3UUlGZzZySVp1Z2p0dC1ENFh0cnlJTWx4YWJTb0JMZGVWU3VrQmt4YkEwU204dlJZZGJmWUlHQ21OQkdTdkQ4blhMNUd1ektBMEZKV2pVU2xSZTBnWWg0bXJUX0U5aEE?oc=5) — Google News Armwrestling FR · 2026-08-05 · **56/100**
 
 ## youtube_media
 
