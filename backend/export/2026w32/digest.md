@@ -12,14 +12,6 @@
   - Golden Arms set for World Armwrestling Championship in New Delhi 3News
 - [Krasimir Kostadinov vs Nugo Chikadze | EVW25 Full Match](https://www.youtube.com/watch?v=m-8JvmVGtLU) — East vs West Armwrestling · 2026-08-09
   - Official EVW website: https://evwsports.com/
-- [Nurdaulet Aidarkhan vs Adam Wawrzynski | EVW25 Full Match](https://www.youtube.com/watch?v=QkaX_DJmYYs) — East vs West Armwrestling · 2026-08-08
-  - Official EVW website: https://evwsports.com/
-- [Paul Linn vs Eldar Bubenko | EVW25 Full Match](https://www.youtube.com/watch?v=Q_QzX8tP-2U) — East vs West Armwrestling · 2026-08-08
-  - Official EVW website: https://evwsports.com/
-- [Irina Driaeva vs Gabriela Vasconcelos | EVW25 Full Match](https://www.youtube.com/watch?v=GBqB-TZd5jM) — East vs West Armwrestling · 2026-08-08
-  - Official EVW website: https://evwsports.com/
-- [Zurab Tavberidze vs Ryan Belanger | EVW25 Full Match](https://www.youtube.com/watch?v=ghzzAtPXKXw) — East vs West Armwrestling · 2026-08-08
-  - Official EVW website: https://evwsports.com/
 - [A few matches from the Beat The Champ @ McLarty Ford NLR mention this truck & get $500 off any deal](https://www.youtube.com/shorts/GF6jN1sTwpM) — Monster Michael Todd · 2026-08-08
 - [Back in canda](https://www.youtube.com/watch?v=z5y4GcC8z04) — Devon Larratt · 2026-08-08
   - Contact/bookings - https://nolimitsarmwrestling.com/contact-devon/
@@ -31,20 +23,7 @@ https://stake.armbet.net/
 
 signed merch
 https://www.radtkesports.com/?s=Devon+larratt&product_cat=0&post_ty…
-- [Artem Popov vs Vladislavs Krasovskis | EVW25 Full Match](https://www.youtube.com/watch?v=0mmm0qQa0SA) — East vs West Armwrestling · 2026-08-07
-  - Official EVW website: https://evwsports.com/
-- [Tim Tallmadge vs Vala Ichqiti | EVW25 Full Match](https://www.youtube.com/watch?v=vkhBHWm_-wQ) — East vs West Armwrestling · 2026-08-07
-  - Official EVW website: https://evwsports.com/
-- [Levan Vacated... Here's What Should Happen Next!](https://www.youtube.com/watch?v=yT7Qwdcr4qY) — Monster Michael Todd · 2026-08-07
-  - The armwrestling world changed overnight when Levan Saginashvili  vacated the Super Heavyweight World Title with East vs West Armwrestling Promotion. 
-
-That leaves a lot of unanswered questions.
-
-Who fights for the vacant title?
-Who earns t…
 - [Vitaly Laletin vs Alizhan Muratov match analyzing](https://www.youtube.com/watch?v=KMAzq1ssreE) — Engin Terzi (Enigma of Rage) · 2026-08-07
-- [Fourth event in year-long armwrestling series set for July 25 - Sudbury News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHo2ZGxhWDExYkpYQklVMmNDUi1qdzJwWGtoYi1fUjhmNU5Nd1VfU0otTGctM0s4Zkt2allwVUJuN0JzWDlMM0M1NEVOMmF1aWFRMHdESVdQb3M4WHV3WTdzNmlMV1Z0MlV4ZzVjWXBna2hpSl9haGd4cG03MlA2N01QVENjNEdCTFlUWkliOVBfUHpTY2dfLU9LY0ZwelNxUHlUTHlRNVo?oc=5) — Google News Armwrestling EN · 2026-08-06
-  - Fourth event in year-long armwrestling series set for July 25 Sudbury News
 - [Wine tasting at tsinandali estate](https://www.youtube.com/watch?v=Ymw2XIpeN4A) — Devon Larratt · 2026-08-05
   - https://www.instagram.com/tsinandaliestate?igsh=YTdzNDd6dzN4ZW91
 
@@ -87,7 +66,6 @@ Contact/bookings - https://nolimitsarmwrestling.com/cont..…
 - [What I Eat to Stay 180KG (397 lb) - The Georgian Hulk Diet](https://www.youtube.com/watch?v=MLrlS708aHc) — Levan Saginashvili · 2026-08-08
   - People expect a world champion to eat chicken and rice. I eat khinkali, mtsvadi, and lobiani. This is the Georgian diet that built the world's strongest arm — and I'm showing you everything.
 - [Day 17 Armwrestling Lifts #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/G9v11RJyY5E) — Monster Michael Todd · 2026-08-07
-- [Week 3 of 13 of programming #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/GBOTozjz3MU) — Monster Michael Todd · 2026-08-06
 
 ## 💪 Entraînement & Technique
 
@@ -103,10 +81,9 @@ Visit PR Lifestyle for all my merch
 https://prlifestyle.com
 
 Join this channel to get acces…
-- [Day 16 Side Pressure, Up Pressure, & Wrist Wrench #armwrestling #worldchampion #letsgo #phil413](https://www.youtube.com/shorts/2NJ06ff8vTQ) — Monster Michael Todd · 2026-08-06
 - [Photos de "Bras de fer" - TV-Programme.com](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FeV92aHVYOTk5dEJhc1d0bE1JMTduQzZvM1EzRXFVaDNvM3lhSVRpbm5ibFpKTHh4ZVF1WTQxOHJOM0hjNFFuOTJjWTJwMkxPdmRXZUd3bHloMXlEZnc?oc=5) — Google News Armwrestling FR · 2026-08-06
   - Photos de "Bras de fer" TV-Programme.com
-- [NNY Grip Reapers build momentum for arm wrestling in the North Country - The Daily Gazette](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbl9ZdlU0QXNrelNIMk5wTzFqMGYyeU8wREtkU1FQNlFIRmUxbThZaWo0al9EZUJTajAxM0UxWmJvRFpVRlpsUFJjamtEay10bGZrOWstYzJOU3hna25MZXVoaHF0M1BKdEhpc3RieU1mdmJkR01xN2tYT0FlXzlBSFZzdWI3clhacDhpZjNheGgyanFaTW9LRFFfVThSR0NHdUhHbnlIa0E1SDJNY0VMVDQ2bmtyQXp5LS16T3BEdkRFd0FQNk9qWEg0RHMtclVmRmFWSDB4Tzl6d0ZfT3BYZ3pFaHpxcXFYekJObmJGLWpvQjlqTUJfMTJOc2w?oc=5) — Google News Arm Wrestling · 2026-08-06
+- [NNY Grip Reapers build momentum for arm wrestling in the North Country - The Daily Gazette](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbl9ZdlU0QXNrelNIMk5wTzFqMGYyeU8wREtkU1FQNlFIRmUxbThZaWo0al9EZUJTajAxM0UxWmJvRFpVRlpsUFJjamtEay10bGZrOWstYzJOU3hna25MZXVoaHF0M1BKdEhpc3RieU1mdmJkR01xN2tYT0FlXzlBSFZzdWI3clhacDhpZjNheGgyanFaTW9LRFFfVThSR0NHdUhHbnlIa0E1SDJNY0VMVDQ2bmtyQXp5LS16T3BEdkRFd0FQNk9qWEg0RHMtclVmRmFWSDB4Tzl6d0ZfT3BYZ3pFaHpxcXFYekJObmJGLWpvQjlqTUJfMTJOc2w?oc=5) — Google News Armwrestling EN · 2026-08-06
   - NNY Grip Reapers build momentum for arm wrestling in the North Country The Daily Gazette
 - [Programme sportif - Le Championnat d’Afrique de bras de fer avancé à mai 2027 - Moov.Mg](https://news.google.com/rss/articles/CBMirgFBVV95cUxQR05ndGNmWE9pd2d3WFBTdGtwWVpVazd4djZ3emNtMkdJRElhdm5ldjJabjBxbnpWS3VjaGhEWnlBWnVZb3ZLYVpLbDZQc2h3UUlGZzZySVp1Z2p0dC1ENFh0cnlJTWx4YWJTb0JMZGVWU3VrQmt4YkEwU204dlJZZGJmWUlHQ21OQkdTdkQ4blhMNUd1ektBMEZKV2pVU2xSZTBnWWg0bXJUX0U5aEE?oc=5) — Google News Armwrestling FR · 2026-08-05
   - Programme sportif - Le Championnat d’Afrique de bras de fer avancé à mai 2027 Moov.Mg
@@ -134,6 +111,8 @@ https://prlifestyle.com
 
 Join this channel to get access to perks:
 https://www.youtube.com/channel/UCeU05pwtEAreeF81saV…
+- [The World Series of Armwrestling Season 4 Finals (8/8/26) - Live Stream - ESPN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NdUlFU1NOQUZIc0tPZTVMd2oxY0hLc0RaaGVyVnVBYUJHRktyZ0R1V3ZDT2Q0VEJaemxuOUtnZXRrRDBRR0I0RjlTZlhkVkNHbGxhMnRxLXlIUQ?oc=5) — Google News Armwrestling EN · 2026-08-07
+  - The World Series of Armwrestling Season 4 Finals (8/8/26) - Live Stream ESPN
 - [Jue. 8/6 - En Español-World Series of Armwrestling Season 4 Finals (6/8/26) - Stream en vivo - ESPN Deportes](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnJ4NVhMME9iVXNXWXNDc0I4SUpSRXJFd0M1U3p6b0xHSmZNemFvMDdwU2VUemRiYThNSWpDUzkwcHozeXByTmVmSExMNzVabUdQUzRyWDc1V3c0MVJNT29MTDUxSGFVNkV2S21VdXJpQkJkU0FYMi1mWk9IdVMyMDJWcTI3RGhtVG1Ebw?oc=5) — Google News Armwrestling EN · 2026-08-07
   - Jue. 8/6 - En Español-World Series of Armwrestling Season 4 Finals (6/8/26) - Stream en vivo ESPN Deportes
 - [SCHOOLBOY VS CYPLENKOV BICEP CURL CHALLENGE 2026](https://www.youtube.com/watch?v=cKW0obM4DPM) — ARMWRESTLING TV (Schoolboy) · 2026-08-06
@@ -143,10 +122,5 @@ https://www.youtube.com/AlexToproll
 https://www.instagram.com/alex_toproll
 Join this channel to get access to perks:
 ht…
-
-## 📰 Actualités & Annonces
-
-- [It’s ‘One Arm Against Another’ for This Budding San Francisco Community - AsAmNews](https://news.google.com/rss/articles/CBMigAFBVV95cUxOeHNSWkhnblRqV0dSZXpYT2RNWk1ZQzFfaXJDMGpfbDRISjVqNWVRTzY4eTV2MVgtRU9LREV3MkQwcGJhYWxjU2lfNGJ1RnhJX19wMGVmZy1KY05YeEMtcm1RRjJvdVgwSF9qOF9tS0o3cFJ5bmpLa0tEbjJuUVpBMg?oc=5) — Google News Arm Wrestling · 2026-08-09
-  - It’s ‘One Arm Against Another’ for This Budding San Francisco Community AsAmNews
-- [FIFA-UEFA : le bras de fer se poursuit malgré les excuses d'Infantino - Medi1 News](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QVWhlVXJiaW42WUpQQjRzOG9oa1dEQTdycHlNU3FYcU5GS0VSd3FiSE9kUGIxQWtBay1NeVFGWlVPSElTdUZnRVkzcWVDaUdFZkpqak9SQnNhZTBy?oc=5) — Google News Armwrestling FR · 2026-08-06
-  - FIFA-UEFA : le bras de fer se poursuit malgré les excuses d'Infantino Medi1 News
+- [LEONIDAS ARKONA VS FILIP LARSSON | FULL SPARRING - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NTk9WTkNITUI4SF92TnBSdVFycGkzdWVPUzZ5a0NCQWNJWmhiSUZxd0o4NXRxTGd1bUs2ZlNiQmUyMmlpUHU0ckNxeTNGYk94WmVNMDhhVXNaYkl0?oc=5) — Google News Devon Larratt · 2026-08-04
+  - LEONIDAS ARKONA VS FILIP LARSSON | FULL SPARRING YouTube
